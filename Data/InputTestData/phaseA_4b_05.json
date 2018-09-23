@@ -1,0 +1,489 @@
+{
+  "questions": [
+    {
+      "body": "Which antibody is implicated in the Bickerstaff's brainstem encephalitis?", 
+      "type": "factoid", 
+      "id": "56c1f039ef6e394741000052"
+    }, 
+    {
+      "body": "What is the function of the AtxA pleiotropic regulator?", 
+      "type": "summary", 
+      "id": "5710a51bcf1c325851000029"
+    }, 
+    {
+      "body": "Can cffDNA be used for non-invasive testing?", 
+      "type": "yesno", 
+      "id": "57135fae1174fb1755000004"
+    }, 
+    {
+      "body": "Which is the underlying mechanism for exon skipping used to treat Duchenne muscular dystrophy?", 
+      "type": "summary", 
+      "id": "5713394af9287de436000001"
+    }, 
+    {
+      "body": "Are pseudogenes enriched with housekeeping protein families?", 
+      "type": "yesno", 
+      "id": "5709f212cf1c325851000020"
+    }, 
+    {
+      "body": "Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?", 
+      "type": "factoid", 
+      "id": "56c1f03bef6e394741000053"
+    }, 
+    {
+      "body": "Which metabolite activates AtxA?", 
+      "type": "factoid", 
+      "id": "5710a592cf1c32585100002a"
+    }, 
+    {
+      "body": "How can the fetal Rhesus be determined with non-invasive testing?", 
+      "type": "factoid", 
+      "id": "571366ba1174fb1755000005"
+    }, 
+    {
+      "body": "Is muscle regeneration possible in mdx mice with the use of induced mesenchymal stem cells?", 
+      "type": "yesno", 
+      "id": "57134d511174fb1755000002"
+    }, 
+    {
+      "body": "Can the apoptosis regulator BAX trigger the release of cytochrome c?", 
+      "type": "yesno", 
+      "id": "5717bacacb4ef8864c00000d"
+    }, 
+    {
+      "body": "Does TRIM37 gene mutation causes Mulibrey nanism?", 
+      "type": "yesno", 
+      "id": "56c1f03cef6e394741000054"
+    }, 
+    {
+      "body": "Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis?", 
+      "type": "yesno", 
+      "id": "5710a650cf1c32585100002b"
+    }, 
+    {
+      "body": "How early during pregnancy does non-invasive cffDNA testing allow sex determination of the fetus?", 
+      "type": "factoid", 
+      "id": "57136a7e1174fb1755000006"
+    }, 
+    {
+      "body": "What is the effect of amitriptyline in the mdx mouse model of Duchenne muscular dystrophy?", 
+      "type": "summary", 
+      "id": "5713506d1174fb1755000003"
+    }, 
+    {
+      "body": "List inhibtors targeting the mitochondrial permeability transition pore.", 
+      "type": "list", 
+      "id": "5717cdd2070aa3d072000001"
+    }, 
+    {
+      "body": "Which antibodies cause Riedel thyroiditis?", 
+      "type": "factoid", 
+      "id": "56c1f040ef6e394741000055"
+    }, 
+    {
+      "body": "What is the suggested therapy for Mycobacterium avium infection?", 
+      "type": "factoid", 
+      "id": "5710ade4cf1c32585100002c"
+    }, 
+    {
+      "body": "Can fetal aneuploidy be detected with non-invasive prenatal testing?", 
+      "type": "yesno", 
+      "id": "57136cbf1174fb1755000007"
+    }, 
+    {
+      "body": "Which is the protein implicated in Spinocerebellar ataxia type 3?", 
+      "type": "factoid", 
+      "id": "57138eb21174fb175500000a"
+    }, 
+    {
+      "body": "Which is the cellular localization of the protein Opa1?", 
+      "type": "factoid", 
+      "id": "5717d64f29809bbe7a000001"
+    }, 
+    {
+      "body": "Is there an association between FGFR3 mutation and plagiocephaly?", 
+      "type": "yesno", 
+      "id": "56c1f042ef6e394741000056"
+    }, 
+    {
+      "body": "Does replication timing affect the rate of somatic mutations?", 
+      "type": "yesno", 
+      "id": "5710dd61cf1c32585100002e"
+    }, 
+    {
+      "body": "Can bioprinting use human cells?", 
+      "type": "yesno", 
+      "id": "571394141174fb175500000b"
+    }, 
+    {
+      "body": "Which is the treatment strategy followed in spinocerebellar ataxia type 3 for CAG removal?", 
+      "type": "summary", 
+      "id": "571394701174fb175500000c"
+    }, 
+    {
+      "body": "What is the functional role of the protein Drp1?", 
+      "type": "factoid", 
+      "id": "5717dbfe7de986d80d000001"
+    }, 
+    {
+      "body": "Which receptors are bound by Tasimelteon?", 
+      "type": "list", 
+      "id": "56c1f043ef6e394741000057"
+    }, 
+    {
+      "body": "In which yeast chromosome does the rDNA cluster reside?", 
+      "type": "factoid", 
+      "id": "5710e131a5ed216440000001"
+    }, 
+    {
+      "body": "Could bioprinting be used in regenerative medicine against bone disease?", 
+      "type": "yesno", 
+      "id": "5713968e1174fb175500000d"
+    }, 
+    {
+      "body": "Which disease phenotypes are associated to PRPS1 mutations?", 
+      "type": "list", 
+      "id": "5713b0a51174fb175500000e"
+    }, 
+    {
+      "body": "What is known about diseases associated with mutations in the CHCHD10 gene?", 
+      "type": "summary", 
+      "id": "5717e0717de986d80d000002"
+    }, 
+    {
+      "body": "Selexipag is used for which disease?", 
+      "type": "factoid", 
+      "id": "56c1f045ef6e394741000058"
+    }, 
+    {
+      "body": "How does Rif1 regulate DNA replication?", 
+      "type": "summary", 
+      "id": "5710ed19a5ed216440000003"
+    }, 
+    {
+      "body": "For the constructions of which organs has 3D printing been tested?", 
+      "type": "list", 
+      "id": "5713bf261174fb1755000011"
+    }, 
+    {
+      "body": "Which phenotypes are associated with heterozygous mutations of the BSCL2 gene?", 
+      "type": "list", 
+      "id": "5713b29f1174fb175500000f"
+    }, 
+    {
+      "body": "Is the SDHAF2 gene  encoding a protein necessary for flavination of SDHA?", 
+      "type": "yesno", 
+      "id": "5717fb557de986d80d000009"
+    }, 
+    {
+      "body": "How does Hst5 (histatin 5) affect infections by Candida glabrata?", 
+      "type": "summary", 
+      "id": "5710eec5a5ed216440000004"
+    }, 
+    {
+      "body": "Is the SDHAF2 gene encoding a protein necessary for flavination of SDHA?", 
+      "type": "yesno", 
+      "id": "571e06447de986d80d000016"
+    }, 
+    {
+      "body": "Which genes are associated with autosomal dominant Charcot-Marie-Tooth?", 
+      "type": "list", 
+      "id": "5713bc991174fb1755000010"
+    }, 
+    {
+      "body": "List inflammatory caspase proteins?", 
+      "type": "list", 
+      "id": "571cd9537de986d80d00000e"
+    }, 
+    {
+      "body": "Which antibiotics target peptidoglycan biosynthesis?", 
+      "type": "list", 
+      "id": "571529efcb4ef8864c000001"
+    }, 
+    {
+      "body": "Which protein does empagliflozin inhibit?", 
+      "type": "factoid", 
+      "id": "571e12097de986d80d000017"
+    }, 
+    {
+      "body": "Is glycyl-tRNA synthetase gene involved in the development of Charcot-Marie-Tooth disease?", 
+      "type": "yesno", 
+      "id": "5713c4a11174fb1755000013"
+    }, 
+    {
+      "body": "Which bacteria caused plague?", 
+      "type": "factoid", 
+      "id": "571cdd227de986d80d00000f"
+    }, 
+    {
+      "body": "Why can't humans synthesize Neu5Gc (N-Glycolylneuraminic acid)?", 
+      "type": "summary", 
+      "id": "57152ebbcb4ef8864c000002"
+    }, 
+    {
+      "body": "For which type of diabetes can empagliflozin be used?", 
+      "type": "factoid", 
+      "id": "571e14fbbb137a4b0c000001"
+    }, 
+    {
+      "body": "Have C12orf65 mutations been associated with axonal neuropathy and optic atrophy?", 
+      "type": "yesno", 
+      "id": "5713c7dd1174fb1755000014"
+    }, 
+    {
+      "body": "In which cells are gasdermins expressed?", 
+      "type": "factoid", 
+      "id": "571ce13f7de986d80d000011"
+    }, 
+    {
+      "body": "Which are the most common methods for ctDNA (circulating tumour DNA) detection?", 
+      "type": "list", 
+      "id": "571653aecb4ef8864c000005"
+    }, 
+    {
+      "body": "When was empagliflozin FDA approved?", 
+      "type": "factoid", 
+      "id": "571e172bbb137a4b0c000002"
+    }, 
+    {
+      "body": "Which peripheral neuropathy has been associated with NDRG1 mutations?", 
+      "type": "factoid", 
+      "id": "5713c8d71174fb1755000015"
+    }, 
+    {
+      "body": "What is the function of 6SRNA in bacteria?", 
+      "type": "summary", 
+      "id": "57169662cb4ef8864c000008"
+    }, 
+    {
+      "body": "List sodium glucose co-transporter-2 (SGLT2) inhibitors that have been FDA approved for type 2 diabetes mellitus treatment.", 
+      "type": "list", 
+      "id": "571e189dbb137a4b0c000003"
+    }, 
+    {
+      "body": "Does fibronectin constitute a serum biomarker for Duchenne muscular dystrophy?", 
+      "type": "yesno", 
+      "id": "5715c16dcb4ef8864c000004"
+    }, 
+    {
+      "body": "Can RNAPolII function as an RNA-dependent RNA-polymerase?", 
+      "type": "yesno", 
+      "id": "571696d9cb4ef8864c000009"
+    }, 
+    {
+      "body": "List side effects of SGLT2 inhibitors?", 
+      "type": "list", 
+      "id": "571e1e11bb137a4b0c000004"
+    }, 
+    {
+      "body": "Which is the mechanism used for synthesis of a highly functional N-truncated dystrophin isoform that attenuates dystrophinopathy?", 
+      "type": "summary", 
+      "id": "57167625cb4ef8864c000006"
+    }, 
+    {
+      "body": "What is the mechanism of action of decitabine?", 
+      "type": "summary", 
+      "id": "57169a49cb4ef8864c00000a"
+    }, 
+    {
+      "body": "What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?", 
+      "type": "factoid", 
+      "id": "571e275dbb137a4b0c000005"
+    }, 
+    {
+      "body": "Which are the main functions of G3BP1 and G3BP2 proteins?", 
+      "type": "list", 
+      "id": "5717ab7ccb4ef8864c00000c"
+    }, 
+    {
+      "body": "Which are the human glutamate transporters?", 
+      "type": "list", 
+      "id": "57169b63cb4ef8864c00000b"
+    }, 
+    {
+      "body": "How is OCT3 associated with serotonin?", 
+      "type": "factoid", 
+      "id": "571e2beabb137a4b0c000006"
+    }, 
+    {
+      "body": "Which gene is involved in the development of Barth syndrome?", 
+      "type": "factoid", 
+      "id": "5717d86029809bbe7a000003"
+    }, 
+    {
+      "body": "What is the function of Neu5Gc (N-Glycolylneuraminic acid)?", 
+      "type": "factoid", 
+      "id": "5719f5b27de986d80d00000c"
+    }, 
+    {
+      "body": "Is SLC22A3 expressed in the brain?", 
+      "type": "yesno", 
+      "id": "571e3d42bb137a4b0c000007"
+    }, 
+    {
+      "body": "Is Alpers disease inherited in an autosomal recessive mode?", 
+      "type": "yesno", 
+      "id": "5718a69e7de986d80d00000a"
+    }, 
+    {
+      "body": "What distinguishes lantibiotics from antibiotics?", 
+      "type": "factoid", 
+      "id": "5719f5c67de986d80d00000d"
+    }, 
+    {
+      "body": "Are OATP1B1 and OATP1B3 associated with bilirubin transport?", 
+      "type": "yesno", 
+      "id": "571e3e2abb137a4b0c000008"
+    }, 
+    {
+      "body": "Which currently known mitochondrial diseases have been attributed to POLG mutations?", 
+      "type": "list", 
+      "id": "5718bbb37de986d80d00000b"
+    }, 
+    {
+      "body": "Which syndrome is associated with OATP1B1 and OATP1B3 deficiency?", 
+      "type": "factoid", 
+      "id": "571e40a8bb137a4b0c000009"
+    }, 
+    {
+      "body": "Which genes have been associated with Cerebral Cavernous Malformation?", 
+      "type": "list", 
+      "id": "571f2b5bbb137a4b0c000010"
+    }, 
+    {
+      "body": "What are the symptoms of Rotor syndrome?", 
+      "type": "list", 
+      "id": "571e417bbb137a4b0c00000a"
+    }, 
+    {
+      "body": "What is Cerebral Cavernous Malformation?", 
+      "type": "summary", 
+      "id": "571f2e8e0fd6f91b68000001"
+    }, 
+    {
+      "body": "What is the cause of episodic ataxia type 6?", 
+      "type": "factoid", 
+      "id": "571e4293bb137a4b0c00000b"
+    }, 
+    {
+      "body": "What is Sotos syndrome?", 
+      "type": "summary", 
+      "id": "571f30c40fd6f91b68000002"
+    }, 
+    {
+      "body": "Which gene has been associated with thyroid dyshormonogenesis?", 
+      "type": "factoid", 
+      "id": "571e4523bb137a4b0c00000c"
+    }, 
+    {
+      "body": "Which gene is responsible for the development of Sotos syndrome?", 
+      "type": "factoid", 
+      "id": "571f33bd0fd6f91b68000003"
+    }, 
+    {
+      "body": "What are the characteristics of Christianson syndrome?", 
+      "type": "summary", 
+      "id": "571e469bbb137a4b0c00000d"
+    }, 
+    {
+      "body": "Have 5q35 microdeletions been implicated in Sotos syndrome development?", 
+      "type": "yesno", 
+      "id": "571f33f10fd6f91b68000004"
+    }, 
+    {
+      "body": "Is Weaver syndrome similar to Sotos?", 
+      "type": "yesno", 
+      "id": "571f34ac0fd6f91b68000005"
+    }, 
+    {
+      "body": "What are the skeletal muscle satellite cells?", 
+      "type": "summary", 
+      "id": "571f356f0fd6f91b68000006"
+    }, 
+    {
+      "body": "Which are the common symptoms of Cushing's syndrome?", 
+      "type": "list", 
+      "id": "571f3b320fd6f91b68000007"
+    }, 
+    {
+      "body": "Is the Miller-Fisher syndrome considered to be a variant of Guillain-Barr\u00e9?", 
+      "type": "yesno", 
+      "id": "571f59cd0fd6f91b68000008"
+    }, 
+    {
+      "body": "Which protein is found to be mutated in Friedreich's ataxia?", 
+      "type": "factoid", 
+      "id": "571f5c150fd6f91b68000009"
+    }, 
+    {
+      "body": "For which diseases members of the 2-aminobenzamide class of histone deacetylase (HDAC) inhibitors show promise as therapeutics?", 
+      "type": "list", 
+      "id": "571f5d3e0fd6f91b6800000a"
+    }, 
+    {
+      "body": "Which enzyme is deficient in Gaucher's disease?", 
+      "type": "factoid", 
+      "id": "571f5e740fd6f91b6800000b"
+    }, 
+    {
+      "body": "Which enzyme deficiency can cause GM1 gangliosidoses?", 
+      "type": "factoid", 
+      "id": "571f609c0fd6f91b6800000c"
+    }, 
+    {
+      "body": "Which gene is involved in Giant Axonal Neuropathy?", 
+      "type": "factoid", 
+      "id": "572096c90fd6f91b6800000e"
+    }, 
+    {
+      "body": "Is acid alpha-glucosidase the enzyme that causes Pompe disease when mutant?", 
+      "type": "yesno", 
+      "id": "572099930fd6f91b6800000f"
+    }, 
+    {
+      "body": "Which could be some of the possible causes of hypersomnia?", 
+      "type": "list", 
+      "id": "5720a8da0fd6f91b68000010"
+    }, 
+    {
+      "body": "Which inherited disorder is known to be caused by mutations in the NEMO gene?", 
+      "type": "factoid", 
+      "id": "5721f4b30fd6f91b68000011"
+    }, 
+    {
+      "body": "Are seizures among the neurological symptoms of incontinentia pigmenti?", 
+      "type": "yesno", 
+      "id": "5721f6f90fd6f91b68000012"
+    }, 
+    {
+      "body": "Which is the most common genetic lesion among patients with Joubert Syndrome and a cerebello-oculo-renal phenotype?", 
+      "type": "summary", 
+      "id": "5722027a0fd6f91b68000014"
+    }, 
+    {
+      "body": "Which are the most common symptoms in Lambert-Eaton Myasthenic Syndrome?", 
+      "type": "list", 
+      "id": "57220e400fd6f91b68000015"
+    }, 
+    {
+      "body": "Can vitamin B1 deficiency cause encephalopathy?", 
+      "type": "yesno", 
+      "id": "572211540fd6f91b68000016"
+    }, 
+    {
+      "body": "Which intraflagellar transport (IFT) motor protein has been linked to human skeletal ciliopathies?", 
+      "type": "factoid", 
+      "id": "57279ef20fd6f91b68000018"
+    }, 
+    {
+      "body": "Which gene has been found to be mutant in Lesch-Nyhan Disease patients?", 
+      "type": "factoid", 
+      "id": "5727ab040fd6f91b68000019"
+    }, 
+    {
+      "body": "Is autism one of the characteristics of Moebius syndrome?", 
+      "type": "yesno", 
+      "id": "5727b6410fd6f91b6800001b"
+    }
+  ]
+}

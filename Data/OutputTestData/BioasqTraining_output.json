@@ -1,0 +1,2581 @@
+{
+  "questions": [
+    {
+      "id": "55031181e9bde69634000014",
+      "ideal_answer": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes. BACKGROUND: RET is the major gene associated to Hirschsprung disease (HSCR) with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology. In the etiology of Hirschsprung disease various genes play a role; these are: RET, EDNRB, GDNF, EDN3 and SOX10, NTN3, ECE1, Mutations in these genes may result in dominant, recessive or multifactorial patterns of inheritance. Furthermore, mutations in the RET gene are responsible for approximately half of the familial and some sporadic cases, strongly suggesting, on the one hand, the importance of non-coding variations and, on the other hand, that additional genes involved in the development of the enteric nervous system still await their discovery. The non-Mendelian inheritance of sporadic non-syndromic Hirschsprung\u0027s disease proved to be complex; involvement of multiple loci was demonstrated in a multiplicative model. Therefore, HSCR has become a model for a complex oligo-/polygenic disorder in which the relationship between different genes creating a non-mendelian inheritance pattern still remains to be elucidated. "
+    },
+    {
+      "exact_answer": [
+        [
+          "beta cellulin "
+        ],
+        [
+          "amphiregulin "
+        ],
+        [
+          "tgf "
+        ],
+        [
+          "epiregulin "
+        ],
+        [
+          "hb "
+        ],
+        [
+          "ligands "
+        ],
+        [
+          "betacellulin "
+        ],
+        [
+          "transforming growth factor alpha "
+        ],
+        [
+          "epigen "
+        ],
+        [
+          "transforming growth factor "
+        ],
+        [
+          "ereg "
+        ],
+        [
+          "epidermal growth factor "
+        ],
+        [
+          "heparin binding egf like growth factor "
+        ],
+        [
+          "heparin binding epidermal growth factor "
+        ],
+        [
+          "neuregulin beta "
+        ],
+        [
+          "ar "
+        ],
+        [
+          "epidermal growth factor receptor ligand "
+        ],
+        [
+          "pepd "
+        ],
+        [
+          "epg "
+        ],
+        [
+          "fdc "
+        ],
+        [
+          "histamine releases "
+        ],
+        [
+          "heparin binding egf "
+        ],
+        [
+          "tumor microenvironment "
+        ],
+        [
+          "triple negative breast tumors "
+        ],
+        [
+          "tumor subtype "
+        ],
+        [
+          "epidermal growth factor receptor "
+        ],
+        [
+          "elisa "
+        ],
+        [
+          "activate "
+        ],
+        [
+          "airway "
+        ],
+        [
+          "coupling "
+        ],
+        [
+          "bind "
+        ],
+        [
+          "peptides "
+        ],
+        [
+          "ligand "
+        ],
+        [
+          "mammalian "
+        ],
+        [
+          "affinity "
+        ],
+        [
+          "epithelial cells "
+        ],
+        [
+          "class "
+        ],
+        [
+          "directly "
+        ],
+        [
+          "rna "
+        ],
+        [
+          "cell proliferation "
+        ],
+        [
+          "dna synthesis "
+        ],
+        [
+          "assessed "
+        ],
+        [
+          "article "
+        ],
+        [
+          "family "
+        ],
+        [
+          "greater "
+        ],
+        [
+          "plasma "
+        ],
+        [
+          "highly "
+        ],
+        [
+          "level "
+        ],
+        [
+          "including "
+        ],
+        [
+          "based "
+        ],
+        [
+          "patients "
+        ]
+      ],
+      "id": "55046d5ff8aee20f27000007",
+      "ideal_answer": "EGFR ligands epidermal growth factor (EGF), amphiregulin (AREG) and transforming growth factor alpha (TGFα). Among EGFR ligands, heparin-binding EGF-like growth factor, TGF-α and Betacellulin (BTC) are produced in the tumor microenvironment of FDC-S at RNA level. the 7 known EGFR ligands (EGF, betacellulin, epiregulin, heparin-binding EGF, transforming growth factor-α [TGF-α], amphiregulin, and epigen). EGFR ligands based on the two affinity classes: EGF\u003eHB-EGF\u003eTGF-α\u003eBTC\u003eEPR\u003eEPG\u003eAR. mammalian EGFR ligands including EGF, TGF-α (TGFα), amphiregulin (AREG), heparin-binding EGF-like growth factor (HB-EGF), betacellulin, epiregulin, and epigen. In this article, however, we demonstrate that PEPD directly binds to and activates epidermal growth factor receptor (EGFR),. . Plasma amphiregulin (AR), epidermal growth factor (EGF), transforming growth factor-α, and heparin binding-EGF were assessed by ELISA in 45 chemorefractory mCRC patients. Here, we demonstrate that histamine releases 2 EGFR ligands, amphiregulin and heparin-binding epidermal growth factor-like growth factor (HB-EGF), from airway epithelial cells. oluble amphiregulin (AR), transforming growth factor alpha (TGFα), neuregulin 2 beta, and epigen stimulate greater EGFR coupling to cell proliferation and DNA synthesis than do EGF, betacellulin, heparin-binding EGF-like growth factor, and epiregulin. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54e25eaaae9738404b000017",
+      "ideal_answer": "Using expression analysis, we identify three genes that are transcriptionally regulated by HLH-2: the protocadherin cdh-3, and two genes encoding secreted extracellular matrix proteins, mig-6/papilin and him-4/hemicentin. We found that mig-6 encodes long (MIG-6L) and short (MIG-6S) isoforms of the extracellular matrix protein papilin, each required for distinct aspects of DTC migration. apilins are homologous, secreted extracellular matrix proteins which share a common order of protein domains. The TSR superfamily is a diverse family of extracellular matrix and transmembrane proteins, many of which have functions related to regulating matrix organization, cell-cell interactions and cell guidance. F-spondin, UNC-5, ADAMTS, papilin, and TRAP) where specific functions are assigned to the TSR domains. Collagen IV, laminin, glutactin, papilin, and other extracellular matrix proteins were made primarily by hemocytes and were secreted into the medium. A sulfated glycoprotein was isolated from the culture media of Drosophila Kc cells and named papilin. Both MIG-6 isoforms have a predicted N-terminal papilin cassette. This review samples some of the contemporary literature regarding TSR superfamily members (e.g. Papilins are extracellular matrix proteins. Papilin is an extracellular matrix glycoprotein. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "535d292a9a4572de6f000003",
+      "ideal_answer": "Our analyses indicate that lncRNAs are generated through pathways similar to that of protein-coding genes, with similar histone-modification profiles, splicing signals, and exon/intron lengths. Our synthesis of recent studies suggests that neither size, presence of a poly-A tail, splicing, direction of transcription, nor strand specificity are of importance to lncRNA function. We found 170 long intervening ncRNAs (lincRNAs), which had single- or multiexonic structures that did not overlap protein-coding transcripts, and about sixty antisense lncRNAs (ancRNAs), which were complementary to protein-coding transcripts. Owing to similar alternative splicing pattern to mRNAs, the concept of lncRNA genes was put forward to help systematic understanding of lncRNAs. For alternative exons and long noncoding RNAs, splicing tends to occur later, and the latter might remain unspliced in some cases. We introduce an approach to predict spliced lncRNAs in vertebrate genomes combining comparative genomics and machine learning. bosome-mapping data to identify lncRNAs of Caenorhabditis elegans. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "55262a9787ecba3764000009",
+      "ideal_answer": "e RANKL/OPG ratio secreted by osteoblasts increased and RANK expression by osteoclasts increased, leading to increased osteoclastogenesis. We isolated human fibroblasts from RA, pyrophosphate arthropathy (PPA) and osteoarthritis (OA) patients and analyzed their RANKL/OPG expression profile and the capacity of their secreted factors to induce osteoclastogenesis. Activated human T cells express alternative mRNA transcripts encoding a secreted form of RANKL. Receptor activator of nuclear factor κB ligand (RANKL) and osteoprotegerin (OPG) are cytokines predominantly secreted by osteoblasts and play a central role in differentiation and functional activation of osteoclasts. Osteoprotegerin (OPG) and receptor activator of nuclear factor κB ligand (RANKL) are cytokines predominantly secreted by osteoblasts and play critical roles in the differentiation and function of osteoclasts. Osteoprotegerin (OPG) is an essential secreted protein in bone turnover due to its role as a decoy receptor for the Receptor Activator of Nuclear Factor-kB ligand (RANKL) in the osteoclasts, thus inhibiting their differentiation. Although B. abortus-activated T cells actively secreted the pro-osteoclastogenic cytokines RANKL and IL-17, osteoclastogenesis depended on IL-17, because osteoclast generation induced by Brucella-activated T cells was completely abrogated when these cells were cultured with BMMs from IL-17 receptor knockout mice. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "51406e6223fec90375000009",
+      "ideal_answer": ""
+    },
+    {
+      "exact_answer": [
+        [
+          "mct8 "
+        ],
+        [
+          "membrane transporter "
+        ],
+        [
+          "mutations "
+        ],
+        [
+          "deiodinase "
+        ],
+        [
+          "th cell "
+        ]
+      ],
+      "id": "52f8b2902059c6d71c000053",
+      "ideal_answer": "One of them, caused by mutations in the TH cell-membrane transporter MCT8, produces severe psychomotor defects. One, producing severe psychomotor defects in \u003e 100 males from 26 families, is caused by mutations in the cell-membrane transporter of TH, MCT8;. Three syndromes, in which resistance to hormone action is respectively due to mutations in the gene encoding for thyroid hormone receptor TRβ, impaired T4 and T3 transport, and impaired conversion of T4 to T3 mediated by deiodinases. Hemizygous MCT8 mutations in males cause severe psychomotor retardation, known as the Allan-Herndon-Dudley syndrome (AHDS), and abnormal serum TH levels. AHDS thus represents a type of TH resistance caused by a defect in cellular TH transport. "
+    },
+    {
+      "exact_answer": [
+        [
+          "mirnas "
+        ],
+        [
+          "7a "
+        ],
+        [
+          "e cadherin "
+        ],
+        [
+          "serum "
+        ],
+        [
+          "paclitaxel "
+        ],
+        [
+          "ovarian cancer "
+        ],
+        [
+          "biomarker "
+        ],
+        [
+          "26a "
+        ],
+        [
+          "novel "
+        ],
+        [
+          "micro rna "
+        ],
+        [
+          "5p "
+        ],
+        [
+          "epithelial ovarian cancer "
+        ],
+        [
+          "osc "
+        ],
+        [
+          "survival "
+        ],
+        [
+          "mir 145 "
+        ],
+        [
+          "biomarkers "
+        ],
+        [
+          "target "
+        ],
+        [
+          "7i "
+        ],
+        [
+          "mir 21 "
+        ],
+        [
+          "result "
+        ],
+        [
+          "lanugo "
+        ],
+        [
+          "expression "
+        ],
+        [
+          "plk 1 "
+        ],
+        [
+          "up regulation "
+        ],
+        [
+          "chemotherapy "
+        ],
+        [
+          "ovarian "
+        ],
+        [
+          "human "
+        ],
+        [
+          "patients "
+        ],
+        [
+          "potential "
+        ],
+        [
+          "levels "
+        ],
+        [
+          "chemotherapeutic agent "
+        ],
+        [
+          "prognosis "
+        ],
+        [
+          "microarray "
+        ],
+        [
+          "pcr "
+        ],
+        [
+          "therapeutic "
+        ],
+        [
+          "figo stage "
+        ],
+        [
+          "figo "
+        ],
+        [
+          "benign ovarian cysts "
+        ],
+        [
+          "marker "
+        ],
+        [
+          "selection "
+        ],
+        [
+          "advanced "
+        ],
+        [
+          "early detection "
+        ],
+        [
+          "targeting "
+        ],
+        [
+          "epithelial "
+        ],
+        [
+          "therapeutic use "
+        ],
+        [
+          "management "
+        ],
+        [
+          "predictor "
+        ],
+        [
+          "regulated "
+        ],
+        [
+          "tumor progression "
+        ],
+        [
+          "poor "
+        ],
+        [
+          "low "
+        ],
+        [
+          "independent "
+        ],
+        [
+          "study "
+        ],
+        [
+          "considered "
+        ],
+        [
+          "advanced stage "
+        ],
+        [
+          "5 "
+        ],
+        [
+          "correlated "
+        ],
+        [
+          "stage i "
+        ],
+        [
+          "family "
+        ],
+        [
+          "findings "
+        ],
+        [
+          "consistent with "
+        ],
+        [
+          "micro rna 200a "
+        ],
+        [
+          "micro rna 200b "
+        ],
+        [
+          "micro rna 200c "
+        ],
+        [
+          "treatment "
+        ],
+        [
+          "reported "
+        ],
+        [
+          "plk1 "
+        ],
+        [
+          "compared "
+        ],
+        [
+          "3p "
+        ],
+        [
+          "associated with "
+        ],
+        [
+          "overexpress "
+        ],
+        [
+          "micro rna 203 "
+        ],
+        [
+          "micro rna 182 "
+        ],
+        [
+          "kaplan meier analysis "
+        ],
+        [
+          "deregulation "
+        ],
+        [
+          "serous ovarian cancer "
+        ],
+        [
+          "oncogenes "
+        ],
+        [
+          "unfavorable "
+        ],
+        [
+          "shortened "
+        ],
+        [
+          "platinum based "
+        ],
+        [
+          "mirnas 21 "
+        ],
+        [
+          "biphasic pattern "
+        ],
+        [
+          "carcinogenesis "
+        ],
+        [
+          "promise "
+        ],
+        [
+          "select "
+        ],
+        [
+          "relapse "
+        ],
+        [
+          "multivariate analysis "
+        ],
+        [
+          "modalities "
+        ],
+        [
+          "clinical biomarkers "
+        ],
+        [
+          "malignancies "
+        ],
+        [
+          "micro rna 21 "
+        ],
+        [
+          "micro rna 100 "
+        ],
+        [
+          "tumor suppressor "
+        ],
+        [
+          "modulate "
+        ],
+        [
+          "link "
+        ],
+        [
+          "studies "
+        ],
+        [
+          "direction "
+        ],
+        [
+          "aggressive "
+        ],
+        [
+          "ovarian tissue "
+        ],
+        [
+          "extracted "
+        ]
+      ],
+      "id": "553fa78b1d53b76422000007",
+      "ideal_answer": "The biphasic expression pattern suggested that miR-200a levels may serve as novel biomarkers for the early detection of EOC, and miR-200a and E-cadherin are candidate targets for the development of new treatment modalities against ovarian cancer. Our results suggest that miRNAs may play a role in the progression of OSC, and miR-510 and miR-509-5p may be considered novel-candidate clinical biomarkers for predicting OSC outcome. Together, these results suggest that low miR-100 expression             may be an independent poor prognostic factor and miR-100 can function as a tumor             suppressor by targeting PLK1 in human EOCs. MicroRNA microarray identifies Let-7i as a novel biomarker and therapeutic target in human epithelial ovarian cancer. our results strongly suggest that let-7i might be used as a therapeutic target to modulate platinum-based chemotherapy and as a biomarker to predict chemotherapy response and survival in patients with ovarian cancer. These findings provide the convincing evidence for the first time that the upregulation of miR-203 may serve as a novel molecular marker to predict the aggressive tumor progression and unfavorable prognosis of EOC patients. "
+    },
+    {
+      "exact_answer": [
+        [
+          "pyridostigmine "
+        ],
+        [
+          "myasthenia gravis "
+        ],
+        [
+          "acetylcholinesterase inhibitors "
+        ],
+        [
+          "symptomatic "
+        ],
+        [
+          "pyridostigmine bromide "
+        ],
+        [
+          "ache "
+        ],
+        [
+          "randomized controlled trial "
+        ],
+        [
+          "acetylcholinesterase inhibitor "
+        ],
+        [
+          "neostigmine "
+        ],
+        [
+          "generalized "
+        ],
+        [
+          "treatment "
+        ],
+        [
+          "anti sense oligonucleotides "
+        ],
+        [
+          "quality of life "
+        ],
+        [
+          "support "
+        ],
+        [
+          "non patient "
+        ],
+        [
+          "years "
+        ],
+        [
+          "euroqol "
+        ],
+        [
+          "inhibitors "
+        ],
+        [
+          "patients "
+        ],
+        [
+          "inconclusive "
+        ],
+        [
+          "intranasal "
+        ],
+        [
+          "justify "
+        ],
+        [
+          "adjunctive therapy "
+        ],
+        [
+          "individualized "
+        ],
+        [
+          "immunotherapy "
+        ],
+        [
+          "observational study "
+        ],
+        [
+          "conduct "
+        ],
+        [
+          "temporary "
+        ],
+        [
+          "switch "
+        ],
+        [
+          "subgroup "
+        ],
+        [
+          "promise "
+        ],
+        [
+          "modify "
+        ],
+        [
+          "treatment arm "
+        ],
+        [
+          "quantify "
+        ],
+        [
+          "consensus "
+        ],
+        [
+          "therapeutic regimen "
+        ],
+        [
+          "receive "
+        ],
+        [
+          "recommendations "
+        ],
+        [
+          "placebo "
+        ],
+        [
+          "preliminary results "
+        ],
+        [
+          "questionnaire "
+        ],
+        [
+          "retrospective "
+        ],
+        [
+          "total score "
+        ],
+        [
+          "guidelines "
+        ],
+        [
+          "therapies "
+        ],
+        [
+          "progressive "
+        ],
+        [
+          "progressive disease "
+        ],
+        [
+          "choice "
+        ],
+        [
+          "recommended "
+        ],
+        [
+          "mild disease "
+        ],
+        [
+          "mild "
+        ],
+        [
+          "participants "
+        ],
+        [
+          "trial "
+        ],
+        [
+          "clear "
+        ],
+        [
+          "focus "
+        ],
+        [
+          "long term treatments "
+        ],
+        [
+          "appear "
+        ],
+        [
+          "difficult "
+        ],
+        [
+          "0 5 "
+        ],
+        [
+          "improvement "
+        ],
+        [
+          "lack "
+        ],
+        [
+          "young "
+        ],
+        [
+          "controlled clinical trials "
+        ],
+        [
+          "experience "
+        ],
+        [
+          "oral treatment "
+        ],
+        [
+          "oral "
+        ],
+        [
+          "inhibitor "
+        ],
+        [
+          "health status "
+        ],
+        [
+          "include "
+        ],
+        [
+          "first line therapy "
+        ],
+        [
+          "short "
+        ],
+        [
+          "improved "
+        ],
+        [
+          "parameters "
+        ],
+        [
+          "severe disease "
+        ],
+        [
+          "considered "
+        ],
+        [
+          "result "
+        ],
+        [
+          "form "
+        ],
+        [
+          "long term treatment "
+        ],
+        [
+          "current "
+        ],
+        [
+          "drug "
+        ],
+        [
+          "novel "
+        ],
+        [
+          "review "
+        ],
+        [
+          "provide "
+        ],
+        [
+          "small "
+        ],
+        [
+          "therapy "
+        ],
+        [
+          "age "
+        ],
+        [
+          "patient "
+        ],
+        [
+          "response "
+        ],
+        [
+          "based "
+        ],
+        [
+          "analysis "
+        ],
+        [
+          "well "
+        ],
+        [
+          "disease "
+        ],
+        [
+          "data "
+        ],
+        [
+          "clinical "
+        ]
+      ],
+      "id": "5149199dd24251bc05000040",
+      "ideal_answer": "For more than 50 years the acetylcholinesterase inhibitor pyridostigmine bromide has been the drug of choice in the symptomatic therapy for myasthenia gravis. Acetylcholinesterase inhibitors provide temporary, symptomatic treatment for all forms of myasthenia gravis. Our results support the usefulness of SR-Pyr in an individualized therapeutic regimen to improve quality of life regardless of the patient\u0027s age in myasthenia gravis. Despite a lack of data from well controlled clinical trials to support their use, AChE inhibitors, of which pyridostigmine is the most commonly used, are recommended as first-line therapy for MG. This review focuses on treatment of MG, mainly on the use of the AChE inhibitor pyridostigmine. Except for one small and inconclusive trial of intranasal neostigmine, no randomised controlled trial has been conducted on the use of acetylcholinesterase inhibitors in myasthenia gravis. Novel AChE inhibitors with oral antisense oligonucleotides have been developed and preliminary results appear to be promising. Response to acetylcholinesterase inhibitors in observational studies is so clear that a randomised controlled trial depriving participants in the placebo arm of treatment would be difficult to justify. Current guidelines and recommendations for MG treatment are based largely on clinical experience, retrospective analyses and expert consensus. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "52bf1db603868f1b06000011",
+      "ideal_answer": "Denosumab is a RANK-ligand antibody that was approved by the FDA in 2010 for the prevention of skeletal fractures in patients with bone metastases from solid tumors. A fourth agent, denosumab (bone targeted therapy) was also recently approved by the FDA for patients with bone metastasis after showing a reduction in the occurrence of skeletal-related events. Several of these therapies have recently been approved by the FDA to treat bone cancer pain (bisphosphonates, denosumab) and others are currently being evaluated in human clinical trials (tanezumab). Denosumab (Prolia®) is a fully human monoclonal antibody for RANKL, which selectively inhibits osteoclastogenesis, being recently approved for the treatment of postmenopausal osteoporosis in women at a high or increased risk of fracture by the FDA in the United Sates and by the European Medicines Agency in Europe since June 2010. AHRQ published an updated review in March 2012 that summarized the benefits and risks of osteoporosis medications in treatment and prevention of osteoporosis, including bisphosphonates (aledronate, risedronate, ibandronate, zoledronic acid), parathyroid hormone, teriparatide, calcitonin, estrogens (for prevention in postmenopausal women), selective estrogen receptor modulators (raloxifene), and denosumab(approved by the FDA in 2010). "
+    },
+    {
+      "exact_answer": [
+        [
+          "dvl "
+        ],
+        [
+          "dsh "
+        ],
+        [
+          "dishevelled proteins "
+        ],
+        [
+          "multi "
+        ],
+        [
+          "gene "
+        ],
+        [
+          "encoded "
+        ],
+        [
+          "proteins "
+        ],
+        [
+          "hscr "
+        ],
+        [
+          "mouse "
+        ],
+        [
+          "secreted protein "
+        ],
+        [
+          "wnt signaling "
+        ],
+        [
+          "genes "
+        ],
+        [
+          "amino acid protein "
+        ],
+        [
+          "report "
+        ],
+        [
+          "drosophila "
+        ],
+        [
+          "protein "
+        ],
+        [
+          "segment "
+        ],
+        [
+          "patterns "
+        ],
+        [
+          "dvl1 "
+        ],
+        [
+          "dvl1 gene "
+        ],
+        [
+          "craniorachischisis "
+        ],
+        [
+          "dvl2 "
+        ],
+        [
+          "isolated "
+        ],
+        [
+          "dishevelled 2 "
+        ],
+        [
+          "dishevelled 1 "
+        ],
+        [
+          "1p36 "
+        ],
+        [
+          "1p36 1 "
+        ],
+        [
+          "study "
+        ],
+        [
+          "neuroblast "
+        ],
+        [
+          "expression "
+        ],
+        [
+          "ntd "
+        ],
+        [
+          "wg "
+        ],
+        [
+          "ganglionic "
+        ],
+        [
+          "overexpress "
+        ],
+        [
+          "pcp pathway "
+        ],
+        [
+          "transducers "
+        ],
+        [
+          "pc12 cell "
+        ],
+        [
+          "specification "
+        ],
+        [
+          "cell fate specification "
+        ],
+        [
+          "segmentation "
+        ],
+        [
+          "module "
+        ],
+        [
+          "wnt beta catenin signaling pathway "
+        ],
+        [
+          "wnt signal transduction "
+        ],
+        [
+          "wnt signaling pathways "
+        ],
+        [
+          "gene homolog "
+        ],
+        [
+          "homolog "
+        ],
+        [
+          "polarity "
+        ],
+        [
+          "cell polarity "
+        ],
+        [
+          "divergence "
+        ],
+        [
+          "xenopus "
+        ],
+        [
+          "vertebrates "
+        ],
+        [
+          "pc 12 "
+        ],
+        [
+          "encode "
+        ],
+        [
+          "clone human "
+        ],
+        [
+          "embryo "
+        ],
+        [
+          "share "
+        ],
+        [
+          "designated "
+        ],
+        [
+          "activate "
+        ],
+        [
+          "embryos "
+        ],
+        [
+          "identity "
+        ],
+        [
+          "regulator "
+        ],
+        [
+          "similarity "
+        ],
+        [
+          "homologous gene "
+        ],
+        [
+          "segment of colon "
+        ],
+        [
+          "display "
+        ],
+        [
+          "embryonic induction "
+        ],
+        [
+          "65 "
+        ],
+        [
+          "cdna "
+        ],
+        [
+          "mutants "
+        ],
+        [
+          "middle "
+        ],
+        [
+          "localized "
+        ],
+        [
+          "chromosome 1 "
+        ],
+        [
+          "chromosome "
+        ],
+        [
+          "encoding "
+        ],
+        [
+          "family members "
+        ],
+        [
+          "members "
+        ],
+        [
+          "molecule "
+        ],
+        [
+          "generation "
+        ],
+        [
+          "open "
+        ],
+        [
+          "lines "
+        ],
+        [
+          "double "
+        ],
+        [
+          "a mouse "
+        ],
+        [
+          "target cells "
+        ],
+        [
+          "family "
+        ],
+        [
+          "gene family "
+        ],
+        [
+          "severe "
+        ],
+        [
+          "contrast "
+        ],
+        [
+          "required "
+        ],
+        [
+          "mice "
+        ],
+        [
+          "characterized "
+        ],
+        [
+          "form "
+        ],
+        [
+          "activation "
+        ],
+        [
+          "highly "
+        ],
+        [
+          "order "
+        ],
+        [
+          "process "
+        ],
+        [
+          "tissue specific gene expression "
+        ],
+        [
+          "identified "
+        ],
+        [
+          "including "
+        ],
+        [
+          "function "
+        ],
+        [
+          "role "
+        ]
+      ],
+      "id": "5709e4b2cf1c32585100001c",
+      "ideal_answer": "Dishevelled (Dvl/Dsh) is a multi-module protein and a key regulator of both the canonical Wnt and the PCP pathway. Dishevelled (Dvl) proteins are key transducers of Wnt signaling encoded by members of a multi-gene family in vertebrates. The Dvl-1 gene on chromosome 1p36 belongs to a family of highly conserved secreted proteins which regulates embryonic induction, generation of cell polarity and specification of cell fate through activation of Wnt signaling pathways. In the Drosophila embryo dishevelled (dsh) function is required by target cells in order to respond to wingless (wg, the homolog of Wnt-1), demonstrating a role for dsh in Wnt signal transduction. We report here that the mouse Dishevelled-1 (Dvl-1) and Dishevelled-2 genes encode proteins that are differentially localized in Wnt-overexpressing PC12 cell lines (PC12/Wnt). We report here the divergent, tissue-specific expression patterns for all three Dvl genes in Xenopus embryos, which contrast dramatically with their expression patterns in mice. In this study, we explore the cause of HSCR by studying the expression of DVL-1 and DVL-3 genes and their proteins in the aganglionic segment and the ganglionic segment of colon in HSCR patients. "
+    },
+    {
+      "exact_answer": [
+        [
+          "acrokeratosis paraneoplastica "
+        ],
+        [
+          "bazex syndrome "
+        ],
+        [
+          "paraneoplastic "
+        ],
+        [
+          "acrokeratosis paraneoplastica of bazex "
+        ],
+        [
+          "journal "
+        ]
+      ],
+      "id": "56bc751eac7ad10019000013",
+      "ideal_answer": "Acrokeratosis paraneoplastica (first described by Gougerot and Rupp in 1922) was named after Bazex who had then reported several cases in a French dermatological journal since 1965 (Bazex et al. in Bull Soc Fr Dermatol Syphiligr 72:182, 1965; Bazex and Griffiths in Br J Dermatol 102:301-306, 1980).METHOD: The study is a clinical case of a patient with acrokeratosis paraneoplastica.RESULTS: the patient was later diagnosed with a cervical lymph node metastasis and thereafter with a primary squamous cell carcinoma of the left upper lobe and upon treatment responded with the clearing of the skin changes.CONCLUSION: Identification of a paraneoplastic syndrome may enhance the earlier diagnosis of the associated tumor and may thus enable curative treatment. Bazex syndrome (acrokeratosis paraneoplastica) is a rare paraneoplastic syndrome that usually occurs in males over 40 years old and is particularly associated with squamous cell carcinoma of the upper aerodigestive tract and adenopathy above the diaphragm.The objectives of our article are (1) to describe a unique case of acrokeratosis paraneoplastica and (2) to review the current literature regarding skin findings, commonly associated neoplasms, and treatment options relative to this condition. "
+    },
+    {
+      "exact_answer": [
+        [
+          "electrophysiology "
+        ],
+        [
+          "digoxin "
+        ],
+        [
+          "perhexilene "
+        ],
+        [
+          "amiodarone "
+        ],
+        [
+          "calcium "
+        ],
+        [
+          "potassium "
+        ],
+        [
+          "adrenoceptor "
+        ],
+        [
+          "classification "
+        ],
+        [
+          "class i "
+        ],
+        [
+          "class "
+        ],
+        [
+          "anti arrhythmic agent "
+        ],
+        [
+          "sodium channel "
+        ],
+        [
+          "agent "
+        ],
+        [
+          "antiarrhythmics "
+        ],
+        [
+          "beta adrenergic receptors "
+        ],
+        [
+          "include "
+        ],
+        [
+          "blockade "
+        ],
+        [
+          "action potential "
+        ],
+        [
+          "sotalol "
+        ],
+        [
+          "calcium channels "
+        ],
+        [
+          "fast "
+        ],
+        [
+          "myocardial "
+        ],
+        [
+          "diltiazem "
+        ],
+        [
+          "sodium "
+        ],
+        [
+          "class ii "
+        ],
+        [
+          "class iii antiarrhythmic agents "
+        ],
+        [
+          "substances "
+        ],
+        [
+          "verapamil "
+        ],
+        [
+          "classified "
+        ],
+        [
+          "catecholamines "
+        ],
+        [
+          "drugs "
+        ],
+        [
+          "calcium channel blockers "
+        ],
+        [
+          "myocardium "
+        ],
+        [
+          "potassium channel "
+        ],
+        [
+          "effects "
+        ],
+        [
+          "isolated "
+        ],
+        [
+          "action "
+        ],
+        [
+          "current "
+        ],
+        [
+          "class iii antiarrhythmics "
+        ],
+        [
+          "class i antiarrhythmics "
+        ],
+        [
+          "ik "
+        ],
+        [
+          "component "
+        ],
+        [
+          "rectifier "
+        ],
+        [
+          "class i antiarrhythmic agents "
+        ],
+        [
+          "class iv antiarrhythmic drugs "
+        ],
+        [
+          "antiarrhythmic drugs "
+        ],
+        [
+          "exponential "
+        ],
+        [
+          "beta blockers "
+        ],
+        [
+          "sodium channel blockers "
+        ],
+        [
+          "saturated "
+        ],
+        [
+          "beta adrenergic antagonists "
+        ],
+        [
+          "adrenergic effects "
+        ],
+        [
+          "slowly "
+        ],
+        [
+          "suppress "
+        ],
+        [
+          "exert "
+        ],
+        [
+          "fall "
+        ],
+        [
+          "activating "
+        ],
+        [
+          "inhibiting "
+        ],
+        [
+          "velocity "
+        ],
+        [
+          "action potentials "
+        ],
+        [
+          "differentiated "
+        ],
+        [
+          "dependence "
+        ],
+        [
+          "block "
+        ],
+        [
+          "slow "
+        ],
+        [
+          "delayed "
+        ],
+        [
+          "divided "
+        ],
+        [
+          "class iv "
+        ],
+        [
+          "thought "
+        ],
+        [
+          "expected "
+        ],
+        [
+          "relation "
+        ],
+        [
+          "linear "
+        ],
+        [
+          "class iii "
+        ],
+        [
+          "currently "
+        ],
+        [
+          "duration "
+        ],
+        [
+          "investigation "
+        ],
+        [
+          "cardiac tissues "
+        ],
+        [
+          "inhibited "
+        ],
+        [
+          "defined "
+        ],
+        [
+          "drug action "
+        ],
+        [
+          "main "
+        ],
+        [
+          "enhanced "
+        ],
+        [
+          "heart muscle "
+        ],
+        [
+          "heart rates "
+        ],
+        [
+          "direct "
+        ],
+        [
+          "target "
+        ],
+        [
+          "frequency "
+        ],
+        [
+          "increasing "
+        ],
+        [
+          "beta "
+        ],
+        [
+          "drug "
+        ],
+        [
+          "in vitro "
+        ],
+        [
+          "common "
+        ],
+        [
+          "dependent "
+        ],
+        [
+          "findings "
+        ],
+        [
+          "rate "
+        ],
+        [
+          "group "
+        ],
+        [
+          "induced "
+        ],
+        [
+          "observed "
+        ],
+        [
+          "three "
+        ],
+        [
+          "based "
+        ]
+      ],
+      "id": "54d4e03a3706e89528000001",
+      "ideal_answer": "Other agents which do not fall neatly into the Vaughan Williams classification include digoxin and perhexiline. Thus, the Vaughan Williams classification also coincides with the main myocardial targets of the antiarrhythmics, i.e., myocardial sodium-, potassium-, and calcium-channels or beta-adrenergic receptors. Class-III antiarrhythmics (potassium-channel blockade) can be further differentiated according to the component of the delayed rectifier potassium current (IK) which is inhibited by a drug. Class III antiarrhythmic agents (eg amiodarone) prolong the action potential and slow calcium channel blockers (class IV) suppress the calcium inward current and calcium-dependent action potentials. Antiarrhythmic drugs can be divided into four Vaughan Williams classes (I-IV) according to defined electrophysiological effects on the myocardium. Class I antiarrhythmic agents include most of the drugs traditionally thought of as antiarrhythmics, and have as a common action, blockade of the fast-inward sodium channel on myocardium. The sodium-channel blockade induced by class-I substances is enhanced with increasing heart rates. Class-III substances inhibiting the slowly activating IKs component are currently under investigation and are expected to show a direct rate dependence. These are classified according to their electrophysiological effects observed in isolated cardiac tissues in vitro (Vaughan Williams, 1989). "
+    },
+    {
+      "exact_answer": [
+        [
+          "notch receptors "
+        ],
+        [
+          "notch3 "
+        ],
+        [
+          "jagged1 "
+        ],
+        [
+          "notch2 "
+        ],
+        [
+          "ligands "
+        ],
+        [
+          "notch 1 "
+        ],
+        [
+          "notch "
+        ],
+        [
+          "messenger rna "
+        ],
+        [
+          "mammalian "
+        ],
+        [
+          "isoforms "
+        ],
+        [
+          "immunohistochemical "
+        ],
+        [
+          "somites "
+        ],
+        [
+          "functions "
+        ],
+        [
+          "conclude "
+        ],
+        [
+          "receptors "
+        ],
+        [
+          "liver "
+        ],
+        [
+          "mediated "
+        ],
+        [
+          "expression "
+        ],
+        [
+          "hepatoblastomas "
+        ],
+        [
+          "myotome "
+        ],
+        [
+          "delta1 "
+        ],
+        [
+          "cadasil "
+        ],
+        [
+          "study "
+        ],
+        [
+          "myogenesis "
+        ],
+        [
+          "overexpress "
+        ],
+        [
+          "notch signaling "
+        ],
+        [
+          "notch 3 "
+        ],
+        [
+          "synovial tissue "
+        ],
+        [
+          "sharing "
+        ],
+        [
+          "interfere "
+        ],
+        [
+          "vertebrate "
+        ],
+        [
+          "overlapping "
+        ],
+        [
+          "overlapping structures "
+        ],
+        [
+          "cell fate "
+        ],
+        [
+          "ra "
+        ],
+        [
+          "embryo "
+        ],
+        [
+          "decisions "
+        ],
+        [
+          "clearance "
+        ],
+        [
+          "smooth muscle "
+        ],
+        [
+          "smooth muscle cells "
+        ],
+        [
+          "skeletal muscle "
+        ],
+        [
+          "skeletal "
+        ],
+        [
+          "slow "
+        ],
+        [
+          "mutants "
+        ],
+        [
+          "pattern of staining "
+        ],
+        [
+          "ligand "
+        ],
+        [
+          "levels significance "
+        ],
+        [
+          "man "
+        ],
+        [
+          "mutant protein "
+        ],
+        [
+          "wild type "
+        ],
+        [
+          "appear "
+        ],
+        [
+          "inhibitors "
+        ],
+        [
+          "elevated "
+        ],
+        [
+          "vascular "
+        ],
+        [
+          "activated "
+        ],
+        [
+          "interactions protein "
+        ],
+        [
+          "patterns "
+        ],
+        [
+          "difference "
+        ],
+        [
+          "mouse "
+        ],
+        [
+          "adult "
+        ],
+        [
+          "gene regulation "
+        ],
+        [
+          "analyzed "
+        ],
+        [
+          "investigate "
+        ],
+        [
+          "derived "
+        ],
+        [
+          "form "
+        ],
+        [
+          "mechanism "
+        ],
+        [
+          "cell surface "
+        ],
+        [
+          "complex "
+        ],
+        [
+          "primary "
+        ],
+        [
+          "tissue "
+        ],
+        [
+          "identified "
+        ],
+        [
+          "normal "
+        ],
+        [
+          "increased "
+        ],
+        [
+          "effects "
+        ],
+        [
+          "3 "
+        ],
+        [
+          "2 "
+        ],
+        [
+          "patients "
+        ]
+      ],
+      "id": "55072c803b8a5dc045000001",
+      "ideal_answer": "There are four different mammalian Notch receptors that can be activated by five cell surface ligands. There are four mammalian Notch receptors that have only partially overlapping functions despite sharing similar structures and ligands. Here, we investigate protein interactions between NOTCH3 and other vascular Notch isoforms and characterize the effects of elevated NOTCH3 on smooth muscle gene regulation. We conclude that CADASIL mutants of NOTCH3 complex with NOTCH1, 3, and 4, slow NOTCH3 clearance, and that overexpressed wild type and mutant NOTCH3 protein interfere with key NOTCH-mediated functions in smooth muscle cells. In this study, we analyzed the immunohistochemical staining pattern of four Notch receptors (Notch1-4) and their ligands (Delta1 and Jagged1) in 14 synovial tissues obtained from 14 RA patients. All 4 receptors were expressed in the adult liver, with no significant differences in the levels of Notch-1, -2, and -4 messenger RNA (mRNA) between normal and diseased liver. We studied the immunohistochemical expression of NOTCH2 and its isoforms NOTCH1, NOTCH3, and NOTCH4 and the NOTCH2 primary ligand JAGGED1 in hepatoblastomas. Four Notch receptors have been identified in man (Notch-1 to -4). However, Notch-3 expression appeared to be increased in diseased tissue. "
+    },
+    {
+      "exact_answer": [
+        [
+          "h2o2 "
+        ],
+        [
+          "sod1 "
+        ],
+        [
+          "cellular senescence "
+        ],
+        [
+          "sod 1 "
+        ],
+        [
+          "telomeres "
+        ],
+        [
+          "elevation "
+        ],
+        [
+          "activity "
+        ],
+        [
+          "ratio "
+        ],
+        [
+          "young "
+        ],
+        [
+          "component of protein "
+        ],
+        [
+          "characteristics "
+        ],
+        [
+          "gpx1 "
+        ],
+        [
+          "cells "
+        ],
+        [
+          "telomerase gene "
+        ],
+        [
+          "identifiable "
+        ],
+        [
+          "insert "
+        ],
+        [
+          "arrested "
+        ],
+        [
+          "senescence "
+        ],
+        [
+          "round "
+        ],
+        [
+          "lengths "
+        ],
+        [
+          "aberrant "
+        ],
+        [
+          "timing "
+        ],
+        [
+          "cellular aging "
+        ],
+        [
+          "display "
+        ],
+        [
+          "replication "
+        ],
+        [
+          "slow "
+        ],
+        [
+          "morphology "
+        ],
+        [
+          "prolonged "
+        ],
+        [
+          "exhibit "
+        ],
+        [
+          "typical "
+        ],
+        [
+          "marker "
+        ],
+        [
+          "altered "
+        ],
+        [
+          "cell cycle progression "
+        ],
+        [
+          "environmental stress "
+        ],
+        [
+          "cell lines "
+        ],
+        [
+          "proliferation "
+        ],
+        [
+          "behavior "
+        ],
+        [
+          "critical "
+        ],
+        [
+          "central "
+        ],
+        [
+          "cellular "
+        ],
+        [
+          "mechanism "
+        ],
+        [
+          "health "
+        ],
+        [
+          "gene expression "
+        ],
+        [
+          "response "
+        ],
+        [
+          "development "
+        ],
+        [
+          "levels "
+        ],
+        [
+          "human cells "
+        ],
+        [
+          "well "
+        ],
+        [
+          "data "
+        ],
+        [
+          "other cells "
+        ]
+      ],
+      "id": "53061af558348c0f52000002",
+      "ideal_answer": "Cellular senescence is recognized as a critical cellular response to prolonged rounds of replication and environmental stresses. Our data demonstrate that Sod1 transfected cell lines that have an elevation in the ratio of Sod1 activity to Gpx1 activity produce higher levels of H2O2 and exhibit well characterised markers of cellular senescence viz. Recent research has shown that inserting a gene for the protein component of telomerase into senescent human cells reextends their telomeres to lengths typical of young cells, and the cells then display all the other identifiable characteristics of young, healthy cells. telomeres are the central timing mechanism for cellular aging. Its defining characteristics are arrested cell-cycle progression and the development of aberrant gene expression with proinflammatory behavior. slower proliferation and altered morphology. "
+    },
+    {
+      "exact_answer": [
+        [
+          "orteronel "
+        ],
+        [
+          "prednisone "
+        ],
+        [
+          "tak 700 "
+        ],
+        [
+          "castration resistant prostate cancer "
+        ],
+        [
+          "enzalutamide "
+        ]
+      ],
+      "id": "56c1f01def6e394741000045",
+      "ideal_answer": "Orteronel plus prednisone in patients with chemotherapy-naive metastatic castration-resistant prostate cancer (ELM-PC 4): a double-blind, multicentre, phase 3, randomised, placebo-controlled trial. Phase III, randomized, double-blind, multicenter trial comparing orteronel (TAK-700) plus prednisone with placebo plus prednisone in patients with metastatic castration-resistant prostate cancer that has progressed during or after docetaxel-based therapy: ELM-PC 5. NTERPRETATION: In chemotherapy-naive patients with metastatic castration-resistant prostate cancer, radiographic progression-free survival was prolonged with orteronel plus prednisone versus placebo plus prednisone. Early reports of clinical studies demonstrate that orteronel treatment leads to reduced prostate-specific antigen levels, a marker of prostate cancer tumor burden, and more complete suppression of androgen synthesis than conventional androgen deprivation therapies that act in the testes alone. Pooled analysis of androgen synthesis inhibitors orteronel and abiraterone resulted in significantly increased overall and progression-free survival for anti-androgen agents, compared to placebo (hazard ratio for death: 0.76, 95% CI 0.67 to 0.87, P\u003c0.0001; hazard ratio for radiographic progression: 0.7, 95% CI 0.63 to 0.77, P\u003c0.00001). Pooled-analysis was also performed, to assess the effectiveness of agents targeting the androgen axis via identical mechanisms of action (abiraterone acetate, orteronel). Agents targeting the androgen axis (enzalutamide, abiraterone, orteronel) significantly prolonged rPFS, compared to placebo. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "5313b049e3eabad021000013",
+      "ideal_answer": "While prostate cancers that express high levels of HER-2 are resistant to the killing effects of trastuzumab, they can be targeted for selective gene expression and destruction by lentiviruses with envelope proteins engineered to bind to this therapeutic antibody. we found that although prostate cancers that express high levels of HER-2 are resistant to the killing effects of trastuzumab, they can be targeted for selective gene expression and destruction by viruses with envelope proteins engineered to bind this antibody. The clinical interpretation of c-erbB-2 abnormalities should reflect the complexity of c-erbB-2 mediated regulatory pathway and explain why tumours with overexpression/amplification of c-erbB-2 very often do not respond to therapy using Herceptin. a targeted drug delivery system based on cationic emulsion covalently linked to anti-HER2 monoclonal antibody (Herceptin), in a well-established in vivo pharmacologic model of metastatic prostate cancer that overexpresses the HER2 receptor. We conclude that Her2/neu expression in the peripheral blood mononuclear cell fraction of prostate cancer patients is frequent and therefore this assay may potentially be useful to detect the presence of micrometastatic disease in men with prostate cancer and for monitoring patients enrolled in trastuzumab-based therapeutic protocols. "
+    },
+    {
+      "exact_answer": [],
+      "id": "54d643023706e89528000007",
+      "ideal_answer": ""
+    },
+    {
+      "exact_answer": [
+        [
+          "sox2 "
+        ],
+        [
+          "klf4 "
+        ],
+        [
+          "oct 3 "
+        ],
+        [
+          "oct 4 "
+        ],
+        [
+          "c myc "
+        ],
+        [
+          "oct4 "
+        ],
+        [
+          "factor "
+        ],
+        [
+          "pou5f1 "
+        ],
+        [
+          "transcription factors "
+        ],
+        [
+          "call "
+        ],
+        [
+          "somatic cells "
+        ],
+        [
+          "protein set "
+        ],
+        [
+          "lin28 "
+        ],
+        [
+          "nanog "
+        ],
+        [
+          "ips cells "
+        ],
+        [
+          "pluripotent stem cell "
+        ],
+        [
+          "induced pluripotent stem cells "
+        ],
+        [
+          "pluripotent "
+        ],
+        [
+          "ectopic expression "
+        ],
+        [
+          "somatic "
+        ],
+        [
+          "embryonic "
+        ],
+        [
+          "embryonic stem cells "
+        ],
+        [
+          "developmental "
+        ],
+        [
+          "network "
+        ],
+        [
+          "basal "
+        ],
+        [
+          "generation "
+        ],
+        [
+          "induce "
+        ],
+        [
+          "condition "
+        ],
+        [
+          "signaling "
+        ],
+        [
+          "mouse "
+        ],
+        [
+          "highly "
+        ],
+        [
+          "expression "
+        ],
+        [
+          "human "
+        ],
+        [
+          "human cells "
+        ]
+      ],
+      "id": "53137541e3eabad021000010",
+      "ideal_answer": "Yamanaka factors (OCT4, SOX2, MYC, and KLF4. Yamanaka factors\u0027 (Oct4, Sox2, Klf4 and c-Myc). Yamanaka factors (Oct4, Sox2, Klf4, and c-Myc). Yamanaka factors (c-myc, KLF4, Oct3/4 and SOX2). Yamanaka factors (i.e., Oct4, Sox2, Klf4, and c-Myc). Yamanaka factors (Oct3/4, Sox2, Klf4, and c-Myc). Yamanaka factors (OCT4, SOX2, KLF4, cMYC - OSKM. Oct4, Sox2, Klf4 and cMyc (4TF, Yamanaka factors). Yamanaka factors (Pou5f1, Myc, Klf4, and Sox2). c-Myc, Klf4, Oct3/4, and Sox2 (the so-called \"Yamanaka factors\"). Yamanaka factors, Oct3/4, Sox2, Klf4, and c-Myc. Yamanaka factors, namely Sox2, Oct3/4 (Pou5f1), Klf4, and c-Myc. Oct4, Sox2, Klf4 and c-Myc, also known as the Yamanaka factors. Yamanaka factors (SOX2, OCT3/4, and KLF4, with or without c-MYC). Yamanaka factors Oct4, Sox2, Klf4, and c-Myc. amanaka factors (Oct3/4, Sox2, Klf4, c-Myc). Yamanaka factors (Oct3/4, Sox2, Klf4, c-Myc) are highly expressed in embryonic stem (ES) cells, and their over-expression can induce pluripotency in both mouse and human somatic cells, indicating that these factors regulate the developmental signaling network necessary for ES cell pluripotency. Transcription factors, Oct4, Sox2, Klf4 and cMyc (4TF, Yamanaka factors) are used as basal conditions to generate iPS cells. "
+    },
+    {
+      "id": "515aa0abd24251bc050000a8",
+      "ideal_answer": "The Chromosome-Centric Human Proteome Project (C-HPP) is an international effort for creating an annotated proteomic catalog for each chromosome. The chromosome-centric human proteome project aims to systematically map all human proteins, chromosome by chromosome, in a gene-centric manner through dedicated efforts from national and international teams. The Chromosome 16 Consortium forms part of the Human Proteome Project that aims to develop an entire map of the proteins encoded by the human genome following a chromosome-centric strategy (C-HPP) to make progress in the understanding of human biology in health and disease (B/D-HPP). The Chromosome-centric Human Proteome Project (C-HPP) aims to systematically map the entire human proteome with the intent to enhance our understanding of human biology at the cellular level. The C-HPP consortium was established to organize a collaborative network among the research teams responsible for protein mapping of individual chromosomes and to identify compelling biological and genetic mechanisms influencing colocated genes and their protein products. Our results will contribute to the accomplishment of the primary goal of the C-HPP in identifying so-called \"missing proteins\" and generating a whole protein catalog for each chromosome. "
+    },
+    {
+      "exact_answer": [
+        [
+          "pannexin 1 "
+        ],
+        [
+          "channel "
+        ],
+        [
+          "connexins "
+        ],
+        [
+          "gap junction proteins "
+        ],
+        [
+          "form "
+        ]
+      ],
+      "id": "56af9f130a360a5e45000015",
+      "ideal_answer": "pannexin1, a vertebrate homolog of invertebrate gap junction proteins. The specific profile of gap junction proteins, the connexins, expressed in these different cell types forms compartments of intercellular communication that can be further shaped by the release of extracellular nucleotides via pannexin1 channels. zfPanx1 was identified on the surface of horizontal cell dendrites invaginating deeply into the cone pedicle near the glutamate release sites of the cones, providing in vivo evidence for hemichannel formation at that location. The membrane protein Pannexin1 forms two open-channel conformations depending on the mode of activation. Pannexin1 (Panx1) is a newly discovered extracellular ATP release channel with a wide tissue distribution and diverse biological functions in mammals. In mammals, a single pannexin1 gene (Panx1) is widely expressed in the CNS including the inner and outer retinae, forming large-pore voltage-gated membrane channels, which are involved in calcium and ATP signaling. We previously showed that pannexins form oligomeric channels but unlike connexins and innexins, they form only single membrane channels. Six of them form a \"gap junction hemichannel-like\" structure that connects the cytoplasm with the extracellular space; here they will be called Panx1 channels. "
+    },
+    {
+      "exact_answer": [
+        [
+          "progressive external ophthalmoplegia "
+        ],
+        [
+          "polg "
+        ],
+        [
+          "alpers syndrome "
+        ],
+        [
+          "mitochondrial "
+        ],
+        [
+          "mtdna "
+        ],
+        [
+          "ataxia "
+        ],
+        [
+          "neuropathy "
+        ],
+        [
+          "common "
+        ],
+        [
+          "inherited "
+        ],
+        [
+          "autosomal dominant "
+        ],
+        [
+          "mutations "
+        ],
+        [
+          "mitochondrial dna "
+        ],
+        [
+          "mitochondrial disease "
+        ],
+        [
+          "dna polymerase gamma "
+        ],
+        [
+          "gene mutations "
+        ],
+        [
+          "enzyme "
+        ],
+        [
+          "disorders "
+        ],
+        [
+          "childhood myocerebrohepatopathy spectrum "
+        ],
+        [
+          "polg gene "
+        ],
+        [
+          "mitochondrial encephalomyopathy "
+        ],
+        [
+          "autosomal recessive progressive external ophthalmoplegia "
+        ],
+        [
+          "dysarthria "
+        ],
+        [
+          "myoclonus epilepsy "
+        ],
+        [
+          "abnormal electroencephalogram "
+        ],
+        [
+          "myopathy "
+        ],
+        [
+          "dysphagia "
+        ],
+        [
+          "mtdna deletions "
+        ],
+        [
+          "migraine "
+        ],
+        [
+          "ataxia neuropathy spectrum "
+        ],
+        [
+          "sensory ataxia "
+        ],
+        [
+          "suggestive of "
+        ],
+        [
+          "neurodegenerative disease "
+        ],
+        [
+          "inherited disease "
+        ],
+        [
+          "seizures "
+        ],
+        [
+          "syndromes "
+        ],
+        [
+          "phenotypes "
+        ],
+        [
+          "cluster "
+        ],
+        [
+          "heterogeneous "
+        ],
+        [
+          "manifestations "
+        ],
+        [
+          "mitochondrial diseases "
+        ],
+        [
+          "exhibit "
+        ],
+        [
+          "encoding "
+        ],
+        [
+          "abnormalities "
+        ],
+        [
+          "liver abnormalities "
+        ],
+        [
+          "novel mutation "
+        ],
+        [
+          "adults "
+        ],
+        [
+          "responsible "
+        ],
+        [
+          "disease causes "
+        ],
+        [
+          "include "
+        ],
+        [
+          "liver function "
+        ],
+        [
+          "children "
+        ],
+        [
+          "multiple "
+        ],
+        [
+          "major "
+        ],
+        [
+          "identified "
+        ],
+        [
+          "group a "
+        ],
+        [
+          "function "
+        ],
+        [
+          "disease related "
+        ],
+        [
+          "5 "
+        ],
+        [
+          "three "
+        ],
+        [
+          "human "
+        ],
+        [
+          "clinical "
+        ],
+        [
+          "associated with "
+        ],
+        [
+          "3 "
+        ],
+        [
+          "1 "
+        ],
+        [
+          "2 "
+        ],
+        [
+          "patients "
+        ]
+      ],
+      "id": "5718bbb37de986d80d00000b",
+      "ideal_answer": "About 150 mutations in the human POLG have been identified in patients with mitochondrial diseases such as Alpers syndrome, progressive external ophthalmoplegia, and ataxia-neuropathy syndromes. Nineteen exhibited a cluster of three or more predefined clinical manifestations suggestive of POLG-related disease: progressive external ophthalmoplegia, seizures and/or an abnormal electroencephalogram, neuropathy, ataxia, liver function abnormalities, migraine or dysphagia/dysarthria. They are responsible for a heterogeneous group of at least 6 major phenotypes of neurodegenerative disease that include: 1) childhood Myocerebrohepatopathy Spectrum disorders (MCHS), 2) Alpers syndrome, 3) Ataxia Neuropathy Spectrum (ANS) disorders, 4) Myoclonus Epilepsy Myopathy Sensory Ataxia (MEMSA), 5) autosomal recessive Progressive External Ophthalmoplegia (arPEO), and 6) autosomal dominant Progressive External Ophthalmoplegia (adPEO). Mutations in the gene encoding mitochondrial DNA polymerase gamma (POLG), the enzyme that synthesises mitochondrial DNA (mtDNA), have been associated with a mitochondrial disease-autosomal dominant or recessive progressive external ophthalmoplegia-and multiple deletions of mtDNA. Mutations in the POLG gene have emerged as one of the most common causes of inherited mitochondrial disease in children and adults. Novel POLG mutations in progressive external ophthalmoplegia mimicking mitochondrial neurogastrointestinal encephalomyopathy. "
+    },
+    {
+      "id": "532f062ad6d3ac6a34000027",
+      "ideal_answer": "The beneficial effects of ivabradine may be due to the reversal of electrophysiological cardiac remodelling in post-MI rats by reduction of functional overexpression of HCN channels. In rats with CHF, long-term HRR induced by the selective I(f) inhibitor ivabradine improves LV function and increases stroke volume, preserving cardiac output despite the HRR. Although both metoprolol and ivabradine comparably prevented post-MI deterioration of haemodynamic function in the rat, metoprolol had additional potentially beneficial effects; it prevented LV dilation and hypertrophy, chronotropic incompetence, strongly increased contractility of isolated cardiomyocytes, and prevented the potentially proarrhythmic increase in NCX activity. In conclusion, these data indicated that HR reduction by Iva prevents the worsening of LV dysfunction and remodeling that may be related to a downregulation of cardiac renin-angiotensin-aldosterone system transcripts. Ivabradine may be important for the improvement of clinical outcomes in patients with LV systolic dysfunction and heart rate ≥ 70 b.p.m., whatever the primary clinical presentation (CAD or HF) or clinical status (NYHA class). Ivabradine (IVA), a pure HR lowering drug, reduces the demand of myocardial oxygen during exercise, contributes to the restoration of oxygen balance and is therefore beneficial in chronic CVD. "
+    },
+    {
+      "exact_answer": [
+        [
+          "wilson disease "
+        ],
+        [
+          "autosomal recessive inheritance "
+        ],
+        [
+          "autosomal recessive "
+        ],
+        [
+          "wd "
+        ],
+        [
+          "mode of inheritance "
+        ]
+      ],
+      "id": "52bf1b0a03868f1b06000009",
+      "ideal_answer": "The disease has an autosomal recessive mode of inheritance, and is characterized by excessive copper deposition, predominantly in the liver and brain. Wilson\u0027s disease is a rare genetic disorder of copper metabolism with autosomal recessive inheritance. The autosomal recessive mode of inheritance strongly suggests that mutation of a single gene causes the impairment of both caeruloplasmin synthesis and biliary copper excretion. Dermatoglyphics of 11 patients with Wilson\u0027s disease and 16 of their clinically asymptomatic relatives of first degree were investigated; 11 of the latter ones were heterozygous in agreement with the turn over rates of Cu-67, 12 under the assumption of autosomal recessive inheritance. The overall sex ratio of patients was nearly 1:1, and genetic analysis of 20 families confirmed an autosomal recessive mode of inheritance. The patient was considered heterozygote for hemochromatosis on the basis of the autosomal recessive inheritance for hemochromatosis, the frequency of the hemochromatosis gene, and the laboratory parameters defining her iron overload. Inheritance of a pair of alleles of an autosomal recessive gene on chromosome 13 is necessary and sufficient to cause such copper accumulation in WD; reducing the dietary intake of copper cannot prevent the development of WD. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "517395b98ed59a060a00001a",
+      "ideal_answer": ", as splicing is often cotranscriptional, a complex picture emerges in which splicing regulation not only depends on the balance of splicing factor binding to their pre-mRNA target sites but also on transcription-associated features such as protein recruitment to the transcribing machinery and elongation kinetics. Chromatin may not only be involved in alternative splicing regulation but in constitutive exon recognition as well. hese span from regulation of RNA polymerase II elongation, which ultimately determines splicing decisions, to splicing factor recruitment by specific histone marks. ere we provide the first evidence that a DNA-binding protein, CCCTC-binding factor (CTCF), can promote inclusion of weak upstream exons by mediating local RNA polymerase II pausing both in a mammalian model system for alternative splicing, CD45, and genome-wide. The presence of transcription factors in the spliceosome and the existence of proteins, such as the coactivator PGC-1, with dual activities in splicing and transcription can explain the links between both processes and add a new level of complexity to the regulation of gene expression in eukaryotes. Moreover, splicing was found to be necessary for the proper \u0027writing\u0027 of particular chromatin signatures, giving further mechanistic support to functional interconnections between splicing, transcription and chromatin structure. "
+    },
+    {
+      "exact_answer": [
+        [
+          "facio scapulo humeral dystrophy "
+        ],
+        [
+          "facioscapulohumeral muscular dystrophy "
+        ],
+        [
+          "autosomal dominant inheritance "
+        ],
+        [
+          "autosomal dominant "
+        ],
+        [
+          "eco ri "
+        ]
+      ],
+      "id": "52bf19c503868f1b06000001",
+      "ideal_answer": "Facioscapulohumeral muscular dystrophy (FSHD) is a neuromuscular disease, characterized by an autosomal dominant mode of inheritance, facial involvement, and selectivity and asymmetry of muscle involvement. Consensual diagnostic criteria for facioscapulohumeral dystrophy (FSHD) include onset of the disease in facial or shoulder girdle muscles, facial weakness in more than 50% of affected family members, autosomal dominant inheritance in familial cases, and evidence of myopathic disease in at least one affected member without biopsy features specific to alternative diagnoses. Facioscapulohumeral dystrophy (FSHD) is an autosomal-dominant disorder characterized by weakness of the face, upper arm, shoulder, and lower limb musculature, with an onset between the first and third decades. Facioscapulohumeral dystrophy (FSHD) is an autosomal-dominant muscular disorder associated with a short (\u003c35 kb) EcoRI/BlnI fragment resulting from deletion of an integral number of units of a 3.3-kb repeat located at 4q35. Facioscapulohumeral muscular dystrophy (FSHD) is a slowly progressive myopathy with autosomal dominant inheritance remarkable for its early involvement of facial musculature. In 139 families, dominant inheritance was observed in 97, a pattern compatible with germline mosaicism in 6, while sporadic cases were found in 36 families. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54db1d580f63c58e6e000005",
+      "ideal_answer": "Alu and LINE-1 hypomethylation is associated with HER2 enriched subtype of breast cancer. prominent hypomethylation of Alu and LINE-1 in HER2 enriched subtype may be related to chromosomal instability of this specific subtype. DNA methylation for three repetitive elements (LINE1, Sat2 and Alu) were analyzed in invasive ductal carcinoma of the breast, paired adjacent normal tissue and WBC from 40 breast cancer patients. DNA methylation for the three repetitive elements was lower in tumor compared to adjacent tissue and WBC DNA. In survival analyses, low Alu methylation status tended to be associated with poor disease-free survival of the patients. Alu hypomethylation is probably a late event during breast cancer progression. In IBC, Alu hypomethylation correlated with negative estrogen receptor (ER) status. "
+    },
+    {
+      "exact_answer": [
+        [
+          "calsequestrin "
+        ],
+        [
+          "triadin "
+        ],
+        [
+          "junctin "
+        ],
+        [
+          "sarcoplasmic reticulum "
+        ],
+        [
+          "ryanodine receptor "
+        ],
+        [
+          "calcium "
+        ],
+        [
+          "ryanodine "
+        ],
+        [
+          "form "
+        ],
+        [
+          "junctional "
+        ],
+        [
+          "ca2 "
+        ],
+        [
+          "complex "
+        ],
+        [
+          "protein a "
+        ],
+        [
+          "release "
+        ],
+        [
+          "ryanodine receptor protein "
+        ],
+        [
+          "major "
+        ],
+        [
+          "cardiac "
+        ],
+        [
+          "ca 2 "
+        ],
+        [
+          "transmembrane "
+        ],
+        [
+          "casq2 "
+        ],
+        [
+          "sequestering "
+        ],
+        [
+          "ryanodine receptor calcium release channel "
+        ],
+        [
+          "proteins "
+        ],
+        [
+          "sarcoplasmic reticulum lumen "
+        ],
+        [
+          "macromolecular complex "
+        ],
+        [
+          "channel "
+        ],
+        [
+          "storage protein "
+        ],
+        [
+          "cardiac muscle "
+        ],
+        [
+          "muscle protein "
+        ],
+        [
+          "muscle "
+        ],
+        [
+          "roles "
+        ],
+        [
+          "bind "
+        ],
+        [
+          "luminal "
+        ],
+        [
+          "receptor protein complex "
+        ],
+        [
+          "receptor complex "
+        ],
+        [
+          "directly "
+        ],
+        [
+          "buffer "
+        ],
+        [
+          "2 "
+        ],
+        [
+          "regulatory proteins "
+        ],
+        [
+          "binding "
+        ],
+        [
+          "binding protein "
+        ],
+        [
+          "protein "
+        ],
+        [
+          "protein complex "
+        ],
+        [
+          "dependent "
+        ],
+        [
+          "tetramere "
+        ],
+        [
+          "ryr2 "
+        ],
+        [
+          "ryr "
+        ],
+        [
+          "protein sequestering "
+        ],
+        [
+          "macromolecule "
+        ],
+        [
+          "overlay "
+        ],
+        [
+          "skeletal muscle ryanodine receptor "
+        ],
+        [
+          "striated muscles "
+        ],
+        [
+          "junctional sarcoplasmic reticulum membrane "
+        ],
+        [
+          "junctional complex "
+        ],
+        [
+          "intermolecular interaction "
+        ],
+        [
+          "associate "
+        ],
+        [
+          "immunoprecipitation "
+        ],
+        [
+          "kd "
+        ],
+        [
+          "filter "
+        ],
+        [
+          "integral membrane proteins "
+        ],
+        [
+          "fourth "
+        ],
+        [
+          "excitation contraction coupling "
+        ],
+        [
+          "passive "
+        ],
+        [
+          "transmembrane protein "
+        ],
+        [
+          "vesicles "
+        ],
+        [
+          "homology "
+        ],
+        [
+          "mediate "
+        ],
+        [
+          "muscle homeostasis "
+        ],
+        [
+          "homeostasis "
+        ],
+        [
+          "face 1 "
+        ],
+        [
+          "intrinsic membrane protein "
+        ],
+        [
+          "cloned "
+        ],
+        [
+          "intra "
+        ],
+        [
+          "kda "
+        ],
+        [
+          "skeletal "
+        ],
+        [
+          "skeletal muscle "
+        ],
+        [
+          "fusion "
+        ],
+        [
+          "localized "
+        ],
+        [
+          "exhibit "
+        ],
+        [
+          "thought "
+        ],
+        [
+          "mammalian "
+        ],
+        [
+          "find "
+        ],
+        [
+          "normal operation "
+        ],
+        [
+          "understand "
+        ],
+        [
+          "affinity chromatography "
+        ],
+        [
+          "regulatory "
+        ],
+        [
+          "calcium protein "
+        ],
+        [
+          "purified "
+        ],
+        [
+          "approaches "
+        ],
+        [
+          "contribute "
+        ],
+        [
+          "stable "
+        ],
+        [
+          "signaling "
+        ],
+        [
+          "component "
+        ],
+        [
+          "include "
+        ],
+        [
+          "interactions protein "
+        ],
+        [
+          "assay "
+        ],
+        [
+          "interaction "
+        ],
+        [
+          "combination "
+        ],
+        [
+          "decrease "
+        ],
+        [
+          "reduction "
+        ],
+        [
+          "required "
+        ]
+      ],
+      "id": "54f9d3eedd3fc62544000004",
+      "ideal_answer": "In cardiac muscle, junctin forms a quaternary protein complex with the ryanodine receptor (RyR), calsequestrin, and triadin 1 at the luminal face of the junctional sarcoplasmic reticulum (jSR). Calsequestrin, the major calcium sequestering protein in the sarcoplasmic reticulum of muscle, forms a quaternary complex with the ryanodine receptor calcium release channel and the intrinsic membrane proteins triadin and junctin. Junctin is a major transmembrane protein in cardiac junctional sarcoplasmic reticulum, which forms a quaternary complex with the ryanodine receptor (Ca(2+) release channel), triadin, and calsequestrin. Triadin 1 is a major transmembrane protein in cardiac junctional sarcoplasmic reticulum (SR), which forms a quaternary complex with the ryanodine receptor (Ca(2+) release channel), junctin, and calsequestrin. Calsequestrin (CSQ) is a Ca(2+) storage protein that interacts with triadin (TRN), the ryanodine receptor (RyR), and junctin (JUN) to form a macromolecular tetrameric Ca(2+) signaling complex in the cardiac junctional sarcoplasmic reticulum (SR). Junctin (JCN), a 26-kd sarcoplasmic reticulum (SR) transmembrane protein, forms a quaternary protein complex with the ryanodine receptor, calsequestrin, and triadin in the SR lumen of cardiac muscle. "
+    },
+    {
+      "exact_answer": [
+        [
+          "hydrophilic interaction "
+        ],
+        [
+          "tandem "
+        ],
+        [
+          "method "
+        ],
+        [
+          "liquid chromatography mass spectrometry "
+        ],
+        [
+          "chromatographies "
+        ]
+      ],
+      "id": "5505edac8e1671127b000005",
+      "ideal_answer": "hydrophilic interaction liquid chromatography-tandem mass spectrometry (HILIC LC-MS/MS) method. A hydrophilic interaction liquid chromatography-tandem mass spectrometry (HILIC LC-MS/MS) method. Hydrophilic-interaction liquid chromatography (HILIC) is a widely used technique for small polar molecule analysis. Hydrophilic Interaction Chromatography (HILIC). n this study a hydrophilic interaction chromatographic (HILIC) method. hydrophilic-interaction LC (HILIC). "
+    }
+  ]
+}

@@ -1,0 +1,4473 @@
+{
+  "questions": [
+    {
+      "exact_answer": "yes",
+      "id": "56c095b7ef6e394741000025",
+      "ideal_answer": "TERT promoter mutations maintained its ability of inducing high transcriptional activity even under hypoxic and TMZ treatment conditions, and the presence of mutations was associated with poor prognosis in glioma patients. TERT promoter mutations lead to high transcriptional activity under hypoxia and temozolomide treatment and predict poor prognosis in gliomas. Our results indicate that when combined with IDH status, TERT promoter mutation contributes to prognostic subgroups of lower-grade astrocytic tumors or 1p/19q intact lower-grade gliomas and this may further refine future molecular classification of lower-grade gliomas. Patients whose Grade III-IV gliomas exhibit TERT promoter mutations alone predominately have primary GBMs associated with poor median OS (11.5 months). Patients whose Grade III-IV gliomas exhibit IDH1/2 mutations alone predominately have astrocytic morphologies and exhibit a median OS of 57 months while patients whose tumors exhibit both TERT promoter and IDH1/2 mutations predominately exhibit oligodendroglial morphologies and exhibit median OS of 125 months. In contrast, among the subset of 74 IDH wild-type lower-grade gliomas with intact 1p/19q, TERT promoter mutation was associated with shorter PFS (P\u003d0.001) and OS (P\u003d0.001). In the subset of 116 IDH-mutated lower-grade gliomas lacking 1p/19q codeletion, 19 TERT promoter-mutated tumors exhibited longer progression-free survival (PFS) (P\u003d0.027) and OS (P\u003d0.004). "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e19eba51531f7e33000012",
+      "ideal_answer": "Low-affinity copper transporter CTR2 is regulated by copper-sensing transcription factor Mac1p in Saccharomyces cerevisiae. We previously reported that CTR2 can be upregulated by copper deficiency via copper-sensing transcription factor Mac1p. The copper-depletion induced CTR2 transcription can be abrogated by genetic deletion of copper-sensing transcription factor Mac1p. The catalytic activity of Sod1 is essential for Mac1 activation and promotes a regulated increase in binding of Mac1 to copper response elements in the promoter regions of genomic Mac1 target genes. In Saccharomyces cerevisiae, transcriptional responses to copper deficiency are mediated by the copper-responsive transcription factor Mac1. Taken together, our results suggest that Mac1p can activate the expression of vacuolar copper transporter Ctr2p in response to copper deficiency, resulting in yeast resistance to copper starvation. Although Mac1 activates the transcription of genes involved in high affinity copper uptake during periods of deficiency, little is known about the mechanisms by which Mac1 senses or responds to reduced copper availability. Ace1 mediates copper-induced gene expression in cells exposed to stressful levels of copper salts, whereas Mac1 activates a subset of genes under copper-deficient conditions. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c85f675795f9a73e000013",
+      "ideal_answer": "We assayed long-range chromosomal interactions on putative enhancers of POU5F1 and SOX2 genes in human embryonic stem cells (hESCs) using 4C-Seq technique. The interactomes of POU5F1 and SOX2 enhancers in human embryonic stem cells. Additionally, some genes associated with the POU5F1 enhancer contribute to pluripotency. Binding sites for multiple DNA binding proteins, including ATF3, CTCF, GABPA, JUND, NANOG, RAD21 and YY1, are enriched in both interactomes. The interactomes are associated with active histone marks and enriched with 5-hydroxymethylcytosine sites. We discovered that their frequent interacting regions mainly overlap with early DNA replication domains. In hESCs, genes within the interactomes have elevated expression. "
+    },
+    {
+      "exact_answer": [
+        [
+          "omacetaxine mepesuccinate"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "Pathway (interactions)"
+        ],
+        [
+          "Erinaceidae"
+        ],
+        [
+          "Smoothened Antagonist LDE225"
+        ]
+      ],
+      "id": "56d0451c3975bb303a00000e",
+      "ideal_answer": "Distinct molecular subgroups of medulloblastoma, including hedgehog (Hh) pathway-activated disease, have been reported. The association between Hh activation status and tumor response to the Hh pathway inhibitor sonidegib (LDE225) was analyzed. We assessed the antitumour activity of sonidegib, a Hedgehog signalling inhibitor, in patients with advanced basal cell carcinoma. "
+    },
+    {
+      "id": "56cd765b5795f9a73e000038",
+      "ideal_answer": "The AMP-activated serine/threonine protein kinase (AMPK) is a sensor of cellular energy status found in all eukaryotes that is activated under conditions of low intracellular ATP following stresses such as nutrient deprivation or hypoxia. AMPK is a highly conserved sensor of cellular energy status that is activated under conditions of low intracellular ATP. TSC2 is regulated by cellular energy levels and plays an essential role in the cellular energy response pathway. AMPK directly phosphorylates at least two proteins to induce rapid suppression of mTORC1 activity, the TSC2 tumour suppressor and the critical mTORC1 binding subunit raptor. AMPK responds to energy stress by suppressing cell growth and biosynthetic processes, in part through its inhibition of the rapamycin-sensitive mTOR (mTORC1) pathway. Under energy starvation conditions, the AMP-activated protein kinase (AMPK) phosphorylates TSC2 and enhances its activity. AMPK phosphorylation of the TSC2 tumor suppressor contributes to suppression of mTORC1. "
+    },
+    {
+      "exact_answer": [
+        [
+          "denosumab"
+        ],
+        [
+          "Complement Factor B"
+        ],
+        [
+          "TRANCE protein"
+        ],
+        [
+          "A Ab"
+        ],
+        [
+          "monoclonal"
+        ]
+      ],
+      "id": "56e6ec49edfc094c1f000005",
+      "ideal_answer": "Denosumab is a human monoclonal antibody which specifically blocks receptor activator of nuclear factor κB ligand and is a very potent antiresorptive drug. Denosumab (Dmab) is a fully human monoclonal antibody against the receptor activator of nuclear factor-κB ligand (RANKL), which, through the prevention of the RANKL/RANK interaction, inhibits osteoclast-mediated bone resorption and significantly reduces the risk of vertebral, nonvertebral, and hip fractures. Denosumab is a human monoclonal antibody indicated for the treatment of osteoporosis in postmenopausal women with a high risk of fractures. denosumab, a monoclonal antibody against RANKL. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Eliglustat"
+        ],
+        [
+          "imiglucerase"
+        ],
+        [
+          "Gaucher Disease, Type 1"
+        ],
+        [
+          "Oral"
+        ],
+        [
+          "Patients"
+        ]
+      ],
+      "id": "56c1f009ef6e39474100003c",
+      "ideal_answer": "Eliglustat compared with imiglucerase in patients with Gaucher\u0027s disease type 1 stabilised on enzyme replacement therapy: a phase 3, randomised, open-label, non-inferiority trial. Patients were randomly allocated 2:1 at 39 clinics (stratified by ERT dose; block sizes of four; computer-generated centrally) to receive either oral eliglustat or imiglucerase infusions for 12 months. The non-inferiority margin was 25% for eliglustat relative to imiglucerase, assessed in all patients who completed 12 months of treatment. CONCLUSIONS AND RELEVANCE: Among previously untreated adults with Gaucher disease type 1, treatment with eliglustat compared with placebo for 9 months resulted in significant improvements in spleen volume, hemoglobin level, liver volume, and platelet count. OBJECTIVE: To determine whether eliglustat, a novel oral substrate reduction therapy, safely reverses clinical manifestations in untreated adults with Gaucher disease type 1. NTERPRETATION: Oral eliglustat maintained haematological and organ volume stability in adults with Gaucher\u0027s disease type 1 already controlled by intravenous ERT and could be a useful therapeutic option. We investigated whether patients stable on such treatment would remain so after switching to oral eliglustat, a selective inhibitor of glucosylceramide synthase. Effect of oral eliglustat on splenomegaly in patients with Gaucher disease type 1: the ENGAGE randomized clinical trial. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56cae51f5795f9a73e000025",
+      "ideal_answer": "Amyotrophic lateral sclerosis (ALS) is a rapidly progressing fatal neurodegenerative disorder characterized by the selective death of motor neurons (MN) in the spinal cord, and is associated with local neuroinflammation. Therapeutic immunization of mSOD1 mice with a myelin-derived peptide led to CP activation, and was followed by the accumulation of immunoregulatory cells, including IL-10-producing monocyte-derived macrophages and Foxp3(+) regulatory T cells, and elevation of the neurotrophic factors IGF-1 and GDNF in the diseased spinal cord parenchyma. Immunization with a Myelin-Derived Antigen Activates the Brain\u0027s Choroid Plexus for Recruitment of Immunoregulatory Cells to the CNS and Attenuates Disease Progression in a Mouse Model of ALS. T-cell deficiency increases neuronal loss, while boosting T cell levels reduces it. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56d1d14567f0cb3d66000003",
+      "ideal_answer": "RFECS: a random-forest based algorithm for enhancer identification from chromatin state. We developed a Random-Forest based algorithm, RFECS (Random Forest based Enhancer identification from Chromatin States) to integrate histone modification profiles for identification of enhancers, and used it to identify enhancers in a number of cell-types. However, only a limited number of cell types or chromatin marks have previously been investigated for this purpose, leaving the question unanswered whether there exists an optimal set of histone modifications for enhancer prediction in different cell types. We show that RFECS not only leads to more accurate and precise prediction of enhancers than previous methods, but also helps identify the most informative and robust set of three chromatin marks for enhancer prediction. Here, we address this issue by exploring genome-wide profiles of 24 histone modifications in two distinct human cell types, embryonic stem cells and lung fibroblasts. "
+    },
+    {
+      "exact_answer": [
+        [
+          "crizotinib"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Positive Finding"
+        ],
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "Resistant (qualifier value)"
+        ],
+        [
+          "Sodium Cation"
+        ],
+        [
+          "Alternative"
+        ],
+        [
+          "*Activity (kind of quantity)"
+        ],
+        [
+          "status - In progress"
+        ],
+        [
+          "Approved"
+        ],
+        [
+          "promise"
+        ],
+        [
+          "Intolerant"
+        ],
+        [
+          "Appearance"
+        ],
+        [
+          "Venezuela"
+        ],
+        [
+          "seconds"
+        ],
+        [
+          "Active"
+        ],
+        [
+          "Group A"
+        ],
+        [
+          "treatment options"
+        ],
+        [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        [
+          "Viable"
+        ],
+        [
+          "stage IV non-small cell lung cancer"
+        ],
+        [
+          "Inhibitor"
+        ],
+        [
+          "Generations"
+        ]
+      ],
+      "id": "56d042ae3975bb303a00000d",
+      "ideal_answer": "Ceritinib is a second-generation ALK inhibitor that has demonstrated activity in crizotinib-resistant patients, becoming a promising treatment option in this population. Ceritinib is approved for the treatment of ALK-positive metastatic NSCLC in patients who are intolerant to or have progressed despite therapy with crizotinib. Ceritinib has activity in crizotinib-resistant and crizotinib-naïve patients and appears to be a viable alternative for ALK-positive NSCLC. "
+    },
+    {
+      "exact_answer": [
+        [
+          "FRAP1 protein, human"
+        ],
+        [
+          "MLST8 gene"
+        ],
+        [
+          "RPTOR gene"
+        ],
+        [
+          "TOR complex 1"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "RICTOR gene"
+        ],
+        [
+          "TOR complex 2"
+        ],
+        [
+          "Consistency"
+        ],
+        [
+          "PROTEIN KINASE"
+        ],
+        [
+          "MAPKAP1 gene"
+        ],
+        [
+          "Phosphotransferases"
+        ],
+        [
+          "FKBP12-rapamycin associated protein"
+        ],
+        [
+          "MTOR gene"
+        ],
+        [
+          "MTOR COMPLEX"
+        ],
+        [
+          "Protein complex"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "Term (temporal)"
+        ],
+        [
+          "Multiprotein Complexes"
+        ],
+        [
+          "Cell Growth"
+        ],
+        [
+          "Containing (qualifier)"
+        ],
+        [
+          "Regulator"
+        ],
+        [
+          "Companions"
+        ],
+        [
+          "PRR5L gene"
+        ],
+        [
+          "AKT1S1 gene"
+        ],
+        [
+          "Lethal"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "Contain (action)"
+        ],
+        [
+          "PRR5 gene"
+        ],
+        [
+          "Reciprocal"
+        ],
+        [
+          "Activities"
+        ],
+        [
+          "Continuance of life"
+        ],
+        [
+          "Composition"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ],
+        [
+          "negative regulation of biological process"
+        ],
+        [
+          "Therapeutic Intervention"
+        ],
+        [
+          "Relationship by association"
+        ],
+        [
+          "Mechanism Component of Device"
+        ],
+        [
+          "Proliferation (morphologic abnormality)"
+        ],
+        [
+          "Mammals"
+        ],
+        [
+          "Component object"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "are unit of measure"
+        ],
+        [
+          "control substance"
+        ],
+        [
+          "Contribution"
+        ],
+        [
+          "SEC13 gene"
+        ]
+      ],
+      "id": "56cdf3745795f9a73e000039",
+      "ideal_answer": "Raptor-mTOR and Rictor-mTOR complexes compete for association with LST8, and this mechanism may contribute to the reciprocal negative regulations of mTORC1 and mTORC2 activities, in terms of their LST8 components. Two complexes of mTOR have been identified: complex 1, consisting of mTOR-Raptor (regulatory associated protein of mTOR)-mLST8 (termed mTORC1), and complex 2, comprising mTOR-Rictor (rapamycininsensitive companion of mTOR)-mLST8-Sin1 (termed mTORC2). The mTORC1 protein kinase complex consists of mTOR, raptor, mLST8/GbetaL and PRAS40. Two complexes of mTOR have been identified: complex 1 (mTORC1), consisting of mTOR, Raptor (regulatory associated protein of mTOR) and mLST8 (mammalian lethal with SEC13 protein 8) and complex 2 (mTORC2) consisting of mTOR, Rictor (rapamycin-insensitive companion of mTOR), Sin1 (stress-activated protein kinase-interacting protein 1), mLST8 and Protor-1 or Protor-2. The mTOR kinase controls cell growth, proliferation, and survival through two distinct multiprotein complexes, mTORC1 and mTORC2. mTOR and mLST8 are in both complexes, while raptor and rictor are part of only mTORC1 and mTORC2, respectively. The mTOR (mammalian target of rapamycin) protein kinase is an important regulator of cell growth. The mTOR (mammalian target of rapamycin) protein kinase is an important regulator of cell growth and is a key target for therapeutic intervention in cancer. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e6f419a12c1fc13b000002",
+      "ideal_answer": "and microbial translocation [lipopolysaccaride (LPS), microbial 16S rDNA and sCD14]. Lipopolysaccharide sensing an important factor in the innate immune response to Gram-negative bacterial infections. sterile bacterial wall lipopolysaccharide (LPS) to investigate the changes in innate lung microbiota. bacterial lipopolysaccharide (LPS). "
+    },
+    {
+      "exact_answer": [
+        [
+          "Cortical Dysplasia"
+        ],
+        [
+          "Type - attribute"
+        ],
+        [
+          "Focal dysplasia"
+        ],
+        [
+          "Focal"
+        ],
+        [
+          "Type 1"
+        ]
+      ],
+      "id": "56c1f020ef6e394741000047",
+      "ideal_answer": "This study also provides an opportunity to compare the predictive value of the ILAE and Palmini et al classification schemes with regard to the type I focal cortical dysplasias. Of the 91 patients, there were 50 patients with ILAE focal cortical dysplasia type Ib, 41 with ILAE focal cortical dysplasia type Ic, 63 with Palmini et al focal cortical dysplasia type IA, and 28 with Palmini et al focal cortical dysplasia type IB. Crude analysis revealed no significant difference between patients with subtypes of ILAE focal cortical dysplasia type I or Palmini et al focal cortical dysplasia type I concerning postoperative outcome according to the Engel and ILAE scoring systems on seizure frequency. Our findings revealed no significant difference concerning surgical outcome with respect to seizure frequency for the histologic subtypes of ILAE focal cortical dysplasia type I (Ib vs Ic) or Palmini et al focal cortical dysplasia type I (IA vs IB). Rates of high frequency oscillations in patients with pathologically confirmed focal cortical dysplasia of Palmini type 1a and b were compared with those in type 2a and b. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Enhancer of transcription"
+        ],
+        [
+          "Lysine"
+        ],
+        [
+          "Active"
+        ],
+        [
+          "Chromatin"
+        ],
+        [
+          "Strong"
+        ],
+        [
+          "Abnormally high"
+        ],
+        [
+          "Geographic state"
+        ],
+        [
+          "Nucleosomes"
+        ],
+        [
+          "Gene Expression Profiling"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Levels (qualifier value)"
+        ],
+        [
+          "Limb structure"
+        ],
+        [
+          "Hypersensitivity"
+        ],
+        [
+          "Depletion"
+        ],
+        [
+          "Signature"
+        ],
+        [
+          "Widening"
+        ],
+        [
+          "Genomic Profile"
+        ],
+        [
+          "VEGFA gene"
+        ],
+        [
+          "Functional Map"
+        ],
+        [
+          "Biological Markers"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "Gene Signature"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "Massive"
+        ],
+        [
+          "histone H3 acetylation"
+        ],
+        [
+          "Forelimb"
+        ],
+        [
+          "Definition"
+        ],
+        [
+          "Mus"
+        ],
+        [
+          "Body tissue"
+        ],
+        [
+          "Profiling (action)"
+        ],
+        [
+          "Changing"
+        ],
+        [
+          "Finding"
+        ],
+        [
+          "Measurement"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Sonication"
+        ],
+        [
+          "Embryo"
+        ],
+        [
+          "Hindlimb"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Exhibits as Topic"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Unstimulated"
+        ],
+        [
+          "Sequence Number"
+        ],
+        [
+          "chromatin immunoprecipitation"
+        ],
+        [
+          "Sequencing - CodeSystem"
+        ],
+        [
+          "Comparison"
+        ],
+        [
+          "Physical Shift"
+        ],
+        [
+          "EP300 gene"
+        ],
+        [
+          "Hepatic Involvement"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "Tissue specific"
+        ],
+        [
+          "DNA Microarray Chip"
+        ],
+        [
+          "Couple (action)"
+        ],
+        [
+          "Component object"
+        ],
+        [
+          "Stimulation (motivation)"
+        ],
+        [
+          "1+ Score, WHO"
+        ],
+        [
+          "Lower Extremity"
+        ],
+        [
+          "Genome"
+        ],
+        [
+          "Body Site Modifier - Lower"
+        ],
+        [
+          "utilization qualifier"
+        ],
+        [
+          "Location"
+        ]
+      ],
+      "id": "56ddbbaf51531f7e33000009",
+      "ideal_answer": "Here, we used chromatin immunoprecipitation followed by high-throughput sequencing (ChIP-seq) to measure genome-wide changes in histone H3 acetylation at lysine 27 (H3K27ac), a marker of active enhancers, in unstimulated HUVECs and HUVECs stimulated with VEGFA for 1, 4, and 12 h. Using H3K27ac profiles, we identified 28,377 putative enhancers, many of which are likely to be limb specific based on strong enrichment near genes highly expressed in the limb and comparisons with tissue-specific EP300 sites and known enhancers. Here we use whole-transcriptome analysis coupled with genome-wide profiling of H3K27ac and H3K27me3 to map chromatin states and enhancers in mouse embryonic forelimb and hindlimb. a chromatin state signature associated with active developmental enhancers, defined by high levels of H3K27ac marking, nucleosome displacement, hypersensitivity to sonication, and strong depletion of H3K27me3. We also find that some developmental enhancers exhibit components of this signature, including hypersensitivity, H3K27ac enrichment, and H3K27me3 depletion, at lower levels in tissues in which they are not active. At some locations, H3K27 monomethylation was also found to be associated with chromatin signatures of gene enhancers. "
+    },
+    {
+      "exact_answer": [
+        [
+          "ESRRB gene"
+        ],
+        [
+          "NR0B1 gene"
+        ],
+        [
+          "Octamer Transcription Factor-3"
+        ],
+        [
+          "Capacity"
+        ],
+        [
+          "physiological aspects"
+        ]
+      ],
+      "id": "56a8ee75a17756b72f000007",
+      "ideal_answer": "These data, together with previous findings, suggest that Dax1 functions as a negative regulator of Esrrb and Oct3/4, and these molecules form a regulatory loop for controlling the pluripotency and self-renewal capacity of ES cells. Furthermore, we revealed that Oct3/4, Dax1, and Esrrb have a competitive inhibition capacity for each complex. Dax1 associates with Esrrb and regulates its function in embryonic stem cells. Nuclear hormone receptor Dax1 is one of the crucial factors in the network. Here, we identified an orphan nuclear receptor, Esrrb (estrogen-related receptor beta), as a Dax1-interacting protein. Furthermore, Esrrb enhanced the promoter activity of the Dax1 gene via direct binding to Esrrb-binding site 1 (ERRE1, where \"ERRE\" represents \"Esrrb-responsive element\") of the promoter. Interaction of Dax1 and Esrrb was mediated through LXXLL motifs of Dax1 and the activation- and ligand-binding domains of Esrrb. We also found that the transcriptional activity of Esrrb was repressed by Dax1. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Sodium-Hydrogen Antiporter"
+        ],
+        [
+          "SLC9A6 gene"
+        ],
+        [
+          "Mental Retardation, X-Linked, Syndromic, Christianson Type"
+        ],
+        [
+          "Endosomes"
+        ],
+        [
+          "Mutation"
+        ]
+      ],
+      "id": "56d860ad51531f7e33000002",
+      "ideal_answer": "Mutations in the solute carrier family 9, subfamily A member 6 (SLC9A6) gene, encoding the endosomal Na+/H+ exchanger 6 (NHE6) are associated with Christianson syndrome, a syndromic form of X-linked intellectual disability characterized by microcephaly, severe global developmental delay, autistic behavior, early onset seizures and ataxia. A novel mutation in the endosomal Na+/H+ exchanger NHE6 (SLC9A6) causes Christianson syndrome with electrical status epilepticus during slow-wave sleep (ESES). Genetic and phenotypic diversity of NHE6 mutations in Christianson syndrome. Recently, Christianson syndrome (CS) has been determined to be caused by mutations in the X-linked Na(+) /H(+) exchanger 6 (NHE6). "
+    },
+    {
+      "exact_answer": [
+        [
+          "Dopamine"
+        ],
+        [
+          "Norepinephrine"
+        ],
+        [
+          "Serotonin"
+        ],
+        [
+          "Enzymes"
+        ],
+        [
+          "MAOA gene"
+        ],
+        [
+          "Neurotransmitters"
+        ],
+        [
+          "Monoamine Oxidase A"
+        ],
+        [
+          "Biogenic Amines"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Mitochondrial"
+        ],
+        [
+          "monoamine neurotransmitters"
+        ],
+        [
+          "Responsible to"
+        ],
+        [
+          "Monoamine Oxidase B"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "amine catabolic process"
+        ],
+        [
+          "Depressed mood"
+        ],
+        [
+          "Catalysis"
+        ],
+        [
+          "Monoamine Oxidase"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "enzyme degradation"
+        ],
+        [
+          "Does play"
+        ],
+        [
+          "Critical"
+        ],
+        [
+          "serotonin metabolic process"
+        ],
+        [
+          "Mitochondria"
+        ],
+        [
+          "Appetite Regulation"
+        ],
+        [
+          "Protoplasm"
+        ],
+        [
+          "Controlled by"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "enzymology"
+        ],
+        [
+          "Monoamine oxidase [PK]"
+        ],
+        [
+          "Neoplasm"
+        ],
+        [
+          "High Grade Malignant Neoplasm"
+        ],
+        [
+          "Diet"
+        ],
+        [
+          "Aggressive course"
+        ],
+        [
+          "EAF2 gene"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "neurotransmitter catabolic process"
+        ],
+        [
+          "Amines"
+        ],
+        [
+          "Exhibits as Topic"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "MAOB gene"
+        ],
+        [
+          "Increased"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "Vital High Nitrogen Enteral Nutrition"
+        ],
+        [
+          "Mood swings"
+        ],
+        [
+          "Membrane"
+        ],
+        [
+          "Treatment intent"
+        ],
+        [
+          "Monoamine Oxidase-A Inhibitors [MoA]"
+        ],
+        [
+          "Impulsive Behavior"
+        ],
+        [
+          "Eating"
+        ],
+        [
+          "Aggressive behavior"
+        ],
+        [
+          "Modulated"
+        ],
+        [
+          "Major"
+        ],
+        [
+          "Breaking down"
+        ],
+        [
+          "dopamine metabolic process"
+        ],
+        [
+          "neurotransmitter metabolism"
+        ],
+        [
+          "Catabolism"
+        ],
+        [
+          "nervous system disorder"
+        ],
+        [
+          "Prostate"
+        ]
+      ],
+      "id": "56cf4b623975bb303a00000a",
+      "ideal_answer": "Monoamine oxidases (MAO-A and MAO-B) have a key role in the degradation of amine neurotransmitters, such as dopamine, norepinephrine and serotonin. The monoamine oxidase-A (MAOA) gene plays a vital role in the metabolism of neurotransmitters, e.g, serotonin, norepinephrine, and dopamine. Inhibitors of monoamine oxidase A (MAOA), a mitochondrial enzyme that degrades neurotransmitters including serotonin and norepinephrine, are commonly used to treat neurological conditions including depression. Monoamine oxidase A (MAOA), a mitochondrial enzyme involved in the degradation of amines, has been reported to be associated with aggression, impulsivity, depression, and mood changes. Monoamine oxidase A (MAOA) is one of the major enzymes responsible for the degradation of neurotransmitters. Tumors from patients with high-grade aggressive prostate cancer (PCa) exhibit increased expression of monoamine oxidase A (MAOA), a mitochondrial enzyme that degrades monoamine neurotransmitters and dietary amines. Monoamine oxidase membrane enzymes are responsible for the catalytic breakdown of extra- and intracellular neurotransmitters. Monoamine oxidase-A (MAO-A) is a key mitochondrial enzyme that metabolizes biogenic amine neurotransmitters such as dopamine and serotonin. Monoamine oxidase A (MAOA) modulates metabolism of serotonin and dopamine metabolism, neurotransmitters involved in regulation of appetite and food intake. "
+    },
+    {
+      "id": "56bf5b0cef6e394741000014",
+      "ideal_answer": "A few studies have suggested a beneficial effect of music in patients with a disorder of consciousness but it is difficult to conclude since they did not use quantified measures and a control condition/group. This review presents an overview of the use of music therapy in neurological early rehabilitation of patients with coma and other disorders of consciousness (DOC) such as unresponsive wakefulness syndrome (UWS) or minimally conscious state (MCS). Our preliminary results show a significant improvement of the collaboration of the severe brain-injured patients and a reduction of undesired behaviours such as inertia (reduced psychomotor initiative) or psychomotor agitation. Active music therapy in the rehabilitation of severe brain injured patients during coma recovery. Hence, it is possible for music therapy to both establish contact with the seemingly non-responsive patient and re-stimulate the person\u0027s fundamental communication competencies and experience at the emotional, social and cognitive levels. The programs\u0027 content consisted of recreation and communication options, which involved activating music, videos, and basic requests, sending and receiving (listening to) text messages, and placing phone calls. Active improvised music therapy may offer an adjuvant from of treatment in the early rehabilitation of severe brain-injured patients. "
+    },
+    {
+      "exact_answer": [
+        [
+          "RNA, Messenger"
+        ],
+        [
+          "M NOS ANTIBODY"
+        ],
+        [
+          "WTAP gene"
+        ],
+        [
+          "Adenosine"
+        ],
+        [
+          "N not otherwise specified Antibody"
+        ]
+      ],
+      "id": "56df03c751531f7e3300000a",
+      "ideal_answer": "N(6)-methyladenosine (m6A) is the most abundant modified base in eukaryotic mRNA and has been linked to diverse effects on mRNA fate. Recent discoveries of reversible N(6)-methyladenosine (m(6)A) methylation on messenger RNA (mRNA) and mapping of m(6)A methylomes in mammals and yeast have revealed potential regulatory functions of this RNA modification. Monitoring m6A levels upon WTAP depletion allowed the definition of accurate and near single-nucleotide resolution methylation maps and their classification into WTAP-dependent and -independent sites. WTAP-dependent sites are located at internal positions in transcripts, topologically static across a variety of systems we surveyed, and inversely correlated with mRNA stability, consistent with a role in establishing \"basal\" degradation rates. The data argues for a role of internal m6A moieties in modulating the processing-linked transport of mRNA from the nucleus to the cytoplasm of nontransformed cells. m(6)A predominantly and directly reduces mRNA stability, including that of key naïve pluripotency-promoting transcripts. Methylations of adenosine residues (m6A) in pre-mRNA are important for formation of late simian virus 40 mRNAs. "
+    },
+    {
+      "exact_answer": [
+        [
+          "NANOG gene"
+        ],
+        [
+          "POU5F1 gene"
+        ],
+        [
+          "Maternal Relative"
+        ],
+        [
+          "Octamer Transcription Factor-3"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "Gene Expression"
+        ],
+        [
+          "Program"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "Zebrafish"
+        ],
+        [
+          "Initiate (source type)"
+        ],
+        [
+          "activate biological process"
+        ],
+        [
+          "Clearance [PK]"
+        ],
+        [
+          "POU5F1 wt Allele"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "Gene Activation"
+        ],
+        [
+          "Transition Mutation"
+        ],
+        [
+          "Program Development"
+        ],
+        [
+          "Induce (action)"
+        ],
+        [
+          "Experimental Result"
+        ]
+      ],
+      "id": "56a92be0a17756b72f000009",
+      "ideal_answer": "Nanog, Pou5f1 and SoxB1 activate zygotic gene expression during the maternal-to-zygotic transition. Here we show that Nanog, Pou5f1 (also called Oct4) and SoxB1 regulate zygotic gene activation in zebrafish. Our results demonstrate that maternal Nanog, Pou5f1 and SoxB1 are required to initiate the zygotic developmental program and induce clearance of the maternal program by activating miR-430 expression. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56d8b27651531f7e33000003",
+      "ideal_answer": "Pendred Syndrome can be characterized by the triad composed of familial goitre, abnormal perchlorate discharge and congenital deafness. Pendred syndrome comprises congenital sensorineural hearing loss, thyroid goiter, and positive perchlorate discharge test. Pendred syndrome is an autosomal recessive disorder characterized by congenital deafness and goiter. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56cf50253975bb303a00000b",
+      "ideal_answer": "We found significant interindividual differences in methylation status and methylation patterns of the core MAOA promoter. In the present study, DNA methylation patterns in the MAOA regulatory and exon 1/intron 1 region were investigated for association with panic disorder with particular attention to possible effects of gender and environmental factors. the extended MAOA regulatory region contains two CpG islands (CGIs), one of which overlaps with the canonical MAOA promoter and the other is located further upstream; both CGIs exhibit sensitivity to differential methylation. We conclude that smoking reliably decreases MAOA methylation, but exact characterization of effects on level of methylation depend on genotype, smoking history, current smoking status, gender, and region of the promoter-associated CpG Island examined. We conclude that methylation of MAOA may play a significant role in common psychiatric illness and that further examination of epigenetic processes at this locus is in order. MAOA promoter methylation and susceptibility to carotid atherosclerosis: role of familial factors in a monozygotic twin sample. Because twins reared together share early life experience, which may leave a long-lasting epigenetic mark, aberrant MAOA methylation may represent an early biomarker for unhealthy familial environment. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c02883ef6e394741000017",
+      "ideal_answer": "In a phase II study, researchers found that the PARP inhibitor olaparib led to stable disease or tumor regressions in patients with advanced breast, ovarian, pancreatic, and prostate cancers who had germline mutations in BRCA1 or BRCA2. It is increasingly clear that there are molecularly distinct subtypes of various common cancers, with different therapeutic approaches required for each subtype, for example, the use of the monoclonal antibodies (trastuzumab and cetuximab) in HER2-positive breast cancer and wild-type KRAS colorectal cancer; tyrosine kinase inhibitors (imatinib, gefitinib, erlotinib and crizotinib) in chronic myeloid leukaemia, gastrointestinal stromal tumours and non-small-cell lung cancer and intracellular agents (vemurafenib and olaparib) in metastatic malignant melanoma and ovarian, breast and prostate cancer. CONCLUSIONS: Treatment with the PARP inhibitor olaparib in patients whose prostate cancers were no longer responding to standard treatments and who had defects in DNA-repair genes led to a high response rate. Olaparib, one of the most studied PARPis, has demonstrated activity in BRCA1/2(MUT+) and BRCA-like sporadic ovarian and breast cancers, and looks promising in prostate and pancreatic cancers. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Viroids"
+        ],
+        [
+          "Plants"
+        ],
+        [
+          "Small"
+        ],
+        [
+          "RNA"
+        ],
+        [
+          "Pathogenic organism"
+        ]
+      ],
+      "id": "56e0447a51531f7e3300000b",
+      "ideal_answer": "Since the discovery of non-coding, small, highly structured, satellite RNAs (satRNAs) and viroids as subviral pathogens of plants , have been of great interest to molecular biologists as possible living fossils of pre-cellular evolution in an RNA world. Viroids are plant subviral pathogens whose genomes are constituted by a single-stranded and covalently closed small RNA molecule that does not encode for any protein. We show that viroids from the two known families are readily identified and their full-length sequences assembled by PFOR from small RNAs sequenced from infected plants. PFOR2 analysis of the small RNA libraries from grapevine and apple plants led to the discovery of Grapevine latent viroid (GLVd) and Apple hammerhead viroid-like RNA (AHVd-like RNA), respectively. Viroids are small, circular, single-stranded RNA molecules that cause several infectious plant diseases. Single-stranded RNAs as small as 246 nucleotides exist in certain higher plants and cause more than a dozen crop diseases. Contrary to earlier beliefs, viruses are not the smallest causative agents of infectious diseases. Viroids: petite RNA pathogens with distinguished talents. Subviral pathogens of plants: viroids and viroidlike satellite RNAs. These RNAs have been termed viroids. Subviral pathogens of plants: the viroids. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56ae67a40a360a5e4500000c",
+      "ideal_answer": "The aurora B kinase and the polycomb protein ring1B combine to regulate active promoters in quiescent lymphocytes. Ring1B and Aurora B bind to a wide range of active promoters in resting B and T cells. Aurora B phosphorylates histone H3S28 at active promoters in resting B cells as well as inhibiting Ring1B-mediated ubiquitination of histone H2A and enhancing binding and activity of the USP16 deubiquitinase at transcribed genes. We show that the Aurora B kinase and the polycomb protein Ring1B have essential roles in regulating transcriptionally active genes in quiescent lymphocytes. Conditional knockout of either protein results in reduced transcription and binding of RNA Pol II to promoter regions and decreased cell viability. Our results identify a mechanism for regulating transcription in quiescent cells that has implications for epigenetic regulation of the choice between proliferation and quiescence. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e073ad51531f7e3300000e",
+      "ideal_answer": "Channelrhodospin-2 (ChR2), a light-sensitive ion channel, and its variants have emerged as new excitatory optogenetic tools not only in neuroscience, but also in other areas, including cardiac electrophysiology. Light-sensitive genes chiefly including the genetically targeted light-gated channels channelrhodopsin-2 (ChR2) and halorhodopsin (NpHR) cause intracellular ion flow during optical illumination. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Promoter Regions, Genetic"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Responsive"
+        ],
+        [
+          "environmental stress"
+        ]
+      ],
+      "id": "56d138fe3975bb303a000015",
+      "ideal_answer": "The beet Y locus encodes an anthocyanin MYB-like protein that activates the betalain red pigment pathway. Some putative MYB, bHLH, and environmental stress-responsive transcription factor binding sites were detected in the PaDOD1 and PaDOD2 promoter regions. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Imetelstat"
+        ],
+        [
+          "Imetelstat Sodium"
+        ],
+        [
+          "telomerase inhibitor activity"
+        ],
+        [
+          "Telomerase"
+        ],
+        [
+          "trastuzumab"
+        ]
+      ],
+      "id": "56c048acef6e39474100001c",
+      "ideal_answer": "The telomerase inhibitor imetelstat alone, and in combination with trastuzumab, decreases the cancer stem cell population and self-renewal of HER2+ breast cancer cells. Imetelstat, a phase 2 telomerase inhibitor, was used to elucidate the effect of telomerase inhibition on proliferation and tumorigenicity in established cell lines (BXD-1425EPN, R254), a primary TIC line (E520) and xenograft models of pediatric ependymoma. The purpose of this study was to investigate the effects of a telomerase antagonistic oligonucleotide, imetelstat (GRN163L), on CSC and non-CSC populations of HER2(+) breast cancer cell lines. Telomerase inhibitor Imetelstat (GRN163L) limits the lifespan of human pancreatic cancer cells. GRN163L (Imetelstat) is a lipid-conjugated N3\u0027→P5\u0027 thio-phosphoramidate oligonucleotide that blocks the template region of telomerase. Treatment with imetelstat resulted in inhibition of telomerase activity, marked telomere shortening, and activation of the DNA damage response pathway, as measured by formation of γ-H2AX nuclear foci, phosphorylation of ATM, and phosphorylation of TP53. We evaluated the effect of the telomerase inhibitor imetelstat in preclinical models of MRT. PURPOSE: Imetelstat is a covalently-lipidated 13-mer thiophosphoramidate oligonucleotide that acts as a potent specific inhibitor of telomerase. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e05a7b51531f7e3300000d",
+      "ideal_answer": "Recent data demonstrate that developmental transcription factors like the macrophage fate-determining Pu.1 set the stage for the activity of ubiquitous transcription factors activated by inflammatory stimuli, like NF-kB, AP-1, and interferon regulatory factors (IRFs). Within 1217 bp of upstream sequence, 3 sites for NF-kB, 10 sites for NF-IL6, 15 sites for AP1, 6 sites for AP4, 2 sites for CHOP/CEBP alpha and 1 site for SP1 and PU.1 were identified. Several putative binding sequences for ubiquitous (Sp1, AP-1, AP-2, and NF-kB) and leukocyte-specific (PU.1) transcription factors have been identified in the proximal region of the CD11c promoter which may participate in the regulation of the expression of p150,95. As little as 82 bp of upstream sequence gave relatively strong luciferase activity, a region containing both a PU.1 and NF-kB site. Potential transcription regulatory elements, AP1, AP2, AP3, NF-kB and GATA recognition sequences, are located within 523 bp upstream of the p35 gene; however, no TATA box was identified. A TATA box is located 30 bp upstream from the transcription start site, and AP1, AP3, GATA, and Pu.1 recognition sequences are located within 690 bp upstream of the p40 gene. The p40 subunit gene consists of eight exons. "
+    },
+    {
+      "exact_answer": [
+        [
+          "MYEF2 gene"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "Functional behavioral assessment"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "Hematopoietic"
+        ]
+      ],
+      "id": "56ae70050a360a5e4500000f",
+      "ideal_answer": "A novel complex, RUNX1-MYEF2, represses hematopoietic genes in erythroid cells. Functional analysis shows that a subset of the target genes is suppressed by RUNX1 via the newly identified partner MYEF2. Knockdown of Myef2 expression in developing zebrafish results in a reduced number of HSC. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Efficiency"
+        ],
+        [
+          "cellular transposition"
+        ],
+        [
+          "Beauty"
+        ],
+        [
+          "Asleep"
+        ],
+        [
+          "Device Component System"
+        ]
+      ],
+      "id": "56c4d14ab04e159d0e000003",
+      "ideal_answer": "However, recently another system known as PiggyBac (PB) has been introduced and developed for fulfilling the same purposes, for example, mutagenesis, transgenesis and gene therapy and in some cases with improved transposition efficiency and advantages over the Sleeping Beauty transposon system, although improved hyperactive transposase has highly increased the transposition efficacy for SB. Here, we compared the efficiency of two different transposon systems, Sleeping Beauty (SB) and piggyBac (PB), for the generation of murine iPS. Compared with Sleeping Beauty, PiggyBac exhibits higher transposition efficiencies, no evidence for local hopping and a significant bias toward reintegration in intragenic regions, which demonstrate its utility for insertional mutagenesis. We found that PB demonstrated the highest efficiency of stable gene transfer in PBL-derived T cells, whereas SB11 and Tol2 mediated intermediate and lowest efficiencies, respectively. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Exons"
+        ],
+        [
+          "Acquired (qualifier value)"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "Threonine"
+        ],
+        [
+          "Methionine"
+        ]
+      ],
+      "id": "56d1f790f22319765a000001",
+      "ideal_answer": "Two types of epidermal growth factor receptor (EGFR) mutations in exon 19 and exon 21 (ex19del and L858R) are prevalent in lung cancer patients and sensitive to targeted EGFR inhibition. Nearly one half of all cases of acquired resistance to epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors (TKIs) for non-small-cell lung cancer (NSCLC) are due to the T790M mutation in EGFR exon 20. The T790M mutation in EGFR accounts for approximately half of all lung cancer cases with acquired resistance to the current clinical EGFR tyrosine kinase inhibitors. In nonsmall cell lung cancer (NSCLC), the threonine(790)-methionine(790) (T790M) point mutation of EGFR kinase is one of the leading causes of acquired resistance to the first generation tyrosine kinase inhibitors (TKIs), such as gefitinib and erlotinib. Both AKT and MEK inhibition contributed to cell death independent of erlotinib in the T790M-containing H1975 and the EGFR-WT cell lines tested. In EGFR-mutated NSCLC cell lines with the acquired resistance threonine-to-methionine mutation in codon 790 (T790M) mutation,. The EGFR T790M mutation is generally considered to be the molecular genetic basis of acquired TKI resistance. "
+    },
+    {
+      "id": "56c07ef5ef6e394741000023",
+      "ideal_answer": "The cytokine CSF-1 (or M-CSF) is an important factor of TAM recruitment and differentiation and several pharmacological agents targeting the CSF-1 receptor (CSF-1R) have been developed to regulate TAM in solid cancers. Treatment with PLX3397, a small molecule inhibitor of the CSF1 receptor CSF1R and related kinases, decreases microglial numbers by promoting microglial apoptosis in both CSF1 overexpressing and control mice. We hypothesized that PLX3397, which inhibits KIT and colony-stimulating-factor-1 receptor (CSF1R), would be more efficacious than imatinib in GIST by also depleting tumor-associated macrophages, which are generally thought to support tumor growth. .METHODS: Using x-ray co-crystallography to guide our drug-discovery research, we generated a potent, selective CSF1R inhibitor, PLX3397, that traps the kinase in the autoinhibited conformation. In conclusion, CSF-1R blockade with PLX3397 improved the efficacy of ACT immunotherapy by inhibiting the intratumoral accumulation of immunosuppressive macrophages. Sustained inhibition of receptor tyrosine kinases and macrophage depletion by PLX3397 and rapamycin as a potential new approach for the treatment of MPNSTs. We show that the kinase inhibitor PLX3397 strongly dampened the systemic and local accumulation of macrophages driven by B16F10 melanomas, without affecting Gr-1(+) myeloid derived suppressor cells. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e2985951531f7e33000013",
+      "ideal_answer": "We propose that the organized structure of the R-loop is critical for primer RNA function in vivo with important implications for the RNA processing and DNA replication machinery. These results suggest that overproduced RecG inhibits the initiation of replication by prematurely resolving the R-loops formed at the replication origin region of these plasmids with its unique helicase activity. Transcription is an important source of replicative stress and consequently, maintenance of genome integrity requires the protection of chromosomes from the deleterious effects arising from the interaction between nascent RNAs and template DNA, leading to stable DNA-RNA hybrids (R-loop) formation. connection between transcription and replication in human cells and suggests that R-loop dysregulation at CpG island promoter-origins might contribute to the phenotype of DNA replication abnormalities and loss of genome integrity detected in cancer cells. We propose that downstream of a replication block, RNA at R-loops is extended by DNA polymerase I, opening up the DNA duplex and leading to the recruitment of the replisome. Here we propose that physiological R-loop formation at CpG island promoters can contribute to DNA replication origin specification at these regions, the most efficient replication initiation sites in mammalian cells. "
+    },
+    {
+      "id": "56af5abb0a360a5e45000012",
+      "ideal_answer": "Single-molecule fluorescence in situ hybridization: quantitative imaging of single RNA molecules. Multi-color, single-molecule fluorescence in situ hybridization (smFISH) is particularly useful since it enables analysis of several different transcripts simultaneously. In situ hybridization-based analysis methods complement these studies by providing information about how expression levels change between cells within normal and diseased tissues, and they provide information about the localization of transcripts within cells, which is important in understanding mechanisms of gene regulation. Combining smFISH with immunofluorescent protein detection provides additional information about the association between transcription level, cellular localization, and protein expression in individual cells. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Isradipine"
+        ],
+        [
+          "Type - attribute"
+        ],
+        [
+          "channel blockers"
+        ],
+        [
+          "omega-Conotoxin GVIA"
+        ],
+        [
+          "omega-Agatoxin IVA"
+        ]
+      ],
+      "id": "56cf20eb3975bb303a000001",
+      "ideal_answer": "A comparison of the sensitivity to blockade by isradipine of the L-type currents in Purkinje cells and ventricular epicardial myocytes, which only express Ca(v)1.2,. The L-type channel blocker, isradipine (5 microM), had no significant effect on the amplitude or kinetics of the Ca(2+) signal. Systemic administration of isradipine, a dihydropyridine blocker of L-type channels, forces dopaminergic neurons in rodents to revert to a juvenile, Ca(2+)-independent mechanism to generate autonomous activity. channels make, at most, a minor contribution to the L-type current in canine Purkinje cells. Action potential repolarisation in hippocampal pyramidal neurons was slowed by the N-type channel blocker omega-conotoxin GVIA, but not by the L-type channel blocker isradipine. The release of glutamate was significantly inhibited by both omega-agatoxin IVA, a P/Q-type calcium channel antagonist, and isradipine, an L type calcium channel antagonist. suggests that the Ca(v)1.3. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Oral"
+        ],
+        [
+          "Molecular"
+        ],
+        [
+          "Treponema denticola"
+        ],
+        [
+          "Detection"
+        ],
+        [
+          "Colon structure (body structure)"
+        ],
+        [
+          "member"
+        ],
+        [
+          "Containing (qualifier)"
+        ],
+        [
+          "Others - Allergy"
+        ],
+        [
+          "Dietary Copper"
+        ],
+        [
+          "Eubacterium tenue"
+        ],
+        [
+          "Bacteroides sp."
+        ],
+        [
+          "Large"
+        ],
+        [
+          "Natural"
+        ],
+        [
+          "Clostridium perfringens"
+        ],
+        [
+          "Curtobacterium"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "Numbers"
+        ],
+        [
+          "Bacteria"
+        ],
+        [
+          "Entire hand"
+        ],
+        [
+          "Feces"
+        ],
+        [
+          "Agromyces"
+        ],
+        [
+          "Senility"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Sphingomonas"
+        ],
+        [
+          "Ice"
+        ],
+        [
+          "Spirochaeta genus"
+        ],
+        [
+          "Treponema"
+        ],
+        [
+          "Some (qualifier value)"
+        ],
+        [
+          "Biopsy"
+        ],
+        [
+          "Mummies"
+        ],
+        [
+          "\u003e5"
+        ],
+        [
+          "Did not receive therapy or drug for"
+        ],
+        [
+          "Skin"
+        ],
+        [
+          "Microbacterium"
+        ],
+        [
+          "per year"
+        ],
+        [
+          "Afipia"
+        ],
+        [
+          "Ursidae Family"
+        ],
+        [
+          "Human tissue"
+        ],
+        [
+          "Vibrio"
+        ]
+      ],
+      "id": "56d1fd67f22319765a000002",
+      "ideal_answer": "Here, we report the molecular detection of the oral spirochete Treponema denticola in ancient human tissue biopsies of the Iceman, a 5,300-year-old Copper Age natural ice mummy. while the untreated skin still bears the remains of large numbers of bacteria belonging to the genera Sphingomonas, Afipia, Curtobacterium, Microbacterium, Agromyces, and others. The Iceman\u0027s colon, however, was found to contain, rather unexpectedly, also some members of the genus Vibrio. The colon, on the other hand, contains several members of the fecal flora of humans, such as Clostridium perfringens, C. ghonii, C. sordellii, Eubacterium tenue, and Bacteroides sp. "
+    },
+    {
+      "exact_answer": [
+        [
+          "afamelanotide"
+        ],
+        [
+          "Erythropoietic Protoporphyria"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Melanocyte stimulating hormone analog"
+        ],
+        [
+          "Conclusion"
+        ],
+        [
+          "cetuximab"
+        ],
+        [
+          "Melanocyte stimulating hormone"
+        ],
+        [
+          "Clinical Trials"
+        ],
+        [
+          "CUV1647"
+        ],
+        [
+          "promise"
+        ],
+        [
+          "panitumumab"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Efficacy Study"
+        ],
+        [
+          "Stage level 2"
+        ],
+        [
+          "Analog"
+        ],
+        [
+          "NBL1 wt Allele"
+        ],
+        [
+          "Model"
+        ],
+        [
+          "III (suffix)"
+        ],
+        [
+          "Clinical Trials, Randomized"
+        ],
+        [
+          "Ultraviolet Therapy"
+        ],
+        [
+          "Current (present time)"
+        ],
+        [
+          "The science and art of healing"
+        ],
+        [
+          "Pharmacologic Substance"
+        ],
+        [
+          "agonists"
+        ],
+        [
+          "Dermal - anatomy qualifier"
+        ],
+        [
+          "Clinical Trial [Publication Type]"
+        ],
+        [
+          "Increase"
+        ],
+        [
+          "Phototoxicity"
+        ],
+        [
+          "VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)"
+        ],
+        [
+          "gefitinib"
+        ],
+        [
+          "Profile (lab procedure)"
+        ],
+        [
+          "First (number)"
+        ],
+        [
+          "Appearance"
+        ],
+        [
+          "Treatment Effectiveness"
+        ],
+        [
+          "capecitabine"
+        ],
+        [
+          "GDC 0449"
+        ],
+        [
+          "cyclopamine"
+        ],
+        [
+          "Early"
+        ],
+        [
+          "ToDay brand"
+        ],
+        [
+          "Fluorouracil"
+        ],
+        [
+          "erlotinib"
+        ],
+        [
+          "betulinic acid"
+        ],
+        [
+          "Sunlight"
+        ],
+        [
+          "Prone Position"
+        ],
+        [
+          "combination of objects"
+        ],
+        [
+          "Potential"
+        ],
+        [
+          "Skin lesion"
+        ],
+        [
+          "High sensitivity"
+        ],
+        [
+          "Induce (action)"
+        ],
+        [
+          "Polymorphous light eruption"
+        ],
+        [
+          "Dermatitis, Phototoxic"
+        ],
+        [
+          "PROPOSED"
+        ],
+        [
+          "literary novel"
+        ],
+        [
+          "PREVENT (product)"
+        ],
+        [
+          "Adverse event"
+        ],
+        [
+          "Statistical Significance"
+        ],
+        [
+          "Home environment"
+        ],
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "apparent"
+        ],
+        [
+          "Acceptable"
+        ],
+        [
+          "Patient symptoms"
+        ],
+        [
+          "Safety Study"
+        ],
+        [
+          "Pain NOS Adverse Event"
+        ],
+        [
+          "Agonist"
+        ],
+        [
+          "Absolute"
+        ],
+        [
+          "Having administered"
+        ],
+        [
+          "Exposure Duration"
+        ],
+        [
+          "Duration (temporal concept)"
+        ],
+        [
+          "Vitiligo"
+        ],
+        [
+          "Comparison"
+        ],
+        [
+          "Persons"
+        ],
+        [
+          "Demonstrates"
+        ],
+        [
+          "Upper"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Prodrugs"
+        ],
+        [
+          "Procedure findings:Finding:Point in time:^Patient:Narrative"
+        ],
+        [
+          "Switzerland"
+        ],
+        [
+          "Microvolt"
+        ],
+        [
+          "Intolerance - biological effect of chemicals"
+        ],
+        [
+          "Better"
+        ],
+        [
+          "Dermatologic disorders"
+        ],
+        [
+          "Hedgehog Signaling Pathway"
+        ],
+        [
+          "Australia"
+        ],
+        [
+          "Favorable"
+        ],
+        [
+          "Organ"
+        ],
+        [
+          "inhibitors"
+        ],
+        [
+          "Application procedure"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "Photosensitivity Disorders"
+        ],
+        [
+          "Proven findings"
+        ],
+        [
+          "Controlled Release Dosage Form"
+        ],
+        [
+          "Anti-inflammatory effect"
+        ],
+        [
+          "Effectiveness of Interventions"
+        ],
+        [
+          "Negative Regulation of Inflammatory Response Process"
+        ],
+        [
+          "Representation (action)"
+        ],
+        [
+          "Europe"
+        ],
+        [
+          "Market"
+        ],
+        [
+          "Recipient, Transplant"
+        ],
+        [
+          "Quality of life"
+        ]
+      ],
+      "id": "56c08702ef6e394741000024",
+      "ideal_answer": "Afamelanotide is currently undergoing phase II and III trials in Europe and the US for skin diseases including vitiligo, erythropoietic protoporphyria, polymorphic light eruption and prevention of actinic keratoses in organ transplant recipients. CONCLUSIONS: Afamelanotide had an acceptable side-effect and adverse-event profile and was associated with an increased duration of sun exposure without pain and improved quality of life in patients with erythropoietic protoporphyria. TAKE HOME MESSAGE: Although early, results of the first trials of afamelanotide for PP are promising and the risk-safety profile appears favorable today. CONCLUSIONS AND RELEVANCE: A combination of afamelanotide implant and NB-UV-B phototherapy resulted in clinically apparent, statistically significant superior and faster repigmentation compared with NB-UV-B monotherapy. Meanwhile, the regulated α-MSH analogue afamelanotide (Clinuvel Pharmaceuticals Ltd, Melbourne, Australia) is showing promise for its photoprotective potential, and is undergoing phase II and III clinical trials in people with photosensitivity disorders and those prone to nonmelanoma skin cancer. "
+    },
+    {
+      "exact_answer": [
+        [
+          "cohesins"
+        ],
+        [
+          "stachybocin A"
+        ],
+        [
+          "S Phase"
+        ],
+        [
+          "Staphylococcal Protein A"
+        ],
+        [
+          "Chromosomes"
+        ]
+      ],
+      "id": "56e2acfe51531f7e33000014",
+      "ideal_answer": "We have used chromatin immunoprecipitation coupled with microarray analysis (ChIP chip) to produce a genome-wide description of cohesin binding to meiotic and mitotic chromosomes of Saccharomyces cerevisiae. Cohesin sites are highly conserved in meiosis and mitosis, suggesting that chromosomes share a common underlying structure during different developmental programs. In cells recovering from nocodazole-induced spindle depolymerization and G(2)/M arrest, cohesin-STB association can be established coincident with spindle restoration. Proteolytic cleavage of cohesin\u0027s Sccl subunit at the metaphase to anaphase transition is essential for sister chromatid separation and depends on a conserved protein called separin. In the budding yeast, cohesin is loaded onto the chromosome during the late G1 phase, establishes sister chromatid cohesion concomitant with DNA replication, and dissociates by the telophase. Four of these proteins, Scc1p, Scc3p, Smc1p, and Smc3p, are subunits of a \u0027Cohesin\u0027 complex that binds chromosomes from late G1 until the onset of anaphase. By using \"single-copy\" derivatives of the 2-microm plasmid, we demonstrate that recruitment of cohesin at STB during S phase indeed translates into cohesion between plasmid molecules. Sister chromatid cohesion is mediated by cohesin, but the process of cohesion establishment during S-phase is still enigmatic. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56b8ed4b156496395c000004",
+      "ideal_answer": "Some of the most highly conserved sequences occur in genes encoding RNA binding proteins, particularly the RNA splicing-associated SR genes. Differences in sequence conservation between plants and animals are likely to reflect differences in the biology of the organisms, with plants being much more able to tolerate genomic deletions and whole-genome duplication events due, in part, to their far greater fecundity compared with vertebrates. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56cf27293975bb303a000003",
+      "ideal_answer": "Since this region partially overlaps with residues previously implicated in block of the channel by omega-conotoxin GVIA, we assessed the effects of mutations in the putative EF hand domain on channel block by omega-conotoxin GVIA and the structurally related omega-conotoxin MVIIA. Binding assay for both N- and P/Q-type calcium channels showed that amino acid residues restricted to the N-terminal half are important for the recognition of N-type channels, whereas essential residues for P/Q-type channel recognition are widely spread over the whole omega-conotoxin molecule. Both of the toxins irreversibly block the activity of wild type alpha(1B) N-type channels. Despite their high sequence homology, the peptide neurotoxins omega-conotoxin MVIIA and MVIIC selectively block N- and P/Q-type calcium channels, respectively. "
+    },
+    {
+      "id": "56d2adc5f22319765a000005",
+      "ideal_answer": "The coiled-coil domain containing protein CCDC40 is essential for motile cilia function and left-right axis formation. CCDC39 and CCDC40 mutations represent the major cause of PCD with IDA defects and axonemal disorganisation. Mutations in CCDC39 and CCDC40 are the major cause of primary ciliary dyskinesia with axonemal disorganization and absent inner dynein arms. Human cilia were once thought merely to be important in respiratory mucociliary clearance, with primary ciliary dyskinesia (PCD) the sole manifestation of ciliary dysfunction. Primary ciliary dyskinesia (PCD) is a rare genetic disorder leading to recurrent respiratory tract infections. Primary ciliary dyskinesia (PCD) is a genetically heterogeneous, autosomal recessive disorder that results from functional and ultrastructural abnormalities of motile cilia. Ciliary beat pattern and frequency in genetic variants of primary ciliary dyskinesia. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c1d841ef6e39474100002d",
+      "ideal_answer": "BACKGROUND AND PURPOSE: Acetazolamide and dichlorphenamide are carbonic anhydrase (CA) inhibitors effective in the clinical condition of hypokalemic periodic paralysis (hypoPP). Three patients with Hypokalemic Periodic Paralysis (HOPP)-associated progressive interattack muscle weakness, who became unresponsive or worsened by acetazolamide, responded favorably to dichlorophenamide, a more potent carbonic anhydrase inhibitor. Dichlorophenamide should be considered as an alternate to acetazolamide in the treatment of patients with HOPP-associated interattack muscle weakness who have become unresponsive or worsened by acetazolamide. In one study dichlorphenamide (DCP) vs placebo was tested in two groups of participants: 42 with hypokalemic periodic paralysis (HypoPP) and 31 with hyperkalemic periodic paralysis (HyperPP), based on clinical criteria. AUTHORS\u0027 CONCLUSIONS: The largest included study that met our inclusion criteria suggested that DCP was effective in the prevention of episodic weakness in both hypokalemic and hyperkalemic periodic paralyses. For the 34 participants having attack rate data for both treatment phases, the mean improvement in attack rate (P \u003d 0.02) and severity-weighted attack rate (P \u003d 0.01) on DCP relative to placebo were statistically significant. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Bromodomain"
+        ],
+        [
+          "Structure"
+        ],
+        [
+          "South Africa"
+        ],
+        [
+          "Molecular helix"
+        ],
+        [
+          "Folded structure"
+        ]
+      ],
+      "id": "56e2cec751531f7e33000015",
+      "ideal_answer": "Although the overall fold resembles the bromodomains from other proteins, significant differences can be found in loop regions, especially in the ZA loop in which a two amino acids insertion is involved in an uncommon pi-helix, termed piD. In addition to a typical all-alpha-helical fold that was observed in the bromodomains, we observed for the first time a small beta-sheet in the ZA loop region of the BRG1 protein. These new studies also support the notion that functional diversity of a conserved bromodomain structural fold is achieved by evolutionary changes of structurally flexible amino-acid sequences in the ligand binding site such as the ZA and BC loops. Here, we report the solution structure of BRD7 bromodomain determined by NMR spectroscopy, and its binding specificity revealed by NMR titration with several acetylated histone peptides. This is the first observation of a homodimer among the known bromodomain structures, through the buried hydrophobic core region at the interface. The structure has a left-handed four-helix bundle topology, with two short additional helices in a long connecting loop. However, the alphaZ helix of Brg1 bromodomain is about 4 residues shorter relative to previously published bromodomain structures. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Functional Relationship"
+        ],
+        [
+          "Transcription, Genetic"
+        ],
+        [
+          "Mammals"
+        ],
+        [
+          "Annotation"
+        ],
+        [
+          "Project"
+        ]
+      ],
+      "id": "569e731cca240fa209000003",
+      "ideal_answer": "The FANTOM5 and ENCODE projects represent two independent large scale efforts to map regulatory and transcriptional features to the human genome. The functional annotation of the mammalian genome 5 (FANTOM5) project provides comprehensive expression profiles and functional annotation of mammalian cell-type-specific transcriptomes with wide applications in biomedical research. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Interleukins"
+        ],
+        [
+          "mepolizumab"
+        ],
+        [
+          "benralizumab"
+        ],
+        [
+          "Monoclonal Antibodies"
+        ],
+        [
+          "reslizumab"
+        ],
+        [
+          "Antibodies"
+        ],
+        [
+          "lebrikizumab"
+        ],
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "A Ab"
+        ],
+        [
+          "cytokine"
+        ],
+        [
+          "Interleukin-2"
+        ],
+        [
+          "Interleukin-13"
+        ],
+        [
+          "Daclizumab"
+        ],
+        [
+          "receptor"
+        ],
+        [
+          "Anti-Antibodies"
+        ],
+        [
+          "interleukin receptor activity"
+        ],
+        [
+          "monoclonal"
+        ],
+        [
+          "TPI ASM8"
+        ],
+        [
+          "promise"
+        ],
+        [
+          "Eosinophilic disorder"
+        ],
+        [
+          "In Blood"
+        ],
+        [
+          "Tissue eosinophil"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "Clinical"
+        ],
+        [
+          "Variable (uniformity)"
+        ],
+        [
+          "Severe asthma"
+        ],
+        [
+          "year"
+        ],
+        [
+          "Count"
+        ],
+        [
+          "Frequent"
+        ],
+        [
+          "Design"
+        ],
+        [
+          "Improvement"
+        ],
+        [
+          "Example"
+        ],
+        [
+          "Activity alteration"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "Set scale"
+        ],
+        [
+          "Patterns"
+        ],
+        [
+          "chain of objects"
+        ],
+        [
+          "Ability"
+        ],
+        [
+          "Eosinophilic esophagitis"
+        ],
+        [
+          "Adverse event"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Chronic Obstructive Airway Disease"
+        ],
+        [
+          "Exacerbation of asthma"
+        ],
+        [
+          "Pharmacologic Substance"
+        ],
+        [
+          "Suboptimal"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Safety Study"
+        ],
+        [
+          "Limited (extensiveness)"
+        ],
+        [
+          "Hypereosinophilia"
+        ],
+        [
+          "Preposition For"
+        ],
+        [
+          "Idiopathic Hypereosinophilic Syndrome"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Oligonucleotides"
+        ],
+        [
+          "Alteration"
+        ],
+        [
+          "Clinical Trial [Publication Type]"
+        ],
+        [
+          "Inadequate (qualifier)"
+        ],
+        [
+          "Unresponsive to Treatment"
+        ],
+        [
+          "Hold - dosing instruction fragment"
+        ],
+        [
+          "Relationships"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "Aim (idea)"
+        ],
+        [
+          "Clinical Research"
+        ],
+        [
+          "Administration occupational activities"
+        ],
+        [
+          "Reduction - action"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Condition activity"
+        ],
+        [
+          "Percent inhibition"
+        ],
+        [
+          "Data"
+        ],
+        [
+          "Reporting"
+        ],
+        [
+          "Esthesia"
+        ],
+        [
+          "Antagonist muscle action"
+        ],
+        [
+          "Characteristics"
+        ],
+        [
+          "Current Therapy"
+        ],
+        [
+          "Direct (qualifier)"
+        ],
+        [
+          "Receive"
+        ],
+        [
+          "Greater"
+        ],
+        [
+          "Disseminated eosinophilic collagen disease"
+        ],
+        [
+          "Good"
+        ],
+        [
+          "strategy"
+        ],
+        [
+          "Symptom control (regime/therapy)"
+        ]
+      ],
+      "id": "56cf2be73975bb303a000005",
+      "ideal_answer": "The most promising agents are targeted against cytokines of Th2 pattern and related receptors, such as IL-2 (daclizumab) and IL-13 (lebrikizumab) or IL-5 in patients with hypereosinophilia (mepolizumab, reslizumab and benralizumab). For example, patients with the hypereosinophilic syndrome have received mepolizumab, an anti-IL-5 monoclonal antibody, for as long as 6 years and have not developed any characteristic set of adverse events. Safety data for reslizumab, another anti-IL-5 monoclonal antibody, and benralizumab, a monoclonal antibody to the IL-5 receptor α-chain, are comparatively limited, especially for benralizumab, although reports of administration of these antibodies to humans suggest that they are well tolerated. IL-5 antagonist therapies in current development include two monoclonal anti-IL-5 antibodies (mepolizumab, reslizumab), a monoclonal antibody directed at the IL-5 receptor (benralizumab), and anti-sense oligonucleotide therapy (TPI ASM8). Clinical studies in other disorders, particularly eosinophilic esophagitis and hypereosinophilic syndrome, have also shown significant improvements in blood and/or tissue eosinophilia and variable alterations in clinical disease activity. Patients with severe asthma or COPD have often a suboptimal symptom control due to inadequate treatment. In patients with severe, refractory asthma associated with eosinophilia, however, clinical trials have demonstrated significant reductions in asthma exacerbations. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Proteins"
+        ],
+        [
+          "Yes (indicator)"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "YAP1 gene"
+        ],
+        [
+          "Biochemical Pathway"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ],
+        [
+          "Cell Proliferation"
+        ],
+        [
+          "Promotion (action)"
+        ],
+        [
+          "Transcriptional Coactivator with PDZ-Binding Motif"
+        ],
+        [
+          "Transcription Coactivator"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "Downstream"
+        ],
+        [
+          "Organ Size"
+        ],
+        [
+          "Major"
+        ],
+        [
+          "TRANSCRIPTION FACTOR"
+        ],
+        [
+          "Resistant (qualifier value)"
+        ],
+        [
+          "Various patch test substance"
+        ],
+        [
+          "Oncogene Proteins"
+        ],
+        [
+          "Antineoplastic Agents"
+        ],
+        [
+          "Does play"
+        ],
+        [
+          "Metabolic Inhibition"
+        ],
+        [
+          "Type - attribute"
+        ],
+        [
+          "Critical"
+        ],
+        [
+          "tissue homeostasis"
+        ],
+        [
+          "Protein translocation"
+        ],
+        [
+          "Histopathologic Grade differentiation"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "End-stage"
+        ],
+        [
+          "Superkingdom (taxonomic category)"
+        ],
+        [
+          "Gene Expression"
+        ],
+        [
+          "Associate - relationship"
+        ],
+        [
+          "Proliferation (morphologic abnormality)"
+        ],
+        [
+          "Neoplasm"
+        ],
+        [
+          "Molecule"
+        ],
+        [
+          "control substance"
+        ],
+        [
+          "growth aspects"
+        ],
+        [
+          "hippo signaling cascade"
+        ],
+        [
+          "Enhancer of transcription"
+        ],
+        [
+          "Cell Nucleus"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "MTOR gene"
+        ],
+        [
+          "Candidate Disease Gene"
+        ],
+        [
+          "Types of drugs"
+        ],
+        [
+          "member"
+        ],
+        [
+          "Convergence (action)"
+        ],
+        [
+          "development aspects"
+        ],
+        [
+          "transcription coactivator binding"
+        ],
+        [
+          "Appearance"
+        ],
+        [
+          "Signal Transduction Pathways"
+        ],
+        [
+          "Cancer Genus"
+        ],
+        [
+          "Natural regeneration"
+        ],
+        [
+          "YY1AP1 gene"
+        ],
+        [
+          "Tumor cells, uncertain whether benign or malignant"
+        ],
+        [
+          "AKT1 gene"
+        ],
+        [
+          "Intracellular"
+        ],
+        [
+          "Protein Domain"
+        ]
+      ],
+      "id": "56d1d94667f0cb3d66000005",
+      "ideal_answer": "Yes-associated protein (YAP), a transcription coactivator, is the major downstream effector of the Hippo pathway, which plays a critical role in organ size control and cancer development. YAP (Yes-associated protein) and TAZ (transcriptional coactivator with PDZ-binding motif) are major downstream effectors of the Hippo pathway that influences tissue homeostasis, organ size, and cancer development. Yes associated protein (YAP) and transcriptional co-activator with PDZ-binding motif (TAZ) are its targets and terminal effectors: inhibition of the pathway promotes YAP/TAZ translocation to the nucleus, where they interact with transcriptional enhancer associate domain (TEAD) transcription factors and coactivate the expression of target genes, promoting cell proliferation. YAP and TAZ oncoproteins confer malignancy and drug resistance to various cancer types. Intracellular molecules Yap, Akt, mTOR, and Erk are signaling pathway members that regulate the proliferation of tumor cells. The Hippo signaling pathway converges on YAP to regulate growth, differentiation, and regeneration. in which YAP appears to regulate cell proliferation. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c1d846ef6e39474100002e",
+      "ideal_answer": "CONCLUSION: The increased expression of neuroglobin in traumatic brain injury informed us that neuroglobin had anti-apoptosis action in post-injury neuron. CONCLUSION: Ngb over-expression reduced traumatic lesion volume, which might partially be achieved by decreasing oxidative stress. Neuroglobin (Ngb) is proposed to be a neuron-specific, hypoxia-responsive, neuroprotective protein. Neuroglobin has shown rich neuroprotective effects against cerebral hypoxia, and therefore has the potential to impact outcomes after traumatic brain injury (TBI). It could protect the neuron from traumatic stress and secondary ischemia and hypoxia insults during ultra-early and acute stages. BACKGROUND: Accumulating evidence has demonstrated that over-expression of Neuroglobin (Ngb) is neuroprotective against hypoxic/ischemic brain injuries. OBJECTIVES: The aim of this study was to investigate rat neuroglobin (rNGB) expression level after traumatic brain injury (TBI) and further study its neuroprotective effects in TBI when it was overexpressed in adenoviral vector. CONCLUSIONS: NGB was upregulated in TBI and overexpressed rNGB had a significant neuroprotection in TBI. This study suggested that rNGB overexpression may be a new strategy for treating of TBI. Neuroglobin-overexpression reduces traumatic brain lesion size in mice. Neuroglobin upregulation offers neuroprotection in traumatic brain injury. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e310a151531f7e33000017",
+      "ideal_answer": "Intrinsic termination signals for multisubunit bacterial RNA polymerases (RNAPs) encode a GC-rich stem-loop structure followed by a polyuridine [poly(U)] tract, and it has been proposed that steric clash of the stem-loop with the exit pore of the RNAP imposes a shearing force on the RNA in the downstream RNA:DNA hybrid, resulting in misalignment of the active site. We have observed that transcription through the GC-rich FMR1 5\u0027UTR region favors R-loop formation, with the nascent (G-rich) RNA forming a stable RNA:DNA hybrid with the template DNA strand, thereby displacing the non-template DNA strand. Transcription termination by bacterial RNA polymerase (RNAP) occurs at sequences coding for a GC-rich RNA hairpin followed by a U-rich tract. In the 5\u0027 flanking region, nucleotides -234 to -213 encompass a GC-rich region which exhibits high homology (greater than 70%) to the 5\u0027 flanking regions of the genes of all the apolipoproteins published to date, namely, apo-A-II (-497 to -471), apo-A-I (approximately -196 to -179), apo-E (-409 to -391), and apo-C-III (approximately -116 to -103). We used single-molecule techniques to investigate the mechanism by which three representative terminators (his, t500, and tR2) destabilize the elongation complex (EC). "
+    },
+    {
+      "exact_answer": [
+        [
+          "Transcriptome"
+        ],
+        [
+          "Curation"
+        ],
+        [
+          "Annotation"
+        ],
+        [
+          "Application procedure"
+        ],
+        [
+          "Diagnosis Type - Final"
+        ]
+      ],
+      "id": "569e79ecceceede94d000002",
+      "ideal_answer": "The FANTOM3 annotation system, consisting of automated computational prediction, manual curation, and final expert curation, facilitated the comprehensive characterization of the mouse transcriptome, and could be applied to the transcriptomes of other species. Functional Annotation Of Mouse 3 (FANTOM3), an international collaboration research project focusing on expanding the transcriptome and subsequent analyses. "
+    },
+    {
+      "id": "56d03a4d3975bb303a00000c",
+      "ideal_answer": "We tested the antitumor activity of the next-generation ALK-TKI ceritinib in the patient with acquired resistance to alectinib. The ability of ceritinib to overcome alectinib-resistance mutations suggests a potential role for sequential therapy with multiple next-generation ALK-TKIs. The first-generation ALK tyrosine kinase inhibitor (TKI) crizotinib is a standard therapy for patients with ALK-rearranged non-small cell lung cancer (NSCLC). Preclinical data showed impressive antitumor activity against crizotinib-resistant clones, and based on available data, ceritinib could represent a suitable option in crizotinib-resistant NSCLC. Both ALK mutations conferred resistance to alectinib as well as to crizotinib, but were sensitive to ceritinib and other next-generation ALK-TKIs. Ceritinib is effective and approved for ALK-positive NSCLC in the acquired resistance setting. Treatment of the patient with ceritinib led to a marked response. Ceritinib is an oral, potent, second-generation ALK inhibitor recently approved by the U.S. Food and Drug Administration. "
+    },
+    {
+      "exact_answer": [
+        [
+          "biology (field)"
+        ],
+        [
+          "Device Component System"
+        ],
+        [
+          "Proteomics"
+        ],
+        [
+          "Genomics"
+        ],
+        [
+          "Metabolomics"
+        ],
+        [
+          "Abnormally high"
+        ],
+        [
+          "Comprehensive"
+        ],
+        [
+          "Glycomics"
+        ],
+        [
+          "Integration (data processing)"
+        ],
+        [
+          "Epigenomics"
+        ],
+        [
+          "Complement System Proteins"
+        ],
+        [
+          "Proteome"
+        ],
+        [
+          "Metabolome"
+        ],
+        [
+          "Data"
+        ],
+        [
+          "High resolution"
+        ],
+        [
+          "Application procedure"
+        ],
+        [
+          "Providing (action)"
+        ],
+        [
+          "combination of objects"
+        ],
+        [
+          "year"
+        ],
+        [
+          "Metabolite"
+        ],
+        [
+          "Analysis Dataset Domain"
+        ],
+        [
+          "Procedural approach"
+        ],
+        [
+          "Transcriptome"
+        ],
+        [
+          "Technique Development"
+        ],
+        [
+          "Arts"
+        ],
+        [
+          "Mental concentration"
+        ],
+        [
+          "Intellectual scale"
+        ],
+        [
+          "Technology"
+        ],
+        [
+          "Review [Publication Type]"
+        ],
+        [
+          "Analysis of substances"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "Ocular System Dosage Form"
+        ],
+        [
+          "List"
+        ],
+        [
+          "consider"
+        ],
+        [
+          "DNA Integration"
+        ],
+        [
+          "Add - instruction imperative"
+        ],
+        [
+          "Aspect (characteristic)"
+        ],
+        [
+          "Attention"
+        ],
+        [
+          "medical diagnosis"
+        ],
+        [
+          "Comprehension"
+        ],
+        [
+          "Empowered"
+        ],
+        [
+          "Research Activities"
+        ],
+        [
+          "Genes, vif"
+        ],
+        [
+          "Magnetic Resonance Imaging"
+        ],
+        [
+          "Electromagnetic Spectrum"
+        ],
+        [
+          "Changing"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "Investigational"
+        ],
+        [
+          "Gain"
+        ],
+        [
+          "steady state"
+        ],
+        [
+          "Levels (qualifier value)"
+        ],
+        [
+          "Preposition For"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "Reflecting"
+        ],
+        [
+          "Scientific Equipment"
+        ],
+        [
+          "Increasing"
+        ],
+        [
+          "Article"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "Current state"
+        ],
+        [
+          "Function"
+        ],
+        [
+          "Databases"
+        ],
+        [
+          "Geographic Locations"
+        ],
+        [
+          "Mechanism (attribute)"
+        ],
+        [
+          "best (quality)"
+        ],
+        [
+          "Fulfill"
+        ],
+        [
+          "Downstream"
+        ],
+        [
+          "Activities"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Post"
+        ],
+        [
+          "high throughput technology"
+        ],
+        [
+          "Largest"
+        ],
+        [
+          "Cells"
+        ],
+        [
+          "Major"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Generation (action)"
+        ],
+        [
+          "Drug Development"
+        ],
+        [
+          "Genome"
+        ],
+        [
+          "Automobile Driving"
+        ],
+        [
+          "Contribution"
+        ]
+      ],
+      "id": "56d29d4df22319765a000003",
+      "ideal_answer": "Proteomics technology, a major component of system biology, has gained comprehensive attention in the area of medical diagnosis, drug development, and mechanism research. The increasing role of metabolomics in system biology is driving the development of tools for comprehensive analysis of high-resolution NMR spectral datasets. Recent development in high-throughput methods enables analysis of genome, transcriptome, proteome, and metabolome at an unprecedented scale, thus contributing to the deluge of experimental data in numerous public databases. Metabolomics complements other omics, such as transcriptomics and proteomics and since it is a \u0027downstream\u0027 result of gene expression, changes in the metabolome is considered to best reflect the activities of the cell at a functional level. The resulting lists of metabolites and their steady state concentrations in combination with transcriptomics can be used in system biology approaches. Glycomics meets genomics, epigenomics and other high throughput omics for system biology studies. In addition, integrated applications with genomics, transcriptomics, and proteomics provide greater understanding of global system biology. In recent years, in the post genomic era, more and more data is being generated by biological high throughput technologies, such as proteomics and transcriptomics. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c1f00aef6e39474100003d",
+      "ideal_answer": "A phase I trial of vertical inhibition of IGF signalling using cixutumumab, an anti-IGF-1R antibody, and selumetinib, an MEK 1/2 inhibitor, in advanced solid tumours. CONCLUSIONS: Our study of anti-IGF-1R antibody cixutumumab and MEK 1/2 inhibitor selumetinib showed that the combination is safe and well-tolerated at these doses, with preliminary evidence of clinical benefit and pharmacodynamic evidence of target inhibition. MHC class I loss is a frequent mechanism of immune escape in papillary thyroid cancer that is reversed by interferon and selumetinib treatment in vitro. CONCLUSIONS: Compared with current chemotherapy, selumetinib has modest clinical activity as monotherapy in patients with advanced cancer, but combinations of selumetinib with cytotoxic agents in patients with BRAF or KRAS mutations hold great promise for cancer treatment. METHODS: We conducted a study to determine whether the MAPK kinase (MEK) 1 and MEK2 inhibitor selumetinib (AZD6244, ARRY-142886) could reverse refractoriness to radioiodine in patients with metastatic thyroid cancer. CONCLUSIONS: Selumetinib produces clinically meaningful increases in iodine uptake and retention in a subgroup of patients with thyroid cancer that is refractory to radioiodine; the effectiveness may be greater in patients with RAS-mutant disease. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Enhancer of transcription"
+        ],
+        [
+          "TRANSCRIPTION FACTOR"
+        ],
+        [
+          "Sense of identity (observable entity)"
+        ],
+        [
+          "Cluster"
+        ],
+        [
+          "Dense"
+        ],
+        [
+          "Master"
+        ],
+        [
+          "Transcription, Genetic"
+        ],
+        [
+          "Regulators (device)"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Gene Expression"
+        ],
+        [
+          "Chromatin"
+        ],
+        [
+          "Domain (area of knowledge)"
+        ],
+        [
+          "Levels (qualifier value)"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "Lineage"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Entire cell"
+        ],
+        [
+          "Genetic Hotspot"
+        ],
+        [
+          "control substance"
+        ],
+        [
+          "Evidence of"
+        ],
+        [
+          "Function"
+        ],
+        [
+          "Intrinsic drive"
+        ],
+        [
+          "transcription factor binding"
+        ],
+        [
+          "Subgroup"
+        ],
+        [
+          "Technology Platform"
+        ],
+        [
+          "Definition"
+        ],
+        [
+          "Enhancer Elements, Genetic"
+        ],
+        [
+          "size"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Elements"
+        ],
+        [
+          "Regulation of biological process"
+        ],
+        [
+          "Sequencing - CodeSystem"
+        ],
+        [
+          "Plasticity"
+        ],
+        [
+          "Sensitive"
+        ],
+        [
+          "density"
+        ],
+        [
+          "Mediator of activation protein"
+        ],
+        [
+          "Providing (action)"
+        ],
+        [
+          "cell type"
+        ],
+        [
+          "Stretching exercises"
+        ],
+        [
+          "Cell Differentiation process"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "Formation"
+        ],
+        [
+          "Social Role"
+        ],
+        [
+          "chemical cofactor"
+        ],
+        [
+          "Large"
+        ],
+        [
+          "Does play"
+        ],
+        [
+          "RNA"
+        ],
+        [
+          "Regulator"
+        ],
+        [
+          "Regulation"
+        ],
+        [
+          "Usual"
+        ],
+        [
+          "Running (physical activity)"
+        ],
+        [
+          "CD4 Expressing Cell Count"
+        ],
+        [
+          "Industrial machine"
+        ],
+        [
+          "Space - property"
+        ],
+        [
+          "Feature"
+        ],
+        [
+          "Order (document)"
+        ],
+        [
+          "SOX9 gene"
+        ],
+        [
+          "Hereditary Diseases"
+        ],
+        [
+          "T-Lymphocyte"
+        ],
+        [
+          "Established"
+        ],
+        [
+          "Identity"
+        ],
+        [
+          "Status"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ],
+        [
+          "Adult Stem Cells"
+        ],
+        [
+          "Signal Transduction"
+        ],
+        [
+          "Enrich"
+        ],
+        [
+          "*Activity (kind of quantity)"
+        ],
+        [
+          "Unusual"
+        ],
+        [
+          "At risk of disease"
+        ],
+        [
+          "Genetic Risk"
+        ],
+        [
+          "Comprehension"
+        ],
+        [
+          "cooperative"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "Act Class - review"
+        ],
+        [
+          "Genes, Regulator"
+        ],
+        [
+          "Embryonic Stem Cells"
+        ],
+        [
+          "Progression"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Developmental Disabilities"
+        ],
+        [
+          "Hub Device Component"
+        ],
+        [
+          "Extrinsic"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "Measured"
+        ],
+        [
+          "Genetic"
+        ],
+        [
+          "Enhance (action)"
+        ],
+        [
+          "Physiologic Organization"
+        ],
+        [
+          "chromatin immunoprecipitation"
+        ],
+        [
+          "Prominent"
+        ],
+        [
+          "Feeling content"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "Acquired (qualifier value)"
+        ],
+        [
+          "Proximity"
+        ],
+        [
+          "State transition"
+        ],
+        [
+          "Abnormally high"
+        ],
+        [
+          "Inflammation"
+        ],
+        [
+          "Specification"
+        ],
+        [
+          "Anatomical Apparatus"
+        ],
+        [
+          "Abate"
+        ]
+      ],
+      "id": "56c344abfedd0b786b000003",
+      "ideal_answer": "Here we report that enhancer RNAs (eRNAs) identified by global nuclear run-on sequencing are extensively transcribed within super enhancers and are dynamically regulated in response to cellular signaling. The expression of genes that specify cell type identity and function is associated with densely spaced clusters of active enhancers known as super-enhancers. Super-enhancers differ from typical enhancers in size, transcription factor density and content, ability to activate transcription, and sensitivity to perturbation. Defined by their magnitude of size, transcription factor density, and binding of transcriptional machinery, super-enhancers have been associated with genes driving cell differentiation. Finally, we identify SOX9 as a crucial chromatin rheostat of hair follicle stem cell super-enhancers, and provide functional evidence that super-enhancers are dynamic, dense transcription-factor-binding platforms which are acutely sensitive to pioneer master regulators whose levels define not only spatial and temporal features of lineage-status but also stemness, plasticity in transitional states and differentiation. Super-enhancers and stretch enhancers (SEs) drive expression of genes that play prominent roles in normal and disease cells, but the functional importance of these clustered enhancer elements is poorly understood, so it is not clear why genes key to cell identity have evolved regulation by such elements. "
+    },
+    {
+      "id": "569e7e99ceceede94d000003",
+      "ideal_answer": "The cap analysis of gene expression (CAGE) technology has been established to detect transcriptional starting sites (TSSs) and expression levels by utilizing 5\u0027 cDNA tags and PCR. Here, we present a new method for high-throughput sequencing of 5\u0027 cDNA tags-DeepCAGE: merging the Cap Analysis of Gene Expression method with ultra-high-throughput sequence technology. It has been reported that the amount of templates is proportional to the amplification efficiency of PCR. CAGE has been used as a key technique for analyzing promoter activity and finding new transcripts including alternative spliced products and noncoding transcripts. Here, we introduce more powerful tools such as deepCAGE, which can be utilized for high-throughput next-generation sequencing technology. DeepCAGE can produce much deeper transcriptome datasets and can reveal more details of the regulatory network. DeepCAGE can also detect promoters used only in a small subset of cells within the complex tissue. "
+    },
+    {
+      "id": "56d046813975bb303a00000f",
+      "ideal_answer": "Higher concentrations of Dovitinib induced a G2 arrest similar to the G2 DNA damage checkpoint. Single-cell analysis revealed that Dovitinib promoted a delay in mitotic exit in a subset of cells, causing the cells to undergo mitotic slippage. Dovitinib triggered a G2 /M arrest in cancer cell lines from diverse origins including HeLa, nasopharyngeal carcinoma, and hepatocellular carcinoma. Treatment of SK-HEP1 cells with dovitinib resulted in G2/M cell cycle arrest, inhibition of colony formation in soft agar and blockade of bFGF-induced cell migration. The mitotic kinase CDK1 was found to be inactivated by phosphorylation in the presence of Dovitinib. Finally, Dovitinib-mediated G2 cell cycle arrest and subsequent cell death could be promoted after DNA damage repair was disrupted by inhibitors of poly(ADP-ribose) polymerases. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56d34fbcf22319765a000009",
+      "ideal_answer": "ur results provide the first clear and unambiguous evidence of a relationship between telomere length and mortality in the wild, and substantiate the prediction that telomere length and shortening rate can act as an indicator of biological age further to chronological age when exploring life history questions in natural conditions. This study investigated if one could use a correlation between telomere length and age, to predict the age of an individual from their DNA. Therefore, telomere length measurement by real-time quantitative PCR cannot be used to predict age of a person, due to the presence of large inter-individual variations in telomere lengths. Human somatic cells gradually lose telomeric repeats with age. "
+    },
+    {
+      "exact_answer": [
+        [
+          "orteronel"
+        ],
+        [
+          "Prednisone"
+        ],
+        [
+          "Prostatic Cancer, Castration-Resistant"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Metastatic to"
+        ]
+      ],
+      "id": "56c1f01def6e394741000045",
+      "ideal_answer": "Orteronel plus prednisone in patients with chemotherapy-naive metastatic castration-resistant prostate cancer (ELM-PC 4): a double-blind, multicentre, phase 3, randomised, placebo-controlled trial. Phase III, randomized, double-blind, multicenter trial comparing orteronel (TAK-700) plus prednisone with placebo plus prednisone in patients with metastatic castration-resistant prostate cancer that has progressed during or after docetaxel-based therapy: ELM-PC 5. NTERPRETATION: In chemotherapy-naive patients with metastatic castration-resistant prostate cancer, radiographic progression-free survival was prolonged with orteronel plus prednisone versus placebo plus prednisone. Pooled analysis of androgen synthesis inhibitors orteronel and abiraterone resulted in significantly increased overall and progression-free survival for anti-androgen agents, compared to placebo (hazard ratio for death: 0.76, 95% CI 0.67 to 0.87, P\u003c0.0001; hazard ratio for radiographic progression: 0.7, 95% CI 0.63 to 0.77, P\u003c0.00001). Agents targeting the androgen axis (enzalutamide, abiraterone, orteronel) significantly prolonged rPFS, compared to placebo. Pooled-analysis was also performed, to assess the effectiveness of agents targeting the androgen axis via identical mechanisms of action (abiraterone acetate, orteronel). This study examined orteronel in patients with metastatic castration-resistant prostate cancer that progressed after docetaxel therapy. We evaluated the safety, tolerability, pharmacokinetics, pharmacodynamics, and antitumor effect of orteronel with or without prednisolone in Japanese patients with castration-resistant prostate cancer (CRPC). "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c4a217b04e159d0e000001",
+      "ideal_answer": "In plasma, most metabolites in the central metabolic pathway (glycolysis and TCA cycle) were significantly downregulated after zymosan administration. In this study, the levels of amino acids and trichloroacetic acid (TCA) cycle-related molecules in the colonic tissues and sera of patients with ulcerative colitis (UC) were profiled by gas chromatography/mass spectrometry (GC/MS), with the aim of evaluating whether the clinical state induced by UC leads to variations in the amino acid profile. A total of 77 and 92 metabolites were detected in serum and colon tissue, respectively, and among the metabolites the compositions of TCA cycle intermediates and amino acids changed depending on the degree of colitis. These studies reveal a surprising role for HIF1A in lung protection during ALI, where normoxic HIF1A stabilization and HIF-dependent control of alveolar-epithelial glucose metabolism function as an endogenous feedback loop to dampen lung inflammation. Our study raises the possibility that GC/MS-based profiling of amino acids and TCA cycle-related molecules is a useful early diagnostic tool for UC. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Exons"
+        ],
+        [
+          "DMD gene"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Does skip"
+        ],
+        [
+          "Induce (action)"
+        ]
+      ],
+      "id": "56a24dfffe92d6fd19000002",
+      "ideal_answer": "Duchenne muscular dystrophy (DMD) patients using the morpholino splice-switching oligonucleotide AVI-4658 (eteplirsen) that induces skipping of dystrophin exon 51 in patients with relevant deletions, restores the open reading frame and induces dystrophin protein expression after intramuscular (i.m.) injection. We also assessed the effect of dystrophin restoration on the expression of the five dystromirs in serum of DMD patients treated systemically for 12 weeks with antisense oligomer eteplirsen that induces skipping of exon 51 in the dystrophin gene. Exon skipping quantification by quantitative reverse-transcription polymerase chain reaction in Duchenne muscular dystrophy patients treated with the antisense oligomer eteplirsen. In prior open-label studies, eteplirsen, a phosphorodiamidate morpholino oligomer, enabled dystrophin production in Duchenne muscular dystrophy (DMD) with genetic mutations amenable to skipping exon 51. morpholino AO to skip exon 51, eteplirsen (AVI-4658). "
+    },
+    {
+      "exact_answer": [
+        [
+          "Pseudomonas aeruginosa (antigen)"
+        ],
+        [
+          "Pathogenic organism"
+        ],
+        [
+          "Enterobacter"
+        ],
+        [
+          "Enterococcus faecium"
+        ],
+        [
+          "Klebsiella pneumoniae"
+        ],
+        [
+          "Acinetobacter calcoaceticus"
+        ],
+        [
+          "Staphylococcus aureus"
+        ],
+        [
+          "Staphylococcus aureus infection"
+        ],
+        [
+          "HM13 gene"
+        ],
+        [
+          "Hospitals"
+        ],
+        [
+          "Pneumonia, Ventilator-Associated"
+        ],
+        [
+          "Serious"
+        ],
+        [
+          "Ambulatory Care Facilities"
+        ],
+        [
+          "Science of Etiology"
+        ],
+        [
+          "Geography"
+        ],
+        [
+          "Does play"
+        ],
+        [
+          "Communicable Diseases"
+        ],
+        [
+          "Frequent"
+        ],
+        [
+          "Klebsiella species"
+        ],
+        [
+          "Complication"
+        ],
+        [
+          "Episode of"
+        ],
+        [
+          "Resistance Process"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Variant"
+        ],
+        [
+          "Acinetobacter baumannii"
+        ],
+        [
+          "Changing"
+        ],
+        [
+          "Surgical site infection"
+        ],
+        [
+          "Tests (qualifier value)"
+        ],
+        [
+          "Recovering from"
+        ],
+        [
+          "Affect (mental function)"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "Traumatic injury"
+        ],
+        [
+          "Increasing"
+        ],
+        [
+          "Diversity"
+        ],
+        [
+          "Risk"
+        ],
+        [
+          "Rapidly"
+        ],
+        [
+          "weeks/month"
+        ],
+        [
+          "Responsible to"
+        ],
+        [
+          "Solid organ transplant"
+        ],
+        [
+          "Multiple drug resistant organism"
+        ],
+        [
+          "21st century"
+        ],
+        [
+          "Aim (idea)"
+        ],
+        [
+          "Microbicides"
+        ],
+        [
+          "scenario"
+        ],
+        [
+          "Patient need for (contextual qualifier)"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Concern"
+        ],
+        [
+          "Hospitalization"
+        ],
+        [
+          "Injury wounds"
+        ],
+        [
+          "Bacteremia"
+        ],
+        [
+          "Operative Surgical Procedures"
+        ],
+        [
+          "Major"
+        ],
+        [
+          "Antimicrobial Resistance"
+        ]
+      ],
+      "id": "56d2ac03f22319765a000004",
+      "ideal_answer": "The aim of this study was to test in the clinic whether antimicrobial diversity affects resistance of Enterococcus faecium, Staphylococcus aureus, Klebsiella species, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species (ESKAPE) pathogens in ventilator-associated pneumonia (VAP). Multidrug resistance among the \u0027ESKAPE\u0027 organisms - encompassing Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp. - is of particular concern because they are responsible for many serious infections in hospitals. \u0027ESKAPE\u0027 (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acintobacter baumannii, Pseudomonas aeruginosa and Enterobacter spp.) pathogens play a major role in the rapidly changing scenario of antimicrobial resistance in the 21st century. Patients recovering from traumatic injuries or surgery often require weeks to months of hospitalization, increasing the risk for wound and surgical site infections caused by ESKAPE pathogens, which include A. baumannii (the ESKAPE pathogens are Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species). Although bacteremias caused by the 6 ESKAPE pathogens (Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, and Enterobacter species) have recently been highlighted as a serious complication in solid organ transplant (SOT), more information is urgently needed. "
+    },
+    {
+      "exact_answer": [
+        [
+          "ARNTL gene"
+        ],
+        [
+          "Circadian Clocks"
+        ],
+        [
+          "CLOCK gene"
+        ],
+        [
+          "PER1 gene"
+        ],
+        [
+          "CRY1 gene"
+        ],
+        [
+          "Processor Core"
+        ],
+        [
+          "PER2 gene"
+        ],
+        [
+          "Reverend"
+        ],
+        [
+          "Change patterns"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "expression level"
+        ],
+        [
+          "Crying"
+        ],
+        [
+          "NPAS2 gene"
+        ],
+        [
+          "Component object"
+        ],
+        [
+          "CRY2 gene"
+        ],
+        [
+          "Review [Publication Type]"
+        ],
+        [
+          "Core Device Component"
+        ],
+        [
+          "Has focus"
+        ]
+      ],
+      "id": "56e30dd551531f7e33000016",
+      "ideal_answer": "This review will focus on the core circadian clock genes CLOCK, BMAL1, Per, and Cry. he core circadian clock genes BMAL1, PER1/2 and CRY1/2. CLOCK/BMAL1, the core circadian clock components. altered expression patterns of the circadian clock genes, Bmal1 and Per2. PER1, CRY1, CRY2, CLOCK, BMAL1, and CKlε. Expression levels of five clock genes (Rev-Erbα, Per1, Per2, Bmal1 and Cry1). Rev-erbα and Bmal1. CLOCK, RORA, and NPAS2. "
+    },
+    {
+      "id": "56c1f033ef6e39474100004f",
+      "ideal_answer": "The clinical entity was a unique combination of levodopa-resistant parkinsonism, tremor, myoclonus, hallucinations, REM sleep behavior disorder and fronto-subcortical dementia. One-half of the patients with this tauopathy have dopa-resistant parkinsonism, tremor, subcortical dementia and abnormal eye movements suggestive of progressive supranuclear palsy (PSP). Postural instability with early falls, prominent frontal lobe dysfunction and pseudo-bulbar palsy were common and three-quarters of the patients were L-dopa unresponsive. Patients with a PSP-like syndrome developed levodopa-resistant parkinsonism, associated with early postural instability and supranuclear oculomotor dysfunction. PDC patients had levodopa-resistant parkinsonism associated with frontosubcortical dementia, 52% of these patients had hallucinations, but, importantly, none had oculomotor dysfunction. In conclusion, atypical Guadeloupean parkinsonism comprises two forms of parkinsonism and dementia that differ clinically by the presence of oculomotor signs, but have similar cognitive profiles and neuroimaging features, suggesting that they may constitute a single disease entity, and both were similarly exposed to annonaceous neurotoxins, notably annonacin. In conclusion, Gd-PSP patients have cortical myoclonus and cortical oculomotor impairments, but only minor signs of brainstem oculomotor dysfunction, suggesting that cortical dysfunction predominates over brainstem impairments. They differed, however, from classical PSP patients by the frequency of tremor (\u003e50%), dysautonomia (50%) and the occurrence of hallucinations (59%). "
+    },
+    {
+      "exact_answer": [
+        [
+          "Mitochondria"
+        ],
+        [
+          "Alphaproteobacteria"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Ancestor"
+        ],
+        [
+          "Phylogenetic Analysis"
+        ]
+      ],
+      "id": "56c58f1b5795f9a73e000001",
+      "ideal_answer": "Evolutionary analyses of proteins encoded in the genome contain the strongest phylogenetic evidence to date for the view that mitochondria descend from alpha-proteobacteria. Recently, α-proteobacteria have been shown to possess virus-like gene transfer agents that facilitate high frequency gene transfer in natural environments between distantly related lineages. This system could have driven the genomic integration of the mitochondrial progenitor and its proto-eukaryote host and contributed to the evolutionary mosaic of genes seen in modern-day prokaryotic and eukaryotic genomes. More detailed phylogenetic analyses with additional Alphaproteobacteria and including genes from the mitochondria of Reclinomonas americana found matches of mitochondrial genes to those of members of the Rickettsiaceae, Anaplasmataceae, and Rhodospirillaceae families. The strong relationship with alpha-proteobacterial genes observed for some mitochondrial genes, combined with the lack of such a relationship for others, indicates that the modern mitochondrial proteome is the product of both reductive and expansive processes. Although the Alphaproteobacteria are thought to be the closest relatives of the mitochondrial progenitor, there is dispute as to what its particular sister group is. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56a292ae496b62f23f000001",
+      "ideal_answer": "Critical developmental control genes sometimes contain \"shadow\" enhancers that can be located in remote positions, including the introns of neighboring genes. This suggests that they function as shadow enhancers to modulate the expression of genes from the HoxB complex during cardiac development. Regulatory analysis of the HoxA complex reveals that it also has enhancers in the 3\u0027 flanking region which contain RAREs and have the potential to modulate expression in endoderm and heart tissues. These results suggest that shadow enhancers represent a novel mechanism of canalization whereby complex developmental processes \"bring about one definite end-result regardless of minor variations in conditions\". Shadow enhancers flanking the HoxB cluster direct dynamic Hox expression in early heart and endoderm development. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Erythropoiesis"
+        ],
+        [
+          "feline leukemia virus receptor"
+        ],
+        [
+          "Heme"
+        ],
+        [
+          "FLVCR1 gene"
+        ],
+        [
+          "Subgroup C"
+        ]
+      ],
+      "id": "56d85e7751531f7e33000001",
+      "ideal_answer": "Feline leukemia virus subgroup C receptor (FLVCR1), a member of the SLC49 family of four paralogous genes, is a cell surface heme exporter, essential for erythropoiesis and systemic iron homeostasis. "
+    },
+    {
+      "id": "56e45bc651531f7e33000018",
+      "ideal_answer": "BMAL1 deficiency is associated with premature aging and reduced lifespan. BMAL1 deficiency results in premature aging in mice. BMAL1 deficiency leads to development of stress induced senescence in vivo. BMAL1 deficiency disrupts circadian oscillation in gene expression and reactive oxygen species homeostasis in the brain,. We demonstrate that attenuation of Bmal1 function resulted in down-regulation of genes in the canonical Wnt pathway, known to suppress adipogenesis. Down-regulation of Bmal1 accelerates the development of tumours. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c5a7605795f9a73e000002",
+      "ideal_answer": "Changes in cellular mRNA stability, splicing, and polyadenylation through HuR protein sequestration by a cytoplasmic RNA virus. Furthermore, significant changes can be observed in nuclear alternative polyadenylation and splicing events on cellular pre-mRNAs as a result of sequestration of HuR protein by the 3\u0027 UTR of transcripts of this cytoplasmic RNA virus. Here we describe experiments showing that HuR and TIA1/TIAL1, two kinds of RNA-binding proteins, were involved in the regulation of alternative splicing of SIRT1 pre-mRNA under normal and stress circumstances. These results suggest that the TIA and HuR cellular ratio influences cell-type specific Fas exon 6 splicing pattern. Subcellular fractionation studies, together with immunofluorescence microscopy revealed an asymmetric distribution of HuR and TIA1/TIAR in 2A(pro) expressing cells, which modulates splicing of the human Fas exon 6. The differential expression levels of T-cell intracellular antigens (TIA) and Hu antigen R (HuR) are concomitant with a splicing switch in apoptosis receptor Fas in HCT-116 cells. Hu antigen R (HuR) functions as an alternative pre-mRNA splicing regulator of Fas apoptosis-promoting receptor on exon definition. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56a375f8496b62f23f000002",
+      "ideal_answer": "BORIS is aberrantly expressed frequently in cancer, leading some to propose a pro-tumourigenic role for BORIS. However, BORIS can inhibit cell proliferation, and is mutated in cancer similarly to CTCF suggesting BORIS activation in cancer may be due to global genetic or epigenetic changes typical of malignant transformation. The tumour suppressor gene CTCF can be mutated or deleted in cancer, or CTCF DNA binding can be altered by epigenetic changes. These results provide a mechanistic basis for understanding cancer-related associations between haploinsufficiency of CTCF and BORIS derepression, and between the lack of functional p53 and aberrant activation of BORIS. CTCF is ubiquitously expressed and plays diverse roles in gene regulation, imprinting, insulation, intra/interchromosomal interactions, nuclear compartmentalisation, and alternative splicing. The investigation of the molecular mechanisms engaged by CTCF to modulate tumor-related genes emphasizes the cell-type dependency of its tumor suppressor role. Indeed, the ability of CTCF to bind their promoters strictly depends by cell-type features as DNA methylation, BORIS-binding and post-translational modifications as PARYlation. Moreover, reduction of CTCF in normally BORIS-negative human fibroblasts resulted in derepression of BORIS promoters. CTCF and BORIS can be deregulated in cancer. CTCF has a single paralogue, the testes-specific CTCF-like gene (CTCFL)/BORIS. "
+    },
+    {
+      "exact_answer": [
+        [
+          "PENDRED SYNDROME (allelic variant)"
+        ],
+        [
+          "Goiter"
+        ],
+        [
+          "SLC26A4 gene"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "Feature"
+        ],
+        [
+          "Congenital deafness"
+        ],
+        [
+          "sulfate transporter"
+        ],
+        [
+          "Abnormal protein"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "Hypoplastic cochlea"
+        ],
+        [
+          "production"
+        ],
+        [
+          "Impaired health"
+        ],
+        [
+          "shared attribute"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Vestibular Aqueduct"
+        ],
+        [
+          "Childhood"
+        ],
+        [
+          "autosomal recessive trait"
+        ],
+        [
+          "Profound deafness"
+        ],
+        [
+          "Etiology aspects"
+        ],
+        [
+          "consider"
+        ],
+        [
+          "perchlorate"
+        ],
+        [
+          "diagnosis aspect"
+        ],
+        [
+          "Positive Laboratory Test Result"
+        ],
+        [
+          "Various patch test substance"
+        ],
+        [
+          "Iodides"
+        ],
+        [
+          "Defective"
+        ],
+        [
+          "Organic"
+        ],
+        [
+          "Thyroid Gland"
+        ],
+        [
+          "Hereditary"
+        ],
+        [
+          "Dietary Iodine"
+        ],
+        [
+          "Offspring"
+        ],
+        [
+          "Body Fluid Discharge"
+        ],
+        [
+          "Congenital sensorineural hearing loss"
+        ],
+        [
+          "Autosomal recessive inheritance"
+        ],
+        [
+          "Binding aspects"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Science of Etiology"
+        ],
+        [
+          "Sensorineural deafness, progressive"
+        ],
+        [
+          "Widening"
+        ],
+        [
+          "Symptoms"
+        ]
+      ],
+      "id": "56d8b47a51531f7e33000004",
+      "ideal_answer": "Obligatory features are profound deafness in childhood and defective organic binding of iodine in the thyroid gland. If a child has progressive sensorineural deafness and a widened vestibular aqueduct, it is important to consider a diagnosis of Pendred syndrome. Inherited as an autosomal recessive trait, Pendred syndrome is a disease that shows congenital sensorineural hearing loss and goiter, with a positive finding in the perchlorate discharge test. Pendred syndrome is an autosomal recessive disorder characterized by congenital sensorineural deafness, goiter, and impaired iodide organification. Therefore, goiter is a common symptom. Hypoplasia of the cochlea is another feature. Pendred syndrome results from various mutations in the PDS/SLC26A4 gene that cause production of an abnormal pendrin protein. It is caused by mutations in the PDS gene. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Experimental Result"
+        ],
+        [
+          "CSNK1E gene"
+        ],
+        [
+          "Light"
+        ],
+        [
+          "Sleep"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "Malignant neoplasm of breast"
+        ],
+        [
+          "Contribution"
+        ],
+        [
+          "CTNNB1 gene"
+        ],
+        [
+          "Light Cycle"
+        ],
+        [
+          "Sleep, Slow-Wave"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Increased Sensitivy"
+        ],
+        [
+          "MAPK8 gene"
+        ],
+        [
+          "Promotion (action)"
+        ],
+        [
+          "Suppressed"
+        ],
+        [
+          "Now (temporal qualifier)"
+        ],
+        [
+          "Etiology aspects"
+        ],
+        [
+          "Antimicrobial Susceptibility Result"
+        ],
+        [
+          "Sleep, REM"
+        ],
+        [
+          "development aspects"
+        ],
+        [
+          "Wnt Signaling Pathway"
+        ],
+        [
+          "physiologic migration"
+        ],
+        [
+          "Heightened"
+        ],
+        [
+          "Development of the breasts"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Architecture as Topic"
+        ],
+        [
+          "Quantity"
+        ],
+        [
+          "Support, device"
+        ],
+        [
+          "Cell Adhesion"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "RAC1 gene"
+        ],
+        [
+          "Chromosomes, Human, Pair 15"
+        ],
+        [
+          "Short menstrual periods"
+        ],
+        [
+          "Pathway (interactions)"
+        ],
+        [
+          "Timing"
+        ],
+        [
+          "Quantitative Trait Loci"
+        ],
+        [
+          "Abnormal"
+        ],
+        [
+          "response to light"
+        ]
+      ],
+      "id": "56e460d051531f7e33000019",
+      "ideal_answer": "These results demonstrate a role for Csnk1e in regulating not only the timing of sleep, but also the REM sleep amount and NREM sleep architecture, and support Csnk1e as a causal gene in the sleep QTL on chromosome 15. mutations of CK1epsilon found in breast cancer can suppress Wnt/beta-catenin as well as promote the Wnt/Rac-1/JNK and Wnt/NFAT pathways, thus contributing to breast cancer development via effects on cell adhesion and migration. We now demonstrate that the mutation results in a heightened sensitivity to light, suggesting that CK1epsilon also regulates the photic entrainment pathway. results in a short circadian period, abnormal entrainment to light cycles, and potentiated resetting responses to light. "
+    },
+    {
+      "exact_answer": [
+        [
+          "cohesins"
+        ],
+        [
+          "CTCF gene"
+        ],
+        [
+          "TRANSCRIPTION FACTOR"
+        ],
+        [
+          "Locus"
+        ],
+        [
+          "Binding (Molecular Function)"
+        ]
+      ],
+      "id": "56c5c7915795f9a73e000004",
+      "ideal_answer": "In human cells, Pol III genes and transcription factors have also been shown to colocalize with cohesin and the transcription regulator and genome organizer CCCTC-binding factor (CTCF). To investigate cohesin-non-CTCF (CNC) binding events in vivo we mapped cohesin and CTCF, as well as a collection of tissue-specific and ubiquitous transcriptional regulators using ChIP-seq in primary mouse liver. By performing matched genome-wide binding assays (ChIP-seq) in human breast cancer cells (MCF-7), we discovered thousands of genomic sites that share cohesin and estrogen receptor alpha (ER) yet lack CTCF binding. Recently, cohesins have been implicated in transcriptional regulation and insulation through genome-wide colocalization with the insulator protein CTCF, including involvement at the imprinted H19/Igf2 locus. Because cohesin can colocalize with CTCF, we performed chromatin immunoprecipitation for the cohesin subunit Rad21 and found lineage and stage-specific Rad21 recruitment to CTCF in all Ig loci. Together, our data show that cohesin cobinds across the genome with transcription factors independently of CTCF, plays a functional role in estrogen-regulated transcription, and may help to mediate tissue-specific transcriptional responses via long-range chromosomal interactions. Finally, we observe that the presence of mirrored CTCF binding events at promoters and their nearby cohesin-bound enhancers is associated with elevated expression levels. "
+    },
+    {
+      "exact_answer": [
+        [
+          "DNA Restriction Enzymes"
+        ],
+        [
+          "Genome"
+        ],
+        [
+          "Mobile Genetic Elements"
+        ],
+        [
+          "Mediator brand of benfluorex hydrochloride"
+        ],
+        [
+          "DNA Restriction-Modification Enzymes"
+        ],
+        [
+          "Plasmids"
+        ],
+        [
+          "DNA"
+        ],
+        [
+          "Term (lexical)"
+        ],
+        [
+          "Complete"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Bacterial"
+        ],
+        [
+          "Preposition For"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Methanocaldococcus jannaschii"
+        ],
+        [
+          "Synechocystis sp."
+        ],
+        [
+          "Short Value"
+        ],
+        [
+          "Haemophilus influenzae"
+        ],
+        [
+          "RNA Sequence"
+        ],
+        [
+          "Spectrum"
+        ],
+        [
+          "DNA, Bacterial"
+        ],
+        [
+          "Integer +5"
+        ],
+        [
+          "Bed Status - Isolated"
+        ],
+        [
+          "Transfer Technique"
+        ],
+        [
+          "Prophages"
+        ],
+        [
+          "Course"
+        ],
+        [
+          "Species"
+        ],
+        [
+          "Genome, Bacterial"
+        ],
+        [
+          "Genome, Archaeal"
+        ],
+        [
+          "Archaea"
+        ],
+        [
+          "Lateral"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Connection"
+        ],
+        [
+          "Appearance"
+        ],
+        [
+          "Organelles"
+        ],
+        [
+          "Significance Level"
+        ],
+        [
+          "Biological Evolution"
+        ],
+        [
+          "Closed"
+        ],
+        [
+          "DNA Sequence"
+        ],
+        [
+          "Exposure to"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Smaller"
+        ],
+        [
+          "Widening"
+        ],
+        [
+          "Case (situation)"
+        ],
+        [
+          "Avoidance"
+        ]
+      ],
+      "id": "56a37e33496b62f23f000003",
+      "ideal_answer": "Avoidance of palindromic words in bacterial and archaeal genomes: a close connection with restriction enzymes. Palindromic words appear to accumulate in DNA once it becomes isolated from restriction-modification systems, as demonstrated by the case of organellar genomes. Palindromes corresponding to sites for restriction enzymes from other species are also avoided, albeit less significantly, suggesting that in the course of evolution bacterial DNA has been exposed to a wide spectrum of restriction enzymes, probably as the result of lateral transfer mediated by mobile genetic elements, such as plasmids and prophages. Short palindromic sequences (4, 5 and 6 bp palindromes) are avoided at a statistically significant level in the genomes of several bacteria, including the completely sequenced Haemophilus influenzae and Synechocystis sp. genomes and in the complete genome of the archaeon Methanococcus jannaschii. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56d8ba1851531f7e33000005",
+      "ideal_answer": "A mutation in the human norepinephrine transporter gene (SLC6A2) associated with orthostatic intolerance disrupts surface expression of mutant and wild-type transporters. Nonsynonymous single nucleotide polymorphisms (SNPs) in the human NET (hNET) gene that influence transporter function can contribute to disease, such as the nonfunctional transporter, A457P, identified in orthostatic intolerance. Recently, our laboratory reported a polymorphism in the human NET (hNET) gene A457P in an individual with the autonomic disorder orthostatic intolerance (OI). Thus attenuated baroreflex function and reduced sympathetic outflow may contribute to the orthostatic intolerance of severe NET deficiency. The norepinephrine (NE) transporter (NET) has been implicated in a genetic form of the disorder. Orthostatic intolerance is a debilitating syndrome characterized by tachycardia on assumption of upright posture. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Factor"
+        ],
+        [
+          "Receptor, EphA2"
+        ],
+        [
+          "Neurotensin"
+        ],
+        [
+          "Vascular Endothelial Growth Factor A"
+        ],
+        [
+          "Tissue-Inhibitor of Metalloproteinase-1"
+        ],
+        [
+          "SLIT2 gene"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "thrombospondin 3"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "WNT2 gene"
+        ],
+        [
+          "Endothelium"
+        ],
+        [
+          "Suppressive"
+        ],
+        [
+          "Specimen Source Codes - tumor"
+        ],
+        [
+          "Regulation"
+        ],
+        [
+          "HGF gene"
+        ]
+      ],
+      "id": "56e46ad951531f7e3300001a",
+      "ideal_answer": "Ccl4 and neurotensin (Nts) (angiocrine factors). vascular endothelial growth factor (VEGF)-A was identified as the most abundantly expressed factor,. angiocrine factors tissue inhibitor of metalloproteinases-1 (Timp-1) and thrombospondin 3 (THBS3). We found that Slit2, which is negatively regulated by endothelial EphA2 receptor, is one such tumor suppressive angiocrine factor. angiocrine factors, including hepatocyte growth factor (HGF) and Wnt2. "
+    },
+    {
+      "exact_answer": [
+        [
+          "CFTR gene"
+        ],
+        [
+          "P prime"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "shared attribute"
+        ],
+        [
+          "Delta (difference)"
+        ]
+      ],
+      "id": "56c5feb75795f9a73e000006",
+      "ideal_answer": "However, the CFTR mutation delta F508 is the most common reason for the frequently inherited disease among the Caucasian population. Although the major mutation that results in a single amino acid deletion (F508) accounts for 70% of the disease alleles, more than 550 additional mutant alleles of different forms have been detected. These 9 types of mutant CFTR genes totaled for 52% of all CFTR genes derived from the 69 Iranian CF patients. Eight mutations, c.406-8T\u003eC, p.A566D, c.2576delA, c.2752-1_2756delGGTGGCinsTTG, p.T1036I, p.W1145R, c.3850-24G\u003eA, c.1342-?_1524+?del, were found for the first time in this study. The most common mutations were p.F508del (DeltaF508) (18.1%), c.2183_2184delAAinsG (2183AA\u003eG) (6.5%), p.S466X (5.8%), p.N1303K (4.3%), c.2789+5G\u003eA (4.3%), p.G542X (3.6%), c.3120+1G\u003eA (3.6%), p.R334W (2.9%) and c.3130delA (2.9%). Besides the major 3-bp deletion, delta F508 that was found on 73% of German CF chromosomes, more than 50 other missense, nonsense, frame-shift, and splice-site mutations have already been identified. The commonest CFTR mutation, deltaF508, is found in 74.1% of all CF chromosomes. Maturation and processing of delta F508-CFTR is defective which leads to expression of only very little but functional CFTR in the cell membrane. "
+    },
+    {
+      "id": "56a38f9b496b62f23f000004",
+      "ideal_answer": "Targeted Chromatin Capture (T2C): a novel high resolution high throughput method to detect genomic interactions and regulatory elements. T2C is an efficient, easy, and affordable with high (restriction fragment) resolution tool to address both genome compartmentalization and chromatin-interaction networks for specific genomic regions at high resolution for both clinical and non-clinical research. Here we describe a new technique termed Targeted Chromatin Capture (T2C), to interrogate large selected regions of the genome. T2C provides an unbiased view of the spatial organization of selected loci at superior resolution (single restriction fragment resolution, from 2 to 6 kbp) at much lower costs than Hi-C due to the lower sequencing effort. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e0797451531f7e3300000f",
+      "ideal_answer": "Optogenetic techniques provide powerful tools for bidirectional control of neuronal activity and investigating alterations occurring in excitability disorders, such as epilepsy. Using such tools, it is now possible to begin to address some of the fundamental unanswered questions in epilepsy, to dissect epileptic neuronal circuits and to develop new intervention strategies. We chose to explore a conceptually novel strategy involving simultaneous activation of mixed populations of interneurons by optogenetics and study their impact on ongoing epileptiform activity in mouse acute hippocampal slices. We used optogenetic approaches to test the role of hippocampal excitatory neurons in the lithium-pilocarpine model of acute elicited seizures in awake behaving rats. Our data suggest that global optogenetic activation of mixed interneuron populations is a more effective approach for development of novel therapeutic strategies for epilepsy, but the initial action potential generation in principal neurons needs to be taken in consideration. Here, we discuss the possibility that an optogenetic approach could be used to control the release of gliotransmitters and improve astrocyte function such as glutamate and K(+) uptake, and thereby offer a potential strategy to investigate and treat astrocyte-related epilepsy. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e6f027a12c1fc13b000001",
+      "ideal_answer": "Using a genome-wide analysis of transcriptional responses to genotoxic stress induced by cancer therapeutics, we identified a spectrum of secreted proteins derived from the tumor microenvironment that includes the Wnt family member wingless-type MMTV integration site family member 16B (WNT16B). In this study, we found WNT16B could be expressed and secreted into the microenvironment by human ovarian fibroblasts after DNA damage-associated treatment, including chemotherapy drugs and radiation. In a recent article in Nature Medicine, Sun et al. show that increased expression of Wnt family member wingless-type MMTV integration site family member 16B (WNT16B) by the tumor microenvironment in response to cytotoxic damage and signals through the canonical Wnt pathway to promote tumor growth and chemotherapy resistance. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Heterochromatin"
+        ],
+        [
+          "Methyltransferase"
+        ],
+        [
+          "Massive"
+        ],
+        [
+          "Staphylococcal Protein A"
+        ],
+        [
+          "Lysine"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "histone methylation"
+        ],
+        [
+          "histone methyltransferase"
+        ],
+        [
+          "histone modification"
+        ],
+        [
+          "Biological Evolution"
+        ],
+        [
+          "ResponseLevel - modification"
+        ],
+        [
+          "Transcription, Genetic"
+        ],
+        [
+          "ME3 gene"
+        ],
+        [
+          "regional"
+        ],
+        [
+          "Firstly"
+        ],
+        [
+          "Biological Markers"
+        ],
+        [
+          "SNRPN gene"
+        ],
+        [
+          "Potential"
+        ],
+        [
+          "Phylogeny"
+        ],
+        [
+          "Responsibility"
+        ],
+        [
+          "Entire cell"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "Review [Publication Type]"
+        ],
+        [
+          "Service Request Relationship - Simultaneous"
+        ],
+        [
+          "silence"
+        ],
+        [
+          "Chromosomes"
+        ],
+        [
+          "Binding Sites"
+        ],
+        [
+          "Structure of bilaminar embryo"
+        ],
+        [
+          "classical example"
+        ],
+        [
+          "Evaluation"
+        ],
+        [
+          "Enrich"
+        ],
+        [
+          "Availability of"
+        ],
+        [
+          "Interphase"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "Mus"
+        ],
+        [
+          "Discover"
+        ],
+        [
+          "human herpesvirus 8"
+        ],
+        [
+          "Latent"
+        ],
+        [
+          "Distribution"
+        ],
+        [
+          "Early"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Widespread"
+        ],
+        [
+          "Observed"
+        ],
+        [
+          "Molecular"
+        ],
+        [
+          "Able (finding)"
+        ],
+        [
+          "Relative (related person)"
+        ],
+        [
+          "Presence"
+        ],
+        [
+          "Medical Product Stability"
+        ],
+        [
+          "Mechanism (attribute)"
+        ],
+        [
+          "Protein phosphorylation"
+        ],
+        [
+          "3/9"
+        ],
+        [
+          "Deposition"
+        ],
+        [
+          "\u003c3 (qualifier value)"
+        ],
+        [
+          "histone lysine methylation"
+        ],
+        [
+          "Abnormally high"
+        ],
+        [
+          "Arabidopsis"
+        ],
+        [
+          "Concern"
+        ],
+        [
+          "Mechanism Component of Device"
+        ],
+        [
+          "Data"
+        ],
+        [
+          "allowing"
+        ],
+        [
+          "Hereditary"
+        ],
+        [
+          "Distributing"
+        ],
+        [
+          "Rapid"
+        ],
+        [
+          "Identification (Psychology)"
+        ],
+        [
+          "heterochromatin assembly"
+        ],
+        [
+          "1+ Score, WHO"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Family"
+        ],
+        [
+          "Substance Use Domain"
+        ],
+        [
+          "Genome"
+        ],
+        [
+          "study of epigenetics"
+        ]
+      ],
+      "id": "56c6dd275795f9a73e000008",
+      "ideal_answer": "The recent discovery of the first histone Lys methyltransferase has allowed the identification of a molecular mechanism in which the specific methylation of histone H3 at Lys9 generates a binding site for heterochromatin-associated proteins. In this review, available data will be evaluated concerning (1) the phylogenetic distribution of H3K9me as heterochromatin-specific histone modification and its evolutionary stability in relation to other epigenetic marks, (2) known families of H3K9 methyltransferases, (3) their responsibility for the formation of constitutive heterochromatin and (4) the evolution of Su(var)3-9-like and SUVH-like H3K9 methyltransferases. While these regions were furthermore largely devoid of the constitutive heterochromatin marker H3K9-me3, we observed rapid and widespread deposition of H3K27-me3 across latent KSHV genomes, a bivalent modification which is able to repress transcription in spite of the simultaneous presence of activating marks. We show here that the maternally inherited Snurf-Snrpn 3-Mb region, which is silenced by a potent transcription repressive mechanism, is uniformly enriched in histone methylation marks usually found in constitutive heterochromatin, such as H4K20me3, H3K9me3, and H3K79me3. Classical histone modifications associated with heterochromatin, including H3K9me2, H3K27me1 and H3K27me2, were distributed throughout both A and B chromosomes. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Profile (lab procedure)"
+        ],
+        [
+          "transcription factor binding"
+        ],
+        [
+          "Open"
+        ],
+        [
+          "Role Class - access"
+        ],
+        [
+          "Published Database"
+        ],
+        [
+          "Databases"
+        ],
+        [
+          "Update"
+        ],
+        [
+          "Regulatory Sequences, Nucleic Acid"
+        ],
+        [
+          "Derivation"
+        ],
+        [
+          "Sequence Analysis"
+        ],
+        [
+          "Collection (action)"
+        ],
+        [
+          "Expanding"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "Annotated - DataType"
+        ],
+        [
+          "Matrix Array"
+        ],
+        [
+          "Package"
+        ],
+        [
+          "Scientific Equipment"
+        ],
+        [
+          "Quality"
+        ],
+        [
+          "Abnormally high"
+        ],
+        [
+          "Model"
+        ],
+        [
+          "Processor Core"
+        ],
+        [
+          "Redundancy"
+        ],
+        [
+          "Site of access"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Release - action (qualifier value)"
+        ],
+        [
+          "Meta"
+        ],
+        [
+          "Base Sequence"
+        ],
+        [
+          "Set scale"
+        ],
+        [
+          "Promoter"
+        ],
+        [
+          "Matrix Component of Device"
+        ],
+        [
+          "Complement System Proteins"
+        ],
+        [
+          "Genome"
+        ],
+        [
+          "Search - action"
+        ],
+        [
+          "Internet"
+        ],
+        [
+          "Interface Device Component"
+        ],
+        [
+          "Enhance (action)"
+        ],
+        [
+          "Curation"
+        ],
+        [
+          "Vertebrates"
+        ],
+        [
+          "Total"
+        ],
+        [
+          "TRANSCRIPTION FACTOR"
+        ],
+        [
+          "Heart"
+        ],
+        [
+          "Procedural approach"
+        ],
+        [
+          "Subgroup"
+        ],
+        [
+          "Manual"
+        ],
+        [
+          "Eukaryota"
+        ],
+        [
+          "Version"
+        ],
+        [
+          "comparative genomic analysis"
+        ],
+        [
+          "Automated endodontic technique"
+        ],
+        [
+          "Add - instruction imperative"
+        ],
+        [
+          "Silo (dataset)"
+        ],
+        [
+          "Capability"
+        ],
+        [
+          "Selection, Genetic"
+        ],
+        [
+          "Arabidopsis thaliana \u003cplant\u003e"
+        ],
+        [
+          "Mammals"
+        ],
+        [
+          "Family Collection"
+        ],
+        [
+          "Melanogaster"
+        ],
+        [
+          "Overall Publication Type"
+        ],
+        [
+          "Containing (qualifier)"
+        ],
+        [
+          "Caenorhabditis elegans"
+        ],
+        [
+          "Investigational"
+        ],
+        [
+          "Drosophila melanogaster"
+        ],
+        [
+          "Original Regulatory Submission"
+        ],
+        [
+          "Complete"
+        ],
+        [
+          "Diversity"
+        ],
+        [
+          "USP9X wt Allele"
+        ],
+        [
+          "chromatin immunoprecipitation"
+        ],
+        [
+          "Feeling content"
+        ],
+        [
+          "Publishing"
+        ],
+        [
+          "Advanced phase"
+        ],
+        [
+          "2010s"
+        ],
+        [
+          "Utilities (organization)"
+        ],
+        [
+          "Increase"
+        ],
+        [
+          "Data"
+        ],
+        [
+          "Extension"
+        ],
+        [
+          "Major"
+        ],
+        [
+          "Three-dimensional"
+        ],
+        [
+          "Science of Statistics"
+        ],
+        [
+          "Widening"
+        ],
+        [
+          "Binding action"
+        ],
+        [
+          "Protein Domain"
+        ],
+        [
+          "Suite - ActCode"
+        ]
+      ],
+      "id": "56a3a386496b62f23f000007",
+      "ideal_answer": "JASPAR is an open-access database of annotated, high-quality, matrix-based transcription factor binding site profiles for multicellular eukaryotes. We present JASPAR CORE--an expanded version of the original, non-redundant collection of annotated, high-quality matrix-based transcription factor binding profiles, JASPAR FAM--a collection of familial TFBS models and JASPAR phyloFACTS--a set of matrices computationally derived from statistically overrepresented, evolutionarily conserved regulatory region motifs from mammalian genomes. The database is complemented by a web interface for browsing, searching and subset selection, an online sequence analysis utility and a suite of programming tools for genome-wide and comparative genomic analysis of regulatory regions. JASPAR phyloFACTS serves as a non-redundant extension to JASPAR CORE, enhancing the overall breadth of JASPAR for promoter sequence analysis. The fifth major release greatly expands the heart of JASPAR-the JASPAR CORE subcollection, which contains curated, non-redundant profiles-with 135 new curated profiles (74 in vertebrates, 8 in Drosophila melanogaster, 10 in Caenorhabditis elegans and 43 in Arabidopsis thaliana; a 30% increase in total) and 43 older updated profiles (36 in vertebrates, 3 in D. melanogaster and 4 in A. thaliana; a 9% update in total). JASPAR, the open access database of transcription factor-binding profiles: new content and tools in the 2008 update. "
+    },
+    {
+      "id": "56e0813651531f7e33000010",
+      "ideal_answer": "We demonstrate how the ability to target astrocytes with cell-specific viral vectors to express optogenetic constructs helped to unravel some previously unsuspected roles of these inconspicuous cells. To express ChR in neurons, the common expression systems include viral vectors, in utero electroporation, and transgenic animals, each with their advantages and limitations regarding the cost, expression pattern, and the required effort. In this review, the various strategies for selective genetic targeting of a defined neuronal population are discussed as well as the pros and cons of the use of transgenic animals and recombinant viral vectors for the expression of transgenes in a specific set of neurons. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Transcription Coactivator"
+        ],
+        [
+          "TREX2 protein, human"
+        ],
+        [
+          "Saga (invertebrate)"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "SAGA complex"
+        ],
+        [
+          "transcription export complex 2"
+        ],
+        [
+          "isopeptidase"
+        ],
+        [
+          "Histone H2b"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "Protein complex"
+        ],
+        [
+          "Nuclear Pore Complex"
+        ],
+        [
+          "Yeast Proteins"
+        ],
+        [
+          "Binding action"
+        ],
+        [
+          "Formation"
+        ],
+        [
+          "Containing (qualifier)"
+        ],
+        [
+          "DUBm complex"
+        ],
+        [
+          "ubiquitin-specific protease"
+        ],
+        [
+          "GLI2 gene"
+        ],
+        [
+          "MCM3AP gene"
+        ],
+        [
+          "Transcription, Genetic"
+        ],
+        [
+          "Gene Expression"
+        ],
+        [
+          "*Activity (kind of quantity)"
+        ],
+        [
+          "Deubiquitination"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "Three"
+        ],
+        [
+          "Coordinated"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "Module"
+        ],
+        [
+          "Saccharomyces cerevisiae"
+        ],
+        [
+          "mRNA Export"
+        ],
+        [
+          "Cell Nucleus"
+        ],
+        [
+          "ubiquitin-specific protease activity"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "Subunit"
+        ],
+        [
+          "Responsible to"
+        ],
+        [
+          "ENY2 gene"
+        ],
+        [
+          "Contain (action)"
+        ],
+        [
+          "mRNA synthesis"
+        ],
+        [
+          "Export"
+        ],
+        [
+          "physiological aspects"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "Catalytic Domain"
+        ],
+        [
+          "SAGA DUBm complex"
+        ],
+        [
+          "interconnection"
+        ],
+        [
+          "% bound (qualifier value)"
+        ],
+        [
+          "Term (temporal)"
+        ],
+        [
+          "SHFM1 gene"
+        ],
+        [
+          "Additional"
+        ]
+      ],
+      "id": "56b773a96e3f8eaf4c000003",
+      "ideal_answer": "In the nucleus, Sus1 is associated to the transcriptional co-activator SAGA and to the NPC associated complex termed TREX2/THSC. The deubiquitinating module (DUBm) of the SAGA coactivator contains the Ubp8 isopeptidase, Sgf11, Sus1, and Sgf73, which form a highly interconnected complex. The conserved Sac3:Thp1:Sem1:Sus1:Cdc31 (TREX2) complex binds to nuclear pore complexes (NPCs). The yeast deubiquitinase Ubp8 protein is recruited and activated by the SAGA complex and, together with Sgf11, Sus1, and Sgf73, forms a DUB module responsible for deubiquitinating histone H2B during gene expression. Sus1/ENY2, a component of the SAGA and TREX-2 complexes, is involved in both transcription and mRNA export. Sus1 (hENY2) participates in this coordination as part of two protein complexes: SAGA, a transcriptional co-activator; TREX-2, which functions in mRNA biogenesis and export. Sus1 is a component of both the SAGA transcriptional co-activator complex and the TREX-2 complex that binds to nuclear pore complexes. distinct subcomplex called the deubiquitinating module (DUBm), which contains the ubiquitin-specific protease Ubp8, bound to Sgf11, Sus1, and Sgf73. The yeast DUBm comprises a catalytic subunit, Ubp8, and three additional subunits, Sgf11, Sus1 and Sgf73, all of which are required for DUBm activity. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c71cb65795f9a73e00000b",
+      "ideal_answer": "All three tested anthraquinones, emodin, aloe-emodin, and danthron, showed capabilities to inhibit the non-covalent binding of bisbenzimide Hoechst 33342 to isolated DNA and in mouse lymphoma L5178Y cells comparable to the topoisomerase II inhibitor and intercalator m-amsacrine. Since AD 288 is a potent DNA intercalator, catalytic inhibition is achieved by prohibiting access of the enzyme to DNA binding sites. Abnormal expression of the nuclear-associated enzyme DNA topoisomerase II (topoisomerase II) has been implicated in the in vitro phenotype of radiation hypersensitive ataxia-telangiectasia (A-T) cells and in modifying sensitivity of eukaryotic cells to topoisomerase II-inhibitor drugs [e.g., the DNA intercalator amsacrine (mAMSA)]. To determine whether the ability of amiloride to intercalate into DNA and to inhibit DNA topoisomerase II was dependent on the ability to assume a cyclized conformation, we studied the structure-activity relationship for 12 amiloride analogs. Thus, the ability of amiloride and the 12 analogs studied to intercalate into DNA and to inhibit topoisomerase II appears dependent on the ability to exist in a planar, hydrogen-bonded, tricyclic conformation. These studies suggest that AD 288 inhibits topoisomerase II activity by preventing the initial non-covalent binding of topoisomerase II to DNA. "
+    },
+    {
+      "id": "56a3a6c9496b62f23f000008",
+      "ideal_answer": "TFBSshape: a motif database for DNA shape features of transcription factor binding sites. To utilize DNA shape information when analysing the DNA binding specificities of TFs, we developed a new tool, the TFBSshape database (available at http://rohslab.cmb.usc.edu/TFBSshape/), for calculating DNA structural features from nucleotide sequences provided by motif databases. As demonstrated for the basic helix-loop-helix and homeodomain TF families, our TFBSshape database can be used to compare, qualitatively and quantitatively, the DNA binding specificities of closely related TFs and, thus, uncover differential DNA binding specificities that are not apparent from nucleotide sequence alone. The TFBSshape database can be used to generate heat maps and quantitative data for DNA structural features (i.e., minor groove width, roll, propeller twist and helix twist) for 739 TF datasets from 23 different species derived from the motif databases JASPAR and UniPROBE. "
+    },
+    {
+      "id": "56e0869351531f7e33000011",
+      "ideal_answer": "We present a method (global run-on sequencing, GRO-seq) that maps the position, amount, and orientation of transcriptionally engaged RNA polymerases genome-wide. In this method, nuclear run-on RNA molecules are subjected to large-scale parallel sequencing and mapped to the genome. Global run-on sequencing (GRO-seq) is a recent addition to the series of high-throughput sequencing methods that enables new insights into transcriptional dynamics within a cell. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Juvenile Neuronal Ceroid Lipofuscinosis"
+        ],
+        [
+          "Defective"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Membrane Proteins"
+        ]
+      ],
+      "id": "56b710f276d8bf8d13000003",
+      "ideal_answer": "ln3 was recently identified as the gene defective in juvenile Batten disease, an inherited neurodegenerative disease of childhood. Batten disease (juvenile-onset neuronal ceroid lipofuscinosis, JNCL), the most common neurodegenerative disorder of childhood, is caused by mutations in a recently identified gene ( CLN3 ) localized to chromosome 16p11.2-12.1. Batten disease [juvenile-onset neuronal ceroid lipofuscinosis (JNCL)], the most common progressive encephalopathy of childhood, is caused by mutations in a novel lysosomal membrane protein (CLN3) with unknown function. Mutations in the CLN3 gene, which encodes a lysosomal membrane protein, are responsible for the neurodegenerative disorder juvenile Batten disease. Juvenile neuronal ceroid lipofuscinosis (Batten disease) is a neurodegenerative disorder caused by defective function of the lysosomal membrane glycoprotein CLN3. human CLN3 that is defective in Batten disease, localizes to the vacuole. JNCL results from mutations in CLN3 on chromosome 16p12.1. the human CLN3 gene that is defective in Batten disease,. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56cae5125795f9a73e000024",
+      "ideal_answer": "Mutant FUS proteins that cause amyotrophic lateral sclerosis incorporate into stress granules. Recent work connecting TDP-43 and FUS to stress granules has suggested how this cellular pathway, which involves protein aggregation as part of its normal function, might be coopted during disease pathogenesis. Here we report that profilin 1 and related protein profilin 2 are novel stress granule-associated proteins in mouse primary cortical neurons and in human cell lines and that ALS-linked mutations in profilin 1 alter stress granule dynamics, providing further evidence for the potential role of stress granules in ALS pathogenesis. These findings support a two-hit hypothesis, whereby cytoplasmic mislocalization of FUS protein, followed by cellular stress, contributes to the formation of cytoplasmic aggregates that may sequester FUS, disrupt RNA processing and initiate motor neuron degeneration. Furthermore, in response to oxidative stress or heat shock conditions in cultures and in vivo, the ALS-linked FUS mutants, but not wild-type FUS, assembled into perinuclear stress granules in proportion to their cytoplasmic expression levels. RNA-binding ability of FUS regulates neurodegeneration, cytoplasmic mislocalization and incorporation into stress granules associated with FUS carrying ALS-linked mutations. "
+    },
+    {
+      "id": "56a3a8c7496b62f23f000009",
+      "ideal_answer": "They are therefore functionally related to a number of key protein coding developmental genes, that form genomic regulatory blocks (GRBs) with arrays of highly conserved non-coding elements (HCNEs) functioning as long-range enhancers that collaboratively regulate the expression of their target genes. We show evidence that GRB target genes have properties that set them apart from their bystanders as well as other genes in the genome: longer CpG islands, a higher number and wider spacing of alternative transcription start sites, and a distinct composition of transcription factor binding sites in their core/proximal promoters. We found the largest mammal-teleost conserved chromosomal segments to be spanned by highly conserved noncoding elements (HCNEs), their developmental regulatory target genes, and phylogenetically and functionally unrelated \"bystander\" genes. Genomic regulatory blocks (GRBs) are chromosomal regions spanned by highly conserved non-coding elements (HCNEs), most of which serve as regulatory inputs of one target gene in the region. Target gene expression correlates with the acetylation state of HCNEs in the region. Insect genomes contain larger blocks of conserved gene order (microsynteny) than would be expected under a random breakage model of chromosome evolution. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Ethosuximide"
+        ],
+        [
+          "Type - attribute"
+        ],
+        [
+          "Examined"
+        ],
+        [
+          "Enzymes"
+        ],
+        [
+          "Cystathionine"
+        ]
+      ],
+      "id": "56cf236f3975bb303a000002",
+      "ideal_answer": "Given evidence that chemotherapy-induced neuropathic pain is blocked by ethosuximide, known to block T-type calcium channels, we examined if more selective T-type calcium channel blockers and also inhibitors of cystathionine-γ-lyase (CSE), a major H₂S-forming enzyme in the peripheral tissue, are capable of reversing the neuropathic pain evoked by paclitaxel, an anti-cancer drug. In rats, intraplantar (i.pl.) administration of db-cAMP or PGE(2)  caused mechanical hyperalgesia, an effect suppressed by AKAPI, two distinct T-channel blockers, NNC 55-0396 and ethosuximide, or ZnCl(2) , known to inhibit Ca(v) 3.2 among T channels. In the present study, we examined whether ethosuximide (ETX), a T-channel antagonist, could decrease the severity of ethanol withdrawal seizures by evaluating electrographical and behavioral correlates of seizure activity. Theta rhythms remained disrupted during a subsequent week of withdrawal but were restored with the T-type channel blocker ethosuximide. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Thapsigargin"
+        ],
+        [
+          "Tunicamycin"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "Induce (action)"
+        ],
+        [
+          "Inhibitor"
+        ]
+      ],
+      "id": "56b7210b76d8bf8d13000004",
+      "ideal_answer": "Treatment of endoplasmic stress inducers, thapsigargin. thapsigargin-induced calcium depletion of sarcoplasmic reticular stores. Addition of thapsigargin (Tg), that induces store-depletion and activates TRPC1-mediated Ca(2+) entry, potentiated the Cl(-) current, which was inhibited by the addition of a non-specific TRPC channel blocker SKF96365 or removal of external Ca(2+). the sarcoplasmic/endoplasmic Ca(2+)-ATPase (SERCA) inhibitor thapsigargin. hapsigargin, a sarco/endoplasmic reticulum Ca(2+)-ATPase (SERCA) Ca(2+) pump inhibitor. pretreatment with the endoplasmic reticulum Ca(2+) pump inhibitor thapsigargin (TG). the two unrelated reversible autophagy inhibitors 3-methyladenine (3MA) and thapsigargin (TG) both blocked cargo sequestration completely. Thapsigargin-induced ER stress. pharmacological ER stress agents (thapsigargin and tunicamycin). we demonstrate that thapsigargin (TG) and tunicamycin (TM), two ERS inducers. SERCA2a inhibitor (thapsigargin). he ER stressors, thapsigargin. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56a8adb0a17756b72f000003",
+      "ideal_answer": "active enhancers are transcribed, producing a class of noncoding RNAs called enhancer RNAs (eRNAs). we found certain enhancer RNAs (eRNAs) regulate chromatin accessibility of the transcriptional machinery at loci encoding master regulators of myogenesis (i.e., MyoD/MyoG), thus suggesting their significance and site-specific impact in cellular programming. the discovery that distal regulatory elements known as enhancers are transcribed and such enhancer-derived transcripts (eRNAs) serve a critical function in transcriptional activation has added a new dimension to transcriptional regulation. eRNAs are distinct from long noncoding RNAs (lncRNAs), but these two species of noncoding RNAs may share a similar role in the activation of mRNA transcription. eRNAs may then facilitate enhancer-promoter interaction or activate promoter-driven transcription. Enhancer RNAs: a class of long noncoding RNAs synthesized at enhancers. Enhancer RNAs and regulated transcriptional programs. enhancers have been found to be broadly transcribed, resulting in the production of enhancer-derived RNAs, or eRNAs. Enhancer RNAs: the new molecules of transcription. The emerging roles of eRNAs in transcriptional regulatory networks. eRNAs reach the heart of transcription. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56cf2a153975bb303a000004",
+      "ideal_answer": "Additionally, the number of binding sites for radioligands labelling L- ([3H]nitrendipine), N- ([125I]omega-conotoxin MVIIA) and P/Q-type ([125I]omega-conotoxin MVIIC) Ca2+ channels was assessed in the rat retina and, for further comparison, in the rat cortex. We examined the post-pubertal behavioral effects of neonatal (postnatal day 7) medial prefrontal cortex infusion of either vehicle or N-type and P/Q-type presynaptic voltage-dependent calcium channel blockers (omega-conotoxins MVIIA and MVIIC respectively; 6.8 and 45 pmol infused respectively) in rat pups. Omega-conotoxin MVIIC (MVIIC) blocks P/Q-type calcium channels with high affinity and N-type calcium channels with low affinity, while the highly homologous omega-conotoxin MVIIA blocks only N-type calcium channels. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Proteins"
+        ],
+        [
+          "Cell division"
+        ],
+        [
+          "Guanosine Triphosphate Phosphohydrolases"
+        ],
+        [
+          "Tubulin"
+        ],
+        [
+          "Division (surgical procedure)"
+        ],
+        [
+          "Ring (shape)"
+        ],
+        [
+          "Bacterial"
+        ],
+        [
+          "Essential"
+        ],
+        [
+          "Escherichia coli"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Homologous Gene"
+        ],
+        [
+          "FtsZ protein, Bacteria"
+        ],
+        [
+          "Blood group antibody A"
+        ],
+        [
+          "Assembly (construction)"
+        ],
+        [
+          "Bacterial Proteins"
+        ],
+        [
+          "cytokinetic ring"
+        ],
+        [
+          "Major"
+        ],
+        [
+          "Bacterial cell"
+        ],
+        [
+          "Polymers"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "physiological aspects"
+        ],
+        [
+          "bacteria aspects"
+        ],
+        [
+          "Cells"
+        ],
+        [
+          "In Vivo"
+        ],
+        [
+          "Firstly"
+        ],
+        [
+          "parent"
+        ],
+        [
+          "depend"
+        ],
+        [
+          "Prostaglandin measurement"
+        ],
+        [
+          "natural daughter - RoleCode"
+        ],
+        [
+          "Act Mood - Goal"
+        ],
+        [
+          "Potential"
+        ],
+        [
+          "Social Role"
+        ],
+        [
+          "Entire cell"
+        ],
+        [
+          "Depolymerization"
+        ],
+        [
+          "Generators (Apparatus)"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Divide"
+        ],
+        [
+          "Initial (abbreviation)"
+        ],
+        [
+          "Assembly (group of parts)"
+        ],
+        [
+          "Established"
+        ],
+        [
+          "Mechanical force"
+        ],
+        [
+          "Amino Acid Sequence"
+        ],
+        [
+          "Archaea"
+        ],
+        [
+          "FABP1 gene"
+        ],
+        [
+          "Contracting"
+        ],
+        [
+          "Maintenance"
+        ],
+        [
+          "Cytokinesis"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "establishment and maintenance of localization"
+        ],
+        [
+          "Cell septum"
+        ],
+        [
+          "Distribution"
+        ],
+        [
+          "Cytoskeleton"
+        ],
+        [
+          "Dependent - ability"
+        ],
+        [
+          "Dynamic"
+        ],
+        [
+          "Choose (action)"
+        ],
+        [
+          "DNM2 gene"
+        ],
+        [
+          "Cell physiology"
+        ],
+        [
+          "cell elongation"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "Cell Shape"
+        ],
+        [
+          "Membrane"
+        ],
+        [
+          "Medical Product Stability"
+        ],
+        [
+          "Structure"
+        ],
+        [
+          "Thinking, function"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "cell envelope"
+        ],
+        [
+          "Polymerization"
+        ],
+        [
+          "cell division site"
+        ],
+        [
+          "Anatomic Plane"
+        ],
+        [
+          "Event"
+        ],
+        [
+          "Prokaryote"
+        ],
+        [
+          "PROZ gene"
+        ]
+      ],
+      "id": "56d094f33975bb303a000012",
+      "ideal_answer": "FtsZ is an essential cell division protein in Escherichia coli, and its localization, filamentation, and bundling at the mid-cell are required for Z-ring stability. Bacterial cell division involves a complex and dynamic sequence of events whereby polymers of the protein FtsZ assemble at the division plane and rearrange to achieve the goal of contracting the cell membrane at the site of cell division, thus dividing the parent cell into two daughter cells. The GTPase-dependent polymerization/depolymerization dynamics of FtsZ regulate bacterial cell division in vivo. Bacterial cytokinesis depends upon the tubulin-like GTPase FtsZ, which polymerizes into an annular structure at midcell (the Z-ring) that defines the division site. FtsZ is the first of the divisome proteins to accumulate at the division site and is widely thought to function as a force generator that constricts the cell envelope. FtsZ, the homolog of eukaryotic tubulin, is a GTPase that assembles into cytokinetic Z rings essential for cell division in prokaryotic cells. In Escherichia coli, initial assembly of the Z ring for cell division requires FtsZ plus the essential Z ring-associated proteins FtsA and ZipA. FtsZ, the key protein of bacterial cell division was selected as a potent anti bacterial target. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Carboxylase"
+        ],
+        [
+          "Biotin"
+        ],
+        [
+          "nonidet"
+        ],
+        [
+          "Contamination"
+        ],
+        [
+          "Nonidet P-40"
+        ]
+      ],
+      "id": "56a8d660a17756b72f000006",
+      "ideal_answer": "We show that the use of 0.5% of the non-ionic detergent Nonidet-40 (NP-40) during cell lysis and nuclei isolation is sufficient to practically eliminate contamination of nuclear extracts by carboxylases and to greatly reduce background signals in downstream mass spectrometric analyses. NP-40 reduces contamination by endogenous biotinylated carboxylases during purification of biotin tagged nuclear proteins. "
+    },
+    {
+      "exact_answer": [
+        [
+          "dovitinib"
+        ],
+        [
+          "tyrosine receptor"
+        ],
+        [
+          "Fibroblast Growth Factor Receptors"
+        ],
+        [
+          "TKI 258"
+        ],
+        [
+          "Potential"
+        ]
+      ],
+      "id": "56d04a533975bb303a000010",
+      "ideal_answer": "This phase 2 study investigated the efficacy and safety of dovitinib (TKI258), a receptor tyrosine kinase inhibitor with potent activity against fibroblast growth factor receptor (FGFR) and vascular endothelial growth factor receptor (VEGFR), in locally advanced or metastatic thyroid cancer patients. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Peptides"
+        ],
+        [
+          "Hypothalamic structure"
+        ],
+        [
+          "anorexigenic peptide"
+        ],
+        [
+          "Galanin"
+        ],
+        [
+          "Expression procedure"
+        ]
+      ],
+      "id": "56e47e0051531f7e3300001c",
+      "ideal_answer": "Orexin A and B, orexigenic peptides produced primarily by the lateral hypothalamus t. expression of the orexigenic peptides, galanin (GAL) in the hypothalamic paraventricular nucleus (PVN) and orexin (OX) in the perifornical lateral hypothalamus (PFLH). expression of the orexigenic peptides, enkephalin (ENK) and galanin (GAL), in developing embryonic hypothalamic neurons. Expression of orexigenic peptides neuropeptide Y (NPY) and agouti-related protein (AgRP) decreased in the hypothalamus of metformin-treated diabetic rats, though anorexigenic peptides pro-opiomelanocortin (POMC) did not change significantly. increase in mRNA expression of hypothalamic orexigenic peptides and a decrease of anorexigenic peptides;. Telmisartin reduced hypothalamic mRNA levels of the orexigenic peptides melanin-concentrating hormone and prepro-orexin. the hypothalamic mRNA expression of endogenous orexigenic peptides. Such mechanisms may involve orexigenic peptides known to stimulate alcohol intake through their actions in the hypothalamic paraventricular nucleus (PVN). hypothalamic orexigenic peptides,. hypothalamus orexigenic peptides. The hypothalamus integrates peripheral and central signals to generate satiety or hunger. hypothalamic orexigenic peptides. "
+    },
+    {
+      "id": "56accec70a360a5e45000003",
+      "ideal_answer": "ISMARA: automated modeling of genomic signals as a democracy of regulatory motifs. We developed a methodology that models gene expression or chromatin modifications in terms of genome-wide predictions of regulatory sites and completely automated it into a web-based tool called ISMARA (Integrated System for Motif Activity Response Analysis). Given only gene expression or chromatin state data across a set of samples as input, ISMARA identifies the key TFs and miRNAs driving expression/chromatin changes and makes detailed predictions regarding their regulatory roles. We also present a number of novel predictions including regulatory interactions in innate immunity, a master regulator of mucociliary differentiation, TFs consistently disregulated in cancer, and TFs that mediate specific chromatin modifications. These include predicted activities of the regulators across the samples, their genome-wide targets, enriched gene categories among the targets, and direct interactions between the regulators. Applying ISMARA to data sets from well-studied systems, we show that it consistently identifies known key regulators ab initio. "
+    },
+    {
+      "exact_answer": [
+        [
+          "erbB-2 Receptor"
+        ],
+        [
+          "Options"
+        ],
+        [
+          "Positive Finding"
+        ],
+        [
+          "Negative"
+        ],
+        [
+          "Similarity"
+        ]
+      ],
+      "id": "56d06e043975bb303a000011",
+      "ideal_answer": "Women with hormone receptor-positive, human epidermal growth factor receptor 2- negative breast cancer-the most common subtype-have new options as palbociclib and similar drugs debut. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56e5aeec0c19e5451d000002",
+      "ideal_answer": "ransmembrane adenylyl cyclase. Transmembrane adenylyl cyclase (tmAC) and soluble AC (sAC). transmembrane adenylyl cyclases (tmACs), and soluble adenylyl cyclase (sAC). soluble adenylyl cyclase (sAC, ADCY10), the ubiquitous, non-transmembrane adenylyl cyclase, was found to play a key role in neuronal survival and axon growth. cAMP production in beta cells is mediated not simply by transmembrane adenylyl cyclases (TMACs), but also by sAC. Soluble adenylyl cyclase (sAC) is a recently recognized source of the signaling molecule cyclic AMP (cAMP) that is genetically and biochemically distinct from the classic G-protein-regulated transmembrane adenylyl cyclases (tmACs). In contrast to tmAC, sAC produces cAMP in various intracellular microdomains close to specific cAMP targets, e.g., in nucleus and mitochondria. Here, we showed that both transmembrane AC (tmAC) and soluble AC (sAC) are distinctly involved in the regulation of sperm motility in the ascidian Ciona intestinalis. Central role of soluble adenylyl cyclase. Soluble adenylyl cyclase. "
+    }
+  ]
+}

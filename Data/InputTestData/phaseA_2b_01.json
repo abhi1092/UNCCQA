@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "body": "Is Tuberous Sclerosis a genetic disease?", 
+            "type": "yesno", 
+            "id": "52b06a68f828ad283c000005"
+        }, 
+        {
+            "body": "What is the indication of Daonil (Glibenclamide)?", 
+            "type": "factoid", 
+            "id": "52b2e1d8f828ad283c00000c"
+        }, 
+        {
+            "body": "What disease in Loxapine prominently used for?", 
+            "type": "factoid", 
+            "id": "52b2e409f828ad283c00000e"
+        }, 
+        {
+            "body": "Has overexpression of sirtuins been reported to increase lifespan in budding yeast (Saccharomyces cerevisiae)?", 
+            "type": "yesno", 
+            "id": "52b2e97df828ad283c000012"
+        }, 
+        {
+            "body": "Can Levoxyl (levothyroxine sodium) cause insomnia?", 
+            "type": "yesno", 
+            "id": "52b2ec744003448f55000001"
+        }, 
+        {
+            "body": "Can FOXOs modulate longevity?", 
+            "type": "yesno", 
+            "id": "52b2ec944003448f55000002"
+        }, 
+        {
+            "body": "Have mutations in the GARS gene been identified to cause Charcot-Marie-Tooth Disease Type 2D (CMT2D)?", 
+            "type": "yesno", 
+            "id": "52b2ecd34003448f55000003"
+        }, 
+        {
+            "body": "Can Preimplantation Genetic Diagnosis (PGD) be used for gender selection?", 
+            "type": "yesno", 
+            "id": "52b2ed144003448f55000004"
+        }, 
+        {
+            "body": "Is Achondroplasia associated with hearing loss?", 
+            "type": "yesno", 
+            "id": "52b2efcb4003448f55000005"
+        }, 
+        {
+            "body": "Can mutations in Calmodulin cause ventricular fibrillation?", 
+            "type": "yesno", 
+            "id": "52b2f0864003448f55000007"
+        }, 
+        {
+            "body": "Is triadin involved in cardiac function?", 
+            "type": "yesno", 
+            "id": "52b2f09f4003448f55000008"
+        }, 
+        {
+            "body": "Is the Snord116 cluster associated with the Prader-Willi syndrome?", 
+            "type": "yesno", 
+            "id": "52b2f0d84003448f55000009"
+        }, 
+        {
+            "body": "Is JTV519 (K201) a potential drug for the prevention of arrhythmias?", 
+            "type": "yesno", 
+            "id": "52b2f1724003448f5500000b"
+        }, 
+        {
+            "body": "What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?", 
+            "type": "factoid", 
+            "id": "52bf19f703868f1b06000002"
+        }, 
+        {
+            "body": "Is it safe to use Abatacept during pregnancy?", 
+            "type": "yesno", 
+            "id": "52bf1aa503868f1b06000006"
+        }, 
+        {
+            "body": "Which disease is caused by mutations in Calsequestrin 2 (CASQ2) gene?", 
+            "type": "factoid", 
+            "id": "52bf1af803868f1b06000008"
+        }, 
+        {
+            "body": "What is the mode of inheritance of Wilson's disease?", 
+            "type": "factoid", 
+            "id": "52bf1b0a03868f1b06000009"
+        }, 
+        {
+            "body": "Which virus is Cidofovir (Vistide) indicated for?", 
+            "type": "factoid", 
+            "id": "52bf1cad03868f1b0600000a"
+        }, 
+        {
+            "body": "What hand deformities do patients with Apert syndrome present with?", 
+            "type": "list", 
+            "id": "52bf1cb303868f1b0600000b"
+        }, 
+        {
+            "body": "Which are the subtypes of Pfeiffer syndrome?", 
+            "type": "list", 
+            "id": "52bf1d6003868f1b0600000e"
+        }, 
+        {
+            "body": "To the ligand of which receptors does Denosumab (Prolia) bind?", 
+            "type": "factoid", 
+            "id": "52bf1d9e03868f1b06000010"
+        }, 
+        {
+            "body": "What is the mechanism of action of Nalmefene?", 
+            "type": "summary", 
+            "id": "52bf1df903868f1b06000013"
+        }, 
+        {
+            "body": "What is the action of molindone?", 
+            "type": "summary", 
+            "id": "52bf1f5f03868f1b06000017"
+        }, 
+        {
+            "body": "What is the inheritance pattern of Apert syndrome?", 
+            "type": "factoid", 
+            "id": "52c7275103868f1b0600001c"
+        }, 
+        {
+            "body": "How many different mutations have been associated with Muenke syndrome?", 
+            "type": "factoid", 
+            "id": "52c7311903868f1b0600001d"
+        }, 
+        {
+            "body": "Why are insulators necessary in gene therapy vectors?", 
+            "type": "summary", 
+            "id": "52d2b75403868f1b06000035"
+        }, 
+        {
+            "body": "Is oxalate renal excretion increased after bariatric surgery?", 
+            "type": "yesno", 
+            "id": "52df887498d023950500000c"
+        }, 
+        {
+            "body": "Which are the supplemental antioxidant in athletes?", 
+            "type": "list", 
+            "id": "52df8ce798d023950500000d"
+        }, 
+        {
+            "body": "What are the results of loss of the protein Lon1 in the plant Arabidopsis?", 
+            "type": "list", 
+            "id": "52e0141498d023950500000e"
+        }, 
+        {
+            "body": "Which are the most under-represented oligonucleotides in higher eukaryote genomes?", 
+            "type": "list", 
+            "id": "52e203bc98d0239505000011"
+        }, 
+        {
+            "body": "Which drugs affect insulin resistance in obesity?", 
+            "type": "list", 
+            "id": "52e7b7cb98d023950500001c"
+        }, 
+        {
+            "body": "Does resveratrol reduce cardiac remodeling?", 
+            "type": "yesno", 
+            "id": "52e7bbf698d023950500001d"
+        }, 
+        {
+            "body": "What is the mode of inheritance of Facioscapulohumeral muscular\ndystrophy (FSHD)?", 
+            "type": "factoid", 
+            "id": "52e8e93498d023950500001e"
+        }, 
+        {
+            "body": "Which are the subtypes of Pfeiffer syndrome?", 
+            "type": "list", 
+            "id": "52e8e9d298d0239505000022"
+        }, 
+        {
+            "body": "List interaction partners for the protein GATA1.", 
+            "type": "list", 
+            "id": "52e929eb98d0239505000023"
+        }, 
+        {
+            "body": "Which gene is associated with the Mitchell-Riley syndrome?", 
+            "type": "factoid", 
+            "id": "52e92c6e98d0239505000024"
+        }, 
+        {
+            "body": "Can valproic acid act as an activator of AMPK?", 
+            "type": "yesno", 
+            "id": "52e9f99798d0239505000025"
+        }, 
+        {
+            "body": "Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?", 
+            "type": "list", 
+            "id": "52ea605098d0239505000028"
+        }, 
+        {
+            "body": "Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?", 
+            "type": "factoid", 
+            "id": "52ece29f98d023950500002c"
+        }, 
+        {
+            "body": "Are thyroid hormone receptors implicated in arterial hypertension?", 
+            "type": "yesno", 
+            "id": "52eceada98d023950500002d"
+        }, 
+        {
+            "body": "Which deiodinase polymorphisms are implicated in arterial hypertension?", 
+            "type": "list", 
+            "id": "52ecf2dd98d023950500002e"
+        }, 
+        {
+            "body": "Provide examples of how molecular transporters contribute to multi-drug resistance in bacteria.", 
+            "type": "summary", 
+            "id": "52ed264a98d023950500002f"
+        }, 
+        {
+            "body": "What is the mode of inheritance of Romano Ward long QT syndrome?", 
+            "type": "factoid", 
+            "id": "52ee9f55c8da898910000009"
+        }, 
+        {
+            "body": "Which are the characteristics of  Andersen syndrome?", 
+            "type": "list", 
+            "id": "52eeddfcc8da898910000010"
+        }, 
+        {
+            "body": "Does Chromatin Immunoprecipitation (ChIP) show a bias for highly expressed loci?", 
+            "type": "yesno", 
+            "id": "52ef6da1c8da898910000011"
+        }, 
+        {
+            "body": "Is CD84 genetically associated with arthritis?", 
+            "type": "yesno", 
+            "id": "52ef7170c8da898910000012"
+        }, 
+        {
+            "body": "Which proteins act as histone-like molecules in prokaryotes?", 
+            "type": "list", 
+            "id": "52ef7754c8da898910000014"
+        }, 
+        {
+            "body": "What is the life expectancy of professional athletes in respect to the general population?", 
+            "type": "factoid", 
+            "id": "52efc016c8da89891000001a"
+        }, 
+        {
+            "body": "Does thyroid hormone affect cardiac remodeling?", 
+            "type": "yesno", 
+            "id": "52efc041c8da89891000001b"
+        }, 
+        {
+            "body": "Which are the enzymes involved in the addition of 7-methylguanosine in mRNA?", 
+            "type": "list", 
+            "id": "52f112bb2059c6d71c000002"
+        }, 
+        {
+            "body": "Are defects in recombination repair involved in carcinogenesis?", 
+            "type": "yesno", 
+            "id": "52f118aa2059c6d71c000003"
+        }, 
+        {
+            "body": "Which signalling pathway is involved in Tuberous Sclerosis?", 
+            "type": "factoid", 
+            "id": "52f11b922059c6d71c000004"
+        }, 
+        {
+            "body": "Is stop codon bypass possible?", 
+            "type": "yesno", 
+            "id": "52f11bf22059c6d71c000005"
+        }, 
+        {
+            "body": "What is the molecular pathogenesis of Spinal Muscular Atrophy?", 
+            "type": "summary", 
+            "id": "52f124a12059c6d71c000006"
+        }, 
+        {
+            "body": "What is the mode of action of everolimus?", 
+            "type": "summary", 
+            "id": "52f125332059c6d71c000007"
+        }, 
+        {
+            "body": "What is the role of the Tsix gene during X chromosome inactivation?", 
+            "type": "summary", 
+            "id": "52f1287d2059c6d71c000008"
+        }, 
+        {
+            "body": "Which diseases are associated with Alu element insertion?", 
+            "type": "list", 
+            "id": "52f129d92059c6d71c000009"
+        }, 
+        {
+            "body": "Is the length of the poly(A) tail involved in human disease?", 
+            "type": "yesno", 
+            "id": "52f20d802059c6d71c00000a"
+        }, 
+        {
+            "body": "What is the usual HER-2 status in breast cancer associated with Li-Fraumeni syndrome?", 
+            "type": "factoid", 
+            "id": "52f21b722059c6d71c00000b"
+        }, 
+        {
+            "body": "What is the most probable defect underlying triple negative breast cancer?", 
+            "type": "factoid", 
+            "id": "52f21e8f2059c6d71c00000c"
+        }, 
+        {
+            "body": "Which is the genetic defect causing Neurofibromatosis type 1?", 
+            "type": "factoid", 
+            "id": "52f223e02059c6d71c00000e"
+        }, 
+        {
+            "body": "what is the role of prostaglandins in cardiac regenaration after myocardial infarction?", 
+            "type": "summary", 
+            "id": "52f348542059c6d71c00000f"
+        }, 
+        {
+            "body": "What is the incidence of Edwards syndrom in the european population?", 
+            "type": "factoid", 
+            "id": "52f350042059c6d71c000010"
+        }, 
+        {
+            "body": "what is the role of IGF-1 in cardiac regeneration after myocardial infarction?", 
+            "type": "summary", 
+            "id": "52f385052059c6d71c000011"
+        }, 
+        {
+            "body": "Which are the clinical characteristics of isolated Non-compaction cardiomyopathy?", 
+            "type": "list", 
+            "id": "52f4f1d62059c6d71c00001c"
+        }, 
+        {
+            "body": "what is the role of erythropoietin in cardiac regeneration after myocardial infarction?", 
+            "type": "summary", 
+            "id": "52f4f2082059c6d71c00001d"
+        }, 
+        {
+            "body": "Does TGF-beta play a role in cardiac regeneration after myocardial infarction?", 
+            "type": "yesno", 
+            "id": "52f5083d2059c6d71c00001e"
+        }, 
+        {
+            "body": "Which genes are implicated in short QT syndrome?", 
+            "type": "list", 
+            "id": "52f509232059c6d71c00001f"
+        }, 
+        {
+            "body": "What is the mode of inheritance of short QT syndrome?", 
+            "type": "factoid", 
+            "id": "52f509512059c6d71c000020"
+        }, 
+        {
+            "body": "List mouse models for autism spectrum disorder (ASD).", 
+            "type": "list", 
+            "id": "52f5417b2059c6d71c000024"
+        }, 
+        {
+            "body": "Are thyroid hormone receptors implicated in arterial hypertension?", 
+            "type": "yesno", 
+            "id": "52f65f372059c6d71c000027"
+        }, 
+        {
+            "body": "Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome?", 
+            "type": "yesno", 
+            "id": "52f7c4bd2059c6d71c00002d"
+        }, 
+        {
+            "body": "What is the genetic basis of progeria", 
+            "type": "summary", 
+            "id": "52f7c91f2059c6d71c00002e"
+        }, 
+        {
+            "body": "What is known about prostate cancer screening in the UK", 
+            "type": "summary", 
+            "id": "52f88a062059c6d71c000032"
+        }, 
+        {
+            "body": "Can life style changes reduce oxidative stress", 
+            "type": "yesno", 
+            "id": "52f88a972059c6d71c000033"
+        }, 
+        {
+            "body": "Which hormone abnormalities are common in Williams syndrome", 
+            "type": "list", 
+            "id": "52f88d292059c6d71c000036"
+        }, 
+        {
+            "body": "What is the association between number of pregnancies and rheumatoid arthritis", 
+            "type": "summary", 
+            "id": "52f892782059c6d71c000039"
+        }, 
+        {
+            "body": "List clinical trials for prevention of sarcopenia", 
+            "type": "list", 
+            "id": "52f893f92059c6d71c00003c"
+        }, 
+        {
+            "body": "What memory problems are reported in the \" Gulf war syndrome\"", 
+            "type": "factoid", 
+            "id": "52f896d62059c6d71c000046"
+        }, 
+        {
+            "body": "Which genes have been found to be associated with restless leg syndrome", 
+            "type": "list", 
+            "id": "52f8995b2059c6d71c00004a"
+        }, 
+        {
+            "body": "Which deficiency is the cause of restless leg syndrome", 
+            "type": "summary", 
+            "id": "52f89a002059c6d71c00004c"
+        }, 
+        {
+            "body": "Which gene has been found mutated in Gray platelet syndrome patients?", 
+            "type": "factoid", 
+            "id": "52f89f4f2059c6d71c00004e"
+        }, 
+        {
+            "body": "Can DMSO as an additive improve proteomic analysis results?", 
+            "type": "summary", 
+            "id": "52f89fba2059c6d71c00004f"
+        }, 
+        {
+            "body": "Is there an association between bruxism and reflux", 
+            "type": "yesno", 
+            "id": "52f8a7eb2059c6d71c000052"
+        }, 
+        {
+            "body": "Are there any urine biomarkers for bladder cancer diagnosis?", 
+            "type": "yesno", 
+            "id": "52fa70142059c6d71c000056"
+        }, 
+        {
+            "body": "Are there any urine biomarkers for chronic kidney disease?", 
+            "type": "yesno", 
+            "id": "52fa73c62059c6d71c000058"
+        }, 
+        {
+            "body": "List the existing methods for genetic manipulation of cells.", 
+            "type": "list", 
+            "id": "52fa73e82059c6d71c000059"
+        }, 
+        {
+            "body": "Which are the newly identified DNA nucleases that can be used to treat thalassemia?", 
+            "type": "factoid", 
+            "id": "52fa74052059c6d71c00005a"
+        }, 
+        {
+            "body": "Which therapeutic interventions for sarcopenia have been  applied", 
+            "type": "summary", 
+            "id": "52fb20a32059c6d71c00005d"
+        }, 
+        {
+            "body": "Which are the thyroid hormone analogs utilized in human studies?", 
+            "type": "list", 
+            "id": "52fb42752059c6d71c00005e"
+        }, 
+        {
+            "body": "Is DITPA a thyroid hormone analog utilized in experimental and clinical studies", 
+            "type": "yesno", 
+            "id": "52fb4b462059c6d71c00005f"
+        }, 
+        {
+            "body": "What is the prevalence of short QT syndrome?", 
+            "type": "factoid", 
+            "id": "52fb78572059c6d71c000067"
+        }, 
+        {
+            "body": "Which mutations of SCN5A gene are implicated in Brugada syndrome?", 
+            "type": "list", 
+            "id": "52fb78d82059c6d71c000068"
+        }, 
+        {
+            "body": "Where is the histone variant CENPA preferentially localized?", 
+            "type": "factoid", 
+            "id": "52fbe2bf2059c6d71c00006c"
+        }, 
+        {
+            "body": "Is the PTPN22 gene a biomarker for rheumatoid arthritis?", 
+            "type": "yesno", 
+            "id": "52ffb5d12059c6d71c00007c"
+        }, 
+        {
+            "body": "Is long QT syndrome a cause for sudden cardiac death in athletes?", 
+            "type": "yesno", 
+            "id": "53009f6d2059c6d71c00007e"
+        }, 
+        {
+            "body": "Which sports have a risk for commotio cordis?", 
+            "type": "list", 
+            "id": "5300aad02059c6d71c000080"
+        }, 
+        {
+            "body": "What is commotio cordis?", 
+            "type": "factoid", 
+            "id": "53035d7c2059c6d71c000085"
+        }, 
+        {
+            "body": "What is the incidence of sudden cardiac death among young athletes?", 
+            "type": "factoid", 
+            "id": "53036faab24d855b11000001"
+        }, 
+        {
+            "body": "Which genetic defects are observed in Prader-Willi syndrome?", 
+            "type": "list", 
+            "id": "5306158358348c0f52000001"
+        }
+    ]
+}

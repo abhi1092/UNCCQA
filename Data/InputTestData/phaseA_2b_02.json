@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "body": "Mutation of which gene is associated with Achondroplasia?", 
+            "type": "factoid", 
+            "id": "52b2e498f828ad283c000010"
+        }, 
+        {
+            "body": "Is there a relationship between junctin and ryanodine receptors?", 
+            "type": "yesno", 
+            "id": "52b2f3b74003448f5500000c"
+        }, 
+        {
+            "body": "Has Denosumab (Prolia) been approved by FDA?", 
+            "type": "yesno", 
+            "id": "52bf1db603868f1b06000011"
+        }, 
+        {
+            "body": "What are the side effects of Nalmefene?", 
+            "type": "list", 
+            "id": "52bf1dea03868f1b06000012"
+        }, 
+        {
+            "body": "Which drug is benserazide usually co-administered with?", 
+            "type": "factoid", 
+            "id": "52bf1f2d03868f1b06000015"
+        }, 
+        {
+            "body": "For the treatment of which conditions can atypical neuroleptic drugs be used?", 
+            "type": "list", 
+            "id": "52bf1f4503868f1b06000016"
+        }, 
+        {
+            "body": "What are the main indications of lacosamide?", 
+            "type": "list", 
+            "id": "52bf202003868f1b06000018"
+        }, 
+        {
+            "body": "What can Nothobranchius furzeri be used as a model system for?", 
+            "type": "factoid", 
+            "id": "52bf217003868f1b0600001b"
+        }, 
+        {
+            "body": "Does molindone affect body weight?", 
+            "type": "yesno", 
+            "id": "52cae04c03868f1b06000024"
+        }, 
+        {
+            "body": "How are CpG island shores defined?", 
+            "type": "summary", 
+            "id": "52d3cc5203868f1b06000037"
+        }, 
+        {
+            "body": "From which tissue was the NCI-H520 cell-line derived?", 
+            "type": "factoid", 
+            "id": "52d63b2803868f1b0600003a"
+        }, 
+        {
+            "body": "What is the genetic basis of progeria?", 
+            "type": "summary", 
+            "id": "52d783bf98d0239505000001"
+        }, 
+        {
+            "body": "is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?", 
+            "type": "yesno", 
+            "id": "52d7b45e98d0239505000002"
+        }, 
+        {
+            "body": "List phosphorylation consensus motifs for Casein Kinase 1 (CK1)?", 
+            "type": "list", 
+            "id": "52d832dd98d0239505000003"
+        }, 
+        {
+            "body": "What is clathrin?", 
+            "type": "summary", 
+            "id": "52d946c798d023950500000a"
+        }, 
+        {
+            "body": "Is it possible to purify pseudopodia to be used for proteomic analysis?", 
+            "type": "yesno", 
+            "id": "52e01f8f98d023950500000f"
+        }, 
+        {
+            "body": "Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)\ncause sudden cardiac death?", 
+            "type": "yesno", 
+            "id": "52e8e96698d023950500001f"
+        }, 
+        {
+            "body": "What is the role of thyroid hormone in Stem cell differentiation?", 
+            "type": "summary", 
+            "id": "52ed27c098d0239505000030"
+        }, 
+        {
+            "body": "What is the mode of inheritance of  long QT  Jervell and Lange-Nielsen syndrome?", 
+            "type": "factoid", 
+            "id": "52eea4dcc8da89891000000c"
+        }, 
+        {
+            "body": "Which genes are affected in ROMANO-WARD syndrome?", 
+            "type": "list", 
+            "id": "52eea509c8da89891000000d"
+        }, 
+        {
+            "body": "Why are insulators necessary in gene therapy vectors?", 
+            "type": "summary", 
+            "id": "52fa74252059c6d71c00005b"
+        }, 
+        {
+            "body": "What are the pregnancy outcomes in rheumatoid arthritis?", 
+            "type": "summary", 
+            "id": "52fb19ab2059c6d71c00005c"
+        }, 
+        {
+            "body": "Which are the major characteristics of cellular senescence?", 
+            "type": "list", 
+            "id": "53061af558348c0f52000002"
+        }, 
+        {
+            "body": "Which oncogenes are able to induce cellular senescence?", 
+            "type": "list", 
+            "id": "5309f8f5970c65fa6b000001"
+        }, 
+        {
+            "body": "What is the mode of action of Hsp90 inhibitors?", 
+            "type": "summary", 
+            "id": "5309fa5e970c65fa6b000003"
+        }, 
+        {
+            "body": "What is the oldest human sample analysed by paleontology proteomics?", 
+            "type": "summary", 
+            "id": "530a34eb970c65fa6b000004"
+        }, 
+        {
+            "body": "List bacteria that may be useful in uranium bioremediation.", 
+            "type": "list", 
+            "id": "530a3e18970c65fa6b000005"
+        }, 
+        {
+            "body": "Define marine metaproteomics", 
+            "type": "summary", 
+            "id": "530a3f8a970c65fa6b000006"
+        }, 
+        {
+            "body": "What is the meaning of the acronym \"TAILS\" used in protein N-terminomics?", 
+            "type": "factoid", 
+            "id": "530a5117970c65fa6b000007"
+        }, 
+        {
+            "body": "Why is lock mass used in Orbitrap measurements?", 
+            "type": "factoid", 
+            "id": "530b01a6970c65fa6b000008"
+        }, 
+        {
+            "body": "Can we use platelet biomarkers to study Alzheimer's disease?", 
+            "type": "yesno", 
+            "id": "530b4f49970c65fa6b00000a"
+        }, 
+        {
+            "body": "what is the role of TGFbeta in cardiac regeneration after myocardial injury?", 
+            "type": "summary", 
+            "id": "530b7ae4970c65fa6b00000b"
+        }, 
+        {
+            "body": "Is there any protein that undergoes both mono-ubiquitination and poly-ubiquitination?", 
+            "type": "yesno", 
+            "id": "530c7cfd970c65fa6b00000c"
+        }, 
+        {
+            "body": "Oxantel is used for periodontitis treatment. How does it work?", 
+            "type": "factoid", 
+            "id": "530c7f52970c65fa6b000010"
+        }, 
+        {
+            "body": "Are the proteins Erbin (LAP2) and Merlin cooperating?", 
+            "type": "yesno", 
+            "id": "530c7fa4970c65fa6b000012"
+        }, 
+        {
+            "body": "List disorders that are caused by mutations in the mitochondrial MTND6 gene.", 
+            "type": "list", 
+            "id": "530c844e970c65fa6b000014"
+        }, 
+        {
+            "body": "Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?", 
+            "type": "yesno", 
+            "id": "530cefaaad0bf1360c000001"
+        }, 
+        {
+            "body": "Which brain structures have been investigated as potential targets for deep brain stimulation of patients suffering from major depression?", 
+            "type": "list", 
+            "id": "530cefaaad0bf1360c000002"
+        }, 
+        {
+            "body": "What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients?", 
+            "type": "list", 
+            "id": "530cefaaad0bf1360c000003"
+        }, 
+        {
+            "body": "What is the association between moon cycle and rupture risk  of intracranial aneurysms?", 
+            "type": "summary", 
+            "id": "530cefaaad0bf1360c000006"
+        }, 
+        {
+            "body": "List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease.", 
+            "type": "list", 
+            "id": "530cefaaad0bf1360c000007"
+        }, 
+        {
+            "body": "What is known about the association between the use of selective serotonin reuptake inhibitors during pregnancy and risk for autism in offspring?", 
+            "type": "summary", 
+            "id": "530cefaaad0bf1360c000009"
+        }, 
+        {
+            "body": "What is the mechanism of action of solanezumab?", 
+            "type": "summary", 
+            "id": "530cefaaad0bf1360c00000a"
+        }, 
+        {
+            "body": "What is the association between h-index and academic rank in academic neurosurgery?", 
+            "type": "summary", 
+            "id": "530cefaaad0bf1360c00000b"
+        }, 
+        {
+            "body": "List medication interfering with purine metabolism that are used for treatment of T-cell prolymphocytic leukemia?", 
+            "type": "list", 
+            "id": "530cefaaad0bf1360c00000c"
+        }, 
+        {
+            "body": "Which hormone abnormalities are common in Williams syndrome ?", 
+            "type": "factoid", 
+            "id": "530cefaaad0bf1360c00000d"
+        }, 
+        {
+            "body": "What is known about prostate cancer screening in the UK ?", 
+            "type": "summary", 
+            "id": "530cefaaad0bf1360c00000e"
+        }, 
+        {
+            "body": "Is there an association between bruxism and reflux?", 
+            "type": "yesno", 
+            "id": "530cefaaad0bf1360c00000f"
+        }, 
+        {
+            "body": "Is pesticide exposure associated with polyneuropathy?", 
+            "type": "yesno", 
+            "id": "530cefaaad0bf1360c000010"
+        }, 
+        {
+            "body": "What memory problems are reported in the \" Gulf war syndrome\"?", 
+            "type": "list", 
+            "id": "530cefaaad0bf1360c000011"
+        }, 
+        {
+            "body": "Which deficiency is the cause of restless leg syndrome?", 
+            "type": "factoid", 
+            "id": "530cefaaad0bf1360c000012"
+        }, 
+        {
+            "body": "Are high-flow nasal cannulae effective for treatment of preterm infants?", 
+            "type": "yesno", 
+            "id": "530cf4c54a5037880c000002"
+        }, 
+        {
+            "body": "Which are the known inhibitors of the TPL2/MAP3K8 protein?", 
+            "type": "list", 
+            "id": "530cf4d5e2bfff940c000003"
+        }, 
+        {
+            "body": "Which are the most common methods for gene prioritization analysis?", 
+            "type": "list", 
+            "id": "530cf4d5e2bfff940c000004"
+        }, 
+        {
+            "body": "How is connected \"isolated Non-compaction cardiomyopathy\" with dilated cardiomyopathy?", 
+            "type": "factoid", 
+            "id": "530cf4e0c8a0b4a00c000002"
+        }, 
+        {
+            "body": "Which mutations of alpha-myosin heavy chain gene are implicated in hypertrophic cardiomyopathy?", 
+            "type": "list", 
+            "id": "530cf4e0c8a0b4a00c000004"
+        }, 
+        {
+            "body": "Which are the cardiac manifestations of Marfan syndrome?", 
+            "type": "list", 
+            "id": "530cf4e0c8a0b4a00c000005"
+        }, 
+        {
+            "body": "Which is the most common cause of sudden cardiac death in young athletes?", 
+            "type": "factoid", 
+            "id": "530cf4e0c8a0b4a00c000006"
+        }, 
+        {
+            "body": "What is the rate of survival after commotio cordis?", 
+            "type": "factoid", 
+            "id": "530cf4e0c8a0b4a00c000007"
+        }, 
+        {
+            "body": "What is the reason for the narcolepsy cases developed after H1N1 influenza vaccination?", 
+            "type": "factoid", 
+            "id": "530cf54dab4de4de0c000009"
+        }, 
+        {
+            "body": "What is the main application of SWATH-MS in proteomics?", 
+            "type": "factoid", 
+            "id": "530cf54dab4de4de0c00000c"
+        }, 
+        {
+            "body": "How is CBX1/M31 related to position-effect variegation?", 
+            "type": "summary", 
+            "id": "530d7e8a38c1322806000001"
+        }, 
+        {
+            "body": "Which proteins cause cytoplasmic sequestration of NF-kB?", 
+            "type": "list", 
+            "id": "530db83b38c1322806000002"
+        }, 
+        {
+            "body": "List clinical trials that have directly compared microsurgical clipping with endovascular coiling for treatment of ruptured brain aneurysms?", 
+            "type": "list", 
+            "id": "530e0d6e5937551c09000001"
+        }, 
+        {
+            "body": "Is statin use associated with improved outcomes after aneurysmal subarachnoid hemorrhage?", 
+            "type": "yesno", 
+            "id": "530e131b5937551c09000002"
+        }, 
+        {
+            "body": "What is the association between cell phone use and glioblastoma?", 
+            "type": "summary", 
+            "id": "530e1b205937551c09000003"
+        }, 
+        {
+            "body": "What is the role of edaravone in traumatic brain injury?", 
+            "type": "summary", 
+            "id": "530e42bf5937551c09000005"
+        }, 
+        {
+            "body": "Is fatigue prevalent in patients receiving treatment for glioblastoma?", 
+            "type": "yesno", 
+            "id": "530e42e65937551c09000007"
+        }, 
+        {
+            "body": "Is there an association between borna virus and brain tumor?", 
+            "type": "yesno", 
+            "id": "530f685c329f5fcf1e000002"
+        }, 
+        {
+            "body": "What is known about depression in caregivers of brain tumor patients?", 
+            "type": "summary", 
+            "id": "530f72fd329f5fcf1e000003"
+        }, 
+        {
+            "body": "Is amantadine effective for treatment of disorders conciousness?", 
+            "type": "yesno", 
+            "id": "530f7cdde3eabad021000001"
+        }, 
+        {
+            "body": "What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients?", 
+            "type": "summary", 
+            "id": "530f7d7fe3eabad021000002"
+        }, 
+        {
+            "body": "Abnormalities in which chromosomes were linked to the Moyamoya disease?", 
+            "type": "list", 
+            "id": "5312280ce3eabad02100000a"
+        }, 
+        {
+            "body": "Which is the molecular target of the immunosuppressant drug Rapamycin?", 
+            "type": "factoid", 
+            "id": "53124bdae3eabad02100000b"
+        }, 
+        {
+            "body": "Is endostatin a proangiogenic factor?", 
+            "type": "yesno", 
+            "id": "53124e84e3eabad02100000c"
+        }, 
+        {
+            "body": "What is the mechanism of action of DNA topoisomerase II inhibitors?", 
+            "type": "summary", 
+            "id": "5312f0f0e3eabad02100000d"
+        }, 
+        {
+            "body": "Abnormality in which vertebral region is important in the Bertolotti's syndrome?", 
+            "type": "factoid", 
+            "id": "5313058de3eabad02100000e"
+        }, 
+        {
+            "body": "which are the risk factors for sudden cardiac death in patients with hypertrophic cardiomyopathy?", 
+            "type": "list", 
+            "id": "531375a6e3eabad021000011"
+        }, 
+        {
+            "body": "which mutations of phospholamban gene have been found to cause hypertrophic cardiomyopathy?", 
+            "type": "list", 
+            "id": "531376c8e3eabad021000012"
+        }, 
+        {
+            "body": "Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?", 
+            "type": "yesno", 
+            "id": "5313b049e3eabad021000013"
+        }, 
+        {
+            "body": "What is a benefit of being g6PD-deficient?", 
+            "type": "factoid", 
+            "id": "53147b52e3eabad021000015"
+        }, 
+        {
+            "body": "which mutations of troponin C gene have been found to cause hypertrophic cardiomyopathy?", 
+            "type": "list", 
+            "id": "5314a7a4dae131f847000003"
+        }, 
+        {
+            "body": "What is the genetic basis of propionic acidemia?", 
+            "type": "summary", 
+            "id": "5318813ab166e2b806000016"
+        }, 
+        {
+            "body": "Is TREM2 associated with Alzheimer's disease?", 
+            "type": "yesno", 
+            "id": "531a31a1b166e2b806000035"
+        }, 
+        {
+            "body": "Which gene is required for the efficient function of clopidogrel?", 
+            "type": "factoid", 
+            "id": "531a34d5b166e2b806000036"
+        }, 
+        {
+            "body": "To what extent does HPV vaccination reduce the risk for cervical cancer?", 
+            "type": "factoid", 
+            "id": "531a3a58b166e2b806000037"
+        }, 
+        {
+            "body": "Is pregnancy an additional risk during during H1N1 infection?", 
+            "type": "yesno", 
+            "id": "531a3fe3b166e2b806000038"
+        }, 
+        {
+            "body": "How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?", 
+            "type": "factoid", 
+            "id": "531af8cbb166e2b80600003a"
+        }, 
+        {
+            "body": "Which histone modifications are associated with Polycomb group (PcG) proteins?", 
+            "type": "list", 
+            "id": "531b1e3cb166e2b80600003b"
+        }, 
+        {
+            "body": "What is the prognostic role of thyroid hormone in patients with heart failure?", 
+            "type": "factoid", 
+            "id": "531b2fc3b166e2b80600003c"
+        }, 
+        {
+            "body": "Which proteins are related to the loss of cell-cell adhesion during EMT (epithelial-mesenchymal transition)?", 
+            "type": "list", 
+            "id": "531b3ff3b166e2b80600003d"
+        }, 
+        {
+            "body": "Is thyroid hormone therapy indicated in patients with heart failure?", 
+            "type": "yesno", 
+            "id": "531b4269b166e2b80600003e"
+        }, 
+        {
+            "body": "is there an increase in ultrasound comets after intense exercise?", 
+            "type": "yesno", 
+            "id": "531c380db166e2b80600003f"
+        }, 
+        {
+            "body": "Is there a relationship between thyroid hormone altered metabolism and coronary artery disease?", 
+            "type": "yesno", 
+            "id": "531d1279b166e2b806000042"
+        }, 
+        {
+            "body": "Which is the prognostic impact of hypothyroidism in patients with acute myocardial infarction?", 
+            "type": "factoid", 
+            "id": "531d1998267d7dd053000001"
+        }, 
+        {
+            "body": "Does BNP increase after intensive exercise in athletes?", 
+            "type": "yesno", 
+            "id": "531d2aa5267d7dd053000003"
+        }, 
+        {
+            "body": "Has the presence of delayed enhancement been documented in athletes performing strenuous exercise?", 
+            "type": "yesno", 
+            "id": "531d34be267d7dd053000004"
+        }, 
+        {
+            "body": "Is cardiac magnetic resonance imaging indicated in the pre-participation screening of athletes?", 
+            "type": "yesno", 
+            "id": "531d3dc0267d7dd053000005"
+        }, 
+        {
+            "body": "Which are the drugs utilized for the burning mouth syndrome?", 
+            "type": "list", 
+            "id": "531d7430267d7dd053000008"
+        }, 
+        {
+            "body": "Does burning mouth syndrome preferentially affect post-mepopausal women?", 
+            "type": "yesno", 
+            "id": "531d76a2267d7dd05300000a"
+        }
+    ]
+}

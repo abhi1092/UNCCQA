@@ -1,0 +1,489 @@
+{
+  "questions": [
+    {
+      "body": "Does smoking increase risk for glioblastoma?", 
+      "type": "yesno", 
+      "id": "550e7d6aa103b7801600000e"
+    }, 
+    {
+      "body": "Does helicobacter pylori infection increase risk for ischemic stroke?", 
+      "type": "summary", 
+      "id": "551c2cd26b348bb82c00000d"
+    }, 
+    {
+      "body": "Which clotting factor is inhibited by betrixaban?", 
+      "type": "factoid", 
+      "id": "55200c606b348bb82c000013"
+    }, 
+    {
+      "body": "Which receptors can be evaluated with the [18F]altanserin?", 
+      "type": "factoid", 
+      "id": "55242d512c8b63434a000006"
+    }, 
+    {
+      "body": "Is CD56 useful in Ewing sarcoma prognosis?", 
+      "type": "yesno", 
+      "id": "552fa32fbc4f83e828000001"
+    }, 
+    {
+      "body": "Is peripheral neuroepithelioma related to Ewing sarcoma?", 
+      "type": "yesno", 
+      "id": "552fa6f5bc4f83e828000002"
+    }, 
+    {
+      "body": "Which are the genes thought to be regulated by EWS/FLI?", 
+      "type": "list", 
+      "id": "552faa43bc4f83e828000004"
+    }, 
+    {
+      "body": "Which translocation is the hallmark of Ewing sarcoma?", 
+      "type": "factoid", 
+      "id": "552faababc4f83e828000005"
+    }, 
+    {
+      "body": "Which fusion protein is involved in the development of Ewing sarcoma?", 
+      "type": "factoid", 
+      "id": "552fac4fbc4f83e828000006"
+    }, 
+    {
+      "body": "Which technique is used for detection of EWS/FLI1 fusion transcripts?", 
+      "type": "factoid", 
+      "id": "553653a5bc4f83e828000007"
+    }, 
+    {
+      "body": "Between which probes does the recurrent translocation breakpoint on chromosome 22 of neuroepithelioma lie?", 
+      "type": "list", 
+      "id": "5536554abc4f83e828000008"
+    }, 
+    {
+      "body": "Which translocation is harbored in the Askin tumor cells?", 
+      "type": "factoid", 
+      "id": "553656c4bc4f83e828000009"
+    }, 
+    {
+      "body": "Which biomarker is widely used in the diagnosis of Ewing sarcoma?", 
+      "type": "factoid", 
+      "id": "55376663bc4f83e82800000a"
+    }, 
+    {
+      "body": "Is CD99 encoded by MIC2 gene?", 
+      "type": "yesno", 
+      "id": "55376b37bc4f83e82800000b"
+    }, 
+    {
+      "body": "Which is the most common type of pediatric cerebellar tumor?", 
+      "type": "factoid", 
+      "id": "55376f19bc4f83e82800000c"
+    }, 
+    {
+      "body": "Which are the characteristics of the Meier-Gorlin syndrome?", 
+      "type": "summary", 
+      "id": "5537766dbc4f83e82800000d"
+    }, 
+    {
+      "body": "Which genes are thought to be involved in medulloblastoma development?", 
+      "type": "list", 
+      "id": "5539029cbc4f83e828000012"
+    }, 
+    {
+      "body": "What is the implication of histone lysine methylation in medulloblastoma?", 
+      "type": "summary", 
+      "id": "5539062dbc4f83e828000013"
+    }, 
+    {
+      "body": "What are the effects of homozygosity of EDNRB mutations in addition to Hirschsprung disease?", 
+      "type": "summary", 
+      "id": "55391825bc4f83e828000016"
+    }, 
+    {
+      "body": "What is the involvement of PDGFRB in metastatic medulloblastoma?", 
+      "type": "summary", 
+      "id": "55391b2cbc4f83e828000017"
+    }, 
+    {
+      "body": "Which signaling pathways have been associated with medulloblastoma formation and growth?", 
+      "type": "list", 
+      "id": "55391ce8bc4f83e828000018"
+    }, 
+    {
+      "body": "Is protein Fbw7 a SCF type of E3 ubiquitin ligase?", 
+      "type": "yesno", 
+      "id": "550ae16bc2af5d5b70000009"
+    }, 
+    {
+      "body": "Is the protein product of the cylindromatosis gene (CYLD) a deubiquitinating enzyme?", 
+      "type": "yesno", 
+      "id": "550aef0ec2af5d5b7000000a"
+    }, 
+    {
+      "body": "Which is the E3 ubiquitin ligase which ubiquitinates IkB leading to its proteasomal degradation?", 
+      "type": "factoid", 
+      "id": "550af222c2af5d5b7000000b"
+    }, 
+    {
+      "body": "Magnetic beads has been used in numerous applications. List some coatings used.", 
+      "type": "list", 
+      "id": "550b0408c2af5d5b7000000c"
+    }, 
+    {
+      "body": "Is cystatin C or cystatin 3 used as a biomarker of kidney function?", 
+      "type": "yesno", 
+      "id": "550bf315c2af5d5b7000000e"
+    }, 
+    {
+      "body": "Is selenium deficiency involved in autoimmune thyroid disease?", 
+      "type": "yesno", 
+      "id": "550c1ca3a103b78016000003"
+    }, 
+    {
+      "body": "Which disease of the central nervous system is characterized by the presence of Lewy bodies?", 
+      "type": "factoid", 
+      "id": "550c3754a103b78016000007"
+    }, 
+    {
+      "body": "What is the main component of the Lewy bodies?", 
+      "type": "factoid", 
+      "id": "550c3d45a103b78016000008"
+    }, 
+    {
+      "body": "Which residue of alpha-synuclein was found to be phosphorylated in Lewy bodies?", 
+      "type": "factoid", 
+      "id": "550c4011a103b78016000009"
+    }, 
+    {
+      "body": "Is PLK2 involved in alpha-synuclein phosphorylation in the nervous system?", 
+      "type": "yesno", 
+      "id": "550c44d1a103b7801600000a"
+    }, 
+    {
+      "body": "Has the fungus Ashbya gossypii got many nuclei that share cytoplasm?", 
+      "type": "yesno", 
+      "id": "550e6688a103b7801600000d"
+    }, 
+    {
+      "body": "Which molecule is targeted by the drug Gevokizumab?", 
+      "type": "factoid", 
+      "id": "550e828c71445a662f000002"
+    }, 
+    {
+      "body": "Intetumumab has been tested in clinical trials for treatment of which cancers?", 
+      "type": "list", 
+      "id": "550e866271445a662f000005"
+    }, 
+    {
+      "body": "Which variables are included in the SPAN-100 score?", 
+      "type": "list", 
+      "id": "550e9d2cb305b40c5c000001"
+    }, 
+    {
+      "body": "Pridopidine has been tested for treatment of which disorder?", 
+      "type": "factoid", 
+      "id": "550ea8f1b305b40c5c000005"
+    }, 
+    {
+      "body": "Which disease is associated with the ectopic expression of the protein encoded by the gene DUX4?", 
+      "type": "factoid", 
+      "id": "550f0e4c6a8cde6b72000003"
+    }, 
+    {
+      "body": "Which event results in the acetylation of S6K1?", 
+      "type": "summary", 
+      "id": "551173c26a8cde6b72000004"
+    }, 
+    {
+      "body": "What is the effect of resveratrol on mTOR activity?", 
+      "type": "summary", 
+      "id": "551177626a8cde6b72000005"
+    }, 
+    {
+      "body": "Which proteins are the different isoforms of the p38 MAP kinase?", 
+      "type": "list", 
+      "id": "5512c1ee6a8cde6b72000009"
+    }, 
+    {
+      "body": "Are BRAF mutations common in melanoma?", 
+      "type": "yesno", 
+      "id": "5512c91b6a8cde6b7200000b"
+    }, 
+    {
+      "body": "Is protein M3/6 a dual specificity phosphatase?", 
+      "type": "yesno", 
+      "id": "5512cce26a8cde6b7200000c"
+    }, 
+    {
+      "body": "Which gene fusion is the result of the \"philadelphia translocation\" or the \"philadelphia chromosome\" mutation?", 
+      "type": "factoid", 
+      "id": "55149f156a8cde6b72000013"
+    }, 
+    {
+      "body": "List scaffold proteins of the ERK signaling pathway.", 
+      "type": "list", 
+      "id": "55152bd246478f2f2c000002"
+    }, 
+    {
+      "body": "What is the Barr body?", 
+      "type": "summary", 
+      "id": "55152c0a46478f2f2c000004"
+    }, 
+    {
+      "body": "Is the gene DUX4 epigenetically regulated in somatic cells?", 
+      "type": "yesno", 
+      "id": "55152c2946478f2f2c000005"
+    }, 
+    {
+      "body": "Which are the main NMD factors in Saccharomyces cerevisiae?", 
+      "type": "list", 
+      "id": "5516757c46478f2f2c000008"
+    }, 
+    {
+      "body": "What is the common feature in congenital central hypoventilation and Mowat-Wilson syndromes?", 
+      "type": "summary", 
+      "id": "55167dec46478f2f2c00000a"
+    }, 
+    {
+      "body": "Is Dicer part of the RISC loading complex?", 
+      "type": "yesno", 
+      "id": "5516fc8832767d0305000002"
+    }, 
+    {
+      "body": "Which are the different proteins/isoforms encoded but the ASPH (aspartate beta-hydroxylase) gene in humans?", 
+      "type": "list", 
+      "id": "5517f9286487737b43000002"
+    }, 
+    {
+      "body": "What is the typical rash associated with gluten ?", 
+      "type": "factoid", 
+      "id": "55180ef46487737b43000006"
+    }, 
+    {
+      "body": "What are the breath test biomarkers of pulmonary tuberculosis", 
+      "type": "list", 
+      "id": "55181d1e6487737b43000008"
+    }, 
+    {
+      "body": "List the diseases for which there are point-of-care breath tests", 
+      "type": "list", 
+      "id": "551829a76487737b43000009"
+    }, 
+    {
+      "body": "Which gene(s) should be genotyped in order to prescribe the drug Cetuximab (anti-EGFR)?", 
+      "type": "list", 
+      "id": "5518414a15fa47643f000001"
+    }, 
+    {
+      "body": "List protein gel staining methods visualizing the entire protein set.", 
+      "type": "list", 
+      "id": "55184d46622b194345000001"
+    }, 
+    {
+      "body": "What is the function of the enzymes known as dual specificity phoshpatases (DUSPs)?", 
+      "type": "summary", 
+      "id": "5518e7a7622b194345000002"
+    }, 
+    {
+      "body": "Which MAP kinase phosphorylates the transcription factor c-jun?", 
+      "type": "factoid", 
+      "id": "5518e7da622b194345000004"
+    }, 
+    {
+      "body": "Which are the different members/isoforms of the Ras oncogenes?", 
+      "type": "list", 
+      "id": "5518e817622b194345000006"
+    }, 
+    {
+      "body": "Are EDNRB mutations involved in the development of Hirschsprung disease?", 
+      "type": "yesno", 
+      "id": "551910c5622b194345000007"
+    }, 
+    {
+      "body": "Which proteins have been identified as RET ligands?", 
+      "type": "list", 
+      "id": "551910d3622b194345000008"
+    }, 
+    {
+      "body": "Is PLK2 involved in alpha-synuclein phosphorylation in Parkinson disease?", 
+      "type": "yesno", 
+      "id": "551910fa622b19434500000b"
+    }, 
+    {
+      "body": "Which disease is included as an additional feature in the Goldberg-Shprintzen syndrome?", 
+      "type": "factoid", 
+      "id": "5519110f622b19434500000c"
+    }, 
+    {
+      "body": "Which gene is responsible for the development of the Mowat-Wilson syndrome?", 
+      "type": "factoid", 
+      "id": "5519113b622b19434500000f"
+    }, 
+    {
+      "body": "What is the common feature in congenital central hypoventilation and Mowat-Wilson syndromes?", 
+      "type": "summary", 
+      "id": "55191149622b194345000010"
+    }, 
+    {
+      "body": "Which E3 ubiquitin ligase mediates the ubiquitination and degradation of the interferon receptor type 1 (IFNAR1)?", 
+      "type": "factoid", 
+      "id": "55192892622b194345000012"
+    }, 
+    {
+      "body": "Which proteins are the different members of the NF-kappaB family of transcription factors?", 
+      "type": "list", 
+      "id": "55192f20622b194345000014"
+    }, 
+    {
+      "body": "Which is the most abundant membrane protein on Earth?", 
+      "type": "factoid", 
+      "id": "5519a7d5622b194345000015"
+    }, 
+    {
+      "body": "Which factors are considered in the ABCD2 score?", 
+      "type": "list", 
+      "id": "551adceb622b194345000018"
+    }, 
+    {
+      "body": "Are people with blood group O protected against severe Malaria?", 
+      "type": "yesno", 
+      "id": "551ae6c564b14b4618000001"
+    }, 
+    {
+      "body": "Which is the localization of the RIFIN family of proteins?", 
+      "type": "summary", 
+      "id": "551ae73b6b348bb82c000001"
+    }, 
+    {
+      "body": "What is the function of the MTH1 enzyme in cancer cells?", 
+      "type": "summary", 
+      "id": "551af9106b348bb82c000002"
+    }, 
+    {
+      "body": "Mutation of which gene is implicated in the familial isolated pituitary adenoma?", 
+      "type": "factoid", 
+      "id": "551c23bc6b348bb82c00000b"
+    }, 
+    {
+      "body": "Does ghrelin play a role in ischemic stroke?", 
+      "type": "yesno", 
+      "id": "551c2c276b348bb82c00000c"
+    }, 
+    {
+      "body": "Is TNNI3K a cardiac-specific protein?", 
+      "type": "yesno", 
+      "id": "551c4ffc6b348bb82c000010"
+    }, 
+    {
+      "body": "Where is the angiogenin binding element  located?", 
+      "type": "summary", 
+      "id": "551d8b3a6b348bb82c000011"
+    }, 
+    {
+      "body": "ROSIER scale is used for which disorder?", 
+      "type": "factoid", 
+      "id": "551fd9c06b348bb82c000012"
+    }, 
+    {
+      "body": "Is there evidence to suggest that triiodothyronine has neuroprotective properties in traumatic brain injury?", 
+      "type": "yesno", 
+      "id": "552010076b348bb82c000015"
+    }, 
+    {
+      "body": "What is a mitochondrial nucleoid?", 
+      "type": "summary", 
+      "id": "552016a36b348bb82c000018"
+    }, 
+    {
+      "body": "What is the sedimentation coefficient of the mammalian mitoribosome?", 
+      "type": "factoid", 
+      "id": "55201a316b348bb82c000019"
+    }, 
+    {
+      "body": "What species is associated with Tetrodotoxin?", 
+      "type": "summary", 
+      "id": "552033206b348bb82c00001b"
+    }, 
+    {
+      "body": "In which condition was protein S100A7 originally identified?", 
+      "type": "factoid", 
+      "id": "55203ae78e534a4535000001"
+    }, 
+    {
+      "body": "Are Notch mutations related to T-cell Acute Lymphoblastic Leukemia (T-ALL)?", 
+      "type": "yesno", 
+      "id": "5522fadb7b523f2123000001"
+    }, 
+    {
+      "body": "For what is Protein A from Staphylococcus aureus used in biochemistry?", 
+      "type": "summary", 
+      "id": "5523dc8c7b523f2123000002"
+    }, 
+    {
+      "body": "List fluorescent reporter proteins.", 
+      "type": "list", 
+      "id": "5523e47f7b523f2123000004"
+    }, 
+    {
+      "body": "What is Trypan blue used for?", 
+      "type": "factoid", 
+      "id": "5523e7837b523f2123000006"
+    }, 
+    {
+      "body": "Has the protein GFP been used in transgenesis for live protein imaging?", 
+      "type": "yesno", 
+      "id": "5523e8cc7b523f2123000007"
+    }, 
+    {
+      "body": "Which mutations of phopspholamban have been found in patients with cardiomyopathy?", 
+      "type": "list", 
+      "id": "5523f1a62c8b63434a000002"
+    }, 
+    {
+      "body": "What kind of enzyme is encoded by the proto-oncogene ABL1?", 
+      "type": "factoid", 
+      "id": "55241f9e2c8b63434a000004"
+    }, 
+    {
+      "body": "What is the enzymatic activity of the breast cancer associated gene BRCA1?", 
+      "type": "factoid", 
+      "id": "552421082c8b63434a000005"
+    }, 
+    {
+      "body": "Which genes/proteins have been found to inhibit cyclin dependent kinase 4 (CDK4)?", 
+      "type": "list", 
+      "id": "552435602c8b63434a000009"
+    }, 
+    {
+      "body": "Are ACTA1 (alpha actin) and NEB (nebulin) genes related to nemaline myopathy?", 
+      "type": "yesno", 
+      "id": "552440452c8b63434a00000b"
+    }, 
+    {
+      "body": "What is known as Von Hippel\u2013Lindau disease or syndrome?", 
+      "type": "summary", 
+      "id": "552446612c8b63434a00000c"
+    }, 
+    {
+      "body": "Which are the different homologs or family members of the hedgehog proteins in mammals?", 
+      "type": "list", 
+      "id": "5524562387ecba3764000001"
+    }, 
+    {
+      "body": "Which type of cell death is known as anoikis?", 
+      "type": "summary", 
+      "id": "5525317687ecba3764000007"
+    }, 
+    {
+      "body": "Which phenomenon is described as oncogene addiction?", 
+      "type": "summary", 
+      "id": "55253d7087ecba3764000008"
+    }, 
+    {
+      "body": "Is RANKL secreted from the cells?", 
+      "type": "yesno", 
+      "id": "55262a9787ecba3764000009"
+    }, 
+    {
+      "body": "Is  farnesoid X receptor (FXR) a nuclear receptor?", 
+      "type": "yesno", 
+      "id": "55263a1898daae017c000001"
+    }
+  ]
+}

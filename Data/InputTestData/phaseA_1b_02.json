@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "body": "Which are the most widely reported side-effects in the treatment of Crohn's disease?", 
+            "id": "511a20f3df1ebcce7d00000c", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is miR-21 related to carcinogenesis?", 
+            "id": "511a4ec01159fa8212000004", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which is the most widely used anti-TNF drug?", 
+            "id": "512d0e635274a5fb07000005", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Is the H3K4me3 histone mark related to transcriptional initiation or elongation?", 
+            "id": "512d2fff5274a5fb07000006", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which are the main histone modifications associated with enhancers?", 
+            "id": "5131bef65274a5fb07000008", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the main causes of fetal echogenic bowel?", 
+            "id": "5131fa145274a5fb07000009", 
+            "type": "list"
+        }, 
+        {
+            "body": "Are CpG islands located close to housekeeping genes?", 
+            "id": "5133b15e5274a5fb0700000b", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Are nucleosomes positioned at DNA replication origins?", 
+            "id": "513596225274a5fb0700000d", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which is the most widely used model for the study of multiple sclerosis (MS)?", 
+            "id": "5139b31dbee46bd34c000004", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which human genes are more commonly related to craniosynostosis?", 
+            "id": "513ce3c8bee46bd34c000008", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which is the most common disease attributed to malfunction or absence of primary cilia?", 
+            "id": "513ce494bee46bd34c000009", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which is the prevalence of cystic fibrosis in the human population?", 
+            "id": "513ce5f2bee46bd34c00000a", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the biological role of expansins in fungi?", 
+            "id": "513eec89bee46bd34c00000d", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which are the major transcription factors regulating glycolysis in mammals?", 
+            "id": "514168ab23fec9037500000a", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the available biomedical text mining tools for the detection of protein-protein interactions?", 
+            "id": "514217a6d24251bc05000005", 
+            "type": "list"
+        }, 
+        {
+            "body": "What are the computational tools for the prediction of beta-barrel transmembrane proteins?", 
+            "id": "51434c74d24251bc0500000c", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?", 
+            "id": "5147c088d24251bc05000026", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which enzyme is deficient in Krabbe disease?", 
+            "id": "5147c8a6d24251bc05000027", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which scales are recommended by the American Heart Association for depression screening in cardiovascular patients? ", 
+            "id": "51486f7dd24251bc0500002e", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which two catechol-O-methyl transferase (COMT) inhibitors can be used for treatment of Parkinson disease?", 
+            "id": "51487ef9d24251bc05000031", 
+            "type": "list"
+        }, 
+        {
+            "body": "What pharmacological and non-pharmacological interventions can be considered as prophylactic therapies in Cluster Headache patients?", 
+            "id": "5148a2f6d24251bc05000035", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the mechanism of action of abiraterone?", 
+            "id": "5148b466d24251bc05000037", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Mutation of which gene and which chromosome cause Neurofibromatosis type I?", 
+            "id": "5148e1d6d24251bc0500003a", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is nimodipine recommended for prevention of vasospasm in aneurysmal subarachnoid hemorrhage patients?", 
+            "id": "51490275d24251bc0500003d", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which depression rating scales were shown to have acceptable psychometric properties for screening of poststroke depression?", 
+            "id": "51492168d24251bc05000041", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Is marijuana use associated with increased risk for stroke?", 
+            "id": "5149e23dd24251bc0500004b", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which drug should be used as an antidote in benzodiazepine overdose?", 
+            "id": "514a0a57d24251bc05000051", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What are the polymorphisms in hypertrophic cardiomyopathy in Caucasians?", 
+            "id": "5150b029d24251bc05000068", 
+            "type": "list"
+        }, 
+        {
+            "body": "How many clinical trials for off-label drugs in neonates are cited in the literature.", 
+            "id": "5150b807d24251bc05000072", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which population has a high frequency of the HLA-B*1502 allele?", 
+            "id": "51542e6fd24251bc05000082", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Is imatinib an antidepressant drug?", 
+            "id": "51542e84d24251bc05000083", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What gene test is recommended for clopidogrel?", 
+            "id": "5156be04d24251bc05000085", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What disease is mirtazapine predominantly used for?", 
+            "id": "5156be17d24251bc05000086", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which diseases is microRNA 132 (miR-132) implicated in?", 
+            "id": "5156be75d24251bc05000088", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is TREM2 associated with Alzheimer's disease in humans?", 
+            "id": "51588c34d24251bc05000095", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is cocaine use associated with increased risk for intracerebral hemorrhage?", 
+            "id": "5159b990d24251bc050000a3", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "How does exercise affect thyroid hormone receptors expression in the heart?", 
+            "id": "5159cc88d24251bc050000a4", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Does thyroid hormone regulate calcium transient in the myocardium? ", 
+            "id": "515ac533d24251bc050000a9", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is Rheumatoid Arthritis related to myopathy?", 
+            "id": "515ae990d24251bc050000ad", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which genes does thyroid hormone receptor alpha1 regulate in the heart?", 
+            "id": "515c4f05298dcd4e51000006", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which genes does thyroid hormone receptor beta1 regulate in the heart?", 
+            "id": "515c4f1f298dcd4e51000007", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which cellular processes are regulated by Nanog?", 
+            "id": "515d1ff7298dcd4e51000009", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is known about Vancomycin dosing in neonates?", 
+            "id": "515d71ee298dcd4e5100000b", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Is Propofol used for short-term sedation?", 
+            "id": "515d9a42298dcd4e5100000d", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Are there randomised controlled trials on sevoflurane?", 
+            "id": "515d9e5c298dcd4e5100000e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the catalytic mechanism of DNA (cytosine-5) methyltransferases? ", 
+            "id": "515da5b5298dcd4e5100000f", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the treatment of neuropathic pain in children?", 
+            "id": "515da6e2298dcd4e51000010", 
+            "type": "list"
+        }, 
+        {
+            "body": "List all clinical trials of the polypill.", 
+            "id": "515db020298dcd4e51000011", 
+            "type": "list"
+        }, 
+        {
+            "body": "What are the current treatments for generalised anxiety disorder in teenagers?", 
+            "id": "515db20e298dcd4e51000014", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the average diameter of intermediate filaments?", 
+            "id": "515db3d8298dcd4e51000015", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What are the reported adverse effects of gabapentin used in children?", 
+            "id": "515db70c298dcd4e51000017", 
+            "type": "list"
+        }, 
+        {
+            "body": "How histone deacetylation causes transcriptional gene silencing?", 
+            "id": "515dbb3b298dcd4e51000018", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What do studies show about the effect of Induced hypothermia in premature babies?", 
+            "id": "515dc066298dcd4e5100001a", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What are the clinical trial outcomes of metformin use in polycystic ovary disease?", 
+            "id": "515dd9a0298dcd4e5100001e", 
+            "type": "summary"
+        }, 
+        {
+            "body": "List all approved indications for Glivec", 
+            "id": "515de748298dcd4e51000023", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the INSURE procedure in premature babies.", 
+            "id": "515e078e298dcd4e51000031", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the function of the yeast protein Aft1?", 
+            "id": "51600ca2298dcd4e51000037", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Have microRNAs been implicated in pharmacogenomics? ", 
+            "id": "5162a089298dcd4e51000043", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What are the known families of deadenylases?", 
+            "id": "5162c8a8298dcd4e51000047", 
+            "type": "list"
+        }, 
+        {
+            "body": "Could DNA (cytosine-5-)-methyltransferases serve as tumour markers?", 
+            "id": "5162e9df298dcd4e5100004b", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Do DNA double-strand breaks play a causal role in carcinogenesis?", 
+            "id": "5162f5b6298dcd4e5100004c", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What disease is Velcade (bortezomib) mainly used for?", 
+            "id": "51631154298dcd4e5100004e", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "How is myotonic dystrophy inherited?", 
+            "id": "51635202298dcd4e5100004f", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Is it safe to take isotretinoin during pregnancy?", 
+            "id": "51640b4a298dcd4e51000050", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "How many genera comprise the Flaviviridae family?", 
+            "id": "51651e24298dcd4e51000054", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Could Arimidex (anastrozole) cause hot flashes?", 
+            "id": "516523fd298dcd4e51000055", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the inheritance pattern of Emery-Dreifuss muscular dystrophy? ", 
+            "id": "51656c94298dcd4e51000058", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the DNA (cytosine-5-)-methyltransferases inhibitors?", 
+            "id": "5165932e298dcd4e51000059", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the inhibitors of histone methyltransferases?", 
+            "id": "5166f41a298dcd4e5100005b", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is MammaPrint cleared by the United States Food and Drug Administration? ", 
+            "id": "5168023b298dcd4e51000061", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is it possible to detect survivin protein expression in normal human adult tissues?", 
+            "id": "51680a49298dcd4e51000062", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the function of cryptochrome-1 in mouse?", 
+            "id": "51680a6d298dcd4e51000063", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Does triiodothyronine play a regulatory role in insulin secretion from pancreas?", 
+            "id": "51682382298dcd4e51000066", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "How does thyroid hormone affect insulin resistance in the heart?", 
+            "id": "51682c52298dcd4e51000067", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Does  thyroid hormone receptor beta1 affect insulin secretion?", 
+            "id": "516c0e08298dcd4e5100006d", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Does thyroid hormone signaling affect microRNAs expression in the heart?", 
+            "id": "516c1041298dcd4e51000070", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Does cucumber lower blood sugar in diabetics?", 
+            "id": "516c220e298dcd4e51000071", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which are the families of mammalian DNA-(cytosine-5)-methyltransferases?", 
+            "id": "516c3960298dcd4e51000073", 
+            "type": "list"
+        }, 
+        {
+            "body": "How does dronedarone affect thyroid hormone signaling in the heart?", 
+            "id": "516d4770298dcd4e51000076", 
+            "type": "summary"
+        }, 
+        {
+            "body": "How does adrenergic signaling affect thyroid hormone receptors?", 
+            "id": "516d5bdf298dcd4e5100007a", 
+            "type": "summary"
+        }, 
+        {
+            "body": "How does ranolazine affect calcium handling in the heart", 
+            "id": "517138d98ed59a060a000003", 
+            "type": "summary"
+        }, 
+        {
+            "body": "How does trimetazidine affect intracellular kinase signaling in the heart?", 
+            "id": "5171393e8ed59a060a000005", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the role of SERCA in diabetic cardiomyopathy?", 
+            "id": "51713cb58ed59a060a000006", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Name five popular  computer  programs used to identify genes in genomic sequences", 
+            "id": "51716a438ed59a060a00000a", 
+            "type": "list"
+        }, 
+        {
+            "body": "How many selenoproteins are encoded in the human genome?", 
+            "id": "517170c48ed59a060a00000d", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?", 
+            "id": "517179718ed59a060a00000e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia", 
+            "id": "5171a1498ed59a060a000012", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which  is the execution time (complexity) of the Smith-Waterman algorithm for the alignment of two sequences", 
+            "id": "51724fca8ed59a060a000013", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Other than protein coding potential, what features set apart long non-coding RNAs from protein coding genes?", 
+            "id": "5172e9448ed59a060a000018", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which metazaon species or taxa are known to lack selenoproteins", 
+            "id": "5172f8118ed59a060a000019", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Are transcription and splicing connected?", 
+            "id": "517395b98ed59a060a00001a", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which is the most important prognosis sub-classification in Chronic Lymphocytic Leukemia?", 
+            "id": "51739df58ed59a060a00001c", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the relationship between nucleosomes and exons?", 
+            "id": "5173a8b48ed59a060a00001d", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which histone modifications have been associated to alternative splicing?", 
+            "id": "5173b5ea8ed59a060a00001f", 
+            "type": "summary"
+        }, 
+        {
+            "body": "How are thyroid hormones involved in the development of diabetic cardiomyopathy?", 
+            "id": "51751ee48ed59a060a000025", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which genes are regulated by TRalpha2  in the heart?", 
+            "id": "517539ca8ed59a060a000027", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which mitochondrial genes are regulated by thyroid hormone?", 
+            "id": "517539e68ed59a060a000028", 
+            "type": "list"
+        }, 
+        {
+            "body": "Can protein coding exons originate from ALU sequences?", 
+            "id": "51763a278ed59a060a000030", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Name the factors required for selenoprotein synthesis in eukaryotes", 
+            "id": "51766e438ed59a060a000031", 
+            "type": "list"
+        }, 
+        {
+            "body": "What are the major classes of retrotransposons active in the human genome?", 
+            "id": "517843638ed59a060a000036", 
+            "type": "list"
+        }
+    ]
+}

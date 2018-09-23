@@ -1,0 +1,859 @@
+Question: Is Hirschsprung disease a mendelian or a multifactorial disorder?
+ideal_answer: Coding sequence mutations in RET, GDNF, EDNRB, EDN3, and SOX10 are involved in the development of Hirschsprung disease. The majority of these genes was shown to be related to Mendelian syndromic forms of Hirschsprung's disease, whereas the non-Mendelian inheritance of sporadic non-syndromic Hirschsprung disease proved to be complex; involvement of multiple loci was demonstrated in a multiplicative model."
+Answer: Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes. BACKGROUND: RET is the major gene associated to Hirschsprung disease (HSCR) with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology. In the etiology of Hirschsprung disease various genes play a role; these are: RET, EDNRB, GDNF, EDN3 and SOX10, NTN3, ECE1, Mutations in these genes may result in dominant, recessive or multifactorial patterns of inheritance. Furthermore, mutations in the RET gene are responsible for approximately half of the familial and some sporadic cases, strongly suggesting, on the one hand, the importance of non-coding variations and, on the other hand, that additional genes involved in the development of the enteric nervous system still await their discovery. Therefore, HSCR has become a model for a complex oligo-/polygenic disorder in which the relationship between different genes creating a non-mendelian inheritance pattern still remains to be elucidated. The non-Mendelian inheritance of sporadic non-syndromic Hirschsprung's disease proved to be complex; involvement of multiple loci was demonstrated in a multiplicative model. 
+ "snippets": [
+        {
+          "offsetInEndSection": 358,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 992,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 554,
+          "document": "15617541",
+          "text": "In this study, we review the identification of genes and loci involved in the non-syndromic common form and syndromic Mendelian forms of Hirschsprung's disease. The majority of the identified genes are related to Mendelian syndromic forms of Hirschsprung's disease. The non-Mendelian inheritance of sporadic non-syndromic Hirschsprung's disease proved to be complex; involvement of multiple loci was demonstrated in a multiplicative model",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 939,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 397,
+          "document": "12239580",
+          "text": "Coding sequence mutations in e.g. RET, GDNF, EDNRB, EDN3, and SOX10 lead to long-segment (L-HSCR) as well as syndromic HSCR but fail to explain the transmission of the much more common short-segment form (S-HSCR). Furthermore, mutations in the RET gene are responsible for approximately half of the familial and some sporadic cases, strongly suggesting, on the one hand, the importance of non-coding variations and, on the other hand, that additional genes involved in the development of the enteric nervous system still await their discovery",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1279,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 941,
+          "document": "12239580",
+          "text": "For almost all of the identified HSCR genes incomplete penetrance of the HSCR phenotype has been reported, probably due to modifier loci. Therefore, HSCR has become a model for a complex oligo-/polygenic disorder in which the relationship between different genes creating a non-mendelian inheritance pattern still remains to be elucidated",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 358,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 129,
+          "document": "15829955",
+          "text": " Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1007,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 851,
+          "document": "6650562",
+          "text": " The inheritance of Hirschsprung disease is generally consistent with sex-modified multifactorial inheritance with a lower threshold of expression in males.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 359,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 131,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "20598273",
+          "text": "Differential contributions of rare and common, coding and noncoding Ret mutations to multifactorial Hirschsprung disease liability.",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 210,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 0,
+          "document": "21995290",
+          "text": "BACKGROUND: RET is the major gene associated to Hirschsprung disease (HSCR) with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 358,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 992,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 554,
+          "document": "15617541",
+          "text": "In this study, we review the identification of genes and loci involved in the non-syndromic common form and syndromic Mendelian forms of Hirschsprung's disease. The majority of the identified genes are related to Mendelian syndromic forms of Hirschsprung's disease. The non-Mendelian inheritance of sporadic non-syndromic Hirschsprung's disease proved to be complex; involvement of multiple loci was demonstrated in a multiplicative model",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 359,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 376,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 151,
+          "document": "15858239",
+          "text": "In the etiology of Hirschsprung disease various genes play a role; these are: RET, EDNRB, GDNF, EDN3 and SOX10, NTN3, ECE1, Mutations in these genes may result in dominant, recessive or multifactorial patterns of inheritance.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 358,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 358,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 83,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "23001136",
+          "text": "Chromosomal and related Mendelian syndromes associated with Hirschsprung's disease.",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 818,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 715,
+          "document": "15617541",
+          "text": "The majority of the identified genes are related to Mendelian syndromic forms of Hirschsprung's disease",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 358,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 375,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 151,
+          "document": "15858239",
+          "text": "In the etiology of Hirschsprung disease various genes play a role; these are: RET, EDNRB, GDNF, EDN3 and SOX10, NTN3, ECE1, Mutations in these genes may result in dominant, recessive or multifactorial patterns of inheritance",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 83,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "23001136",
+          "text": "Chromosomal and related Mendelian syndromes associated with Hirschsprung's disease.",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 818,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 715,
+          "document": "15617541",
+          "text": "The majority of the identified genes are related to Mendelian syndromic forms of Hirschsprung's disease",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 358,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 615,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 417,
+          "document": "8896569",
+          "text": "On the basis of a skewed sex-ratio (M/F = 4/1) and a risk to relatives much higher than the incidence in the general population, HSCR has long been regarded as a sex-modified multifactorial disorder",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1012,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 858,
+          "document": "6650562",
+          "text": "The inheritance of Hirschsprung disease is generally consistent with sex-modified multifactorial inheritance with a lower threshold of expression in males",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 375,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 151,
+          "document": "15858239",
+          "text": "In the etiology of Hirschsprung disease various genes play a role; these are: RET, EDNRB, GDNF, EDN3 and SOX10, NTN3, ECE1, Mutations in these genes may result in dominant, recessive or multifactorial patterns of inheritance",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 83,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "23001136",
+          "text": "Chromosomal and related Mendelian syndromes associated with Hirschsprung's disease.",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 818,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 715,
+          "document": "15617541",
+          "text": "The majority of the identified genes are related to Mendelian syndromic forms of Hirschsprung's disease",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 992,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 820,
+          "document": "15617541",
+          "text": "The non-Mendelian inheritance of sporadic non-syndromic Hirschsprung's disease proved to be complex; involvement of multiple loci was demonstrated in a multiplicative model",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 358,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 131,
+          "document": "15829955",
+          "text": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 83,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "23001136",
+          "text": "Chromosomal and related Mendelian syndromes associated with Hirschsprung's disease.",
+          "endSection": "title"
+        }
+      ],
+      "type": "summary",
+      "concepts": [
+        "DOID:10487",
+        "D006627",
+        "DOID:11372",
+        "D020412"
+      ],
+ 
+ 
+Question: List signaling molecules (ligands) that interact with the receptor EGFR?
+ideal_answer: The 7 known EGFR ligands  are: epidermal growth factor (EGF), betacellulin (BTC), epiregulin (EPR), heparin-binding EGF (HB-EGF), transforming growth factor-\u03b1 [TGF-\u03b1], amphiregulin (AREG) and epigen (EPG).
+Answer: EGFR ligands epidermal growth factor (EGF), amphiregulin (AREG) and transforming growth factor alpha (TGFα). Among EGFR ligands, heparin-binding EGF-like growth factor, TGF-α and Betacellulin (BTC) are produced in the tumor microenvironment of FDC-S at RNA level. the 7 known EGFR ligands (EGF, betacellulin, epiregulin, heparin-binding EGF, transforming growth factor-α [TGF-α], amphiregulin, and epigen). EGFR ligands based on the two affinity classes: EGF>HB-EGF>TGF-α>BTC>EPR>EPG>AR. mammalian EGFR ligands including EGF, TGF-α (TGFα), amphiregulin (AREG), heparin-binding EGF-like growth factor (HB-EGF), betacellulin, epiregulin, and epigen. In this article, however, we demonstrate that PEPD directly binds to and activates epidermal growth factor receptor (EGFR),. . Plasma amphiregulin (AR), epidermal growth factor (EGF), transforming growth factor-α, and heparin binding-EGF were assessed by ELISA in 45 chemorefractory mCRC patients. Here, we demonstrate that histamine releases 2 EGFR ligands, amphiregulin and heparin-binding epidermal growth factor-like growth factor (HB-EGF), from airway epithelial cells. oluble amphiregulin (AR), transforming growth factor alpha (TGFα), neuregulin 2 beta, and epigen stimulate greater EGFR coupling to cell proliferation and DNA synthesis than do EGF, betacellulin, heparin-binding EGF-like growth factor, and epiregulin. four EGFR ligands (AR, HB-EGF, TGF-α, and EREG). 
+"snippets": [
+        {
+          "offsetInEndSection": 1199,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1085,
+          "document": "24323361",
+          "text": "the epidermal growth factor receptor (EGFR) ligands, such as epidermal growth factor (EGF) and amphiregulin (AREG)",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1247,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1139,
+          "document": "24124521",
+          "text": " EGFR ligands epidermal growth factor (EGF), amphiregulin (AREG) and transforming growth factor alpha (TGF\u03b1)",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 97,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 72,
+          "document": "23959273",
+          "text": " EGFR and its ligand EGF ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1058,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 903,
+          "document": "23888072",
+          "text": "Among EGFR ligands, heparin-binding EGF-like growth factor, TGF-\u03b1 and Betacellulin (BTC) are produced in the tumor microenvironment of FDC-S at RNA level. ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 493,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 322,
+          "document": "23821377",
+          "text": ". Plasma amphiregulin (AR), epidermal growth factor (EGF), transforming growth factor-\u03b1, and heparin binding-EGF were assessed by ELISA in 45 chemorefractory mCRC patients",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 414,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 346,
+          "document": "23787814",
+          "text": "Among EGFR ligands, heparin-binding epidermal growth factor (HB-EGF)",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 521,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 357,
+          "document": "23729230",
+          "text": " Of the six known EGFR ligands, transforming growth factor alpha (TGF\u03b1) was expressed more highly in triple-negative breast tumors than in tumors of other subtypes.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 923,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 781,
+          "document": "23399900",
+          "text": "the 7 known EGFR ligands (EGF, betacellulin, epiregulin, heparin-binding EGF, transforming growth factor-\u03b1 [TGF-\u03b1], amphiregulin, and epigen) ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1472,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1393,
+          "document": "23382875",
+          "text": "EGFR ligands based on the two affinity classes: EGF>HB-EGF>TGF-\u03b1>BTC>EPR>EPG>AR",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 320,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 197,
+          "document": "23212918",
+          "text": "In this article, however, we demonstrate that PEPD directly binds to and activates epidermal growth factor receptor (EGFR),",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1607,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1559,
+          "document": "23099994",
+          "text": "four EGFR ligands (AR, HB-EGF, TGF-\u03b1, and EREG) ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 87,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 0,
+          "document": "22260327",
+          "text": "Epidermal growth factor (EGF) family peptides are ligands for the EGF receptor (EGFR). ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 490,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 240,
+          "document": "22260327",
+          "text": "oluble amphiregulin (AR), transforming growth factor alpha (TGF\u03b1), neuregulin 2 beta, and epigen stimulate greater EGFR coupling to cell proliferation and DNA synthesis than do EGF, betacellulin, heparin-binding EGF-like growth factor, and epiregulin",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 563,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 387,
+          "document": "22247333",
+          "text": "Here, we demonstrate that histamine releases 2 EGFR ligands, amphiregulin and heparin-binding epidermal growth factor-like growth factor (HB-EGF), from airway epithelial cells.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 231,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 72,
+          "document": "21514161",
+          "text": "mammalian EGFR ligands including EGF, TGF-\u03b1 (TGF\u03b1), amphiregulin (AREG), heparin-binding EGF-like growth factor (HB-EGF), betacellulin, epiregulin, and epigen.",
+          "endSection": "abstract"
+        }
+      ],
+
+Question: Is the protein Papilin secreted?
+ideal_answer: Yes,  papilin is a secreted protein
+Answer: Using expression analysis, we identify three genes that are transcriptionally regulated by HLH-2: the protocadherin cdh-3, and two genes encoding secreted extracellular matrix proteins, mig-6/papilin and him-4/hemicentin. We found that mig-6 encodes long (MIG-6L) and short (MIG-6S) isoforms of the extracellular matrix protein papilin, each required for distinct aspects of DTC migration. apilins are homologous, secreted extracellular matrix proteins which share a common order of protein domains. The TSR superfamily is a diverse family of extracellular matrix and transmembrane proteins, many of which have functions related to regulating matrix organization, cell-cell interactions and cell guidance. F-spondin, UNC-5, ADAMTS, papilin, and TRAP) where specific functions are assigned to the TSR domains. Collagen IV, laminin, glutactin, papilin, and other extracellular matrix proteins were made primarily by hemocytes and were secreted into the medium. This review samples some of the contemporary literature regarding TSR superfamily members (e.g. Both MIG-6 isoforms have a predicted N-terminal papilin cassette. A sulfated glycoprotein was isolated from the culture media of Drosophila Kc cells and named papilin. Papilins are extracellular matrix proteins. Papilin is an extracellular matrix glycoprotein. 
+ "snippets": [
+        {
+          "offsetInEndSection": 1307,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1085,
+          "document": "21784067",
+          "text": "Using expression analysis, we identify three genes that are transcriptionally regulated by HLH-2: the protocadherin cdh-3, and two genes encoding secreted extracellular matrix proteins, mig-6/papilin and him-4/hemicentin. ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 458,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 226,
+          "document": "19297413",
+          "text": "We found that mig-6 encodes long (MIG-6L) and short (MIG-6S) isoforms of the extracellular matrix protein papilin, each required for distinct aspects of DTC migration. Both MIG-6 isoforms have a predicted N-terminal papilin cassette",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 111,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1,
+          "document": "15094122",
+          "text": "apilins are homologous, secreted extracellular matrix proteins which share a common order of protein domains. ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 404,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 0,
+          "document": "15094110",
+          "text": "The TSR superfamily is a diverse family of extracellular matrix and transmembrane proteins, many of which have functions related to regulating matrix organization, cell-cell interactions and cell guidance. This review samples some of the contemporary literature regarding TSR superfamily members (e.g. F-spondin, UNC-5, ADAMTS, papilin, and TRAP) where specific functions are assigned to the TSR domains.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 43,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 0,
+          "document": "12666201",
+          "text": "Papilins are extracellular matrix proteins ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 48,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 0,
+          "document": "11076767",
+          "text": "Papilin is an extracellular matrix glycoprotein ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 882,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 731,
+          "document": "7515725",
+          "text": " Collagen IV, laminin, glutactin, papilin, and other extracellular matrix proteins were made primarily by hemocytes and were secreted into the medium. ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 101,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 0,
+          "document": "3320045",
+          "text": "A sulfated glycoprotein was isolated from the culture media of Drosophila Kc cells and named papilin.",
+          "endSection": "abstract"
+        }
+      ],
+
+Question: Are long non coding RNAs spliced?
+ideal_answer: Long non coding RNAs appear to be spliced through the same pathway as the mRNAs
+Answer: Our analyses indicate that lncRNAs are generated through pathways similar to that of protein-coding genes, with similar histone-modification profiles, splicing signals, and exon/intron lengths. We found 170 long intervening ncRNAs (lincRNAs), which had single- or multiexonic structures that did not overlap protein-coding transcripts, and about sixty antisense lncRNAs (ancRNAs), which were complementary to protein-coding transcripts. Owing to similar alternative splicing pattern to mRNAs, the concept of lncRNA genes was put forward to help systematic understanding of lncRNAs. Our synthesis of recent studies suggests that neither size, presence of a poly-A tail, splicing, direction of transcription, nor strand specificity are of importance to lncRNA function. For alternative exons and long noncoding RNAs, splicing tends to occur later, and the latter might remain unspliced in some cases. We introduce an approach to predict spliced lncRNAs in vertebrate genomes combining comparative genomics and machine learning. bosome-mapping data to identify lncRNAs of Caenorhabditis elegans. 
+ "snippets": [
+        {
+          "offsetInEndSection": 739,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 546,
+          "document": "22955988",
+          "text": "Our analyses indicate that lncRNAs are generated through pathways similar to that of protein-coding genes, with similar histone-modification profiles, splicing signals, and exon/intron lengths.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1732,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1602,
+          "document": "22955974",
+          "text": "For alternative exons and long noncoding RNAs, splicing tends to occur later, and the latter might remain unspliced in some cases.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 557,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 249,
+          "document": "22707570",
+          "text": "bosome-mapping data to identify lncRNAs of Caenorhabditis elegans. We found 170 long intervening ncRNAs (lincRNAs), which had single- or multiexonic structures that did not overlap protein-coding transcripts, and about sixty antisense lncRNAs (ancRNAs), which were complementary to protein-coding transcripts",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 401,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 275,
+          "document": "21622663",
+          "text": "We introduce an approach to predict spliced lncRNAs in vertebrate genomes combining comparative genomics and machine learning.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 856,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 711,
+          "document": "24285305",
+          "text": "Owing to similar alternative splicing pattern to mRNAs, the concept of lncRNA genes was put forward to help systematic understanding of lncRNAs. ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 746,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 561,
+          "document": "24106460",
+          "text": "Our synthesis of recent studies suggests that neither size, presence of a poly-A tail, splicing, direction of transcription, nor strand specificity are of importance to lncRNA function.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 739,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 546,
+          "document": "22955988",
+          "text": "Our analyses indicate that lncRNAs are generated through pathways similar to that of protein-coding genes, with similar histone-modification profiles, splicing signals, and exon/intron lengths.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1732,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1602,
+          "document": "22955974",
+          "text": "For alternative exons and long noncoding RNAs, splicing tends to occur later, and the latter might remain unspliced in some cases.",
+          "endSection": "abstract"
+        }
+      ],
+
+Question: Is RANKL secreted from the cells?
+ideal_answer: Receptor activator of nuclear factor \u03baB ligand (RANKL) is a cytokine predominantly secreted by osteoblasts.
+Answer: e RANKL/OPG ratio secreted by osteoblasts increased and RANK expression by osteoclasts increased, leading to increased osteoclastogenesis. We isolated human fibroblasts from RA, pyrophosphate arthropathy (PPA) and osteoarthritis (OA) patients and analyzed their RANKL/OPG expression profile and the capacity of their secreted factors to induce osteoclastogenesis. Although B. abortus-activated T cells actively secreted the pro-osteoclastogenic cytokines RANKL and IL-17, osteoclastogenesis depended on IL-17, because osteoclast generation induced by Brucella-activated T cells was completely abrogated when these cells were cultured with BMMs from IL-17 receptor knockout mice. Receptor activator of nuclear factor κB ligand (RANKL) and osteoprotegerin (OPG) are cytokines predominantly secreted by osteoblasts and play a central role in differentiation and functional activation of osteoclasts. Osteoprotegerin (OPG) and receptor activator of nuclear factor κB ligand (RANKL) are cytokines predominantly secreted by osteoblasts and play critical roles in the differentiation and function of osteoclasts. Osteoprotegerin (OPG) is an essential secreted protein in bone turnover due to its role as a decoy receptor for the Receptor Activator of Nuclear Factor-kB ligand (RANKL) in the osteoclasts, thus inhibiting their differentiation. It usually functions in bone remodeling, by inhibiting osteoclastogenesis through interaction with a receptor activator of the nuclear factor κB (RANKL). 
+"snippets": [
+        {
+          "offsetInEndSection": 242,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 114,
+          "document": "24267510",
+          "text": "Osteoprotegerin (OPG) is a soluble secreted factor that acts as a decoy receptor for receptor activator of NF-\u03baB ligand (RANKL) ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 266,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 0,
+          "document": "24265865",
+          "text": "Osteoprotegerin (OPG) is a secreted glycoprotein and a member of the tumor necrosis factor receptor superfamily. It usually functions in bone remodeling, by inhibiting osteoclastogenesis through interaction with a receptor activator of the nuclear factor \u03baB (RANKL).",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1247,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1110,
+          "document": "23835909",
+          "text": "e RANKL/OPG ratio secreted by osteoblasts increased and RANK expression by osteoclasts increased, leading to increased osteoclastogenesis",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 228,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 0,
+          "document": "23827649",
+          "text": "Osteoprotegerin (OPG) is an essential secreted protein in bone turnover due to its role as a decoy receptor for the Receptor Activator of Nuclear Factor-kB ligand (RANKL) in the osteoclasts, thus inhibiting their differentiation",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 439,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 324,
+          "document": "23698708",
+          "text": "We identify a TNFSF11 transcript variant that extends the originally identified transcript encoding secreted RANKL.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 95,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "23698708",
+          "text": "Activated human T cells express alternative mRNA transcripts encoding a secreted form of RANKL.",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 621,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 471,
+          "document": "23632157",
+          "text": "OPG, on the other hand, is secreted by osteoblast as a decoy receptor for RANKL, prevents RANKL from binding to RANK and thus prevents bone resorption",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 486,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 270,
+          "document": "22948539",
+          "text": "Receptor activator of nuclear factor \u03baB ligand (RANKL) and osteoprotegerin (OPG) are cytokines predominantly secreted by osteoblasts and play a central role in differentiation and functional activation of osteoclasts",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1005,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 690,
+          "document": "22901753",
+          "text": "Although B. abortus-activated T cells actively secreted the pro-osteoclastogenic cytokines RANKL and IL-17, osteoclastogenesis depended on IL-17, because osteoclast generation induced by Brucella-activated T cells was completely abrogated when these cells were cultured with BMMs from IL-17 receptor knockout mice. ",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 758,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 468,
+          "document": "22867712",
+          "text": " osteoclastogenesis and bone destruction in autoimmune arthritis. We isolated human fibroblasts from RA, pyrophosphate arthropathy (PPA) and osteoarthritis (OA) patients and analyzed their RANKL/OPG expression profile and the capacity of their secreted factors to induce osteoclastogenesis.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 478,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 269,
+          "document": "21618594",
+          "text": "Osteoprotegerin (OPG) and receptor activator of nuclear factor \u03baB ligand (RANKL) are cytokines predominantly secreted by osteoblasts and play critical roles in the differentiation and function of osteoclasts. ",
+          "endSection": "abstract"
+        }
+      ],
+
+Question: Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?
+ideal_answer: Hemizygous MCT8 mutations cuases TH resistance syndrome in males characterized by severe psychomotor retardation, known as the Allan-Herndon-Dudley syndrome (AHDS)."
+Answer: One of them, caused by mutations in the TH cell-membrane transporter MCT8, produces severe psychomotor defects. One, producing severe psychomotor defects in > 100 males from 26 families, is caused by mutations in the cell-membrane transporter of TH, MCT8;. Hemizygous MCT8 mutations in males cause severe psychomotor retardation, known as the Allan-Herndon-Dudley syndrome (AHDS), and abnormal serum TH levels. Three syndromes, in which resistance to hormone action is respectively due to mutations in the gene encoding for thyroid hormone receptor TRβ, impaired T4 and T3 transport, and impaired conversion of T4 to T3 mediated by deiodinases. AHDS thus represents a type of TH resistance caused by a defect in cellular TH transport. 
+ "snippets": [
+        {
+          "offsetInEndSection": 732,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 489,
+          "document": "23392090",
+          "text": "Hemizygous MCT8 mutations in males cause severe psychomotor retardation, known as the Allan-Herndon-Dudley syndrome (AHDS), and abnormal serum TH levels. AHDS thus represents a type of TH resistance caused by a defect in cellular TH transport.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 832,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 720,
+          "document": "22986150",
+          "text": " One of them, caused by mutations in the TH cell-membrane transporter MCT8, produces severe psychomotor defects.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 371,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 137,
+          "document": "21459689",
+          "text": " Three syndromes, in which resistance to hormone action is respectively due to mutations in the gene encoding for thyroid hormone receptor TR\u03b2, impaired T4 and T3 transport, and impaired conversion of T4 to T3 mediated by deiodinases.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 728,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 585,
+          "document": "17574009",
+          "text": "One, producing severe psychomotor defects in > 100 males from 26 families, is caused by mutations in the cell-membrane transporter of TH, MCT8;",
+          "endSection": "abstract"
+        }
+      ],
+
+Question: Which miRNAs could be used as potential biomarkers for epithelial ovarian cancer?
+ideal_answer: miR-200a, miR-100, miR-141, miR-200b, miR-200c, miR-203, miR-510, miR-509-5p, miR-132, miR-26a, let-7b, miR-145, miR-182, miR-152, miR-148a, let-7a, let-7i, miR-21, miR-92 and miR-93 could be used as potential biomarkers for epithelial ovarian cancer."
+Answer: The biphasic expression pattern suggested that miR-200a levels may serve as novel biomarkers for the early detection of EOC, and miR-200a and E-cadherin are candidate targets for the development of new treatment modalities against ovarian cancer. Together, these results suggest that low miR-100 expression may be an independent poor prognostic factor and miR-100 can function as a tumor suppressor by targeting PLK1 in human EOCs. The study suggests that the beneficial impact of the addition of paclitaxel on EOC survival was significantly linked to let-7a levels, and that miRNAs such as let-7a may be a useful marker for selection of chemotherapeutic agents in EOC management. MicroRNA let-7a: a potential marker for selection of paclitaxel in ovarian cancer management. our results strongly suggest that let-7i might be used as a therapeutic target to modulate platinum-based chemotherapy and as a biomarker to predict chemotherapy response and survival in patients with ovarian cancer. Four miRNAs (miR-132, miR-26a, let-7b, and miR-145) out of 5 selected miRNAs were significantly underexpressed in the serum of ovarian cancer patients in qRT-PCR. 
+"snippets": [
+        {
+          "offsetInEndSection": 1388,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1010,
+          "document": "23978303",
+          "text": "Finally, five promising differentially miRNAs (miR-200a, miR-100, miR-141, miR-200b, and miR-200c) were reported with the consistent direction in four or more studies. MiR-200a, miR-200b, miR-200c, and miR-141, all of them belong to miR-200 family, were reported with consistently up-regulated in at least 4 studies, whereas miR-100 was reported with down-regulated in 4 studies",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 122,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "23918241",
+          "text": "Upregulation of microRNA-203 is associated with advanced tumor progression and poor prognosis in epithelial ovarian cancer",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 1418,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1036,
+          "document": "23918241",
+          "text": "multivariate analysis showed that the status of miR-203 expression was an independent predictor for both overall survival and progression-free survival in EOC. These findings provide the convincing evidence for the first time that the upregulation of miR-203 may serve as a novel molecular marker to predict the aggressive tumor progression and unfavorable prognosis of EOC patients",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 773,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 493,
+          "document": "23888941",
+          "text": "Some, but not all, of the data indicated that the miR-200 family was dysregulated in a variety of malignancies. In this study, we demonstrated that miR-200a and E-cadherin were significantly upregulated in EOC compared to benign epithelial ovarian cysts and normal ovarian tissues",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1656,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1324,
+          "document": "23888941",
+          "text": "There was a significantly positive correlation between miR-200a and E-cadherin in EOC. The biphasic expression pattern suggested that miR-200a levels may serve as novel biomarkers for the early detection of EOC, and miR-200a and E-cadherin are candidate targets for the development of new treatment modalities against ovarian cancer",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1771,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1385,
+          "document": "23836287",
+          "text": "Kaplan-Meier analysis showed low miR-510 expression, low miR-509-5p expression, and advanced FIGO stage, and chemotherapy resistance were significantly associated with poorer overall survival (P < 0.05). Our results suggest that miRNAs may play a role in the progression of OSC, and miR-510 and miR-509-5p may be considered novel-candidate clinical biomarkers for predicting OSC outcome",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1383,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1158,
+          "document": "23836287",
+          "text": "The qRT-PCR results showed that miR-510, miR-509-5p, and miR-508-3p were significantly downregulated and that miR-483-5p was upregulated in stage III OSC compared with stage I, which was consistent with the microarray results",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 704,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 138,
+          "document": "23621186",
+          "text": "In this study, we examined serum miR-21 levels in epithelial ovarian cancer (EOC) patients, and explored its association with clinicopathological factors and prognosis. The results showed significantly higher serum miR-21 levels in EOC patients than in healthy controls. In addition, increased serum miR-21 expression was correlated with advanced FIGO stage, high tumor grade, and shortened overall survival. These findings indicate that serum miR-21 may serve as a novel diagnostic and prognostic marker, and be used as a therapeutic target for the treatment of EOC",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 119,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "23621186",
+          "text": "Identification of serum microRNA-21 as a biomarker for early detection and prognosis in human epithelial ovarian cancer",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 1813,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1680,
+          "document": "23542579",
+          "text": "Serum miR-132, miR-26a, let-7b, and miR-145 could be considered as potential candidates as novel biomarkers in serous ovarian cancer.",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1665,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1173,
+          "document": "23542579",
+          "text": "Among the miRNAs that showed a consistent regulation tendency through all specimens and showed more than a 2-fold difference in serum, 5 miRNAs (miR-132, miR-26a, let-7b, miR-145, and miR-143) were determined as the 5 most markedly down-regulated miRNAs in the serum from ovarian cancer patients with respect to those of controls. Four miRNAs (miR-132, miR-26a, let-7b, and miR-145) out of 5 selected miRNAs were significantly underexpressed in the serum of ovarian cancer patients in qRT-PCR",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 968,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 739,
+          "document": "23272653",
+          "text": " microRNA (miR)-182, miR-200a, miR-200b and miR-200c were highly overexpressed in the SEOC cell lines relative to normal human ovarian surface epithelial cells and were assessed in RNA extracted from serum as candidate biomarkers",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1633,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1426,
+          "document": "22246341",
+          "text": "Together, these results suggest that low miR-100 expression             may be an independent poor prognostic factor and miR-100 can function as a tumor             suppressor by targeting PLK1 in human EOCs",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 111,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "22246341",
+          "text": "Prognostic implications of microRNA-100 and its functional roles in             human epithelial ovarian cancer",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 1738,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1476,
+          "document": "21971665",
+          "text": "Taken together, miR-152 and miR-148a may be involved             in the carcinogenesis of ovarian cancer through deregulation of cell proliferation.             They may be novel biomarkers for early detection or therapeutic targets of ovarian             cancer",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 92,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "21571355",
+          "text": "MicroRNA let-7a: a potential marker for selection of paclitaxel in ovarian cancer management",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 2236,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1988,
+          "document": "21571355",
+          "text": " The study suggests that the beneficial impact of the addition of paclitaxel on EOC survival was significantly linked to let-7a levels, and that miRNAs such as let-7a may be a useful marker for selection of chemotherapeutic agents in EOC management",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 2669,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 2573,
+          "document": "21345725",
+          "text": "miR-200c has potential as a predictor of survival, and is a biomarker of relapse, in stage I EOC",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 116,
+          "beginSection": "title",
+          "offsetInBeginSection": 0,
+          "document": "19074899",
+          "text": "MicroRNA microarray identifies Let-7i as a novel biomarker and therapeutic target in human epithelial ovarian cancer",
+          "endSection": "title"
+        },
+        {
+          "offsetInEndSection": 1723,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1507,
+          "document": "19074899",
+          "text": " our results strongly suggest that let-7i might be used as a therapeutic target to modulate platinum-based chemotherapy and as a biomarker to predict chemotherapy response and survival in patients with ovarian cancer",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1641,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1560,
+          "document": "18954897",
+          "text": "miRNAs-21, 92 and 93 are known oncogenes with therapeutic and biomarker potential",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1773,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1641,
+          "document": "23542579",
+          "text": "Serum miR-132, miR-26a, let-7b, and miR-145 could be considered as potential candidates as novel biomarkers in serous ovarian cancer",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1773,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1641,
+          "document": "23542579",
+          "text": "Serum miR-132, miR-26a, let-7b, and miR-145 could be considered as potential candidates as novel biomarkers in serous ovarian cancer",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1773,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1641,
+          "document": "23542579",
+          "text": "Serum miR-132, miR-26a, let-7b, and miR-145 could be considered as potential candidates as novel biomarkers in serous ovarian cancer",
+          "endSection": "abstract"
+        },
+        {
+          "offsetInEndSection": 1773,
+          "beginSection": "abstract",
+          "offsetInBeginSection": 1641,
+          "document": "23542579",
+          "text": "Serum miR-132, miR-26a, let-7b, and miR-145 could be considered as potential candidates as novel biomarkers in serous ovarian cancer",
+          "endSection": "abstract"
+        }
+      ],
+
+

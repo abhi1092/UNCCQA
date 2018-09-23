@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "Is there an association between TERT promoter mutation and survival of glioma patients?", 
+      "type": "yesno", 
+      "id": "56c095b7ef6e394741000025"
+    }, 
+    {
+      "body": "Is the yeast \u039cac1 transcription factor induced upon copper deficiency?", 
+      "type": "yesno", 
+      "id": "56e19eba51531f7e33000012"
+    }, 
+    {
+      "body": "Are there interactomes available for POU5F1 and SOX2?", 
+      "type": "yesno", 
+      "id": "56c85f675795f9a73e000013"
+    }, 
+    {
+      "body": "Which signaling pathway does sonidegib inhibit?", 
+      "type": "factoid", 
+      "id": "56d0451c3975bb303a00000e"
+    }, 
+    {
+      "body": "Under which conditions does AMPK phosphorylate TSC2?", 
+      "type": "summary", 
+      "id": "56cd765b5795f9a73e000038"
+    }, 
+    {
+      "body": "Which is the target of the drug Denosumab?", 
+      "type": "factoid", 
+      "id": "56e6ec49edfc094c1f000005"
+    }, 
+    {
+      "body": "Which disease is treated with Eliglustat?", 
+      "type": "factoid", 
+      "id": "56c1f009ef6e39474100003c"
+    }, 
+    {
+      "body": "Are immune cells affected in Amyotrophic Lateral Sclerosis?", 
+      "type": "yesno", 
+      "id": "56cae51f5795f9a73e000025"
+    }, 
+    {
+      "body": "Is there any algorithm for enhancer identification from chromatin state?", 
+      "type": "yesno", 
+      "id": "56d1d14567f0cb3d66000003"
+    }, 
+    {
+      "body": "When ceritinib used instead of crizotinib?", 
+      "type": "list", 
+      "id": "56d042ae3975bb303a00000d"
+    }, 
+    {
+      "body": "Which are the main components of mTORC1?", 
+      "type": "list", 
+      "id": "56cdf3745795f9a73e000039"
+    }, 
+    {
+      "body": "Is LPS a microbial product?", 
+      "type": "yesno", 
+      "id": "56e6f419a12c1fc13b000002"
+    }, 
+    {
+      "body": "Which disorder is rated by Palmini classification?", 
+      "type": "factoid", 
+      "id": "56c1f020ef6e394741000047"
+    }, 
+    {
+      "body": "Which histone modifications distinguish between promoters and enhancers?", 
+      "type": "list", 
+      "id": "56ddbbaf51531f7e33000009"
+    }, 
+    {
+      "body": "What is the link between Dax1 and Esrrb?", 
+      "type": "factoid", 
+      "id": "56a8ee75a17756b72f000007"
+    }, 
+    {
+      "body": "Which syndrome is NHE6 associated with?", 
+      "type": "factoid", 
+      "id": "56d860ad51531f7e33000002"
+    }, 
+    {
+      "body": "List the neurotransmitters that are metabolized by MAOA.", 
+      "type": "list", 
+      "id": "56cf4b623975bb303a00000a"
+    }, 
+    {
+      "body": "What is the role of music therapy in coma patients.", 
+      "type": "summary", 
+      "id": "56bf5b0cef6e394741000014"
+    }, 
+    {
+      "body": "Which properties of the mRNA does N6-methyladenosine (m6A) affect?", 
+      "type": "factoid", 
+      "id": "56df03c751531f7e3300000a"
+    }, 
+    {
+      "body": "Which factors activate zygotic gene expression during the maternal-to-zygotic transition in zebrafish?", 
+      "type": "list", 
+      "id": "56a92be0a17756b72f000009"
+    }, 
+    {
+      "body": "Do patients with Pendred syndrome present congenital deafness?", 
+      "type": "yesno", 
+      "id": "56d8b27651531f7e33000003"
+    }, 
+    {
+      "body": "Is the gene MAOA epigenetically modified by methylation?", 
+      "type": "yesno", 
+      "id": "56cf50253975bb303a00000b"
+    }, 
+    {
+      "body": "Is olaparib effective for prostate cancer?", 
+      "type": "yesno", 
+      "id": "56c02883ef6e394741000017"
+    }, 
+    {
+      "body": "Which are the smallest known subviral pathogens of plants?", 
+      "type": "factoid", 
+      "id": "56e0447a51531f7e3300000b"
+    }, 
+    {
+      "body": "Is there any link between the aurora B kinase and the polycomb protein ring1B?", 
+      "type": "yesno", 
+      "id": "56ae67a40a360a5e4500000c"
+    }, 
+    {
+      "body": "Is the optogenetics tool ChR2 light-sensitive?", 
+      "type": "yesno", 
+      "id": "56e073ad51531f7e3300000e"
+    }, 
+    {
+      "body": "Which trancription factor activates the betalain pathway?", 
+      "type": "factoid", 
+      "id": "56d138fe3975bb303a000015"
+    }, 
+    {
+      "body": "Which enzyme is inhibited by Imetelstat?", 
+      "type": "factoid", 
+      "id": "56c048acef6e39474100001c"
+    }, 
+    {
+      "body": "Does PU.1 (SPI1) affect NF-kB binding?", 
+      "type": "yesno", 
+      "id": "56e05a7b51531f7e3300000d"
+    }, 
+    {
+      "body": "What is the role of the RUNX1-MYEF2 complex?", 
+      "type": "factoid", 
+      "id": "56ae70050a360a5e4500000f"
+    }, 
+    {
+      "body": "Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency?", 
+      "type": "factoid", 
+      "id": "56c4d14ab04e159d0e000003"
+    }, 
+    {
+      "body": "Which gene harbors the mutation T790M?", 
+      "type": "factoid", 
+      "id": "56d1f790f22319765a000001"
+    }, 
+    {
+      "body": "Describe mechanism of action of PLX3397 drug.", 
+      "type": "summary", 
+      "id": "56c07ef5ef6e394741000023"
+    }, 
+    {
+      "body": "Do R-loops tend to form at sites of DNA replication?", 
+      "type": "yesno", 
+      "id": "56e2985951531f7e33000013"
+    }, 
+    {
+      "body": "What is smFISH?", 
+      "type": "summary", 
+      "id": "56af5abb0a360a5e45000012"
+    }, 
+    {
+      "body": "What does isradipine do to L-type channels?", 
+      "type": "factoid", 
+      "id": "56cf20eb3975bb303a000001"
+    }, 
+    {
+      "body": "List bacterial species identified in the iceman tissues.", 
+      "type": "list", 
+      "id": "56d1fd67f22319765a000002"
+    }, 
+    {
+      "body": "Which diseases can be treated with Afamelanotide?", 
+      "type": "list", 
+      "id": "56c08702ef6e394741000024"
+    }, 
+    {
+      "body": "During which stage of the cell cycle is cohesin deposited on the yeast genome?", 
+      "type": "factoid", 
+      "id": "56e2acfe51531f7e33000014"
+    }, 
+    {
+      "body": "Is there any link between conserved noncoding elements and alternative splicing in vertebrates?", 
+      "type": "yesno", 
+      "id": "56b8ed4b156496395c000004"
+    }, 
+    {
+      "body": "Does ziconotide bind to N-type calcium channels?", 
+      "type": "yesno", 
+      "id": "56cf27293975bb303a000003"
+    }, 
+    {
+      "body": "Which is the molecular function of the protein CCDC40?", 
+      "type": "summary", 
+      "id": "56d2adc5f22319765a000005"
+    }, 
+    {
+      "body": "Is dichlorphenamide effective for periodic paralysis?", 
+      "type": "yesno", 
+      "id": "56c1d841ef6e39474100002d"
+    }, 
+    {
+      "body": "What is the structural fold of bromodomain proteins?", 
+      "type": "factoid", 
+      "id": "56e2cec751531f7e33000015"
+    }, 
+    {
+      "body": "What was the purpose of the FANTOM5 project?", 
+      "type": "factoid", 
+      "id": "569e731cca240fa209000003"
+    }, 
+    {
+      "body": "What do mepolizumab and reslizumab have in common?", 
+      "type": "list", 
+      "id": "56cf2be73975bb303a000005"
+    }, 
+    {
+      "body": "List processes which are under the control of the YAP protein.", 
+      "type": "list", 
+      "id": "56d1d94667f0cb3d66000005"
+    }, 
+    {
+      "body": "Does neuroglobin has neuroprotective properties in the setting of traumatic brain injury?", 
+      "type": "yesno", 
+      "id": "56c1d846ef6e39474100002e"
+    }, 
+    {
+      "body": "Do RNA:DNA hybrids preferentially form in high or low GC regions?", 
+      "type": "yesno", 
+      "id": "56e310a151531f7e33000017"
+    }, 
+    {
+      "body": "What was the purpose of the FANTOM3 project?", 
+      "type": "factoid", 
+      "id": "569e79ecceceede94d000002"
+    }, 
+    {
+      "body": "What is ceritinib?", 
+      "type": "summary", 
+      "id": "56d03a4d3975bb303a00000c"
+    }, 
+    {
+      "body": "List omics technologies comprised in system biology.", 
+      "type": "list", 
+      "id": "56d29d4df22319765a000003"
+    }, 
+    {
+      "body": "Is selumetinib effective in thyroid cancer?", 
+      "type": "yesno", 
+      "id": "56c1f00aef6e39474100003d"
+    }, 
+    {
+      "body": "What are the properties of super-enhancers?", 
+      "type": "list", 
+      "id": "56c344abfedd0b786b000003"
+    }, 
+    {
+      "body": "What is DeepCAGE?", 
+      "type": "summary", 
+      "id": "569e7e99ceceede94d000003"
+    }, 
+    {
+      "body": "What is the effect of dovitinib on the cell cycle?", 
+      "type": "summary", 
+      "id": "56d046813975bb303a00000f"
+    }, 
+    {
+      "body": "Can chronological age be predicted by measuring telomere length?", 
+      "type": "yesno", 
+      "id": "56d34fbcf22319765a000009"
+    }, 
+    {
+      "body": "Orteronel was developed for treatment of which cancer?", 
+      "type": "factoid", 
+      "id": "56c1f01def6e394741000045"
+    }, 
+    {
+      "body": "Is the tricarboxylic acid (TCA) cycle affected in inflammation?", 
+      "type": "yesno", 
+      "id": "56c4a217b04e159d0e000001"
+    }, 
+    {
+      "body": "What is the role of eteplirsen in DMD patients?", 
+      "type": "factoid", 
+      "id": "56a24dfffe92d6fd19000002"
+    }, 
+    {
+      "body": "Which ones are the ESKAPE organisms?", 
+      "type": "list", 
+      "id": "56d2ac03f22319765a000004"
+    }, 
+    {
+      "body": "List core circadian clock genes.", 
+      "type": "list", 
+      "id": "56e30dd551531f7e33000016"
+    }, 
+    {
+      "body": "Describe clinical presentation of Parkinsonism with dementia of Guadeloupe syndrome.", 
+      "type": "summary", 
+      "id": "56c1f033ef6e39474100004f"
+    }, 
+    {
+      "body": "Which species of bacteria did the mitochondria originate from?", 
+      "type": "factoid", 
+      "id": "56c58f1b5795f9a73e000001"
+    }, 
+    {
+      "body": "Are shadow enhancers associated with development?", 
+      "type": "yesno", 
+      "id": "56a292ae496b62f23f000001"
+    }, 
+    {
+      "body": "Which SLC family is FLVCR1 a member of?", 
+      "type": "factoid", 
+      "id": "56d85e7751531f7e33000001"
+    }, 
+    {
+      "body": "What are the effects of BMAL1 deficiency?", 
+      "type": "summary", 
+      "id": "56e45bc651531f7e33000018"
+    }, 
+    {
+      "body": "Does HuR protein regulate the splicing process?", 
+      "type": "yesno", 
+      "id": "56c5a7605795f9a73e000002"
+    }, 
+    {
+      "body": "Are CTCF and BORIS involved in genome regulation and cancer?", 
+      "type": "yesno", 
+      "id": "56a375f8496b62f23f000002"
+    }, 
+    {
+      "body": "What are the main clinical characteristics of Pendred syndrome?", 
+      "type": "list", 
+      "id": "56d8b47a51531f7e33000004"
+    }, 
+    {
+      "body": "List the results of mutated casein kinase 1 epsilon. ", 
+      "type": "list", 
+      "id": "56e460d051531f7e33000019"
+    }, 
+    {
+      "body": "Where does CTCF colocalize with cohesin?", 
+      "type": "factoid", 
+      "id": "56c5c7915795f9a73e000004"
+    }, 
+    {
+      "body": "List types of avoided words in bacterial genomes", 
+      "type": "list", 
+      "id": "56a37e33496b62f23f000003"
+    }, 
+    {
+      "body": "Is the gene SLC6A2 associated with orthostatic intolerance?", 
+      "type": "yesno", 
+      "id": "56d8ba1851531f7e33000005"
+    }, 
+    {
+      "body": "List angiocrine factors", 
+      "type": "list", 
+      "id": "56e46ad951531f7e3300001a"
+    }, 
+    {
+      "body": "Which is the most common CFTR mutation in Caucasians?", 
+      "type": "factoid", 
+      "id": "56c5feb75795f9a73e000006"
+    }, 
+    {
+      "body": "What is Targeted Chromatin Capture (T2C)?", 
+      "type": "summary", 
+      "id": "56a38f9b496b62f23f000004"
+    }, 
+    {
+      "body": "Are optogenetics tools used in the study and treatment of epilepsy?", 
+      "type": "yesno", 
+      "id": "56e0797451531f7e3300000f"
+    }, 
+    {
+      "body": "Is Wnt16b secreted in response to chemotherapy?", 
+      "type": "yesno", 
+      "id": "56e6f027a12c1fc13b000001"
+    }, 
+    {
+      "body": "Which post-translational histone modifications are characteristic of constitutive heterochromatin?", 
+      "type": "list", 
+      "id": "56c6dd275795f9a73e000008"
+    }, 
+    {
+      "body": "List the releases of JASPAR database", 
+      "type": "list", 
+      "id": "56a3a386496b62f23f000007"
+    }, 
+    {
+      "body": "What are viral vectors used for in optogenetics?", 
+      "type": "summary", 
+      "id": "56e0813651531f7e33000010"
+    }, 
+    {
+      "body": "With which complexes is the protein SUS1 associated?", 
+      "type": "list", 
+      "id": "56b773a96e3f8eaf4c000003"
+    }, 
+    {
+      "body": "Can DNA intercalators function as topoisomerase inhibitors?", 
+      "type": "yesno", 
+      "id": "56c71cb65795f9a73e00000b"
+    }, 
+    {
+      "body": "What is TFBSshape?", 
+      "type": "summary", 
+      "id": "56a3a6c9496b62f23f000008"
+    }, 
+    {
+      "body": "What is GRO-seq?", 
+      "type": "summary", 
+      "id": "56e0869351531f7e33000011"
+    }, 
+    {
+      "body": "What is the effect of a defective CLN3 gene?", 
+      "type": "factoid", 
+      "id": "56b710f276d8bf8d13000003"
+    }, 
+    {
+      "body": "Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis?", 
+      "type": "yesno", 
+      "id": "56cae5125795f9a73e000024"
+    }, 
+    {
+      "body": "Elaborate on the association between Genomic Regulatory Blocks (GRBs) and target genes", 
+      "type": "summary", 
+      "id": "56a3a8c7496b62f23f000009"
+    }, 
+    {
+      "body": "Which calcium channels does ethosuximide target?", 
+      "type": "factoid", 
+      "id": "56cf236f3975bb303a000002"
+    }, 
+    {
+      "body": "What is the effect of thapsigargin treatment?", 
+      "type": "factoid", 
+      "id": "56b7210b76d8bf8d13000004"
+    }, 
+    {
+      "body": "Are there enhancer RNAs (eRNAs)?", 
+      "type": "yesno", 
+      "id": "56a8adb0a17756b72f000003"
+    }, 
+    {
+      "body": "Does MVIIA and MVIIC bind to the same calcium channel?", 
+      "type": "yesno", 
+      "id": "56cf2a153975bb303a000004"
+    }, 
+    {
+      "body": "List functional roles of the FtsZ protein.", 
+      "type": "list", 
+      "id": "56d094f33975bb303a000012"
+    }, 
+    {
+      "body": "What is the link between Nonidet-40 (NP-40) and biotinylation?", 
+      "type": "factoid", 
+      "id": "56a8d660a17756b72f000006"
+    }, 
+    {
+      "body": "What is dovitinib?", 
+      "type": "factoid", 
+      "id": "56d04a533975bb303a000010"
+    }, 
+    {
+      "body": "Where are the orexigenic peptides synthesized?", 
+      "type": "factoid", 
+      "id": "56e47e0051531f7e3300001c"
+    }, 
+    {
+      "body": "What is ISMARA?", 
+      "type": "summary", 
+      "id": "56accec70a360a5e45000003"
+    }, 
+    {
+      "body": "In which breast cancer patients can palbociclib be used?", 
+      "type": "factoid", 
+      "id": "56d06e043975bb303a000011"
+    }, 
+    {
+      "body": "Are adenylyl cyclases always transmembrane proteins?", 
+      "type": "yesno", 
+      "id": "56e5aeec0c19e5451d000002"
+    }
+  ]
+}

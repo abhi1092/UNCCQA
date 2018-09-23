@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "What is known about depression in acoustic neuroma patients?", 
+      "type": "summary", 
+      "id": "56bb54d3ac7ad10019000006"
+    }, 
+    {
+      "body": "How are GRBs (Genomic Regulatory Blocks) defined?", 
+      "type": "summary", 
+      "id": "56eaf4e6107309bc2f000001"
+    }, 
+    {
+      "body": "What is ATAC-seq?", 
+      "type": "summary", 
+      "id": "569ed752ceceede94d000004"
+    }, 
+    {
+      "body": "How is oprozomib administered?", 
+      "type": "factoid", 
+      "id": "56ecfd572ac5ed1459000002"
+    }, 
+    {
+      "body": "Is STAT3 involved in EIF2AK2-dependent suppression of autophagy?", 
+      "type": "yesno", 
+      "id": "56cdf3995795f9a73e00003a"
+    }, 
+    {
+      "body": "Is the protein \u03b21-integrin recycled?", 
+      "type": "yesno", 
+      "id": "56e5b445edfc094c1f000001"
+    }, 
+    {
+      "body": "What medication were compared in the ROCKET AF Trial?", 
+      "type": "list", 
+      "id": "56bb616dac7ad10019000008"
+    }, 
+    {
+      "body": "What is the principle of ATAC (Assay for Transposase-Accessible Chromatin) technique?", 
+      "type": "summary", 
+      "id": "56ebee26107309bc2f000002"
+    }, 
+    {
+      "body": "List packages for transcription factor binding sites' (TFBS) analysis available in R/Bioconductor", 
+      "type": "list", 
+      "id": "56a39a32496b62f23f000005"
+    }, 
+    {
+      "body": "What is oprozomib?", 
+      "type": "summary", 
+      "id": "56ecffd62ac5ed1459000003"
+    }, 
+    {
+      "body": "Which type of GTPases is required for amino acid-dependent activation of mTORC1?", 
+      "type": "factoid", 
+      "id": "56cdf3e55795f9a73e00003c"
+    }, 
+    {
+      "body": "Is protein CXCR4 used as a prognostic marker of cancer?", 
+      "type": "yesno", 
+      "id": "56e68967edfc094c1f000002"
+    }, 
+    {
+      "body": "What causes Katayama Fever?", 
+      "type": "factoid", 
+      "id": "56bb621fac7ad10019000009"
+    }, 
+    {
+      "body": "Which are the roles of chromatin compartments in the eukaryotic nucleus?", 
+      "type": "list", 
+      "id": "56ebfa13107309bc2f000004"
+    }, 
+    {
+      "body": "Which packages are used for performing overlap analysis of genomic regions in R/bioconductor?", 
+      "type": "list", 
+      "id": "56a3bf0f496b62f23f00000a"
+    }, 
+    {
+      "body": "Which enzyme does MLN4924 inhibit?", 
+      "type": "factoid", 
+      "id": "56ed03862ac5ed1459000004"
+    }, 
+    {
+      "body": "What is apelin?", 
+      "type": "factoid", 
+      "id": "56e6dfc2edfc094c1f000003"
+    }, 
+    {
+      "body": "Is nivolumab used for treatment of Non\u2013Small-Cell Lung Cancer?", 
+      "type": "yesno", 
+      "id": "56bb68a5ac7ad1001900000a"
+    }, 
+    {
+      "body": "Does the 3D structure of  the genome remain stable during cell differentiation?", 
+      "type": "yesno", 
+      "id": "56ebfac12ac5ed1459000001"
+    }, 
+    {
+      "body": "Could transcription factors act as cell-cell signalling molecules?", 
+      "type": "yesno", 
+      "id": "56a7d32fa17756b72f000001"
+    }, 
+    {
+      "body": "Can RG7112 inhibit MDM2?", 
+      "type": "yesno", 
+      "id": "56ed08062ac5ed1459000005"
+    }, 
+    {
+      "body": "Are integrins part of the extracellular matrix?", 
+      "type": "yesno", 
+      "id": "56e83a2342442bac75000001"
+    }, 
+    {
+      "body": "Is amoxicillin used for treatment of malnutrition in children?", 
+      "type": "yesno", 
+      "id": "56bb69d0ac7ad1001900000c"
+    }, 
+    {
+      "body": "What is the genetic basis of tuberous sclerosis?", 
+      "type": "factoid", 
+      "id": "56ed14d92ac5ed145900000a"
+    }, 
+    {
+      "body": "What is the Genomic Regions Enrichment of Annotations Tool (GREAT)?", 
+      "type": "summary", 
+      "id": "56a7d5afa17756b72f000002"
+    }, 
+    {
+      "body": "Could RG7112 be used as cancer therapy?", 
+      "type": "yesno", 
+      "id": "56ed0a372ac5ed1459000006"
+    }, 
+    {
+      "body": "When is the protein NFL a biomarker?", 
+      "type": "summary", 
+      "id": "56e844c442442bac75000002"
+    }, 
+    {
+      "body": "RTS S AS01 vaccine was developed to prevent which disease?", 
+      "type": "factoid", 
+      "id": "56bc77a3ac7ad10019000015"
+    }, 
+    {
+      "body": "What is the function of the AIRE gene at the embryonic stage?", 
+      "type": "factoid", 
+      "id": "56ed27012ac5ed145900000b"
+    }, 
+    {
+      "body": "What is the mechanism of DNA replication termination in vertebrates?", 
+      "type": "summary", 
+      "id": "56a8b1a5a17756b72f000004"
+    }, 
+    {
+      "body": "Has Revlimid been approved by the US Food and Drug Administration?", 
+      "type": "yesno", 
+      "id": "56ed0ba22ac5ed1459000007"
+    }, 
+    {
+      "body": "What is needed for MMP proteins to be functional?", 
+      "type": "factoid", 
+      "id": "56e857ae42442bac75000004"
+    }, 
+    {
+      "body": "Are reduced-nicotine cigarettes effective for smoking cessation?", 
+      "type": "yesno", 
+      "id": "56bc8d65ac7ad1001900001a"
+    }, 
+    {
+      "body": "In which cells are A-type lamins expressed?", 
+      "type": "factoid", 
+      "id": "56ed27202ac5ed145900000c"
+    }, 
+    {
+      "body": "What is the outcome of TAF10 interacting with the GATA1 transcription factor?", 
+      "type": "factoid", 
+      "id": "56a8b8b5a17756b72f000005"
+    }, 
+    {
+      "body": "Which type of myeloma is ixazomib being evaluated for?", 
+      "type": "factoid", 
+      "id": "56ed0ffe2ac5ed1459000008"
+    }, 
+    {
+      "body": "What is the function of the spliceosome complex?", 
+      "type": "factoid", 
+      "id": "56f553e309dd18d46b000006"
+    }, 
+    {
+      "body": "List mutations that are implicated in the Gray Platelet Syndrome.", 
+      "type": "list", 
+      "id": "56bcc455d36b5da378000003"
+    }, 
+    {
+      "body": "Which is the main function of \"RNA sponges\"?", 
+      "type": "summary", 
+      "id": "56f112932ac5ed145900000d"
+    }, 
+    {
+      "body": "List available tools for genomic visualisation in comparative genomics", 
+      "type": "list", 
+      "id": "56acc7ca0a360a5e45000002"
+    }, 
+    {
+      "body": "Have gnotobiotic animal models been used for the study of bowel disease?", 
+      "type": "yesno", 
+      "id": "56f12ca92ac5ed145900000e"
+    }, 
+    {
+      "body": "Are cyclophilins proteins that bind to prolines?", 
+      "type": "yesno", 
+      "id": "56f6a63d09dd18d46b00000c"
+    }, 
+    {
+      "body": "What is the purpose of the Tokuhashi scoring system?", 
+      "type": "summary", 
+      "id": "56bcd422d36b5da378000005"
+    }, 
+    {
+      "body": "Which RNA polymerase is used for the replication of viroids?", 
+      "type": "list", 
+      "id": "56f24fec2ac5ed1459000015"
+    }, 
+    {
+      "body": "Elaborate on the TREAT-NMD initiative for DMD patients", 
+      "type": "summary", 
+      "id": "56acd7530a360a5e45000004"
+    }, 
+    {
+      "body": "Is single guide RNA part of the CRISPR/Cas9 tool or an inhibitor of its function?", 
+      "type": "factoid", 
+      "id": "56f146db2ac5ed145900000f"
+    }, 
+    {
+      "body": "Are cyclophilins ubiquitously expressed?", 
+      "type": "yesno", 
+      "id": "56f6ab7009dd18d46b00000d"
+    }, 
+    {
+      "body": "Dracorhodin perchlorate was tested for treatment of which cancers?", 
+      "type": "list", 
+      "id": "56bcdf1ad36b5da378000009"
+    }, 
+    {
+      "body": "How are CRM (cis-regulatory modules) defined?", 
+      "type": "summary", 
+      "id": "56f3eebd2ac5ed1459000016"
+    }, 
+    {
+      "body": "What is the definition of minimal absent words?", 
+      "type": "summary", 
+      "id": "56acda7c0a360a5e45000005"
+    }, 
+    {
+      "body": "Has single guide RNA been used on human cells?", 
+      "type": "yesno", 
+      "id": "56f1547c2ac5ed1459000010"
+    }, 
+    {
+      "body": "Which is the receptor for the immunosuppressive drug cyclosporin A (CsA)?", 
+      "type": "factoid", 
+      "id": "56f6c11109dd18d46b00000e"
+    }, 
+    {
+      "body": "What is the role of neurogranin in Alzheimer's disease patients?", 
+      "type": "summary", 
+      "id": "56bce51cd36b5da37800000a"
+    }, 
+    {
+      "body": "Which are the most widely used computational methods for the identification of CRMs (cis-regulatory modules)?", 
+      "type": "list", 
+      "id": "56f3f0f02ac5ed1459000017"
+    }, 
+    {
+      "body": "What is the link between HOT regions and RNA polymerase recruitment?", 
+      "type": "factoid", 
+      "id": "56ae2fab0a360a5e45000006"
+    }, 
+    {
+      "body": "What is CRISPRi?", 
+      "type": "summary", 
+      "id": "56f157a52ac5ed1459000011"
+    }, 
+    {
+      "body": "Which is the protein encoded by the human gene GRIK?", 
+      "type": "factoid", 
+      "id": "56f6d11c09dd18d46b00000f"
+    }, 
+    {
+      "body": "Describe Malgaigne fracture.", 
+      "type": "summary", 
+      "id": "56bce63cd36b5da37800000b"
+    }, 
+    {
+      "body": "What is the basis of the methodology of \"functional class scoring\" (FCS) for the analysis of gene expression data?", 
+      "type": "summary", 
+      "id": "56f3f2072ac5ed1459000018"
+    }, 
+    {
+      "body": "What is the COUGER tool?", 
+      "type": "summary", 
+      "id": "56ae35bc0a360a5e45000007"
+    }, 
+    {
+      "body": "Can zinc finger nucleases be used to combat disease?", 
+      "type": "yesno", 
+      "id": "56f15c5a2ac5ed1459000012"
+    }, 
+    {
+      "body": "Which is the major function of sororin?", 
+      "type": "summary", 
+      "id": "56f6d4ed09dd18d46b000010"
+    }, 
+    {
+      "body": "List symptoms of Hakim Triad.", 
+      "type": "list", 
+      "id": "56bdfa73ef6e394741000003"
+    }, 
+    {
+      "body": "Is GAGA associated with nucleosome-free regions (NFR)?", 
+      "type": "yesno", 
+      "id": "56f3f6b12ac5ed145900001a"
+    }, 
+    {
+      "body": "What is BioASQ?", 
+      "type": "summary", 
+      "id": "56ae3cdc0a360a5e45000008"
+    }, 
+    {
+      "body": "Are there clinical trials using stem cells for the treatment of cardiac disease?", 
+      "type": "yesno", 
+      "id": "56f160a52ac5ed1459000013"
+    }, 
+    {
+      "body": "Which is the target protein of the drug nivolumab?", 
+      "type": "factoid", 
+      "id": "56f780cb09dd18d46b000011"
+    }, 
+    {
+      "body": "List symptoms of congenital toxoplasmosis triad.", 
+      "type": "list", 
+      "id": "56be06cdef6e394741000004"
+    }, 
+    {
+      "body": "What is the methodological principle of ChIA-PET?", 
+      "type": "summary", 
+      "id": "56f3f94109dd18d46b000001"
+    }, 
+    {
+      "body": "Which computational frameworks are available for predicting enhancers?", 
+      "type": "list", 
+      "id": "56ae40110a360a5e45000009"
+    }, 
+    {
+      "body": "Have hESC been tested for the treatment of age-related macular degeneration?", 
+      "type": "yesno", 
+      "id": "56f553aa09dd18d46b000005"
+    }, 
+    {
+      "body": "Is arimoclomol a co-inducer of the heat shock response?", 
+      "type": "yesno", 
+      "id": "56f7d9dd09dd18d46b000014"
+    }, 
+    {
+      "body": "List Hemolytic Uremic Syndrome Triad.", 
+      "type": "list", 
+      "id": "56be0da3ef6e394741000007"
+    }, 
+    {
+      "body": "What is the mechanism of viroid replication?", 
+      "type": "factoid", 
+      "id": "56f3faed09dd18d46b000002"
+    }, 
+    {
+      "body": "Which is the physiological target for LeuRS translational quality control?", 
+      "type": "factoid", 
+      "id": "56ae57350a360a5e4500000a"
+    }, 
+    {
+      "body": "Is TALEN being used on stem cells?", 
+      "type": "yesno", 
+      "id": "56f555b609dd18d46b000007"
+    }, 
+    {
+      "body": "Which disease is linked to mutations within BRAG1?", 
+      "type": "factoid", 
+      "id": "56f7fe3709dd18d46b000015"
+    }, 
+    {
+      "body": "List Kartagener Syndrome Triad.", 
+      "type": "list", 
+      "id": "56be0e4aef6e394741000008"
+    }, 
+    {
+      "body": "What is the main symptom of Marfan syndrome patients?", 
+      "type": "factoid", 
+      "id": "56f4011709dd18d46b000003"
+    }, 
+    {
+      "body": "How do HBS1L-MYB intergenic variants regulate fetal hemoglobin?", 
+      "type": "summary", 
+      "id": "56ae5a8a0a360a5e4500000b"
+    }, 
+    {
+      "body": "How could iPSCs be used for the treatment of diabetes?", 
+      "type": "summary", 
+      "id": "56f55cc809dd18d46b000008"
+    }, 
+    {
+      "body": "List human proteins that are subject to a dimer-to-tetramer transition.", 
+      "type": "list", 
+      "id": "56f802ea09dd18d46b000017"
+    }, 
+    {
+      "body": "Name triad of Wernicke encephalopathy.", 
+      "type": "list", 
+      "id": "56be143eef6e394741000009"
+    }, 
+    {
+      "body": "Which is the most well-accepted method for Down syndrome non-invasive prenatal diagnosis?", 
+      "type": "summary", 
+      "id": "56f403d009dd18d46b000004"
+    }, 
+    {
+      "body": "Are DNA methylation maps applicable to the diagnosis of non-small-cell lung carcinomas?", 
+      "type": "yesno", 
+      "id": "56ae69fb0a360a5e4500000d"
+    }, 
+    {
+      "body": "Which syndrome is associated with mutations in the LYST gene?", 
+      "type": "factoid", 
+      "id": "56f564f909dd18d46b000009"
+    }, 
+    {
+      "body": "List autoimmune disorders associated with GAD65 autoantibodies.", 
+      "type": "list", 
+      "id": "56f8077a8b98c98849000002"
+    }, 
+    {
+      "body": "Describe Heyde syndrome.", 
+      "type": "summary", 
+      "id": "56be14c7ef6e39474100000a"
+    }, 
+    {
+      "body": "Mention the only available genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica", 
+      "type": "factoid", 
+      "id": "56ae6e650a360a5e4500000e"
+    }, 
+    {
+      "body": "Mutations in which genes have been associated with Aicardi-Goutieres syndrome?", 
+      "type": "list", 
+      "id": "56f5692f09dd18d46b00000a"
+    }, 
+    {
+      "body": "What is protein carbamylation?", 
+      "type": "summary", 
+      "id": "56f82a39cf1c325851000001"
+    }, 
+    {
+      "body": "List Pentalogy of Fallot.", 
+      "type": "list", 
+      "id": "56be15ffef6e39474100000b"
+    }, 
+    {
+      "body": "Is there evidence for de novo genesis of enhancers in vertebrates?", 
+      "type": "yesno", 
+      "id": "56ae71cb0a360a5e45000010"
+    }, 
+    {
+      "body": "Mutations in which gene and which protein are associated with Netherton syndrome?", 
+      "type": "list", 
+      "id": "56f56a8609dd18d46b00000b"
+    }, 
+    {
+      "body": "What is the minimal genome build?", 
+      "type": "summary", 
+      "id": "56f82f9acf1c325851000002"
+    }, 
+    {
+      "body": "What personality traits can be evaluated with the Ten Item Personality Inventory.", 
+      "type": "list", 
+      "id": "56be2570ef6e39474100000d"
+    }, 
+    {
+      "body": "What is SHAPE-Seq?", 
+      "type": "summary", 
+      "id": "56af573b0a360a5e45000011"
+    }, 
+    {
+      "body": "Which gene has been implicated in Majeed Syndrome?", 
+      "type": "factoid", 
+      "id": "56f7c15a09dd18d46b000012"
+    }, 
+    {
+      "body": "What is the color of the protein Ranasmurfin?", 
+      "type": "factoid", 
+      "id": "56f961b3cf1c325851000003"
+    }, 
+    {
+      "body": "Do mutations of AKT1 occur in meningiomas?", 
+      "type": "yesno", 
+      "id": "56bf365eef6e39474100000e"
+    }
+  ]
+}

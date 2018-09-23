@@ -1,0 +1,3997 @@
+{
+  "questions": [
+    {
+      "id": "56bf3a79ef6e39474100000f",
+      "ideal_answer": "Although not definitive, available data suggest an association between the use of hormone replacement therapy and increased meningioma risk. Overall, in post menopausal women, HRT use appeared to confer a non-significant protective effect, and was not associated with low or high PR expressing meningiomas.CONCLUSION:. Results from several prospective, large-scale studies indicate that postmenopausal hormone therapy may increase the risk for diagnosing meningioma by 30-80%, but there is no effect in regard to glioma. The relationship between current use of exogenous hormones and meningioma remains unclear, limited by the small numbers of patients currently on oral hormone medications and a lack of hormone receptor data for meningioma tumors. Among women who had been using estradiol-only therapy for at least 3 years, the incidence of meningioma was 1.40-fold higher (95% confidence interval: 1.18, 1.64; P\u003c0.001) than in the background population. The meta-analyses yielded significantly increased risks for all CNS tumors, glioma and meningioma in users of estrogen-only [1.35 (1.22-1.49),. The totality of the available evidence suggests an increased risk of all CNS tumors (and of glioma and meningioma separately) in users of estrogen-only HT. There was no significant difference between glioma and meningioma risk in users of estrogen-only HT. "
+    },
+    {
+      "exact_answer": [
+        [
+          "SATB1 gene"
+        ],
+        [
+          "enterotoxin B, staphylococcal"
+        ],
+        [
+          "Entire cell"
+        ],
+        [
+          "EXTL3 wt Allele"
+        ],
+        [
+          "FOXP3 gene"
+        ]
+      ],
+      "id": "56fcf1b8cf1c325851000005",
+      "ideal_answer": "SATB1, a genome organizer that regulates chromatin structure and gene expression, was crucial for the phenotype and function of T(reg) cells. Repression of the genome organizer SATB1 in regulatory T cells is required for suppressive function and inhibition of effector differentiation. Release of SATB1 from the control of Foxp3 in T(reg) cells caused loss of suppressive function, establishment of transcriptional T(eff) cell programs and induction of T(eff) cell cytokines. Consistent with previous reports in a non-superantigen in vivo anergy model, mRNA for CD18 and the transcription factor Satb1 (special AT-rich-binding protein 1) was increased in SEB-energized T cells. Foxp3, acting as a transcriptional repressor, directly suppressed the SATB1 locus and indirectly suppressed it through the induction of microRNAs that bound the SATB1 3\u0027 untranslated region. "
+    },
+    {
+      "id": "56af7b820a360a5e45000014",
+      "ideal_answer": "Here we introduce Chromatin Isolation by RNA Purification (ChIRP), where tiling oligonucleotides retrieve specific lncRNAs with bound protein and DNA sequences, which are enumerated by deep sequencing. ChIRP-seq of three lncRNAs reveal that RNA occupancy sites in the genome are focal, sequence-specific, and numerous. HOTAIR lncRNA preferentially occupies a GA-rich DNA motif to nucleate broad domains of Polycomb occupancy and histone H3 lysine 27 trimethylation. Human telomerase RNA TERC occupies telomeres and Wnt pathway genes. ChIRP-seq is generally applicable to illuminate the intersection of RNA and chromatin with newfound precision genome wide. Drosophila roX2 RNA occupies male X-linked gene bodies with increasing tendency toward the 3\u0027 end, peaking at CES sites. HOTAIR occupancy occurs independently of EZH2, suggesting the order of RNA guidance of Polycomb occupancy. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56f7c44109dd18d46b000013",
+      "ideal_answer": "Kanzaki disease (OMIM#104170) is attributable to a deficiency in alpha-N-acetylgalactosaminidase (alpha-NAGA; E.C.3.2.1.49),. The residual mutant enzyme in R329W could not associate with GalNAcalpha1-O-Thr and GalNAcalpha1-O-Ser. However, the residual mutant enzyme in R329Q catalyzed GalNAcalpha1-O-Ser to some extent. Our findings suggest that the association of alpha-NAGA with its substrates is strongly affected by the amino acid substitution at R329 and that the association with GalNAcalpha1-O-Thr is more highly susceptible to structural changes. Therefore, the urinary ratio of GalNAcalpha1-O-Ser:GalNAcalpha1-O-Thr was lower and the clinical phenotype was milder in the R329Q mutation. which hydrolyzes GalNAcalpha1-O-Ser/Thr. "
+    },
+    {
+      "exact_answer": [
+        [
+          "TFEB gene"
+        ],
+        [
+          "Lysosomal"
+        ],
+        [
+          "Regulator"
+        ],
+        [
+          "Master"
+        ],
+        [
+          "Lysosomes"
+        ]
+      ],
+      "id": "56cdf40d5795f9a73e00003d",
+      "ideal_answer": "These data uncover a regulatory network linking an oncogenic transcription factor that is a master regulator of lysosomal biogenesis, TFEB, to mTORC1 and endocytosis. The identification of a master regulator, transcription factor EB (TFEB), that regulates lysosomal biogenesis and autophagy has revealed how the lysosome adapts to environmental cues, such as starvation, and targeting TFEB may provide a novel therapeutic strategy for modulating lysosomal function in human disease. the transcription factor EB (TFEB), a master regulator of lysosomal biogenesis and autophagy, is induced by starvation through an autoregulatory feedback loop and exerts a global transcriptional control on lipid catabolism. In this paper, we identify a novel role for Rags in controlling activation of transcription factor EB (TFEB), a master regulator of autophagic and lysosomal gene expression. Here, we investigate the role of the transcription factor EB (TFEB), a master regulator of lysosomal biogenesis and function, in modulating lysosomal proteostasis in LSDs. the Transcription Factor EB (TFEB), a master regulator of lysosomal biogenesis, colocalizes with master growth regulator mTOR complex 1 (mTORC1) on the lysosomal membrane. Interaction of TFEB with active Rag heterodimers promoted recruitment of TFEB to lysosomes, leading to mTORC1-dependent phosphorylation and inhibition of TFEB. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Disulfide Linkage"
+        ],
+        [
+          "Stabilized (qualifier value)"
+        ],
+        [
+          "Urea"
+        ],
+        [
+          "Hydrogen Bonding"
+        ],
+        [
+          "Cystine"
+        ],
+        [
+          "Cysteine"
+        ],
+        [
+          "Cytokeratin"
+        ],
+        [
+          "Keratin-Associated Proteins"
+        ],
+        [
+          "keratin filament location"
+        ],
+        [
+          "Coiled-Coil Domain"
+        ],
+        [
+          "Water"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "Hyrex Brand of Dimenhydrinate"
+        ],
+        [
+          "KRT14 gene"
+        ],
+        [
+          "Dithiothreitol"
+        ],
+        [
+          "Buffers"
+        ],
+        [
+          "keratinocyte"
+        ],
+        [
+          "Controlled by"
+        ],
+        [
+          "Cystine Disulfide Reduction [MoA]"
+        ],
+        [
+          "Structural protein"
+        ],
+        [
+          "Generations"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Test Method"
+        ],
+        [
+          "Interaction"
+        ],
+        [
+          "Sulfhydryl Compounds"
+        ],
+        [
+          "Residue"
+        ],
+        [
+          "alpha-Keratin"
+        ],
+        [
+          "Salts"
+        ],
+        [
+          "Amino Acid [EPC]"
+        ],
+        [
+          "Positioning Attribute"
+        ],
+        [
+          "Cross link"
+        ],
+        [
+          "Greater Than"
+        ],
+        [
+          "Equal"
+        ],
+        [
+          "Skin Specimen"
+        ],
+        [
+          "Mats"
+        ],
+        [
+          "Analysis of substances"
+        ],
+        [
+          "Established"
+        ],
+        [
+          "Derivative Chromosome"
+        ],
+        [
+          "chain of objects"
+        ],
+        [
+          "Hydrophobic Interactions"
+        ],
+        [
+          "Hair"
+        ],
+        [
+          "Solvents"
+        ],
+        [
+          "Solubility"
+        ],
+        [
+          "Chemical extraction"
+        ],
+        [
+          "Entire hair shaft"
+        ],
+        [
+          "Cytoskeletal Filaments"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "KRT5 gene"
+        ],
+        [
+          "Molecule"
+        ],
+        [
+          "Matrix substance"
+        ],
+        [
+          "Exhibits as Topic"
+        ],
+        [
+          "Formed"
+        ],
+        [
+          "amide biosynthetic process"
+        ],
+        [
+          "E test (procedure)"
+        ],
+        [
+          "Hydrophobicity"
+        ],
+        [
+          "Surface"
+        ],
+        [
+          "Side"
+        ],
+        [
+          "Axial"
+        ],
+        [
+          "Sensitive"
+        ],
+        [
+          "Cage device"
+        ],
+        [
+          "Mechanical Methods"
+        ],
+        [
+          "Medical Product Stability"
+        ],
+        [
+          "Van (physical object)"
+        ],
+        [
+          "Structure"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Contact with"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Radiotherapy Research"
+        ],
+        [
+          "Transition Mutation"
+        ],
+        [
+          "Asymmetry"
+        ],
+        [
+          "Better"
+        ],
+        [
+          "Amino Acids, Basic"
+        ],
+        [
+          "Concentrate Dosage Form"
+        ],
+        [
+          "Application Program Interface"
+        ],
+        [
+          "Polarization"
+        ],
+        [
+          "Consistency"
+        ],
+        [
+          "dimer"
+        ],
+        [
+          "Alpha Helix"
+        ],
+        [
+          "Transition Rule"
+        ],
+        [
+          "protein disulfide isomerase activity"
+        ],
+        [
+          "Intermediate"
+        ],
+        [
+          "Cross-linking"
+        ],
+        [
+          "Occurrence"
+        ],
+        [
+          "Onset of illness"
+        ],
+        [
+          "Energy, Physics"
+        ],
+        [
+          "Packing (action)"
+        ],
+        [
+          "Electrostatics"
+        ],
+        [
+          "Cell Nucleus"
+        ],
+        [
+          "Stuttering"
+        ],
+        [
+          "regional"
+        ],
+        [
+          "Feathers"
+        ],
+        [
+          "Occur (action)"
+        ],
+        [
+          "User Group"
+        ],
+        [
+          "Crystal Structure"
+        ],
+        [
+          "Composition"
+        ],
+        [
+          "chemical bond"
+        ],
+        [
+          "Protein Structure, Secondary"
+        ],
+        [
+          "Architecture as Topic"
+        ],
+        [
+          "Epidermis"
+        ],
+        [
+          "Treated with"
+        ]
+      ],
+      "id": "56f96333cf1c325851000004",
+      "ideal_answer": "the alpha helices which are stabilized by hydrogen bonds and the alpha-helical coiled coils which are stabilized by hydrophobic interactions, is more sensitive to radiation than the supramolecular architecture of the keratin filament and the filament packing within the keratin associated proteins matrix, which is stabilized by disulphide bonds. Feathers and hair consist of cornified epidermal keratinocytes in which proteins are crosslinked via disulfide bonds between cysteine residues of structural proteins to establish mechanical resilience. s the energy involved in the formation of disulfide bonds is much greater than that of hydrogen bonds or van der Waals interactions the structural transition is likely to be dominated by the requirement that the bonded cysteine residues occur at closely equivalent axial positions. e solubility test in the dithiothreitol/urea extraction buffer, the amino acid composition analysis and studies on keratin secondary structures suggest that the improved stability in water of thermally treated mats can be ascribed to the formation of amide bonds between acid and basic groups of some amino acid side chains. . A good solvent attacks the disulfide bonds between cystine molecules and hydrates the hair shaft. "
+    },
+    {
+      "id": "56bf4035ef6e394741000010",
+      "ideal_answer": "Varsity athletes have lower 2D:4D ratios than other university students. Our results confirmed that both male (mean ± s(x) : 0.97 ± 0.004) and female (0.98 ± 0.005) varsity athletes had significantly lower ratios than their non-varsity peers (males: 0.99 ± 0.004; females: 1.00 ± 0.006), and that male athletes had significantly lower 2D:4D ratios than female athletes. A smaller 2D:4D ratio appears to be consistent with participation in varsity sports among both males and females. Research particularly focusing on male athletes and popular sports (running and soccer) suggests associations of lower (masculinized) second-to-fourth digit ratio (2D:4D), a putative marker of prenatal androgen action, with better sports performance. Second-to-fourth digit ratio (2D:4D), a widely studied putative marker for masculinization through prenatal androgen exposure, is lower (more masculinized) in athletes than in general population controls, and athletes with lower 2D:4D have higher sporting success. In men, the second digit to fourth digit ratio (2D:4D) has been shown to correlate with success in competitive levels of football (soccer), which suggests that the 2D:4D ratio is a possible marker for level of attainment in sport. "
+    },
+    {
+      "exact_answer": [
+        [
+          "National origin"
+        ],
+        [
+          "Internal-External Locus of Control Scale"
+        ],
+        [
+          "Derivation"
+        ],
+        [
+          "Repeat"
+        ],
+        [
+          "Minisatellite Repeats"
+        ]
+      ],
+      "id": "56ffd08bcf1c325851000009",
+      "ideal_answer": "The origin of Alu-derived minisatellites appears to have been mediated by short flanking repeats, as first proposed by Haber and Louis. the presence of Alu-like structural motifs supports the hypothesis of the monophyletic origin of Alu and B1 repeats, i.e., from a common 7SL RNA-derived retroposing monomeric element. Our analysis indicates that about 60 Myr ago, before the prosimian divergence, free left and right monomers formed an Alu heterodimer connected by a 19-nucleotide-long A-rich linker. Finally, we propose that the origin of Alu subfamilies in human populations may be related to evolution of chromosome Y. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Cystatin A"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Pivot Device Component"
+        ],
+        [
+          "Amyloid Fibrils"
+        ]
+      ],
+      "id": "56b1f4300a360a5e4500001b",
+      "ideal_answer": "The pentapeptide LQVVR plays a pivotal role in human cystatin C fibrillization. Human cystatin C (HCC) is a low molecular weight member of the cystatin family (type2). HCC consists of 120 amino acids. Normally it is an inhibitor of cysteine proteases, but in pathological conditions it forms amyloid fibrils in brain arteries of young adults. Thus, the (47)LQVVR(51) peptide seems to have an important role in HCC fibrillization. This peptide was synthesized and self-assembled into amyloid-like fibrils in vitro, as electron microscopy, X-ray fiber diffraction, Attenuated Total Reflectance Fourier-Transform Spectroscopy and Congo red staining studies reveal. An \u0027aggregation-prone\u0027 pentapeptide ((47)LQVVR(51)) was located within the HCC sequence using AmylPred, an \u0027aggregation-prone\u0027 peptide prediction algorithm developed in our lab. "
+    },
+    {
+      "id": "56cdf4675795f9a73e00003f",
+      "ideal_answer": "5\u0027-AMP-activated protein kinase alpha regulates stress granule biogenesis. First, pharmacological kinase inhibition interfered with SG formation. Multiple lines of evidence link AMPK activity to SG biogenesis. Second, AMPK-α knockdown combined with in-depth quantitative SG analysis revealed isoform-specific changes of SG characteristics. Finally, we identified the SG-nucleating protein G3BP1 as an AMPK-α2 binding partner. our data define the master metabolic regulator AMPK as a novel SG constituent that also controls their biogenesis. This interaction is stimulated by stress and notably occurs in SGs. Third, overexpression of mutant α-subunits further substantiated that AMPK regulates SG parameters. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "57089865cf1c32585100000c",
+      "ideal_answer": "Kinetic and mass spectrometric analyses of human proteins show that Notum is a carboxylesterase that removes an essential palmitoleate moiety from Wnt proteins and thus constitutes the first known extracellular protein deacylase. Notum deacylates Wnt proteins to suppress signalling activity. the Wnt inhibitor notum. the WNT-inhibitor notum. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c02bc3ef6e394741000018",
+      "ideal_answer": "CONCLUSIONS: A short oral course of vemurafenib was highly effective in patients with relapsed or refractory hairy-cell leukemia. Successful re-treatment of a relapsed V600E mutated HCL patient with low-dose vemurafenib. Recent identification of the recurrent V600E BRAF mutation in a majority of HCL patients has led some teams to evaluate the clinical potential of vemurafenib, a BRAF V600 specific inhibitor in a limited number of refractory HCL patients. Our data suggest for the first time that vemurafenib at the dose of 240 mg once a day could be sufficient to maintain a complete hematological remission after an initial induction treatment with low-dose vemurafenib (2 × 240 mg) daily without inducing major toxicity. The discovery of the BRAF mutation has created a therapeutic target exploited by oral inhibitors like vemurafenib and dabrafenib. The therapeutic approach of vemurafenib in treatment-refractory hairy cell leukemia is promising and offers an additional treatment option. Our results strongly support and inform the clinical use of BRAF and MEK inhibitors in HCL. Recently, we published the case of an HCL patient successfully treated with a low dose of vemurafenib. We present here the successful retreatment of this patient with a second line of vemurafenib. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Elements"
+        ],
+        [
+          "Function"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Introns"
+        ],
+        [
+          "RNA Sequence"
+        ]
+      ],
+      "id": "56ffd805cf1c32585100000a",
+      "ideal_answer": "Alus and B1s exist in the cytoplasm as non-coding RNA indicating that they are actively transcribed, but their function, if any, is unknown. Alu and b1 repeats have been selectively retained in the upstream and intronic regions of genes of specific functional classes. The core sequences of these elements contain pol III promoters but must rely on fortuitous downstream oligo(dT) tracts for terminator function. we present evidence that Alu and B1 elements have been selectively retained in the upstream and intronic regions of genes belonging to specific functional classes. Alu and B1 repeats are mobile elements that originated in an initial duplication of the 7SL RNA gene prior to the primate-rodent split about 80 million years ago and currently account for a substantial fraction of the human and mouse genome, respectively. The data demonstrate that a limited set of B1 sequences are expressed as processed RNA polymerase III-transcripts of a high degree of structural conservation. Alus and B1s are short interspersed repeat elements (SINEs) derived from the 7SL RNA gene. We show that a B1-Alu gene differs markedly from a classical pol III gene (tRNAiMet) in terminator sequence requirements. "
+    },
+    {
+      "id": "56b2863945561f0573000001",
+      "ideal_answer": "Identification of telomere-associated molecules by engineered DNA-binding molecule-mediated chromatin immunoprecipitation (enChIP). Here, we report isolation of telomeres by engineered DNA-binding molecule-mediated chromatin immunoprecipitation (enChIP) using a transcription activator-like (TAL) protein recognizing telomere repeats. Efficient isolation of specific genomic regions and identification of associated proteins by engineered DNA-binding molecule-mediated chromatin immunoprecipitation (enChIP) using CRISPR. Here, we established a novel method, engineered DNA-binding molecule-mediated chromatin immunoprecipitation (enChIP), for purification of specific genomic regions retaining molecular interactions. Telomeres recognized by the tagged TAL protein were immunoprecipitated with an antibody against the tag and subjected to identification of telomere-binding molecules. In this form of enChIP, specific genomic regions are immunoprecipitated with antibody against a tag(s), which is fused to a catalytically inactive form of Cas9 (dCas9), which is co-expressed with a guide RNA (gRNA) and recognizes endogenous DNA sequence in the genomic regions of interest. enChIP-mass spectrometry (enChIP-MS) targeting telomeres identified known and novel telomere-binding proteins. enChIP-mass spectrometry (enChIP-MS) targeting endogenous loci identified associated proteins. We showed that enChIP using the CRISPR system efficiently isolates specific genomic regions. enChIP using the CRISPR system would be a convenient and useful tool for dissecting chromatin structure of genomic regions of interest. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Tacca leontopetaloides"
+        ],
+        [
+          "Prions"
+        ],
+        [
+          "Domain (area of knowledge)"
+        ],
+        [
+          "Recombinant 70-kD Heat-Shock Protein"
+        ],
+        [
+          "stress granule assembly"
+        ]
+      ],
+      "id": "56cdf4875795f9a73e000040",
+      "ideal_answer": "Codependent functions of RSK2 and the apoptosis-promoting factor TIA-1 in stress granule assembly and cell survival. TIA-1 is an RNA binding protein that promotes the assembly of stress granules (SGs), discrete cytoplasmic inclusions into which stalled translation initiation complexes are dynamically recruited in cells subjected to environmental stress. Substitution of the PRD with the aggregation domain of a yeast prion, SUP35-NM, reconstitutes SG assembly, confirming that a prion domain can mediate the assembly of SGs. Tia1/Pub1 is a stress granule component carrying a Q/N-rich prion domain. The PRD of TIA-1 exhibits many characteristics of prions: concentration-dependent aggregation that is inhibited by the molecular chaperone heat shock protein (HSP)70; resistance to protease digestion; sequestration of HSP27, HSP40, and HSP70; and induction of HSP70, a feedback regulator of PRD disaggregation. In stressed breast cells, endogenous RSK2 colocalizes in granules with TIA-1 and poly(A)-binding protein 1, and the sequestration of RSK2 and TIA-1 exhibits codependency. The RNA recognition motifs of TIA-1 are linked to a glutamine-rich prion-related domain (PRD). Our results reveal that prion-like aggregation of TIA-1 regulates SG formation downstream of eIF2alpha phosphorylation in response to stress. "
+    },
+    {
+      "exact_answer": [
+        [
+          "ResponseLevel - modification"
+        ],
+        [
+          "protein modification process"
+        ],
+        [
+          "Databases"
+        ],
+        [
+          "Published Database"
+        ],
+        [
+          "Post-Translational Protein Processing"
+        ]
+      ],
+      "id": "5708992ccf1c32585100000d",
+      "ideal_answer": "The RESID Database of Protein Modifications as a resource and annotation tool. The RESID Database is a comprehensive collection of annotations and structures for protein pre-, co- and post-translational modifications including amino-terminal, carboxyl-terminal and peptide chain cross-link modifications. The RESID Database is a comprehensive collection of annotations and structures for protein post-translational modifications including N-terminal, C-terminal and peptide chain cross-link modifications. The RESID Database of Protein Modifications is a comprehensive collection of annotations and structures for protein modifications and cross-links including pre-, co-, and post-translational modifications. The RESID Database contains supplemental information on post-translational modifications for the standardized annotations appearing in the PIR-International Protein Sequence Database. The RESID Database of protein structure modifications. "
+    },
+    {
+      "id": "56c036afef6e394741000019",
+      "ideal_answer": "Although many tropical insects carry infectious diseases, cutaneous injury can occur by other mechanisms, for example erucism (envenomation by caterpillars) or lepidopterism (dermatitis from moths). Specific syndromes caused by Lepidoptera include erucism (cutaneous reactions from contact with caterpillars, moths, or cocoons), lepidopterism (systemic involvement), ophthalmia nodosa (ocular involvement), dendrolimiasis and pararamose (each with joint symptoms relating to a specific species of caterpillar), lonomism (a severe hemorrhagic disease related to Lonomia species), and seasonal ataxia (related to ingestion of Anaphe venata). The hair on the dorsum of the last instar larvae of the moth may cause urticarial reactions (erucism) as well as eye problems and temporary blindness. In the South of Brazil during the last years caterpillars of this butterfly caused a great number of cases of erucism including some deaths. Urticating moths (genus Hylesia and Anaphae) protect their eggs and young caterpillars with urticating hairs, thus it is very ambiguous to label erucism as the contact dermatitis produced by caterpillar production or Lepidopterism as the contact dermatitis caused by moth urticating hairs. Erucism is a skin reaction to envenomation from certain poisonous caterpillar bristles. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Inosine"
+        ],
+        [
+          "Edit"
+        ],
+        [
+          "Adenine"
+        ],
+        [
+          "Blood group antibody I"
+        ],
+        [
+          "Transfer RNA"
+        ]
+      ],
+      "id": "56ffdc1ccf1c32585100000b",
+      "ideal_answer": "One of the most common forms of pre-mRNA editing is A-to-I editing, in which adenosine is deaminated to inosine, which is read as guanosine during translation. Deamination of adenine by adenosine deaminases that act on RNA (ADARs) leads to the conversion of adenine into inosine (A-I editing) recognized by the splicing and translation systems as guanine. denosine deaminases editing adenines in transport RNAs (ADATs) convert adenine into inosine in tRNAs of all eukaryotes; as a result, the diversity of tRNA forms in the cell increases. A-to-I RNA editing can alter codons, substitute amino acids and affect protein sequence, structure, and function. -to-I RNA editing is a post-transcriptional mechanism frequently used to expand and diversify transcriptome and proteome repertoire in eukaryotic cells. This study describes for the first time A-to-I editing in the coding sequence of a tumor suppressor gene in humans, and suggests that IGFBP7 editing serves as a fine-tuning mechanism to maintain the equilibrium between proliferation and senescence in normal skin. A-to-I editing events in normal and cancerous human keratinocytes. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56b29bf545561f0573000003",
+      "ideal_answer": "ChIPnorm: a statistical method for normalizing and identifying differential regions in histone modification ChIP-seq libraries. In this paper we propose a two-stage statistical method, called ChIPnorm, to normalize ChIP-seq data, and to find differential regions in the genome, given two libraries of histone modifications of different cell types. Compared to what was previously reported in the literature, we find that a substantially higher fraction of bivalent marks in ES cells for H3K27me3 and H3K4me3 move into a K27-only state. We show that the ChIPnorm method removes most of the noise and bias in the data and outperforms other normalization methods. We find that most of the promoter regions in protein-coding genes have differential histone-modification sites. We correlate the histone marks with gene expression data and confirm that histone modifications H3K27me3 and H3K4me3 act as respectively a repressor and an activator of genes. "
+    },
+    {
+      "id": "56cdf4fe5795f9a73e000044",
+      "ideal_answer": "Transient sequestration of TORC1 into stress granules during heat stress. Here we report that TORC1 signaling upon heat stress is regulated by stress granules (SGs), which are cytoplasmic foci formed under certain stresses. Upon heat stress, a physiological SG-inducing condition, TORC1 is also recruited to SGs, which delays reactivation of TORC1 signaling during recovery from heat stress. TORC1 reactivation is directed through SG disassembly, suggesting that SGs act as a key determinant for TORC1 reactivation during recovery from heat stress. Ectopic formation of SGs achieved by Pbp1 overexpression in unstressed cells sequesters TORC1 in this compartment, thereby blunting TORC1 signaling. "
+    },
+    {
+      "exact_answer": [
+        [
+          "dishevelled proteins"
+        ],
+        [
+          "Diversity"
+        ],
+        [
+          "Mediator brand of benfluorex hydrochloride"
+        ],
+        [
+          "Signal Transduction"
+        ],
+        [
+          "Embryo"
+        ]
+      ],
+      "id": "5708a845cf1c32585100000f",
+      "ideal_answer": "Dishevelled (DVL) proteins, three of which have been identified in humans, are highly conserved components of canonical and noncanonical Wnt signaling pathways. Wnt signaling is known to be important for diverse embryonic and post-natal cellular events and be regulated by the proteins Dishevelled and Axin. The Dishevelled protein mediates several diverse biological processes. Although Dishevelled is activated by Wnt and involved in signal transduction, it is not clear how Dishevelled-mediated signaling is turned off. Intriguingly, within the same tissues where Xenopus Dishevelled (Xdsh) controls cell fate via canonical Wnt signaling,. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c03d1fef6e39474100001a",
+      "ideal_answer": "In summary, nicotinamide, by enhancing DNA repair in melanocytes, is a potential agent for the chemoprevention of cutaneous melanoma. Nicotinamide is a safe, widely available vitamin that reduces the immune suppressive effects of UV, enhances DNA repair in keratinocytes and has shown promise in the chemoprevention of non-melanoma skin cancer. Nicotinamide (vitamin B3) has been shown to have protective effects against damage caused by UV radiation and to reduce the rate of new premalignant actinic keratoses. Recent double-blinded randomized controlled Phase 2 studies in heavily sun-damaged individuals have shown that oral nicotinamide significantly reduces premalignant actinic keratoses, and may reduce new non-melanoma skin cancers. Similar differences were found between the nicotinamide group and the placebo group with respect to new basal-cell carcinomas (20% [95% CI, -6 to 39]lower rate with nicotinamide, P\u003d0.12) and new squamous-cell carcinomas (30% [95% CI, 0 to 51] lower rate, P\u003d0.05). ESULTS: At 12 months, the rate of new nonmelanoma skin cancers was lower by 23% (95% confidence interval [CI], 4 to 38) in the nicotinamide group than in the placebo group (P\u003d0.02). The number of actinic keratoses was 11% lower in the nicotinamide group than in the placebo group at 3 months (P\u003d0.01),. "
+    },
+    {
+      "id": "570906fecf1c325851000010",
+      "ideal_answer": "Ez that catalyzes di- and trimethylation of histone H3 lysine 27 (H3K37me2/3), marks repressive to transcription. the PRC2-Ezh2 complex, which is bound to the myogenin (MyoG) promoter and muscle creatine kinase (mCK) enhancer in proliferating myoblasts, and the PRC2-Ezh1 complex, which replaces PRC2-Ezh2 on MyoG promoter in post-mitotic myotubes. Treg-specific ablation of Ezh2 resulted in spontaneous autoimmunity with reduced Foxp3(+) cells in non-lymphoid tissues and impaired resolution of experimental autoimmune encephalomyelitis. These studies reveal a critical role for Ezh2 in the maintenance of Treg cell identity during cellular activation. The chromatin-modifying enzyme Ezh2 is critical for the maintenance of regulatory T cell identity after activation. In this study, we found the inverse correlation between FOXP3 and Ezh2, an enzyme for histone H3K27 trimethylation (H3K27me3) and a central epigenetic regulator in cancer. CD28 co-stimulation, an extracellular cue intrinsically required for Treg cell maintenance, induced the chromatin-modifying enzyme, Ezh2. We report that the mammalian homologs Ezh1 and Ezh2 form similar PRC2 complexes but exhibit contrasting repressive roles. Ezh1 and Ezh2 maintain repressive chromatin through different mechanisms. During progenitor cell differentiation and ageing, PcG silencer EZH2 attenuates, causing loss of PRC binding and transcriptional activation of INK4b and INK4a. "
+    },
+    {
+      "id": "56b3efc38525abca1e000006",
+      "ideal_answer": "Genomicus: a database and a browser to study gene synteny in modern and ancestral genomes. In addition, Genomicus includes reconstructed ancestral gene organization, thus greatly facilitating the interpretation of the data.AVAILABILITY: Genomicus is freely available for online use at http://www.dyogen.ens.fr/genomicus while data can be downloaded at ftp://ftp.biologie.ens.fr/pub/dyogen/genomicus. Genomicus (http://www.dyogen.ens.fr/genomicus/) is a database and an online tool that allows easy comparative genomic visualization in\u003e150 eukaryote genomes. The Genomicus web server (http://www.genomicus.biologie.ens.fr/genomicus) is a visualization tool allowing comparative genomics in four different phyla (Vertebrate, Fungi, Metazoan and Plants). The Genomicus server also provides access to ancestral gene orders, to facilitate evolutionary and comparative genomics studies, as well as computationally predicted regulatory interactions, thanks to the representation of conserved non-coding elements with their putative gene targets. For the specific vertebrate phylum, it also provides access to ancestral gene order reconstructions and conserved non-coding elements information. It provides access to genomic information from extant species, as well as ancestral gene content and gene order for vertebrates and flowering plants. Here, we describe the graphical modules of Genomicus and show how it is capable of revealing differential gene loss and gain, segmental or genome duplications and study the evolution of a locus through homology relationships. "
+    },
+    {
+      "exact_answer": [
+        [
+          "HSP90 Heat-Shock Proteins"
+        ],
+        [
+          "cytoplasmic mRNA processing body"
+        ],
+        [
+          "physiological aspects"
+        ],
+        [
+          "Protein Argonaute-2"
+        ],
+        [
+          "AGO2 gene"
+        ]
+      ],
+      "id": "56cdf5195795f9a73e000045",
+      "ideal_answer": "Hsp90 regulates the function of argonaute 2 and its recruitment to stress granules and P-bodies. In the present study, we show that heat-shock protein (Hsp) 90 activity is required for efficient targeting of hAgo2 to PBs and SGs. Treatment with RA reduced the level of the Hsp90 client protein Argonaute 2 and the number of P-bodies. Although stress granules still assembled in RA-treated cells upon heat shock, they were smaller and more dispersed in the cytoplasm than those in untreated cells. we examined whether another Hsp90 inhibitor radicicol (RA) affected P-bodies and stress granules. Processing bodies (PBs) and stress granules (SGs) are the two main types of ribonucleoprotein complexes with which Argonautes are associated. Targeting of Argonautes to these structures seems to be regulated by different factors. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "5709e947cf1c32585100001d",
+      "ideal_answer": "Here we show that four closely related immunoglobulin superfamily (IgSF) adhesion molecules--Dscam (Down\u0027s syndrome cell adhesion molecule), DscamL (refs 6-9), Sidekick-1 and Sidekick-2. Sidekick-1, a cell adhesion molecule of the immunoglobulin superfamily, is up-regulated in glomerular podocytes in the collapsing glomerulopathy of HIV-associated nephropathy (HIVAN). "
+    },
+    {
+      "exact_answer": [
+        [
+          "daratumumab"
+        ],
+        [
+          "Multiple Myeloma"
+        ],
+        [
+          "CD38 Antigen"
+        ],
+        [
+          "Monoclonal Antibody Therapy"
+        ],
+        [
+          "A Ab"
+        ]
+      ],
+      "id": "56c04412ef6e39474100001b",
+      "ideal_answer": "Daratumumab, an investigated anti-cancer drug targeting CD38, has been of great interest in the treatment of CD38-expressing malignancies, especially multiple myeloma. Interference of daratumumab and three other anti-CD38 MoAbs was studied using fresh-frozen plasma spiked with different MoAb concentrations. Here, we describe that treatment of multiple myeloma patients with daratumumab, a novel anti-CD38 MoAb, resulted in false-positive indirect antiglobulin tests (IATs) for all patients for 2 to 6 months after infusion. This review focuses on the CD38 antigen and its targeting with daratumumab and provides an update on the results of recent clinical studies involving daratumumab. Daratumumab is a novel, high-affinity, therapeutic human monoclonal antibody against unique CD38 epitope with broad-spectrum killing activity. BACKGROUND: Daratumumab (DARA), a promising novel therapy for multiple myeloma, is an IgG1κ monoclonal antibody that recognizes CD38 on myeloma cells. CONCLUSION: DARA causes panreactivity in vitro by binding to CD38 on reagent RBCs. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Weaver syndrome"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "EZH2 protein, human"
+        ],
+        [
+          "EZH2 gene"
+        ],
+        [
+          "Tyrosine"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Science of Etiology"
+        ],
+        [
+          "Exons"
+        ],
+        [
+          "Infrequent"
+        ],
+        [
+          "Overgrowth"
+        ],
+        [
+          "Presentation"
+        ],
+        [
+          "Sotos\u0027 syndrome"
+        ],
+        [
+          "Sequence Analysis"
+        ],
+        [
+          "Down Syndrome"
+        ],
+        [
+          "Polycomb Repressive Complex 2"
+        ],
+        [
+          "Preposition For"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "Providing (action)"
+        ],
+        [
+          "Etiology aspects"
+        ],
+        [
+          "histone methyltransferase"
+        ],
+        [
+          "Weaver bird"
+        ],
+        [
+          "Genomic Profile"
+        ],
+        [
+          "In Vivo"
+        ],
+        [
+          "Acquired aplastic anemia"
+        ],
+        [
+          "histone modification"
+        ],
+        [
+          "Karyotype analysis normal finding"
+        ],
+        [
+          "Overlap"
+        ],
+        [
+          "NSD1 gene"
+        ],
+        [
+          "NSD1 wt Allele"
+        ],
+        [
+          "objective (goal)"
+        ],
+        [
+          "Links List"
+        ],
+        [
+          "Catalysis"
+        ],
+        [
+          "Chromosomes"
+        ],
+        [
+          "PROPOSED"
+        ],
+        [
+          "Destructive behavior"
+        ],
+        [
+          "Date of report"
+        ],
+        [
+          "Exact (qualifier)"
+        ],
+        [
+          "Overlap syndrome"
+        ],
+        [
+          "Preleukemia"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Mus"
+        ],
+        [
+          "Variant"
+        ],
+        [
+          "Dysmyelopoietic Syndromes"
+        ],
+        [
+          "Phenotype"
+        ],
+        [
+          "Decreased"
+        ],
+        [
+          "LYMPHOMA, NON-HODGKIN (allelic variant)"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "are unit of measure"
+        ],
+        [
+          "Infiltration"
+        ],
+        [
+          "NR4A1 gene"
+        ],
+        [
+          "Myeloid neoplasm"
+        ],
+        [
+          "Confirmed by"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "production"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "SET Domain"
+        ],
+        [
+          "Oligonucleotides"
+        ],
+        [
+          "Observed"
+        ],
+        [
+          "Phenotype determination"
+        ],
+        [
+          "Reduced"
+        ],
+        [
+          "Mature T-Lymphocyte"
+        ],
+        [
+          "Simple"
+        ],
+        [
+          "Spectrum"
+        ],
+        [
+          "Deletion (action)"
+        ],
+        [
+          "Somatic mutation"
+        ],
+        [
+          "Function"
+        ],
+        [
+          "regulation of growth"
+        ],
+        [
+          "Candidate Disease Gene"
+        ],
+        [
+          "Certain (qualifier value)"
+        ],
+        [
+          "Fishes"
+        ],
+        [
+          "TRICHOHEPATOENTERIC SYNDROME"
+        ],
+        [
+          "Mechanism (attribute)"
+        ],
+        [
+          "Mutation Abnormality"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "Single Nucleotide Polymorphism"
+        ],
+        [
+          "Loss"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Data"
+        ],
+        [
+          "Cells"
+        ],
+        [
+          "Syndrome"
+        ],
+        [
+          "Personal failure"
+        ],
+        [
+          "Haploinsufficiency"
+        ],
+        [
+          "Identification (Psychology)"
+        ],
+        [
+          "Array"
+        ],
+        [
+          "Leukemia, Myelocytic, Acute"
+        ],
+        [
+          "Constitutional"
+        ],
+        [
+          "Characteristics"
+        ],
+        [
+          "Pancytopenia"
+        ],
+        [
+          "NELFCD gene"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Subtlety Score"
+        ],
+        [
+          "Subtype (attribute)"
+        ],
+        [
+          "Death Related to Adverse Event"
+        ]
+      ],
+      "id": "57090784cf1c325851000011",
+      "ideal_answer": "EZH2 mutations that cause Weaver syndrome are primarily missense variants and the rare truncating mutations reported to date are in the last exon, suggesting that simple haploinsufficiency is unlikely to be generating the overgrowth phenotype although the exact mechanism has not yet been determined. We describe the use of an oligo-SNP array for genomic profiling of aCNA and cnLOH, together with sequence analysis of recurrently mutated genes, in a patient with myelodysplastic syndrome (MDS) presenting with normal karyotype and FISH result. Loss-of-function mutations of EZH2, a catalytic component of polycomb repressive complex 2 (PRC2), are observed in ~\\n10% of patients with myelodysplastic syndrome (MDS), but are rare in acute myeloid leukaemia (AML). Constitutional NSD1 and EZH2 mutations cause Sotos and Weaver syndromes respectively, overgrowth syndromes with considerable phenotypic overlap. In 2011, mutations in the histone methyltransferase, EZH2, were shown to cause Weaver syndrome. These data show that mutations in EZH2 cause Weaver syndrome. The EZH2 mutation spectrum in Weaver syndrome shows considerable overlap with the inactivating somatic EZH2 mutations recently reported in myeloid malignancies. The identification of an EZH2 mutation can therefore provide an objective means of confirming a subtle presentation of Weaver syndrome and/or distinguishing Weaver and Sotos syndromes. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Neurons"
+        ],
+        [
+          "Medical Product Labeling"
+        ],
+        [
+          "Techniques"
+        ],
+        [
+          "Nervous - anatomy qualifier"
+        ],
+        [
+          "Drosophila melanogaster"
+        ],
+        [
+          "Device Component System"
+        ],
+        [
+          "Patterns"
+        ],
+        [
+          "Drosophila \u003cfruit fly, genus\u003e"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "Providing (action)"
+        ],
+        [
+          "Combine"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "recombinase"
+        ],
+        [
+          "Genetic Analysis"
+        ],
+        [
+          "NOS2A protein, human"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "FLT1 wt Allele"
+        ],
+        [
+          "Cassette (physical object)"
+        ],
+        [
+          "Recombination, Genetic"
+        ],
+        [
+          "Neurites"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Fluorescent stain"
+        ],
+        [
+          "Lineage"
+        ],
+        [
+          "Three"
+        ],
+        [
+          "Membrane Proteins"
+        ],
+        [
+          "Choose (action)"
+        ],
+        [
+          "LGALS4 gene"
+        ],
+        [
+          "Individual"
+        ],
+        [
+          "Cellular Morphology"
+        ],
+        [
+          "High resolution"
+        ],
+        [
+          "Wing"
+        ],
+        [
+          "RNA Sequence"
+        ],
+        [
+          "Independently able"
+        ],
+        [
+          "Micron"
+        ],
+        [
+          "Assembly (group of parts)"
+        ],
+        [
+          "Above average intellect"
+        ],
+        [
+          "Definitive"
+        ],
+        [
+          "Proboscis"
+        ],
+        [
+          "Embryonic Nervous System"
+        ],
+        [
+          "Relative"
+        ],
+        [
+          "Connect"
+        ],
+        [
+          "Support, device"
+        ],
+        [
+          "Copy (object)"
+        ],
+        [
+          "Variant"
+        ],
+        [
+          "lobe"
+        ],
+        [
+          "Mapping (action)"
+        ],
+        [
+          "control substance"
+        ],
+        [
+          "color additive"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Coloring Excipient"
+        ],
+        [
+          "Minimum"
+        ],
+        [
+          "Correlation"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "Diversity"
+        ],
+        [
+          "Reporter (occupation)"
+        ],
+        [
+          "Fluorescence"
+        ],
+        [
+          "innervation aspect"
+        ],
+        [
+          "Biospecimen"
+        ],
+        [
+          "psychosocial labeling"
+        ],
+        [
+          "Bowel preparation"
+        ],
+        [
+          "Inversion Mutation Abnormality"
+        ],
+        [
+          "Neuromuscular Junction"
+        ],
+        [
+          "Conjunction"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Acclimatization"
+        ],
+        [
+          "Compatible"
+        ],
+        [
+          "Vertebrates"
+        ],
+        [
+          "Preparation"
+        ],
+        [
+          "utilization qualifier"
+        ],
+        [
+          "Laboratory mice"
+        ],
+        [
+          "MIME encoding"
+        ],
+        [
+          "Projection neuron"
+        ],
+        [
+          "Neural Network Simulation"
+        ],
+        [
+          "objective (goal)"
+        ],
+        [
+          "Muscle"
+        ],
+        [
+          "Transgenes"
+        ],
+        [
+          "Antenna Device Component"
+        ],
+        [
+          "Flank (surface region)"
+        ],
+        [
+          "removal technique"
+        ],
+        [
+          "Availability of"
+        ],
+        [
+          "Advance"
+        ],
+        [
+          "Immunofluorescence assay"
+        ],
+        [
+          "TBATA gene"
+        ],
+        [
+          "Intrinsic drive"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "Color"
+        ],
+        [
+          "Upstream"
+        ],
+        [
+          "Mathematical Operator"
+        ],
+        [
+          "Epitopes"
+        ],
+        [
+          "DNA Sequence"
+        ],
+        [
+          "Changing"
+        ],
+        [
+          "Approach"
+        ],
+        [
+          "Binary"
+        ],
+        [
+          "Tethered"
+        ],
+        [
+          "Spatial Mosaic"
+        ],
+        [
+          "Temporal -Temporal Qualifier"
+        ],
+        [
+          "Labels (device)"
+        ],
+        [
+          "Imaginal Discs"
+        ],
+        [
+          "Motor Neurons"
+        ]
+      ],
+      "id": "56b739d976d8bf8d13000005",
+      "ideal_answer": "We used Drosophila Brainbow to study the innervation patterns of multiple antennal lobe projection neuron lineages in the same preparation and to observe the relative trajectories of individual aminergic neurons. We developed a multicolor neuron labeling technique in Drosophila melanogaster that combines the power to specifically target different neural populations with the label diversity provided by stochastic color choice. To facilitate studies of neural network architecture and formation, we generated three Drosophila melanogaster variants of the mouse Brainbow-2 system, called Flybow. Finally, we demonstrate that this labeling approach is compatible with available Flp-FRT-based techniques, such as mosaic analysis with a repressible cell marker; this could further support the genetic analysis of neural circuit assembly and function. Flybow combines the Gal4-upstream activating sequence binary system to regulate transgene expression and an inducible modified Flp-FRT system to drive inversions and excisions of cassettes. Sequences encoding different membrane-tethered fluorescent proteins were arranged in pairs within cassettes flanked by recombination sites. Drosophila Brainbow: a recombinase-based fluorescence labeling technique to subdivide neural expression patterns. This adaptation of vertebrate Brainbow uses recombination to select one of three epitope-tagged proteins detectable by immunofluorescence. "
+    },
+    {
+      "exact_answer": [
+        [
+          "XRN1 gene"
+        ],
+        [
+          "5\u0027-exoribonuclease"
+        ],
+        [
+          "RNA, Messenger"
+        ],
+        [
+          "DCP2 gene"
+        ],
+        [
+          "decapping enzyme"
+        ]
+      ],
+      "id": "56cdf5315795f9a73e000046",
+      "ideal_answer": "XRN1 is a 5\u0027 → 3\u0027 processive exoribonuclease that degrades mRNAs after they have been decapped. The removal of the 5\u0027-cap structure by the decapping enzyme DCP2 and its coactivator DCP1 shuts down translation and exposes the mRNA to 5\u0027-to-3\u0027 exonucleolytic degradation by XRN1. DCP2 activation by DCP1 occurs preferentially on the EDC4 scaffold, which may serve to couple DCP2 activation by DCP1 with 5\u0027-to-3\u0027 mRNA degradation by XRN1 in human cells. "
+    },
+    {
+      "exact_answer": [
+        [
+          "DVL1 gene"
+        ],
+        [
+          "Exons"
+        ],
+        [
+          "Osteosclerosis"
+        ],
+        [
+          "Tumor Response Domain"
+        ],
+        [
+          "Mediator of activation protein"
+        ]
+      ],
+      "id": "5709ee36cf1c32585100001e",
+      "ideal_answer": "Here, we identified de novo frameshift mutations in DVL1, a mediator of both canonical and non-canonical Wnt signaling, as the cause of RS-OS, an RS subtype involving osteosclerosis, in three unrelated individuals. argeted Sanger sequencing in additional subjects with DRS uncovered DVL1 exon 14 mutations in five individuals, including a pair of monozygotic twins. Mutations in DVL1 cause an osteosclerotic form of Robinow syndrome. DVL1 frameshift mutations clustering in the penultimate exon cause autosomal-dominant Robinow syndrome. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c048e2ef6e39474100001d",
+      "ideal_answer": "Nintedanib: evidence for its therapeutic potential in idiopathic pulmonary fibrosis. Most recently, pirfenidone and nintedanib, two compounds with pleiotropic anti-fibrotic properties, have been proven effective in reducing functional decline and disease progression in IPF. Nintedanib has received a positive opinion from the European Medicines Agency\u0027s Committee for Medicinal Products for Human Use for the treatment of IPF, and for the second-line treatment in combination with docetaxel of locally advanced, metastatic or locally recurrent non-small cell lung cancer of adenocarcinoma tumour histology. Nintedanib (Ofev(®)) is an orally available, small, multiple receptor tyrosine kinase inhibitor developed by Boehringer Ingelheim for the treatment of idiopathic pulmonary fibrosis (IPF) and cancer. Nintedanib, an orally available, small-molecule tyrosine kinase inhibitor with selectivity for vascular endothelial growth factor (VEGF), platelet-derived growth factor (PDGF) and fibroblast growth factor (FGF) receptors has recently been shown, in two pivotal phase III studies, to effectively slow IPF disease progression. In the Phase II TOMORROW trial, treatment with 150 mg of nintedanib twice daily showed a trend to slow the decline in lung function and significantly decrease acute exacerbations in patients with IPF, while showing an acceptable safety profile. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "570908e3cf1c325851000012",
+      "ideal_answer": "The TIMP genes are derepressed by knockdown of EZH2 expression in human prostate cancer cells but repressed by overexpression of EZH2 in benign human prostate epithelial cells. c-Myc, EZH2 and p27 were defined to modulate the behavior of prostate cancer with pro-tumoral or anti-tumoral effects and had ability in predicting prostate cancer progression, but the research of their co-expression value of prognosis is rarely. EZH2 plays an active role in this process by repressing the expression of TIMP2 and TIMP3 in prostate cancer cells. he transcriptional repression of the TIMP genes by EZH2 may be a major mechanism to shift the MMPs/TIMPs balance in favor of MMP activity and thus to promote ECM degradation and subsequent invasion of prostate cancer cells. Expression levels of the novel tumor and metastasis suppressor Raf-1 kinase inhibitor protein (RKIP) have been shown to correlate negatively with those of EZH2 in breast and prostate cell lines as well as in clinical cancer tissues. Enhancer of zeste homolog 2 (EZH2), which encodes the histone methyltransferase component of the polycomb repressive complex 2 (PRC2), is overexpressed widely in breast and prostate cancers and epigenetically silences tumor suppressor genes. "
+    },
+    {
+      "id": "56b8ccc5156496395c000003",
+      "ideal_answer": "We developed a method termed STARR-seq to directly and quantitatively assess enhancer activity for millions of candidates from arbitrary sources of DNA, which enables screens across entire genomes. When applied to the Drosophila genome, STARR-seq identifies thousands of cell type-specific enhancers across a broad continuum of strengths, links differential gene expression to differences in enhancer activity, and creates a genome-wide quantitative enhancer map. This map reveals the highly complex regulation of transcription, with several independent enhancers for both developmental regulators and ubiquitously expressed genes. STARR-seq can be used to identify and quantify enhancer activity in other eukaryotes, including humans. "
+    },
+    {
+      "exact_answer": [
+        [
+          "DVL1 gene"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Encode (action)"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "DVL1P1 gene"
+        ],
+        [
+          "PC12 Cells"
+        ],
+        [
+          "Wnt Signaling Pathway"
+        ],
+        [
+          "secretory protein"
+        ],
+        [
+          "Homologous Gene"
+        ],
+        [
+          "DVL2 gene"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "dishevelled proteins"
+        ],
+        [
+          "Hirschsprung disease 1"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "AMINO ACIDS/PROTEINS"
+        ],
+        [
+          "Embryo"
+        ],
+        [
+          "Wnt Signaling Pathway PID"
+        ],
+        [
+          "Laboratory mice"
+        ],
+        [
+          "Patterns"
+        ],
+        [
+          "Anatomical segmentation"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "Bed Status - Isolated"
+        ],
+        [
+          "Drosophila \u003cfruit fly, genus\u003e"
+        ],
+        [
+          "Divergence"
+        ],
+        [
+          "Similarity"
+        ],
+        [
+          "Leptocyte"
+        ],
+        [
+          "Sharing (Social Behavior)"
+        ],
+        [
+          "Human Cloning"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Chromosomes, Human, Pair 1"
+        ],
+        [
+          "Device Display Device Component"
+        ],
+        [
+          "1p36"
+        ],
+        [
+          "Arabic numeral 65"
+        ],
+        [
+          "Craniorachischisis"
+        ],
+        [
+          "Etiology aspects"
+        ],
+        [
+          "cell fate specification"
+        ],
+        [
+          "Order (arrangement)"
+        ],
+        [
+          "1p36.1"
+        ],
+        [
+          "Chromosomes"
+        ],
+        [
+          "Processed"
+        ],
+        [
+          "Neural Tube Defects"
+        ],
+        [
+          "Transducers"
+        ],
+        [
+          "Gene Family"
+        ],
+        [
+          "Image Segmentation"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "Embryonic Induction"
+        ],
+        [
+          "Mus"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Contrast"
+        ],
+        [
+          "activate biological process"
+        ],
+        [
+          "Three"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "Molecule"
+        ],
+        [
+          "Severe (severity modifier)"
+        ],
+        [
+          "Protein Overexpression"
+        ],
+        [
+          "Mutant"
+        ],
+        [
+          "Module"
+        ],
+        [
+          "DNA, Complementary"
+        ],
+        [
+          "Cell Polarity"
+        ],
+        [
+          "Wegener Granulomatosis"
+        ],
+        [
+          "Qualitative form"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "Regulator"
+        ],
+        [
+          "Neuroblast"
+        ],
+        [
+          "Wnt beta-Catenin Signaling Pathway"
+        ],
+        [
+          "Double Value Type"
+        ],
+        [
+          "Open"
+        ],
+        [
+          "Family member"
+        ],
+        [
+          "Wnt receptor signaling pathway, planar cell polarity pathway"
+        ],
+        [
+          "Sense of identity (observable entity)"
+        ],
+        [
+          "member"
+        ],
+        [
+          "Polarity"
+        ],
+        [
+          "physiological aspects"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "Xenopus laevis"
+        ],
+        [
+          "Designated"
+        ],
+        [
+          "A Mouse"
+        ],
+        [
+          "House mice"
+        ],
+        [
+          "Specification"
+        ],
+        [
+          "Table Cell Vertical Align - middle"
+        ],
+        [
+          "Ganglia"
+        ],
+        [
+          "Linear"
+        ],
+        [
+          "Segment of colon"
+        ],
+        [
+          "Vertebrates"
+        ],
+        [
+          "Tissue-Specific Gene Expression"
+        ],
+        [
+          "Family"
+        ],
+        [
+          "Generations"
+        ],
+        [
+          "Localized"
+        ]
+      ],
+      "id": "5709e4b2cf1c32585100001c",
+      "ideal_answer": "Dishevelled (Dvl/Dsh) is a multi-module protein and a key regulator of both the canonical Wnt and the PCP pathway. Dishevelled (Dvl) proteins are key transducers of Wnt signaling encoded by members of a multi-gene family in vertebrates. The Dvl-1 gene on chromosome 1p36 belongs to a family of highly conserved secreted proteins which regulates embryonic induction, generation of cell polarity and specification of cell fate through activation of Wnt signaling pathways. In this study, we explore the cause of HSCR by studying the expression of DVL-1 and DVL-3 genes and their proteins in the aganglionic segment and the ganglionic segment of colon in HSCR patients. In the Drosophila embryo dishevelled (dsh) function is required by target cells in order to respond to wingless (wg, the homolog of Wnt-1), demonstrating a role for dsh in Wnt signal transduction. We report here the divergent, tissue-specific expression patterns for all three Dvl genes in Xenopus embryos, which contrast dramatically with their expression patterns in mice. We report here that the mouse Dishevelled-1 (Dvl-1) and Dishevelled-2 genes encode proteins that are differentially localized in Wnt-overexpressing PC12 cell lines (PC12/Wnt). "
+    },
+    {
+      "exact_answer": [
+        [
+          "elotuzumab"
+        ],
+        [
+          "SLAMF7 gene"
+        ],
+        [
+          "Monoclonal Antibodies"
+        ],
+        [
+          "factor VII"
+        ],
+        [
+          "CD150 antigen"
+        ]
+      ],
+      "id": "56c077e9ef6e394741000021",
+      "ideal_answer": "BACKGROUND: Elotuzumab, an immunostimulatory monoclonal antibody targeting signaling lymphocytic activation molecule F7 (SLAMF7), showed activity in combination with lenalidomide and dexamethasone in a phase 1b-2 study in patients with relapsed or refractory multiple myeloma. One of the most promising MoAb is elotuzumab, the only humanized IgG1 MoAb specifically targeting CS1 (SLAMF7), a cell surface glycoprotein that is highly expressed in plasma cells. Elotuzumab is a humanized monoclonal antibody specific for signaling lymphocytic activation molecule-F7 (SLAMF7, also known as CS1, CD319, or CRACC) that enhances natural killer (NK) cell-mediated antibody-dependent cellular cytotoxicity (ADCC) of SLAMF7-expressing myeloma cells. This led to development of an anti-SLAMF7 antibody, elotuzumab, showing efficacy against MM. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Genes"
+        ],
+        [
+          "Imprinting (Psychology)"
+        ],
+        [
+          "cytidylyl-3\u0027-5\u0027-guanosine"
+        ],
+        [
+          "Approximate"
+        ],
+        [
+          "Homo sapiens"
+        ]
+      ],
+      "id": "57090c33cf1c325851000013",
+      "ideal_answer": "Among approximately 70 known imprinted genes are some causing disorders affecting growth, metabolism and cancer predisposition. By applying dsPIG to the mRNA-Seq data, we predicted 94 imprinted genes in 20 cerebellum samples and 57 imprinted genes in 9 diverse tissue samples with expected low false discovery rates. These unique methylated CpG islands mapped to 23 chromosomal regions, and 12 were differentially methylated regions in uniparental tissues of germline origin, i.e., hydatidiform moles (paternal origin) and complete ovarian teratomas (maternal origin), even though many apparently were methylated in somatic tissues. However, 62 unique clones in the library were characterized, all of which were methylated and GC-rich, with a GC content\u003e50%. Approximately 150 imprinted genes are known to date, in humans and mice but, though computational searches have tried to extract intrinsic characteristics of these genes to identify new ones, the existing list is probably far from being comprehensive. In this study we analyzed the imprinting of 22 genes in human, mouse, and cattle and found that in only 11 was imprinting conserved across the three species. Of these, 43 clones also showed a CpG(obs)/CpG(exp)\u003e0.6, of which 30 were studied in detail. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56b8f28a156496395c000006",
+      "ideal_answer": "Jarid2 links MicroRNA and chromatin in Th17 cells. (2014) bring microRNAs and chromatin together by showing how activation-induced miR-155 targets the chromatin protein Jarid2 to regulate proinflammatory cytokine production in T helper 17 cells. miR-155 activates cytokine gene expression in Th17 cells by regulating the DNA-binding protein Jarid2 to relieve polycomb-mediated repression. Defects in Th17 cell cytokine expression and Treg cell homeostasis in the absence of Mir155 could be partially suppressed by Jarid2 deletion. PRC2 binding to chromatin and H3K27 histone methylation was increased in miR-155-deficient cells, coinciding with failure to express Il22, Il10, Il9, and Atf3. Mir155 was bound by Th17 cell transcription factors and was highly expressed during Th17 cell differentiation. miR-155-deficient Th17 and T regulatory (Treg) cells expressed increased amounts of Jarid2, a DNA-binding protein that recruits the Polycomb Repressive Complex 2 (PRC2) to chromatin. Thus, miR-155 contributes to Th17 cell function by suppressing the inhibitory effects of Jarid2. In this issue of Immunity, Escobar et al. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Protein Families Database"
+        ],
+        [
+          "Staphylococcal Protein A"
+        ],
+        [
+          "Collection (action)"
+        ],
+        [
+          "Protein Family"
+        ],
+        [
+          "Databases"
+        ]
+      ],
+      "id": "5709f027cf1c32585100001f",
+      "ideal_answer": "The Pfam database is an important tool in genome annotation, since it provides a collection of curated protein families. Over 10,000 such protein families have now been collected in the Pfam database. Protein domains are the common currency of protein structure and function. "
+    },
+    {
+      "exact_answer": [
+        [
+          "dabigatran"
+        ],
+        [
+          "Anticoagulant effect"
+        ],
+        [
+          "Reverse"
+        ],
+        [
+          "Reversal - action"
+        ],
+        [
+          "Dosage"
+        ]
+      ],
+      "id": "56c079b1ef6e394741000022",
+      "ideal_answer": "With Idarucizumab and Andexanet Alfa, specific antidotes have been developed against both, direct thrombin inhibitors as well as direct Factor Xa inhibitors. BACKGROUND: Idarucizumab is a monoclonal antibody fragment that binds dabigatran with high affinity in a 1:1 molar ratio. Idarucizumab, an antibody fragment, was developed to reverse the anticoagulant effects of dabigatran.METHODS: We undertook this prospective cohort study to determine the safety of 5 g of intravenous idarucizumab and its capacity to reverse the anticoagulant effects of dabigatran in patients who had serious bleeding (group A) or required an urgent procedure (group B). INTERPRETATION: These phase 1 results show that idarucizumab was associated with immediate, complete, and sustained reversal of dabigatran-induced anticoagulation in healthy men, and was well tolerated with no unexpected or clinically relevant safety concerns, supporting further testing. We investigated the safety, tolerability, and efficacy of increasing doses of idarucizumab for the reversal of anticoagulant effects of dabigatran in a two-part phase 1 study (rising-dose assessment and dose-finding, proof-of-concept investigation). We examined the efficacy of idarucizumab, an antibody fragment binding to dabigatran, in a mouse model of OAC-ICH. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "5709152ecf1c325851000014",
+      "ideal_answer": "The putative linker histone in Saccharomyces cerevisiae, Hho1p, has two regions of sequence (GI and GII) that are homologous to the single globular domains of linker histones H1 and H5 in higher eukaryotes. Two homologous domains of similar structure but different stability in the yeast linker histone, Hho1p. HHO1p may play a similar role to linker histones, but at restricted locations in the chromatin. We show that the carboxyl-terminal globular domain of Hho1p is dispensable for its function, suggesting that the mode of Hho1p action is similar to that of canonical linker histones. Hho1 chromatin immunoprecipitation followed by sequencing (ChIP-seq) revealed increased genome-wide binding in mature spores and provides novel in vivo evidence of the linker histone binding to nucleosomal linker DNA. The Saccharomyces cerevisiae linker histone Hho1p, with two globular domains, can simultaneously bind to two four-way junction DNA molecules. The Saccharomyces cerevisiae homologue of the linker histone H1, Hho1p, has two domains that are similar in sequence to the globular domain of H1 (and variants such as H5). Saccharomyces cerevisiae encodes a single linker histone, Hho1p, with two globular domains. "
+    },
+    {
+      "id": "56b9cabbac7ad10019000002",
+      "ideal_answer": "Our results suggest that the worm HP1 homologue HPL-2 may coordinately regulate dauer diapause, longevity and lipid metabolism, three processes dependent on developmental input and environmental conditions. We show that while the absence of hpl-1 alone results in no obvious phenotype, hpl-1;hpl-2 double mutants show synthetic, temperature sensitive phenotypes including larval lethality and severe defects in the development of the somatic gonad. Comparison of our expression data with HPL-2 ChIP-on-chip profiles reveals that a significant number of genes up- and down-regulated in the absence of HPL-2 are bound by HPL-2. We show that one of the homologues, HPL-2, is required for the formation of a functional germline and for the development of the vulva by acting in an Rb-related pathway. Germline genes are specifically up-regulated in hpl-2 mutants, consistent with the function of HPL-2 as a repressor of ectopic germ cell fate. Interestingly, lin-61 genetically interacts with two other synMuvB genes, hpl-2, an HP1 homologous H3K9me2/3 binding factor, and met-2, a SETDB1 homologous H3K9 methyl transferase (H3K9MT), in determining C. elegans vulva development and fertility. While HPL-2 functions in vulval and germline development, no function has so far been attributed to HPL-1. "
+    },
+    {
+      "id": "5709f646cf1c325851000021",
+      "ideal_answer": "These families include proteins with domain of unknown function (DUF) DUF23, DUF246, and DUF266. Bacterial species in the Enterobacteriaceae typically contain multiple paralogues of a small domain of unknown function (DUF1471) from a family of conserved proteins also known as YhcN or BhsA/McbA. In a coordinated effort, the four large-scale centers of the NIH Protein Structure Initiative have determined the first three-dimensional structures for more than 250 of these DUF families. The PFAM database currently contains over 2,200 such families, referred to as domains of unknown function (DUF). We have conducted NMR and X-ray crystallographic studies of four DUF1471 domains from Salmonella representing three different paralogous DUF1471 subfamilies: SrfN, YahO, and SssB/YdgH (two of its three DUF1471 domains: the N-terminal domain I (residues 21-91), and the C-terminal domain III (residues 244-314)). Crystal structures of three members (BACOVA_00364 from Bacteroides ovatus, BACUNI_03039 from Bacteroides uniformis and BACEGG_00036 from Bacteroides eggerthii) of the Pfam domain of unknown function (DUF4488) were determined to 1.95, 1.66, and 1.81 Å resolutions, respectively. Domain of unknown function (DUF) proteins represent a number of gene families that encode functionally uncharacterized proteins in eukaryotes. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c0968def6e394741000026",
+      "ideal_answer": "The addition of high-dose tamoxifen to standard radiotherapy does not improve the survival of patients with diffuse intrinsic pontine glioma. The addition of high-dose tamoxifen, although well tolerated, confers no clinical benefit to patients treated with diffuse intrinsic pontine glioma treated with standard radiotherapy. In a parallel phase-II-study investigating post-operative treatment with tamoxifen (TAM), carboplatin and radiation therapy for glioblastomas, 16 of 49 patients (33%) showed multifocal recurrence, which developed after a mean of 46 weeks, raising the question of an association with therapy. PURPOSE: The efficacy of radiation therapy (RT) combined with tamoxifen (TX) was tested in patients diagnosed with diffuse brainstem gliomas in a multicenter trial. CONCLUSIONS: Carboplatin and high dose tamoxifen has similar response rates to other regimens for recurrent malignant gliomas and are probably equivalent to those found using tamoxifen as monotherapy. Tamoxifen might have a role in the initial treatment of high-grade gliomas and should be studied in future Phase II trials building on the newly established platform of concurrent chemoradiotherapy. In this study, in which tamoxifen was used in conjunction with radiotherapy, progression free survival was shown to be less good when compared with historical data HR \u003d 3.1 (CI: 1.7-5.7). "
+    },
+    {
+      "exact_answer": [
+        [
+          "Exons"
+        ],
+        [
+          "LMNA gene"
+        ],
+        [
+          "Heterochromatin"
+        ],
+        [
+          "Chromatin"
+        ],
+        [
+          "Negation"
+        ]
+      ],
+      "id": "570917bccf1c325851000015",
+      "ideal_answer": "These data reveal that the domain encoded by exon 9 is important to maintain telomere homeostasis and heterochromatin structure but does not play a role in DNA repair, thus pointing to other exons in the lamin A tail as responsible for the genomic instability phenotype in Lmna(Δ8-11/Δ8-11) mice. Lmna(Δ9/Δ9) MEFs exhibit telomere shortening and heterochromatin alterations but do not activate cathepsin L-mediated degradation of 53BP1 and maintain expression of BRCA1 and RAD51. Comparative genomic hybridization (CGH) analyses of microdissected blebs, fluorescence in situ hybridization (FISH), and immunofluorescence localization of modified histones demonstrate that gene-rich euchromatin associates with the LA/C blebs. Lamin A Δexon9 mutation leads to telomere and chromatin defects but not genomic instability. The A- and B-type nuclear lamin networks: microdomains involved in chromatin organization and transcription. Lamin A/C, caspase-6, and chromatin configuration during meiosis resumption in the mouse oocyte. Our results demonstrated that these proteins were always present and that their distributions were related to oocyte maturity, determined by chromatin configuration and oocyte diameter. Caspase-6 gene disruption reveals a requirement for lamin A cleavage in apoptotic chromatin condensation. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56bb154aac7ad10019000003",
+      "ideal_answer": "Orphan and gene related CpG Islands follow power-law-like distributions in several genomes: evidence of function-related and taxonomy-related modes of distribution. Our results on power-law-like linearity found in orphan CGI populations suggest that the observed distributional pattern is independent of the analogous pattern that protein coding segments were reported to follow. The power-law-like patterns in the genomic distributions of CGIs described herein are found to be compatible with several other features of the composition, abundance or functional role of CGIs reported in the current literature across several genomes, on the basis of the proposed evolutionary model. Here, an investigation of their distributional characteristics in a variety of genomes is undertaken for both whole CGI populations as well as for CGI subsets that lie away from known genes (gene-unrelated or \"orphan\" CGIs). In both cases power-law-like linearity in double logarithmic scale is found. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Variant"
+        ],
+        [
+          "1+ Score, WHO"
+        ],
+        [
+          "Preposition For"
+        ],
+        [
+          "MC1R Protein"
+        ],
+        [
+          "receptor"
+        ],
+        [
+          "Mental association"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "MC1R gene"
+        ],
+        [
+          "Canary Islands"
+        ],
+        [
+          "Aim (idea)"
+        ],
+        [
+          "Investigates"
+        ],
+        [
+          "Arabic numeral 65"
+        ],
+        [
+          "Influentials"
+        ],
+        [
+          "Encode (action)"
+        ],
+        [
+          "Consistent with"
+        ],
+        [
+          "fully spanning the plasma membrane"
+        ],
+        [
+          "Population at Risk"
+        ],
+        [
+          "Positive Finding"
+        ],
+        [
+          "On (qualifier value)"
+        ],
+        [
+          "sulfur oxygenase reductase activity"
+        ],
+        [
+          "Melanoma Cell"
+        ],
+        [
+          "Range"
+        ],
+        [
+          "RHCE gene"
+        ],
+        [
+          "melanocyte"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Synonym"
+        ],
+        [
+          "Pass (indicator)"
+        ],
+        [
+          "Polymorphism"
+        ]
+      ],
+      "id": "570a5343cf1c325851000022",
+      "ideal_answer": "We aim to examine the influence of the MC1R variants (RHC: D84E, R151C, R160W; NRHC: V60L, R163Q and the synonymous polymorphism T314T) on the MM risk in a population from the Canary Islands. All of the investigated variants showed positive associations with NMSC, with consistent significant results obtained for V60L, D84E, V92M, R151C, R160W, R163Q and D294H: SOR (95%CI) ranged from 1.42 (1.19-1.70). for V60L to 2.66 (1.06-6.65). The melanocortin 1 receptor (MC1R) gene encodes for a seven-pass transmembrane receptor primarily expressed on melanocytes and melanoma cells. for V60L to 2.74 (1.53-4.89). for D84E variant. for D84E. "
+    },
+    {
+      "id": "56c097deef6e394741000027",
+      "ideal_answer": "It was found that PDT using haematoporphyrin derivative as a photosensitizing drug showed dose-dependent activity against a variety of histological subtypes of meningioma. These data indicate unique features of AlPc which suggests its application as a potent, non-toxic photosensitizer in the photodynamic therapy of human meningiomas. Susceptibility to 5-aminolevulinic acid based photodynamic therapy in WHO I meningioma cells corresponds to ferrochelatase activity. We conclude that differences in intracellular PpIX concentrations between HBL-52 and BEN-MEN-1 benign meningioma cells were mainly due to differences in FECH activity and that these differences correspond to their susceptibility to 5-ALA-induced PDT. CONCLUSION: Gefitinib can inhibit ABCG2-mediated PpIX efflux from malignant brain tumor cells to increase the intracellular PpIX and thereby enhance the PDT effect. CONCLUSION: ALA-PDT was more effective in killing U-105MG glioma cells than CH-157MN meningioma cells. CONCLUSIONS: Efficacy of 5-ALA PDT could be increased by adjunction of ciprofloxacin in conventional clinical dosing and by prolongation of ALA incubation time. Photodynamic therapy is a promising treatment for human brain tumors because of the selective retention of certain compounds by tumor cells. Photodynamic therapy is being investigated as an adjuvant treatment for intracranial neoplasms. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "57091eefcf1c325851000016",
+      "ideal_answer": "Together, Nod1 and Nod2 represent central players in the control of immune responses to bacterial infections and inflammation. Phenotyping of Nod1/2 double deficient mice and characterization of Nod1/2 in systemic inflammation and associated renal disease. The increased intestinal permeability is associated with enhanced inflammatory cytokine production and epithelial cell proliferation in Nod1-deficient mice as compared with wild-type mice. Depletion of the gut microbiota suppressed tumor development in Nod1-deficient mice, thus highlighting a link between the commensal bacteria within the intestine and the host innate immune Nod1 signaling pathway in the regulation inflammation-mediated colon cancer development. In the absence of Nod1 signaling, there is a greater disruption of the intestinal epithelial cell barrier due to chemically induced injury as manifested by increased surface epithelial apoptosis early on during chemically induced colitis and increased intestinal permeability. Nod proteins fight off bacterial infections by stimulating proinflammatory signaling and cytokine networks and by inducing antimicrobial effectors, such as nitric oxide and antimicrobial peptides. NOD1 protein is expressed in the eye and promotes ocular inflammation in a dose- and time-dependent fashion. The Nod proteins Nod1 and Nod2 are two NLR family members that trigger immune defense in response to bacterial peptidoglycan. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56bb1b4eac7ad10019000004",
+      "ideal_answer": "Here we review the statistical foundations of that test and consider three non-parametric tests based upon different correlation metrics and one parametric test to evaluate if Z ∼ 1/X in genomes. Rather than a fact, Z ∼ 1/X is a baseline that real genomes do not meet. The most powerful test is a new non-parametric one based upon the correlation ratio, which is able to reject Z ∼ 1/X in nine out of 11 taxonomic groups and detect a borderline group. The view of Menzerath-Altmann law as inevitable is seriously flawed. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "570a5c27cf1c325851000023",
+      "ideal_answer": "Fibroblast growth factor 23 (FGF23) is a phosphaturic hormone that has recently been identified as a CKD-related factor affecting CRS. fibroblast growth factor-23 (FGF23), a bone-derived phosphaturic hormone. In particular, diseases caused by changes in the expression and proteolytic control of the phosphaturic hormone fibroblast growth factor-23 (FGF23) have come to the forefront in terms of directing new models explaining mineral metabolism. PTH can induce skeletal synthesis of another potent phosphaturic hormone, fibroblast growth factor 23 (FGF23),. This phosphaturic hormone produced in bones is a risk factor for cardiovascular diseases and thus mortality. fibroblast growth factor 23 (FGF23), a phosphaturic hormone and regulator of 1,25(OH)2 vitamin D3 (1,25VitD3). the phosphaturic hormone fibroblast growth factor 23 (FGF23) and soluble Klotho with all-cause mortality. circulating phosphaturic hormone fibroblast growth factor-23 levels. Fibroblast growth factor (FGF) 23 is one of the most recently discovered FGFs. serum levels of a phosphaturic hormone, fibroblast growth factor 23 (Fgf23),. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Suvorexant"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Sleep"
+        ],
+        [
+          "Sleeplessness"
+        ],
+        [
+          "Time"
+        ]
+      ],
+      "id": "56c1f003ef6e394741000039",
+      "ideal_answer": "Suvorexant is the first DORA to be approved and has demonstrated efficacy at decreasing both time to sleep onset and increasing total sleep time compared with placebo. Suvorexant: a dual orexin receptor antagonist for the treatment of sleep onset and sleep maintenance insomnia. CONCLUSION: Suvorexant is the first dual orexin receptor antagonist approved for the treatment of insomnia. Crystal structure of the human OX2 orexin receptor bound to the insomnia drug suvorexant. The human OX2 receptor (OX2R) belongs to the β branch of the rhodopsin family of GPCRs, and can bind to diverse compounds including the native agonist peptides orexin-A and orexin-B and the potent therapeutic inhibitor suvorexant. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Alu Elements"
+        ],
+        [
+          "Genome"
+        ],
+        [
+          "regional"
+        ],
+        [
+          "Clinical act of insertion"
+        ],
+        [
+          "Metabolism"
+        ],
+        [
+          "Contrast"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Independent of"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Primates"
+        ],
+        [
+          "Repeat Object"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "Young"
+        ],
+        [
+          "density"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Event"
+        ],
+        [
+          "Structural protein"
+        ],
+        [
+          "Sequence Analysis"
+        ],
+        [
+          "3\u0027 Region"
+        ],
+        [
+          "biological signaling"
+        ],
+        [
+          "Positioning Attribute"
+        ],
+        [
+          "Orthologous"
+        ],
+        [
+          "Dense"
+        ],
+        [
+          "Parallel Lesion"
+        ],
+        [
+          "Biological Transport"
+        ],
+        [
+          "Coding"
+        ],
+        [
+          "Proportion"
+        ],
+        [
+          "Biochemical Pathway"
+        ],
+        [
+          "Reside"
+        ],
+        [
+          "majority"
+        ],
+        [
+          "Gene Clusters"
+        ],
+        [
+          "Flank (surface region)"
+        ],
+        [
+          "Relative"
+        ],
+        [
+          "Representation (action)"
+        ],
+        [
+          "Signal Transduction"
+        ],
+        [
+          "Categories"
+        ],
+        [
+          "Upstream"
+        ],
+        [
+          "Biological Evolution"
+        ],
+        [
+          "Active"
+        ],
+        [
+          "Room of building - Study"
+        ],
+        [
+          "Insert (object)"
+        ],
+        [
+          "Unique"
+        ],
+        [
+          "Pre-existing"
+        ],
+        [
+          "Choose (action)"
+        ],
+        [
+          "Regulator"
+        ],
+        [
+          "Elements"
+        ],
+        [
+          "Subfamily"
+        ],
+        [
+          "Feeling content"
+        ],
+        [
+          "Function"
+        ],
+        [
+          "Bias genus"
+        ],
+        [
+          "Recovery - ActInvoiceAdjudicationPaymentGroupCode"
+        ],
+        [
+          "Disease Screening"
+        ],
+        [
+          "Mechanism (attribute)"
+        ],
+        [
+          "Locus"
+        ],
+        [
+          "Genes, Homeobox"
+        ],
+        [
+          "product"
+        ],
+        [
+          "Abnormally high"
+        ],
+        [
+          "Nonhuman primate"
+        ],
+        [
+          "Cluster"
+        ],
+        [
+          "Remote control command - Transport To"
+        ],
+        [
+          "Component object"
+        ],
+        [
+          "Distributing"
+        ],
+        [
+          "Gene Conversion"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "GC gene"
+        ]
+      ],
+      "id": "570921e4cf1c325851000017",
+      "ideal_answer": "There are regions such as the four homeobox gene clusters, which are nearly devoid of these repeats that contrast with repeat dense regions in other transcriptionally active regions of the genome. This bias in Alu distribution is independent of the effect of Alu density of the flanking genomic region and is also not affected by the GC content of the gene and its upstream and downstream regions. The relative proportions of Alu subfamilies (Alu J, Alu S, and Alu Y) are not significantly different in genes with high Alu density belonging to the functional categories of transport, metabolism, and signaling. Our screening of the Alu insertion loci also resulted in the recovery of several \"young\" Alu elements that resided at orthologous positions in nonhuman primate genomes. We suggest that Alu elements might be involved in regulatory mechanisms and are therefore differentially selected in primate genomes. Sequence analysis demonstrated these \"young\" Alu insertions represented gene conversion events of pre-existing ancient Alu elements or independent parallel insertions of older Alu elements in the same genomic region. This study suggests that the majority of Alu insertions in primate genomes are the products of unique evolutionary events. "
+    },
+    {
+      "id": "56bdc452a36a056b3d000001",
+      "ideal_answer": "SPIKE (Signaling Pathways Integrated Knowledge Engine; http://www.cs.tau.ac.il/\u0026~spike/) is a database for achieving this goal, containing highly curated interactions for particular human pathways, along with literature-referenced information on the nature of each interaction. To make database population and pathway comprehension straightforward, a simple yet informative data model is used, and pathways are laid out as maps that reflect the curator’s understanding and make the utilization of the pathways easy. The rapid accumulation of knowledge on biological signaling pathways and their regulatory mechanisms has highlighted the need for specific repositories that can store, organize and allow retrieval of pathway information in a way that will be useful for the research community. The database is accompanied by a stand-alone software tool for analysis and dynamic visualization of pathways. The database currently focuses primarily on pathways describing DNA damage response, cell cycle, programmed cell death and hearing related pathways. The complete database and the individual maps are freely exportable in several formats. Pathways are regularly updated, and additional pathways are gradually added. "
+    },
+    {
+      "exact_answer": [
+        [
+          "SOST gene"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "ERBB3 Receptor Protein-Tyrosine Kinase"
+        ],
+        [
+          "Modulated"
+        ],
+        [
+          "Collagen"
+        ],
+        [
+          "% bound (qualifier value)"
+        ],
+        [
+          "Full"
+        ],
+        [
+          "Amylose"
+        ],
+        [
+          "*Activity (kind of quantity)"
+        ],
+        [
+          "casein kinase II"
+        ],
+        [
+          "FZD4 protein, human"
+        ],
+        [
+          "CARBONATE DEHYDRATASE"
+        ],
+        [
+          "Bone Morphogenetic Proteins"
+        ],
+        [
+          "alpha-Fetoproteins"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Alkaline Phosphatase"
+        ],
+        [
+          "Relationships"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "Resins, Plant"
+        ],
+        [
+          "Sclerosteosis"
+        ],
+        [
+          "LRP5 gene"
+        ],
+        [
+          "Length"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Peptides"
+        ],
+        [
+          "PHEX gene"
+        ],
+        [
+          "Social Role"
+        ],
+        [
+          "NOG gene"
+        ],
+        [
+          "Evidence of"
+        ],
+        [
+          "ANXA1 gene"
+        ],
+        [
+          "Unidentified - modifier"
+        ],
+        [
+          "End-stage"
+        ],
+        [
+          "Wnt Signaling Pathway"
+        ],
+        [
+          "Processed"
+        ],
+        [
+          "Carboxyl Group"
+        ],
+        [
+          "Interaction"
+        ],
+        [
+          "Exertion"
+        ],
+        [
+          "Accepted"
+        ],
+        [
+          "SOSTDC1 gene"
+        ],
+        [
+          "bone metabolism"
+        ],
+        [
+          "LRP6 gene"
+        ],
+        [
+          "Ligands"
+        ],
+        [
+          "Affinity"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Derivation"
+        ],
+        [
+          "Function"
+        ],
+        [
+          "Bone Density"
+        ],
+        [
+          "ASPN gene"
+        ],
+        [
+          "Abnormally high"
+        ],
+        [
+          "Resorption"
+        ],
+        [
+          "Wnt Signaling Pathway PID"
+        ],
+        [
+          "Neutrophil migration, function"
+        ],
+        [
+          "FST gene"
+        ],
+        [
+          "Mood Disorders"
+        ],
+        [
+          "MDK gene"
+        ],
+        [
+          "Antagonist muscle action"
+        ],
+        [
+          "Direct (qualifier)"
+        ],
+        [
+          "Recombinants"
+        ],
+        [
+          "GREM1 gene"
+        ],
+        [
+          "Binding (Molecular Function)"
+        ],
+        [
+          "Osteogenesis"
+        ],
+        [
+          "Cell secretion"
+        ]
+      ],
+      "id": "570a6d03cf1c325851000025",
+      "ideal_answer": "Several previously unidentified full-length sclerostin-interacting proteins such as alkaline phosphatase, carbonic anhydrase, gremlin-1, fetuin A, midkine, annexin A1 and A2, and collagen α1, which have established roles in bone formation or resorption processes, were bound to the sclerostin-MBP amylose resin but not to the MBP amylose resin. Other full-length sclerostin-interacting proteins such as casein kinase II and secreted frizzled related protein 4 that modulate Wnt signaling were identified. Several peptides derived from proteins such as Phex, asporin and follistatin that regulate bone metabolism also bound sclerostin. We identified an interaction between sclerostin and the carboxyl-terminal portion of the receptor tyrosine-protein kinase erbB-3. Sclerostin, SOST, the gene affected in this disease, has been postulated to exert its activity by functioning as a BMP antagonist. Bone density ligand, Sclerostin, directly interacts with LRP5 but not LRP5G171V to modulate Wnt activity. However, recent evidence indicates that SOST is highly related to Wise, which can also modulate the Wnt pathway by binding to LRP5 and LRP6. We show that recombinant sclerostin and noggin bound to each other with high affinity (K(D) \u003d 2.92 nm). "
+    },
+    {
+      "id": "56c1d848ef6e39474100002f",
+      "ideal_answer": "We report here a case of multiloculated disseminated perineural or Tarlov cysts (TCs). A case of symptomatic cervical perineural (Tarlov) cyst: clinical manifestation and management. Perineural (Tarlov) cysts are most often found in the sacral region and are rare in the cervical spine. Tarlov or perineural cysts are nerve root cysts found most commonly at the sacral spine level arising between covering layers of the perineurium and the endoneurium near the dorsal root ganglion and are usually asymptomatic. Tarlov cyst syndrome is a rare, often asymptomatic disorder, characterised by isolated or multiple nerve-root cysts, usually occurring in the sacral spine, near the dorsal root ganglion, between the perineurium and endoneurium. She underwent ultrasound, CT, and eventually MRI evaluations that led to the diagnosis of a giant (6.7 × 6.4 × 6.6 cm) Tarlov cyst originating from the right S-2 nerve root sleeve/sacral foramen with intrapelvic extension. TCs are typically benign, asymptomatic lesions that can simply be monitored. "
+    },
+    {
+      "exact_answer": [
+        [
+          "CHD1 gene"
+        ],
+        [
+          "Lysine"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Histone H3"
+        ],
+        [
+          "chromatin remodeling"
+        ]
+      ],
+      "id": "57092332cf1c325851000018",
+      "ideal_answer": "Human but not yeast CHD1 binds directly and selectively to histone H3 methylated at lysine 4 via its tandem chromodomains. Our findings indicate that yeast and human CHD1 have diverged in their ability to discriminate covalently modified histones and link histone modification-recognition and non-covalent chromatin remodeling activities within a single human protein. The presence of these domains in ISWI and Chd1 chromatin-remodelling enzymes may provide a means of efficiently harnessing the action of the Snf2-related ATPase domain for the purpose of nucleosome spacing and provide an explanation for partial redundancy between these proteins. Thus, the ISWI and Chd1 remodelling factors are not only involved in transcription-related chromatin remodelling, but also are required to maintain a specific chromatin configuration across the yeast genome. The ATP-dependent chromatin-remodelling enzyme Chd1 is a 168-kDa protein consisting of a double chromodomain, Snf2-related ATPase domain, and a C-terminal DNA-binding domain. one of the two chromodomains of Chd1 specifically interacts with the methylated lysine 4 mark on histone H3 that is associated with transcriptional activity. In the current study, we identify human CHD1, an ATP-dependent chromatin remodeling protein, as a factor that directly and selectively recognizes histone H3 methylated on lysine 4. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Library Protocol"
+        ],
+        [
+          "Management procedure"
+        ],
+        [
+          "Collagen"
+        ],
+        [
+          "Combined"
+        ],
+        [
+          "Guide device"
+        ]
+      ],
+      "id": "56bdc79bef6e394741000001",
+      "ideal_answer": "Keratoconus management: long-term stability of topography-guided normalization combined with high-fluence CXL stabilization (the Athens Protocol). The management of cornea blindness from severe corneal scarring, with the Athens Protocol (transepithelial topography-guided PRK therapeutic remodeling, combined with same-day, collagen cross-linking). To evaluate the safety and efficacy of combined transepithelial topography-guided photorefractive keratectomy (PRK) therapeutic remodeling, combined with same-day, collagen cross-linking (CXL). The Athens Protocol to arrest keratectasia progression and improve corneal regularity demonstrates safe and effective results as a keratoconus management option. This protocol was used for the management of cornea blindness due to severe corneal scarring. Progressive potential for long-term flattening validates using caution in the surface normalization to avoid overcorrection. "
+    },
+    {
+      "id": "570a7594cf1c325851000026",
+      "ideal_answer": "To promote membrane scission, dynamin proteins polymerize, wrap around, and constrict the membrane; however, the mechanism underlying their role in membrane fusion remains unclear. Its role in endocytosis may be mediated by its reported interaction with dynamin 2, a 100 kDa GTPase that polymerizes around the necks of budding vesicles and catalyzes membrane scission. ESCRT-III is the final complex in the pathway that assembles on endosomes and executes membrane scission of intraluminal vesicles. Because the neck\u0027s radius is, in general, finite, membrane scission and the consequent pinching off of the vesicle can only occur if it is narrowed to permit the necessary membrane topological reformation. Dynamin recruitment and membrane scission at the neck of a clathrin-coated pit. The scission of biological membranes is facilitated by a variety of protein complexes that bind and manipulate lipid bilayers. Force produced by actin similarly contributes in membrane scission in endocytosis or Golgi remodeling. Dynamin 2 (Dyn2) is a ~100kDa GTPase that assembles around the necks of nascent endocytic and Golgi vesicles and catalyzes membrane scission. Furthermore, GTP-dependent membrane scission by dynamin was dramatically elevated by BAR domain proteins. "
+    },
+    {
+      "id": "56c1d84aef6e394741000030",
+      "ideal_answer": "We sought to describe the natural history of this disorder, specifically its clinical presentation, disease course and long-term health status impact using the validated, disease-specific Hydrocephalus Outcome Questionnaire (HOQ). OBJECT: The Hydrocephalus Outcome Questionnaire (HOQ) is an established means of measuring quality of life, but the cognitive component of this questionnaire has never been formally compared with gold-standard neuropsychological test scores. These include general outcome measures such as the Pediatric Evaluation of Disability Inventory and the Functional Independence Measure for Children, which measure physical function and independence in chronically ill and disabled children as well as disease-specific measures for hydrocephalus (Hydrocephalus Outcome Questionnaire), cerebral palsy (gross motor function and performance measures), head injury (Pediatric Cerebral Performance Category and Children\u0027s Coma Scale), and oncology (Pediatric Cancer Quality-of-Life Inventory). METHODS: The families of children between 5 and 18 years of age with previously treated hydrocephalus at 3 Canadian pediatric neurosurgery centers completed measures of QOL: the Hydrocephalus Outcome Questionnaire (HOQ) and the Health Utilities Index Mark 3 (HUI3). The authors developed a quantitative health status measure, the Hydrocephalus Outcome Questionnaire (HOQ), designed specifically for children with hydrocephalus, which can be completed by the children\u0027s parents. "
+    },
+    {
+      "id": "57092635cf1c325851000019",
+      "ideal_answer": "It is not clear if LRES is initiated by one critical gene target that spreads and conscripts innocent bystanders, analogous to large genetic deletions or if coordinate silencing of multiple genes is important in carcinogenesis. Long Range Epigenetic Silencing (LRES) is a mechanism of gene inactivation that affects multiple contiguous CpG islands and has been described in different human cancer types. Previously, we showed that gene suppression commonly occurs across chromosome 2q14.2 in colorectal cancer, through a process of long-range epigenetic silencing (LRES), involving a combination of DNA methylation and repressive histone modifications. Epigenetic gene silencing has always been envisaged as a local event silencing discrete genes, but recent data now indicates that large regions of chromosomes can be co-coordinately suppressed; a process termed long range epigenetic silencing (LRES). Loss of tumour suppressor gene function can occur as a result of epigenetic silencing of large chromosomal regions, referred to as long-range epigenetic silencing (LRES), and genome-wide analyses have revealed that LRES is present in many cancer types. We now investigate whether LRES also occurs in prostate cancer across this 4-Mb region and whether differential DNA methylation of 2q14.2 genes could provide a regional panel of prostate cancer biomarkers. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Data"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "survivin"
+        ],
+        [
+          "Complement System Proteins"
+        ],
+        [
+          "Genome"
+        ]
+      ],
+      "id": "56bdcc4cef6e394741000002",
+      "ideal_answer": "In many genomic studies, one works with genome-position-dependent data, e.g. This article argues that the so-called Hilbert curve visualization can complement genome browsers and help to get further insights into the structure of one\u0027s data. An open-source application, called HilbertVis, is presented that allows the user to produce and interactively explore such plots.AVAILABILITY: http://www.ebi.ac.uk/huber-srv/hilbert/. Using conventional tools, it can be difficult to get a good feel for the data, especially the distribution of features. This is demonstrated with examples from different use cases. ChIP-chip or ChIP-Seq scores. "
+    },
+    {
+      "id": "570a8dcfcf1c325851000027",
+      "ideal_answer": "Endosomal sorting complexes required for transport (ESCRTs) are involved in the formation of multivesicular bodies and sorting of targeted proteins to the yeast vacuole. Disassembly of the endosomal sorting complex required for transport (ESCRT) machinery from biological membranes is a critical final step in cellular processes that require the ESCRT function. Since their discovery, however, ESCRTs have been recognized as playing important roles at the plasma membrane, which appears to be the original site of function for the ESCRT machinery. Recently it was shown that both recycling endosome and endosomal sorting complex required for transport (ESCRT) components are required for cytokinesis, in which they are believed to act in a sequential manner to bring about secondary ingression and abscission, respectively. The endosomal sorting complexes required for transport (ESCRTs) collectively comprise a machinery that was first known for its function in the degradation of transmembrane proteins in the endocytic pathway of eukaryotic cells. The endosomal sorting complexes required for transport (ESCRT) are needed for three distinct cellular functions in higher eukaryotes: (i) Multivesicular body formation for the degradation of transmembrane proteins in lysosomes, (ii) midbody abscission during cytokinesis and (iii) retroviral budding. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Brain stem reflexes"
+        ],
+        [
+          "Full"
+        ],
+        [
+          "Score"
+        ],
+        [
+          "Unresponsiveness"
+        ],
+        [
+          "Evaluation"
+        ],
+        [
+          "Apraxia, oculomotor, Cogan type"
+        ],
+        [
+          "Motor response"
+        ],
+        [
+          "Component object"
+        ],
+        [
+          "Eye"
+        ],
+        [
+          "Intellectual scale"
+        ],
+        [
+          "Categories"
+        ],
+        [
+          "Respiratory pattern"
+        ],
+        [
+          "Consistency"
+        ],
+        [
+          "Reaction"
+        ],
+        [
+          "Entire eye"
+        ],
+        [
+          "Cell Respiration"
+        ],
+        [
+          "Motor function"
+        ],
+        [
+          "Respiration"
+        ],
+        [
+          "Introduces"
+        ]
+      ],
+      "id": "56c1d84cef6e394741000031",
+      "ideal_answer": "Recently, the full outline of unresponsiveness (FOUR) score was introduced, which is composed of four clinically distinct categories of evaluation: eye reaction, motor function, brainstem reflexes and respiratory pattern. The FOUR (Full Outline of UnResponsiveness) score, a new coma scale, evaluates 4 components: eye and motor responses, brainstem reflexes and respiration. The Full Outline of UnResponsiveness (FOUR) Score is a coma scale that consists of four components (eye and motor response, brainstem reflexes, and respiration). "
+    },
+    {
+      "id": "57092f9bcf1c32585100001b",
+      "ideal_answer": "In this overview we focus, however, on the epigenetic alterations elicited by EBNA1 by drawing a parallel between EBNA1 and the FoxA family of pioneer transcription factors. Similarities between the Epstein-Barr Virus (EBV) Nuclear Protein EBNA1 and the Pioneer Transcription Factor FoxA: Is EBNA1 a \"Bookmarking\" Oncoprotein that Alters the Host Cell Epigenotype?. In addition, EBNA1 and FoxA, when associated with mitotic chromatin may \"bookmark\" active genes and ensure their reactivation in postmitotic cells (epigenetic memory). The purpose of this review is to critically examine the literature on three highly potent transcriptional activators: the herpes virus protein, VP16; the master regulator of skeletal muscle differentiation, MyoD and the \"pioneer\" factor for hepatogenesis, FoxA. Insight into the unique molecular basis of Foxa function has been obtained from recent genetic and genomic data, which identify the Foxa proteins as \u0027pioneer factors\u0027 whose binding to promoters and enhancers enable chromatin access for other tissue-specific transcription factors. about one-third of the FoxA bound sites are near silent genes, including genes without detectable RNA polymerase II. Nuclear mobility and mitotic chromosome binding: similarities between pioneer transcription factor FoxA and linker histone H1. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Cyclin-Dependent Kinases"
+        ],
+        [
+          "Cytokinesis of the fertilized ovum"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "Protein dephosphorylation"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Application procedure"
+        ],
+        [
+          "Scientific Equipment"
+        ],
+        [
+          "Time"
+        ],
+        [
+          "cyclin-dependent protein kinase activity"
+        ],
+        [
+          "Execution"
+        ],
+        [
+          "phosphoric monoester hydrolase activity"
+        ],
+        [
+          "Act Relationship Checkpoint - exit"
+        ],
+        [
+          "Cell Physiological Processes"
+        ],
+        [
+          "Analysis of substances"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "cell cycle regulator"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Controlled by"
+        ],
+        [
+          "Cytokinesis"
+        ],
+        [
+          "Master"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "Mitotic"
+        ],
+        [
+          "Regulators (device)"
+        ],
+        [
+          "Applicable"
+        ],
+        [
+          "Approach"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "utilization qualifier"
+        ]
+      ],
+      "id": "56bf487def6e394741000011",
+      "ideal_answer": "Our results suggest that cytokinesis is coordinately controlled by the master cell cycle regulator Cdk together with its counteracting phosphatase and that it is executed by concerted dephosphorylation of Cdk targets involved in several cell biological processes. We then apply a new and widely applicable tool to generate conditionally phosphorylated proteins to identify those whose dephosphorylation is required for cytokinesis. We use phosphoproteome analysis of mitotic exit to identify Cdk targets that are dephosphorylated at the time of cytokinesis. This approach identifies Aip1, Ede1 and Inn1 as cytokinetic regulators. "
+    },
+    {
+      "exact_answer": [
+        [
+          "receptor"
+        ],
+        [
+          "Phosphotransferases"
+        ],
+        [
+          "Induce (action)"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "RALBP1 wt Allele"
+        ],
+        [
+          "necroptosis"
+        ],
+        [
+          "Inflammation"
+        ],
+        [
+          "Interaction"
+        ],
+        [
+          "Signal Transduction Pathways"
+        ],
+        [
+          "PROTEIN KINASE"
+        ],
+        [
+          "Necrosis"
+        ],
+        [
+          "caspase-8"
+        ],
+        [
+          "Pathway (interactions)"
+        ],
+        [
+          "RIPK1 protein, human"
+        ],
+        [
+          "Mediator brand of benfluorex hydrochloride"
+        ],
+        [
+          "Revealed"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "Exhibits as Topic"
+        ],
+        [
+          "Substrate Device Component"
+        ],
+        [
+          "Promotion (action)"
+        ],
+        [
+          "Negative Regulation of Apoptosis"
+        ],
+        [
+          "Cytokinesis of the fertilized ovum"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "Direct type of relationship"
+        ],
+        [
+          "pro-survival"
+        ],
+        [
+          "Biochemical Pathway"
+        ],
+        [
+          "Established"
+        ],
+        [
+          "RNA Viruses"
+        ],
+        [
+          "apoptotic signaling pathway"
+        ],
+        [
+          "Links List"
+        ],
+        [
+          "Cell Death Signaling Process"
+        ],
+        [
+          "product"
+        ],
+        [
+          "Protein-Protein Interaction"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "Preventive monitoring"
+        ],
+        [
+          "NLRP3 inflammasome activation"
+        ],
+        [
+          "Positive Regulation of Cell Death"
+        ],
+        [
+          "Major"
+        ],
+        [
+          "Assessed"
+        ],
+        [
+          "Protein level - finding"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Regulation"
+        ],
+        [
+          "RIPK1 gene"
+        ],
+        [
+          "Unique"
+        ],
+        [
+          "Apoptosis"
+        ]
+      ],
+      "id": "570a922dcf1c325851000028",
+      "ideal_answer": "Major signaling pathways regulated by RIP1 include necroptosis, apoptosis, and pro-survival/inflammation NF-κB activation. Together our results reveal a specific role for the RIP1-RIP3-DRP1 pathway in RNA virus-induced activation of the NLRP3 inflammasome and establish a direct link between inflammation and cell-death signaling pathways. Receptor-interacting protein (RIP) kinases promote the induction of necrotic cell death pathways. Necroptosis exhibits a unique signaling pathway that requires the involvement of receptor interaction protein kinases 1 and 3 (RIP1 and RIP3),. TNF-induced apoptotic signaling pathways were assessed by monitoring levels of the anti-apoptotic protein, A20, and cleavage products of the caspase-8 substrate, RIP1. receptor-interacting protein-1 (RIP1)-mediated necroptosis. "
+    },
+    {
+      "exact_answer": [
+        [
+          "FCN3 gene"
+        ],
+        [
+          "ficolin"
+        ],
+        [
+          "Mediator brand of benfluorex hydrochloride"
+        ],
+        [
+          "Fibrinogen"
+        ],
+        [
+          "Measured"
+        ]
+      ],
+      "id": "56c1d856ef6e394741000032",
+      "ideal_answer": "Lectin pathway activity via Ficolin-3 was measured in ELISA on acetylated bovine serum albumin (acBSA) and measured as Ficolin-3 binding and deposition of C4, C3 and the terminal complement complex (TCC). Ficolin-3 (also called H-ficolin or Hakata antigen) is a complement-activating pattern recognition molecule, possessing a fibrinogen-like domain involved in carbohydrate binding. Furthermore, Ficolin-3 mediated complement activation may be valuable in monitoring disease activity in SLE patients due to the high sensitivity for complement consumption in the assay independent of the Ficolin-3 concentration. This study aims to investigate whether an association exists between the ficolins that are part of the lectin complement pathway and SLE. OBJECTIVES: To assess the involvement of ficolin-3, the main initiator of the lectin complement pathway (LCP), in subarachnoid hemorrhage (SAH) pathology and outcome. CONCLUSION: Our data provide evidence that LCP is activated after SAH and that the actual plasma concentrations of ficolin-3 reflect the severity of brain injury as evaluated by clinical and structural parameters. These results support the idea that ficolin-3-mediated functional LCP activity may be targeted to control injury progression in SAH. "
+    },
+    {
+      "id": "56c06ef5ef6e39474100001e",
+      "ideal_answer": "ASSET: a robust algorithm for the automated segmentation and standardization of early Caenorhabditis elegans embryos. The early Caenorhabditis elegans embryo is an attractive model to investigate evolutionarily conserved cellular mechanisms. In summary, we establish ASSET as a novel tool for the efficient quantification and standardization of images from early C. elegans embryos. Importantly, ASSET standardizes the data into an absolute coordinate system to allow robust quantitative comparisons between embryos. We developed ASSET (Algorithm for the Segmentation and the Standardization of C. elegans Time-lapse recordings) to fill this need. ASSET automatically detects the eggshell and the cell cortex from DIC time-lapse recordings of live one-cell-stage embryos and can also track subcellular structures using fluorescent time-lapse microscopy. We illustrate how ASSET can efficiently gather quantitative data on the motion of centrosomes and precisely track cortical invaginations, revealing hitherto unnoticed differences between wild-type and saps-1(RNAi) embryos. However, there is a paucity of automated methods to gather quantitative information with subcellular precision in this system. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Levodopa"
+        ],
+        [
+          "opicapone"
+        ],
+        [
+          "Third"
+        ],
+        [
+          "Catechol-O-Methyltransferase Inhibitor [EPC]"
+        ],
+        [
+          "nitrocatechol"
+        ]
+      ],
+      "id": "56c1d857ef6e394741000033",
+      "ideal_answer": "PURPOSE: Opicapone (OPC) is a novel catechol-O-methyltransferase (COMT) inhibitor to be used as adjunctive therapy in levodopa-treated patients with Parkinson\u0027s disease. CONCLUSIONS: Opicapone behaved as long-acting COMT inhibitor that markedly increased systemic and central levodopa bioavailability. OBJECTIVE: The present study aimed at evaluating the effect of opicapone, a third generation nitrocatechol catechol-O-methyltransferase (COMT) inhibitor, on the systemic and central bioavailability of 3,4-dihydroxy-l-phenylalanine (levodopa) and related metabolites in the cynomolgus monkey. CONCLUSION: Opicapone, a novel third generation COMT inhibitor, when compared to entacapone, provides a superior response upon the bioavailability of levodopa associated to more pronounced, long-lasting, and sustained COMT inhibition. The purpose of this study was to compare the levodopa pharmacokinetic profile throughout a day driven by the COMT inhibition either following repeated doses of opicapone or concomitant administration with entacapone. Brain and peripheral pharmacokinetics of levodopa in the cynomolgus monkey following administration of opicapone, a third generation nitrocatechol COMT inhibitor. BACKGROUND AND OBJECTIVES: Opicapone is a novel third generation catechol-O-methyltransferase (COMT) inhibitor. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c0708eef6e39474100001f",
+      "ideal_answer": "Abnormal dosage of ultraconserved elements is highly disfavored in healthy cells but not cancer cells. We begin by showing that depletion for UCEs characterizes the most recent large-scale human CNV datasets and then find that even newly formed de novo CNVs, which have passed through meiosis at most once, are significantly depleted for UCEs. In striking contrast, CNVs arising specifically in cancer cells are, as a rule, not depleted for UCEs and can even become significantly enriched. Finally, we show that it is possible to observe the CNVs of induced pluripotent stem (iPS) cells become depleted of UCEs over time, suggesting that depletion may be established through selection against UCE-disrupting CNVs without the requirement for meiotic divisions. This observation raises the possibility that CNVs that arise somatically and are relatively newly formed are less likely to have established a CNV profile that is depleted for UCEs. In support of this latter explanation, somatic CNVs that are not associated with disease are depleted for UCEs. Alternatively, lack of depletion for UCEs from cancer CNVs may reflect the diseased state. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c1d85eef6e394741000035",
+      "ideal_answer": "In summary, we have shown the presence of MMP-9 expression in some invasive and recurrent pituitary adenomas, and in the majority of pituitary carcinoma. The mechanisms whereby MMP-9 expression influences tumor recurrence and invasiveness, and its association with angiogenesis, remains to be elucidated. CONCLUSION: No correlation could be established between the invasive potential of tumors and MMP-1, -2, and -3 expression levels. MMP-9 expression did not differ between noninvasive tumors and normal pituitary gland, or between different sized prolactinomas. Pituitary carcinomas were significantly more likely to be MMP-9 positive compared with normal anterior pituitary gland (P \u003d 0.05), but there was no difference from invasive adenomas. In addition, although there was no difference in whether MMP-9 was present or not when nonfunctioning adenomas that recurred were compared with those that did not, samples of recurrent tumor at the second presentation were more likely to express MMP-9 (P \u003d 0.01). In summary, the differential expression of extracellular matrix components, integrins and matrix metalloproteinase contributes to the control of pituitary hormone production and cell proliferation during tumorigenesis. Angiogenesis assessed by vascular density was related to MMP-9 expression (P\u003c0.05). "
+    },
+    {
+      "id": "56c0ea0aef6e394741000029",
+      "ideal_answer": "Oligopaint probes are fluorescently labeled, single-stranded DNA oligonucleotides that can be used to visualize genomic regions ranging in size from tens of kilobases to many megabases. Our method gives researchers precise control over the sequences they target and allows for single and multicolor imaging of regions ranging from tens of kilobases to megabases with the same basic protocol. Here, we describe an oligonucleotide- and PCR-based strategy for fluorescence in situ hybridization (FISH) and a bioinformatic platform that enables this technology to be extended to any organism whose genome has been sequenced. The oligonucleotide probes are renewable, highly efficient, and able to robustly label chromosomes in cell culture, fixed tissues, and metaphase spreads. We anticipate this technology will lead to an enhanced ability to visualize interphase and metaphase chromosomes. "
+    },
+    {
+      "id": "56c1d85fef6e394741000036",
+      "ideal_answer": "OBJECTIVE: Studies of the effect of maternal smoking during pregnancy on development of brain tumors in the offspring generally have found no increase in risk but most have mainly relied on retrospective exposure assessment. BACKGROUND: A recent meta-analysis suggested an association between exposure to paternal smoking during pregnancy and childhood brain tumor risk, but no studies have evaluated whether this association differs by polymorphisms in genes that metabolize tobacco-smoke chemicals. There was no association between the risk of brain tumors in the child and parental smoking prior to pregnancy, maternal smoking or regular exposure to others\u0027 cigarette smoke during pregnancy at home or at work, or passive smoking by the child during the first year of life. These findings and those from earlier studies provide no support for the hypothesis that parental cigarette smoking influences the risk of brain tumors in children. "
+    },
+    {
+      "id": "56c234a4ef6e394741000059",
+      "ideal_answer": "FINDbase: a relational database recording frequencies of genetic defects leading to inherited disorders worldwide. Frequency of INherited Disorders database (FINDbase) (http://www.findbase.org) is a relational database, derived from the ETHNOS software, recording frequencies of causative mutations leading to inherited disorders worldwide. The initial information is derived from the published literature, locus-specific databases and genetic disease consortia. Database records include the population and ethnic group, the disorder name and the related gene, accompanied by links to any corresponding locus-specific mutation database, to the respective Online Mendelian Inheritance in Man entries and the mutation together with its frequency in that population. FINDbase provides a simple, web-based system for population-based mutation data collection and retrieval and can serve not only as a valuable online tool for molecular genetic testing of inherited disorders but also as a non-profit model for sustainable database funding, in the form of a \u0027database-journal\u0027. Registered users from three different groups, namely administrator, national coordinator and curator, are responsible for database curation and/or data entry/correction online via a password-protected interface. FINDbase offers a user-friendly query interface, providing instant access to the list and frequencies of the different mutations. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Trifluridine"
+        ],
+        [
+          "TAS 102"
+        ],
+        [
+          "TYMP gene"
+        ],
+        [
+          "hydrochloride"
+        ],
+        [
+          "Inhibitor"
+        ],
+        [
+          "Consistency"
+        ],
+        [
+          "Oral"
+        ],
+        [
+          "literary novel"
+        ],
+        [
+          "combination of objects"
+        ],
+        [
+          "Pentalogy of Cantrell"
+        ],
+        [
+          "Drug Formulation Process"
+        ],
+        [
+          "Fluorouracil"
+        ],
+        [
+          "NC 6004"
+        ],
+        [
+          "Purpose"
+        ],
+        [
+          "antitumor A"
+        ],
+        [
+          "DNA Synthesis Inhibitors"
+        ],
+        [
+          "Cisplatin"
+        ],
+        [
+          "Pharmacologic Substance"
+        ],
+        [
+          "T wt Allele"
+        ],
+        [
+          "Model"
+        ],
+        [
+          "0/5"
+        ],
+        [
+          "Antineoplastic Agents"
+        ],
+        [
+          "Nucleosides"
+        ],
+        [
+          "Malignant neoplasm of gastrointestinal tract"
+        ],
+        [
+          "Molar Ratio"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "PPP1R1A gene"
+        ],
+        [
+          "Drug Delivery Systems"
+        ],
+        [
+          "Having administered"
+        ],
+        [
+          "Micelles"
+        ],
+        [
+          "Ratio"
+        ],
+        [
+          "Resistant (qualifier value)"
+        ],
+        [
+          "In Vitro [Publication Type]"
+        ],
+        [
+          "Xenograft type of graft"
+        ],
+        [
+          "Antimetabolites"
+        ],
+        [
+          "Active"
+        ],
+        [
+          "novel AODU treatment method"
+        ],
+        [
+          "A 102"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "TPI1 gene"
+        ],
+        [
+          "Frontotemporal dementia"
+        ],
+        [
+          "utilization qualifier"
+        ],
+        [
+          "Nanotechnology"
+        ]
+      ],
+      "id": "56c1f000ef6e394741000037",
+      "ideal_answer": "PURPOSE: Trifluridine (TFT) is an antitumor component of a novel nucleoside antitumor agent, TAS-102, which consists of TFT and tipiracil hydrochloride (thymidine phosphorylase inhibitor). Novel DNA synthesis inhibitors for the treatment of gastrointestinal malignancies include a combination of the antimetabolite TAS-102, which consists of trifluorothymidine with a thymidine phosphorylase inhibitor, and a novel micellar formulation of cisplatin NC-6004 that uses a nanotechnology-based drug delivery system. TAS-102, a combination of trifluorothymidine and the thymidine phosphorylase inhibitor TPI in a 1:0.5 ratio, is a novel oral formulation, which is active in 5FU-resistant models, both in vitro and in xenograft models. TAS-102 is a novel oral nucleoside antitumor agent consisting of trifluridine and tipiracil hydrochloride at a molar ratio of 1:0.5. PURPOSE: TAS-102 is an orally administered anticancer agent composed of α,α,α-trifluorothymidine (FTD) and thymidine phosphorylase inhibitor (TPI). "
+    },
+    {
+      "id": "56c23652ef6e39474100005a",
+      "ideal_answer": "HbVar: A relational database of human hemoglobin variants and thalassemia mutations at the globin gene server. We have constructed a relational database of hemoglobin variants and thalassemia mutations, called HbVar, which can be accessed on the web at http://globin.cse.psu.edu. Extensive information is recorded for each variant and mutation, including a description of the variant and associated pathology, hematology, electrophoretic mobility, methods of isolation, stability information, ethnic occurrence, structure studies, functional studies, and references. Users can formulate more precise queries, such as identifying \"all beta-globin variants associated with instability and found in Scottish populations.\". Tables of common categories of variants, such as all those involving the alpha1-globin gene (HBA1) or all those that result in high oxygen affinity, are maintained by automated queries on the database. This new database should be useful for clinical diagnosis as well as in fundamental studies of hemoglobin biochemistry, globin gene regulation, and human sequence variation at these loci. The initial information was derived from books by Dr. Titus Huisman and colleagues [Huisman et al., 1996, 1997, 1998]. The current database is updated regularly with the addition of new data and corrections to previous data. Queries can be formulated based on fields in the database. "
+    },
+    {
+      "exact_answer": [
+        [
+          "dupilumab"
+        ],
+        [
+          "Interleukin-13"
+        ],
+        [
+          "Monoclonal Antibodies"
+        ],
+        [
+          "Interleukin-4 Receptor alpha Subunit"
+        ],
+        [
+          "Antibodies, Anti-Idiotypic"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "biological"
+        ],
+        [
+          "Immune Globulin (Human)"
+        ],
+        [
+          "Control function"
+        ],
+        [
+          "monoclonal"
+        ],
+        [
+          "First (number)"
+        ],
+        [
+          "Human normal immunoglobulin"
+        ],
+        [
+          "Interleukins"
+        ],
+        [
+          "Efficacy Study"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Recombinant Interleukin-4"
+        ],
+        [
+          "Levels (qualifier value)"
+        ],
+        [
+          "mepolizumab"
+        ],
+        [
+          "Adrenal Cortex Hormones"
+        ],
+        [
+          "Interleukin 4 Receptor"
+        ],
+        [
+          "omalizumab"
+        ],
+        [
+          "lebrikizumab"
+        ],
+        [
+          "human study"
+        ],
+        [
+          "Moderate to severe"
+        ],
+        [
+          "tralokinumab"
+        ],
+        [
+          "Unresponsive to Treatment"
+        ],
+        [
+          "benralizumab"
+        ],
+        [
+          "Atopy"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "REGN668"
+        ],
+        [
+          "SAR231893"
+        ],
+        [
+          "Severe asthma"
+        ],
+        [
+          "pitrakinra"
+        ],
+        [
+          "Raised"
+        ],
+        [
+          "Longitudinal Studies"
+        ],
+        [
+          "Prospective Studies"
+        ],
+        [
+          "eosinophil"
+        ],
+        [
+          "IL4R gene"
+        ],
+        [
+          "interleukin-4 receptor activity"
+        ],
+        [
+          "Specimen Type - Serum"
+        ],
+        [
+          "Treated with"
+        ],
+        [
+          "TSLP protein, human"
+        ],
+        [
+          "Molecular Target"
+        ],
+        [
+          "Background"
+        ],
+        [
+          "Asthma"
+        ],
+        [
+          "Dermatitis, Atopic"
+        ],
+        [
+          "Early stage"
+        ],
+        [
+          "Clinical Trials"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "Block (unit of measure)"
+        ],
+        [
+          "Massive"
+        ],
+        [
+          "Example"
+        ],
+        [
+          "Preventing (action)"
+        ],
+        [
+          "IgE.total"
+        ],
+        [
+          "High dose"
+        ],
+        [
+          "reslizumab"
+        ],
+        [
+          "Signal Transduction"
+        ],
+        [
+          "Anti-Asthmatic Agents"
+        ],
+        [
+          "Recurrent"
+        ],
+        [
+          "Pulmonary Eosinophilia"
+        ],
+        [
+          "Safety Study"
+        ],
+        [
+          "Immune dysregulation"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Molecular"
+        ],
+        [
+          "Direct type of relationship"
+        ],
+        [
+          "Signal Pathways"
+        ],
+        [
+          "Adult"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "Effectiveness"
+        ],
+        [
+          "Blocking"
+        ],
+        [
+          "Condition activity"
+        ],
+        [
+          "Inflammation"
+        ],
+        [
+          "PTGDR2 gene"
+        ],
+        [
+          "promise"
+        ],
+        [
+          "Ability"
+        ],
+        [
+          "Evaluation"
+        ],
+        [
+          "On (qualifier value)"
+        ],
+        [
+          "Interaction"
+        ],
+        [
+          "Admission Level of Care Code - Improved"
+        ],
+        [
+          "Eosinophilic"
+        ],
+        [
+          "Severe (severity modifier)"
+        ],
+        [
+          "Tests (qualifier value)"
+        ],
+        [
+          "Sputum: eosinophilia"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "peripheral blood"
+        ],
+        [
+          "Publishing"
+        ],
+        [
+          "Law enforcement arrest"
+        ],
+        [
+          "Indication of (contextual qualifier)"
+        ],
+        [
+          "IL31 gene"
+        ],
+        [
+          "Allergic asthma"
+        ],
+        [
+          "Bad"
+        ],
+        [
+          "Moderate (severity modifier)"
+        ],
+        [
+          "Persistent"
+        ],
+        [
+          "POSTN gene"
+        ],
+        [
+          "Extension"
+        ],
+        [
+          "1+ Score, WHO"
+        ],
+        [
+          "Alpha"
+        ],
+        [
+          "Scientific Study"
+        ]
+      ],
+      "id": "56c1f005ef6e39474100003a",
+      "ideal_answer": "The world\u0027s first prospective controlled studies with the biologic human anti-IL4R antibody dupilumab for the indication \"atopic dermatitis\" were published in 2014. Examples include the efficacy of omalizumab in patients with severe refractory atopic asthma characterized by raised serum total IgE, mepolizumab, reslizumab, and benralizumab in patients with recurrent eosinophilic exacerbations characterized by blood and sputum eosinophilia despite high doses of corticosteroids, and lebrikizumab, pitrakinra, dupilumab, and tralokinumab that target the IL-4/IL-13 signalling pathways in patients with eosinophilic asthma or raised serum periostin. BACKGROUND: Dupilumab, a fully human monoclonal antibody that blocks interleukin-4 and interleukin-13, has shown efficacy in patients with asthma and elevated eosinophil levels. We evaluated the efficacy and safety of dupilumab (SAR231893/REGN668), a fully human monoclonal antibody to the alpha subunit of the interleukin-4 receptor, in patients with persistent, moderate-to-severe asthma and elevated eosinophil levels. In early-phase trials, dupilumab, a fully human mAb targeting IL-4 receptor α, markedly improved disease activity, but the effect of IL-4/IL-13 blockade on AD at the molecular level has not been characterized. With respect to immune dysregulation, dupilumab, a fully human monoclonal antibody directed at the IL-4 receptor alpha subunit was recently shown to be effective in treating adults with moderate-to-severe AD. "
+    },
+    {
+      "id": "56c322d750c68dd416000004",
+      "ideal_answer": "The vibrational theory of olfaction assumes that electron transfer occurs across odorants at the active sites of odorant receptors (ORs), serving as a sensitive measure of odorant vibrational frequencies, ultimately leading to olfactory perception. It differs from previous vibrational theories (Dyson, Wright) in providing a detailed and plausible mechanism for biological transduction of molecular vibrations: inelastic electron tunnelling. The evidence presented here suggests instead that olfaction, like colour vision and hearing, is a spectral sense. It proposes that olfactory receptors respond not to the shape of the molecules but to their vibrations. Elements of the tunnelling spectroscope are identified in putative olfactory receptors and their associated G-protein. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "Treated with"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Non-Small Cell Lung Carcinoma"
+        ],
+        [
+          "Field"
+        ],
+        [
+          "pemetrexed"
+        ],
+        [
+          "Glioblastoma"
+        ],
+        [
+          "Recurrent"
+        ],
+        [
+          "Neoplasm"
+        ],
+        [
+          "Efficacy Study"
+        ],
+        [
+          "In Vivo"
+        ],
+        [
+          "Chemotherapy Regimen"
+        ],
+        [
+          "Diagnostic Radiology Modality"
+        ],
+        [
+          "solid tumor"
+        ],
+        [
+          "temozolomide"
+        ],
+        [
+          "Electric field"
+        ],
+        [
+          "Response process"
+        ],
+        [
+          "In Vitro [Publication Type]"
+        ],
+        [
+          "Antimitotic Agents"
+        ],
+        [
+          "Approved"
+        ],
+        [
+          "neoplasm therapy"
+        ],
+        [
+          "Cultured Cell Line"
+        ],
+        [
+          "Observation Interpretation - intermediate"
+        ],
+        [
+          "With intensity"
+        ],
+        [
+          "Evaluation"
+        ],
+        [
+          "Treatment Effectiveness"
+        ],
+        [
+          "Force Field"
+        ],
+        [
+          "Phase 3 Clinical Trials"
+        ],
+        [
+          "Comparison"
+        ],
+        [
+          "novel AODU treatment method"
+        ],
+        [
+          "Pilot Projects"
+        ],
+        [
+          "United States Food and Drug Administration"
+        ],
+        [
+          "Clinical Trial [Publication Type]"
+        ],
+        [
+          "Reduced"
+        ],
+        [
+          "EGR3 gene"
+        ],
+        [
+          "Combine"
+        ],
+        [
+          "Tumor Response Domain"
+        ],
+        [
+          "First (number)"
+        ],
+        [
+          "Advanced phase"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ],
+        [
+          "Toxic effect"
+        ],
+        [
+          "promise"
+        ],
+        [
+          "month"
+        ],
+        [
+          "Alternating"
+        ],
+        [
+          "combination of objects"
+        ],
+        [
+          "Better"
+        ],
+        [
+          "Negative"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Conclusion"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "Pharmacologic Substance"
+        ],
+        [
+          "Radiologic"
+        ],
+        [
+          "Pancreatic carcinoma"
+        ],
+        [
+          "Low frequency"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Clinical Trials"
+        ],
+        [
+          "Small"
+        ],
+        [
+          "Enhance (action)"
+        ],
+        [
+          "Specimen Source Codes - tumor"
+        ],
+        [
+          "Slow"
+        ],
+        [
+          "Kind of quantity - Frequency"
+        ],
+        [
+          "Receive"
+        ],
+        [
+          "Add - instruction imperative"
+        ],
+        [
+          "Case (situation)"
+        ],
+        [
+          "Metastatic to"
+        ],
+        [
+          "Result"
+        ],
+        [
+          "Newly Diagnosed"
+        ],
+        [
+          "Longterm Effects"
+        ],
+        [
+          "Tumor cells, malignant"
+        ],
+        [
+          "Population Median"
+        ],
+        [
+          "kHz"
+        ],
+        [
+          "Histidine"
+        ],
+        [
+          "Non-invasive"
+        ],
+        [
+          "Local"
+        ],
+        [
+          "Cancer Therapeutic Procedure"
+        ],
+        [
+          "Standard (document)"
+        ],
+        [
+          "Effectiveness"
+        ],
+        [
+          "utilization qualifier"
+        ],
+        [
+          "Phase I/II Trial"
+        ],
+        [
+          "Potential"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "Patterns"
+        ],
+        [
+          "United States"
+        ],
+        [
+          "Clinical"
+        ],
+        [
+          "Magnesium Cation"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Standard of Care"
+        ],
+        [
+          "Data"
+        ],
+        [
+          "bevacizumab"
+        ],
+        [
+          "Patient Condition Code - Stable"
+        ],
+        [
+          "Adjustment Action"
+        ],
+        [
+          "year"
+        ],
+        [
+          "Continuance of life"
+        ],
+        [
+          "HL7CommitteeIDInRIM \u003cPatient Administration\u003e"
+        ],
+        [
+          "With frequency"
+        ],
+        [
+          "Experience"
+        ],
+        [
+          "Continuous"
+        ],
+        [
+          "Solid"
+        ],
+        [
+          "Open"
+        ],
+        [
+          "Paclitaxel"
+        ]
+      ],
+      "id": "56c1f007ef6e39474100003b",
+      "ideal_answer": "Alternating electric fields (tumor-treating fields therapy) can improve chemotherapy treatment efficacy in non-small cell lung cancer both in vitro and in vivo. BACKGROUND: The present study explores the efficacy and toxicity of combining a new, non-toxic, cancer treatment modality, termed Tumor Treating Fields (TTFields), with chemotherapeutic treatment in-vitro, in-vivo and in a pilot clinical trial. Tumor treating fields (TTFields) is a noninvasive, regional antimitotic treatment modality that has been approved for the treatment of recurrent glioblastoma by the U.S. FDA and has a CE mark in Europe. Promising preclinical data have led to a single arm phase I/II trial in NSCLC patients.METHODS: Forty-two inoperable stage IIIB (with pleural effusion) and IV NSCLC patients who had had tumor progression received pemetrexed 500 mg/m(2) iv q3w together with daily TTFields therapy until disease progression. Recurrent GBM patients from two prior trials with demonstrated radiologic tumor response to single-agent NovoTTF Therapy were analyzed to better characterize tumor response patterns and evaluate the associations between response, compliance, and OS. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c44ce83aaba2a675000001",
+      "ideal_answer": "Transposon-free regions in mammalian genomes. Despite the presence of over 3 million transposons separated on average by approximately 500 bp, the human and mouse genomes each contain almost 1000 transposon-free regions (TFRs) over 10 kb in length. Many human TFRs also overlap with orthologous TFRs in the marsupial opossum, indicating that these regions have remained refractory to transposon insertion for long evolutionary periods. The majority of human TFRs correlate with orthologous TFRs in the mouse, despite the fact that most transposons are lineage specific. Most TFRs are not associated with unusual nucleotide composition, but are significantly associated with genes encoding developmental regulators, suggesting that they represent extended regions of regulatory information that are largely unable to tolerate insertions, a conclusion difficult to reconcile with current conceptions of gene regulation. Over 90% of the bases covered by TFRs are noncoding, much of which is not highly conserved. "
+    },
+    {
+      "id": "56c1f00fef6e394741000040",
+      "ideal_answer": "It is unclear, however, if this difference was related to climatological changes or inexperienced medical trainees (the July effect). Given the nonteaching nature of these hospitals, the findings demonstrate that increases in the rate of SSI during the summer are more likely related to ecological and/or environmental factors than the July effect. BACKGROUND: Lower quality of care and poorer outcomes are suspected when new trainees (eg, residents) start in July in teaching hospitals, the so-called \"the July effect.\". SUMMARY OF BACKGROUND DATA: The July effect is the hypothetical increase in morbidity and mortality thought to be associated with the influx of new (or newly promoted) trainees during the first portion of the academic year. PURPOSE: Researchers have found mixed results about the risk to patient safety in July, when newly minted physicians enter U.S. hospitals to begin their clinical training, the so-called \"July effect.\". INTRODUCTION: There has been concern of increased emergency department (ED) length of stay (LOS) during the months when new residents are orienting to their roles. This so-called \"July Effect\" has long been thought to increase LOS, and potentially contribute to hospital overcrowding and increased waiting time for patients. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Protein-Protein Interaction"
+        ],
+        [
+          "Staphylococcal Protein A"
+        ],
+        [
+          "Fluorescent stain"
+        ],
+        [
+          "Life"
+        ],
+        [
+          "Embryo"
+        ]
+      ],
+      "id": "56c868a95795f9a73e000017",
+      "ideal_answer": "Using a Hox protein partnership as a test case, we investigated the suitability of BiFC for the study of protein interactions in the living Drosophila embryo. Here we present a detailed protocol for performing BiFC with the Venus fluorescent protein in live Drosophila embryos, taking the Hox-PBC partnership as an illustrative test case. This protocol applies to any transcription factor and split fluorescent protein in general. This method was recently developed in the fruit fly Drosophila melanogaster, allowing analyzing protein interaction properties in a physiologically relevant developing context. Bimolecular fluorescence complementation (BiFC) is a powerful method for studying protein-protein interactions in different cell types and organisms. The bimolecular fluorescence complementation (BiFC) technology offers this possibility as it enables the direct visualization of protein interactions in living cells. Importantly, all BiFC parameters were established with constructs that were stably expressed under the control of endogenous promoters. Under these physiological conditions, we showed that BiFC is specific and sensitive enough to analyse dynamic protein interactions. We next used BiFC in a candidate interaction screen, which led to the identification of several Hox protein partners. The understanding of developmental complexity will, therefore, require the characterization of protein interactions within their proper environment. "
+    },
+    {
+      "id": "56c1f011ef6e394741000042",
+      "ideal_answer": "More recently, monoclonal antibodies have been engineered to act through specific mechanisms such as blocking alpha-4 integrin interactions (natalizumab) or lysing cells bearing specific markers, for example CD52 (alemtuzumab) or CD20 (ocrelizumab and ofatumumab). In this review, we further discuss evidence for B cell and Ig contribution to human MS and NMO pathogenesis, pro-inflammatory and regulatory B cell effector functions, impaired B cell immune tolerance, the B cell-fostering microenvironment in the CNS, and B cell-targeted therapeutic interventions for MS and NMO, including CD20 depletion (rituximab, ocrelizumab, and ofatumumab), anti-IL6-R (tocilizumab), complement-blocking (eculizumab), inhibitors of AQP4-Ig binding (aquaporumab, small molecular compounds), and BAFF/BAFF-R-targeting agents. This is because of: (i) patent expirations, (ii) the introduction of natalizumab, which targets the interaction between leukocytes and the blood-CNS barrier, (iii) the launch of three oral immunomodulatory drugs (fingolimod, dimethyl fumarate and teriflunomide), with another (laquinimod) under regulatory review and (iv) a number of immunomodulatory monoclonal antibodies (alemtuzumab, daclizumab and ocrelizumab) about to enter the market. Today, there is broad experience with natalizumab and other MOAB (alemtuzumab, daclizumab, rituximab, ocrelizumab, ofatumumab and anti-lingo-1) that are pending commercialization or are under phase II or III of development with promising results. "
+    },
+    {
+      "exact_answer": [
+        [
+          "With shape"
+        ],
+        [
+          "DNA"
+        ],
+        [
+          "Annotations"
+        ],
+        [
+          "Genome"
+        ],
+        [
+          "Genomic DNA"
+        ]
+      ],
+      "id": "56c8f4615795f9a73e00001a",
+      "ideal_answer": "GBshape: a genome browser database for DNA shape annotations. GBshape can be used to visualize DNA shape annotations qualitatively in a genome browser track format, and to download quantitative values of DNA shape features as a function of genomic position at nucleotide resolution. As biological applications, we illustrate the periodicity of DNA shape features that are present in nucleosome-occupied sequences from human, fly and worm, and we demonstrate structural similarities between transcription start sites in the genomes of four Drosophila species. provides minor groove width, propeller twist, roll, helix twist and hydroxyl radical cleavage predictions for the entire genomes of 94 organisms. Our Genome Browser for DNA shape annotations (GBshape; freely available at http://rohslab.cmb.usc.edu/GBshape/). Additional genomes can easily be added using the GBshape framework. "
+    },
+    {
+      "exact_answer": [
+        [
+          "IMC-11F8 monoclonal antibody"
+        ],
+        [
+          "IgG1"
+        ],
+        [
+          "Monoclonal Antibodies"
+        ],
+        [
+          "cetuximab"
+        ],
+        [
+          "Human normal immunoglobulin"
+        ]
+      ],
+      "id": "56c1f01cef6e394741000044",
+      "ideal_answer": "A Southwest Oncology Group study currently prospectively evaluates the predictive biomarkers for cetuximab. Necitumumab, a fully human monoclonal antibody, is currently evaluated in combination with chemotherapy in two phase III trials in patients with advanced NSCLC. A phase I pharmacologic study of necitumumab (IMC-11F8), a fully human IgG1 monoclonal antibody directed against EGFR in patients with advanced solid malignancies. Necitumunab is a fully human IgG1 monoclonal antibody targeting EGFR, having the potential benefit of lower hypersensitivity reaction risk as compared with cetuximab and also equivalent antibody-dependent cell-mediated cytotoxicity. Numerous other drugs are in earlier stages of development for HNSCC treatment, including novel anti-EGFR mAbs (MEHD7945A, necitumumab, and RO5083945), small-molecule TKIs (vandetanib, icotinib, and CUDC-101), EGFR antisense, various add-on therapies to radiation and chemotherapy (bevacizumab, interleukin-12, lenalidomide, alisertib, and VTX-2337), and drugs (temsirolimus, everolimus, OSI-906, dasatinib, and PX-866) intended to overcome resistance to anti-EGFR agents. PURPOSE: This study aimed to determine a maximum tolerated dose (MTD) and recommended dose for disease-directed studies of necitumumab (IMC-11F8), a fully human IgG(1) monoclonal antibody directed at the epidermal growth factor receptor, and to characterize the safety profile, pharmacokinetics, preliminary antitumor activity, and immunogenicity of necitumumab. "
+    },
+    {
+      "id": "56c8f7445795f9a73e00001b",
+      "ideal_answer": "DNAshape: a method for the high-throughput prediction of DNA structural features on a genomic scale. We present a method and web server for predicting DNA structural features in a high-throughput (HT) manner for massive sequence data. The HT methodology uses a sliding-window approach to mine DNA structural information obtained from Monte Carlo simulations. The results of rigorous validations of the HT predictions based on DNA structures solved by X-ray crystallography and NMR spectroscopy, hydroxyl radical cleavage data, statistical analysis and cross-validation, and molecular dynamics simulations provide strong confidence in this approach. This approach provides the framework for the integration of DNA sequence and shape analyses in genome-wide studies. It requires only nucleotide sequence as input and instantly predicts multiple structural features of DNA (minor groove width, roll, propeller twist and helix twist). The DNAshape web server is freely available at http://rohslab.cmb.usc.edu/DNAshape/. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56c1f01eef6e394741000046",
+      "ideal_answer": "In a phase II study, researchers found that the PARP inhibitor olaparib led to stable disease or tumor regressions in patients with advanced breast, ovarian, pancreatic, and prostate cancers who had germline mutations in BRCA1 or BRCA2. It is increasingly clear that there are molecularly distinct subtypes of various common cancers, with different therapeutic approaches required for each subtype, for example, the use of the monoclonal antibodies (trastuzumab and cetuximab) in HER2-positive breast cancer and wild-type KRAS colorectal cancer; tyrosine kinase inhibitors (imatinib, gefitinib, erlotinib and crizotinib) in chronic myeloid leukaemia, gastrointestinal stromal tumours and non-small-cell lung cancer and intracellular agents (vemurafenib and olaparib) in metastatic malignant melanoma and ovarian, breast and prostate cancer. We hypothesized that metastatic, castration-resistant prostate cancers with DNA-repair defects would respond to poly(adenosine diphosphate [ADP]-ribose) polymerase (PARP) inhibition with olaparib.METHODS: We conducted a phase 2 trial in which patients with metastatic, castration-resistant prostate cancer were treated with olaparib tablets at a dose of 400 mg twice a day. CONCLUSIONS: Treatment with the PARP inhibitor olaparib in patients whose prostate cancers were no longer responding to standard treatments and who had defects in DNA-repair genes led to a high response rate. "
+    },
+    {
+      "id": "56c904745795f9a73e00001c",
+      "ideal_answer": "Some ion channels are directly implemented in chemical signaling pathways, the others are involved in regulation of cytoplasmic or vesicular ion concentrations, pH, cell volume, and membrane potentials. Together with ion transporters and gap junction complexes, ion channels form steady-state voltage gradients across the cell membranes in nonexcitable cells. While the importance of membrane potential in stem cell maintenance, proliferation, and differentiation is evident, the mechanisms of this bioelectric control of stem cell activity are still not well understood, and the role of specific ion channels in these processes remains unclear. Bioelectrical signals generated by ion channels play crucial roles in many cellular processes in both excitable and nonexcitable cells. These membrane potentials are involved in regulation of such processes as migration guidance, cell proliferation, and body axis patterning during development and regeneration. We discuss biological and experimental properties of M. lignano, provide an overview of the recently developed experimental tools for this animal model, and demonstrate how manipulation of membrane potential influences regeneration in M. lignano. Here we introduce the flatworm Macrostomum lignano as a versatile model organism for addressing these topics. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Classification"
+        ],
+        [
+          "Cyst"
+        ],
+        [
+          "Type 3"
+        ],
+        [
+          "Type 1"
+        ],
+        [
+          "Arachnoidal cyst"
+        ]
+      ],
+      "id": "56c1f021ef6e394741000048",
+      "ideal_answer": "Chronic subdural hemorrhage into a giant arachnoidal cyst (Galassi classification type III). We are led to conclude that Fenestration is suitable for cysts of types I and II (Galassi classification), cysto-peritoneal shunting is better for cysts of type III. On follow-up CT scan and MRI, cysts of types I and II (Galassi classification) exhibited a steady tendency to reduction or obliteration. The authors present CT and MRI of a patient with an extremely large arachnoidal cyst (Galassi classification type III). All these patients were divided into three subgroups according to Galassi classification. According to Galassi classification they were subdivided into 3 groups. According to Galassi classification they were subdivided in three groups. All cysts were type II according to Galassi classification. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56d19ffaab2fed4a47000001",
+      "ideal_answer": "spliceR: an R package for classification of alternative splicing and prediction of coding potential from RNA-seq data. Recent software improvements in full-length transcript deconvolution prompted us to develop spliceR, an R package for classification of alternative splicing and prediction of coding potential. spliceR uses the full-length transcript output from RNA-seq assemblers to detect single or multiple exon skipping, alternative donor and acceptor sites, intron retention, alternative first or last exon usage, and mutually exclusive exon events. Lastly, spliceR predicts the coding potential, as well as the potential nonsense mediated decay (NMD) sensitivity of each transcript. For each transcript isoform fraction values are calculated to identify transcript switching between conditions. For each of these events spliceR also annotates the genomic coordinates of the differentially spliced elements, facilitating downstream sequence analysis. "
+    },
+    {
+      "id": "56c1f027ef6e394741000049",
+      "ideal_answer": "According to the first publication in 1993 by Rauscher et al. [Nature 1993;365:611], the Mozart effect implies the enhancement of reasoning skills solving spatial problems in normal subjects after listening to Mozart\u0027s piano sonata K 448. Here, we investigated the cerebellar role in the association between spatial and musical domains, by testing performances in embodied (EMR) or abstract (AMR) mental rotation tasks of subjects listening Mozart Sonata K.448, which is reported to improve spatial-temporal reasoning, in the presence or in the absence of continuous theta burst stimulation (cTBS) of the left cerebellar hemisphere. The Mozart Effect is a phenomenon whereby certain pieces of music induce temporary enhancement in \"spatial temporal reasoning.\". In the absence of cerebellar cTBS, music listening did not influence either MR task, thus not revealing a \"Mozart Effect\". OBJECTIVE: Listening to Mozart K.448 has been demonstrated to improve spatial task scores, leading to what is known as the Mozart Effect. Mozart\u0027s Sonata for two pianos in D major, K.448 (Mozart K.448), has been shown to improve mental function, leading to what is known as the Mozart effect. Mozart K.448 has been shown to improve cognitive function, leading to what is known as the Mozart Effect. "
+    },
+    {
+      "id": "56d1a9baab2fed4a47000002",
+      "ideal_answer": "TOPAZ1, a novel germ cell-specific expressed gene conserved during evolution across vertebrates. The expression pattern of TOPAZ1, and its high degree of conservation, suggests that it may play an important role in germ cell development. We have identified a novel PAZ-domain protein that is abundantly expressed in the gonads during germ cell meiosis. TOPAZ1 protein is highly conserved in vertebrates and specifically expressed in mouse and sheep gonads. It is localized in the cytoplasm of germ cells from the sheep fetal ovary and mouse adult testis. Further characterization of TOPAZ1 may elucidate the mechanisms involved in gametogenesis, and particularly in the RNA silencing process in the germ line. "
+    },
+    {
+      "exact_answer": [
+        [
+          "siltuximab"
+        ],
+        [
+          "Recombinant Interleukin-6"
+        ],
+        [
+          "Interleukin-6, human"
+        ],
+        [
+          "bortezomib"
+        ],
+        [
+          "tocilizumab"
+        ]
+      ],
+      "id": "56c1f02aef6e39474100004b",
+      "ideal_answer": "This review also summarizes the biologics targeting either IL-6 or the IL-6 receptor, including tocilizumab, sarilumab, sirukumab, olokizumab, clazakizumab, and siltuximab. PURPOSE: Siltuximab is a monoclonal antibody that binds to interleukin (IL)-6 with high affinity and specificity; C-reactive protein (CRP) is an acute-phase protein induced by IL-6. Siltuximab, a chimeric monoclonal antibody with high affinity and specificity for interleukin-6, has been shown to enhance anti-multiple myeloma activity of bortezomib and corticosteroid in vitro. We compared the safety and efficacy of siltuximab (S), an anti-interleukin-6 chimeric monoclonal antibody, plus bortezomib (B) with placebo (plc) + B in patients with relapsed/refractory multiple myeloma in a randomized phase 2 study. Currently, there are more effective therapeutic alternatives in multicentric Castleman disease: treatment with monotherapy of rituximab or in combination therapy with immunomodulatory drugs (thalidomide or lenalidomide, treatment with anti-IL-6 (siltuximab) or against its receptor (tocilizumab). A phase 2, randomized, double-blind, placebo-controlled study of siltuximab (anti-IL-6 mAb) and bortezomib versus bortezomib alone in patients with relapsed or refractory multiple myeloma. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "56d1d56b67f0cb3d66000004",
+      "ideal_answer": "Here we profiled the transcriptome of primary brown and white adipocytes, preadipocytes, and cultured adipocytes and identified 175 lncRNAs that are specifically regulated during adipogenesis. RNAi-mediated loss of function screens identified functional lncRNAs with varying impact on adipogenesis. Many lncRNAs are adipose-enriched, strongly induced during adipogenesis, and bound at their promoters by key transcription factors such as peroxisome proliferator-activated receptor γ (PPARγ) and CCAAT/enhancer-binding protein α (CEBPα). Collectively, we have identified numerous lncRNAs that are functionally required for proper adipogenesis. Long noncoding RNAs regulate adipogenesis. "
+    },
+    {
+      "exact_answer": [
+        [
+          "GV1001"
+        ],
+        [
+          "Telomerase"
+        ],
+        [
+          "TERT protein, human"
+        ],
+        [
+          "Peptides"
+        ],
+        [
+          "gemcitabine"
+        ]
+      ],
+      "id": "56c1f02cef6e39474100004c",
+      "ideal_answer": "Based on this review, the most promising current telomerase targeting therapeutics are the antisense oligonucleotide inhibitor GRN163L and immunotherapies that use dendritic cells (GRVAC1), hTERT peptide (GV1001) or cryptic peptides (Vx-001). A study was conducted to investigate safety and immunogenicity in non-resectable pancreatic carcinoma patients using a 16-amino acid telomerase peptide (GV1001) for vaccination in combination with GM-CSF and gemcitabine as first line treatment. BACKGROUND: We aimed to assess the efficacy and safety of sequential or simultaneous telomerase vaccination (GV1001) in combination with chemotherapy in patients with locally advanced or metastatic pancreatic cancer. Peptide GV1001 is a peptide vaccine representing a 16-amino acid human telomerase reverse transcriptase sequence, which has been reported to possess potential antineoplastic and anti-inflammatory activity. Telomerase (GV1001) vaccination together with gemcitabine in advanced pancreatic cancer patients. Together, these results suggest that GV1001 possesses neuroprotective effects against Aβ₂₅₋₃₅ oligomer in NSCs and that these effects are mediated through mimicking the extra-telomeric functions of human telomerase reverse transcriptase, including the induction of cellular proliferation, anti-apoptotic effects, mitochondrial stabilization, and anti-aging and anti-oxidant effects. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Regulatory Sequences, Nucleic Acid"
+        ],
+        [
+          "Biological Evolution"
+        ],
+        [
+          "Vertebrates"
+        ],
+        [
+          "Elements"
+        ],
+        [
+          "Period (temporal qualifier)"
+        ]
+      ],
+      "id": "56d1da3b67f0cb3d66000006",
+      "ideal_answer": "Three periods of regulatory innovation during vertebrate evolution. To investigate the gain of regulatory elements throughout vertebrate evolution, we identified genome-wide sets of putative regulatory regions for five vertebrates, including humans. Early vertebrate evolution was characterized by regulatory gains near transcription factors and developmental genes, but this trend was replaced by innovations near extracellular signaling genes, and then innovations near posttranslational protein modifiers. Our analysis identified three extended periods in the evolution of gene regulatory elements. These putative regulatory regions are conserved nonexonic elements (CNEEs), which are evolutionarily conserved yet do not overlap any coding or noncoding mature transcript. We then inferred the branch on which each CNEE came under selective constraint. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Developmental Delay, Epilepsy, and Neonatal Diabetes"
+        ],
+        [
+          "Epilepsy"
+        ],
+        [
+          "Syndrome"
+        ],
+        [
+          "Developmental delay (disorder)"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "Neonatal diabetes mellitus"
+        ],
+        [
+          "Observation Interpretation - intermediate"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Lacking"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Mild (qualifier value)"
+        ],
+        [
+          "Manufactured form"
+        ],
+        [
+          "Neurologic (qualifier value)"
+        ],
+        [
+          "Glyburide"
+        ],
+        [
+          "motor movement"
+        ],
+        [
+          "DIABETES MELLITUS, PERMANENT NEONATAL"
+        ],
+        [
+          "ABCC8 gene"
+        ],
+        [
+          "Neurologic Symptoms"
+        ],
+        [
+          "year"
+        ],
+        [
+          "Approximate"
+        ],
+        [
+          "Response process"
+        ],
+        [
+          "Type - attribute"
+        ],
+        [
+          "Administration of insulin"
+        ],
+        [
+          "Feature"
+        ],
+        [
+          "Mild phenotype"
+        ],
+        [
+          "Frequent"
+        ],
+        [
+          "follow-up"
+        ],
+        [
+          "Possibly Related to Intervention"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "include - SetOperator"
+        ],
+        [
+          "Intermediate syndrome"
+        ],
+        [
+          "Definition"
+        ],
+        [
+          "Range"
+        ],
+        [
+          "Problems - What subject filter"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "Some (qualifier value)"
+        ],
+        [
+          "Severe (severity modifier)"
+        ],
+        [
+          "P prime"
+        ],
+        [
+          "Control function"
+        ],
+        [
+          "Revealed"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Image Feature"
+        ],
+        [
+          "Variability"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "Mental Retardation"
+        ],
+        [
+          "Clinical"
+        ],
+        [
+          "Infant"
+        ],
+        [
+          "KCNJ11 gene"
+        ],
+        [
+          "Phenotype determination"
+        ],
+        [
+          "Oral"
+        ],
+        [
+          "Note (document)"
+        ],
+        [
+          "TRICHOHEPATOENTERIC SYNDROME"
+        ],
+        [
+          "DIABETES MELLITUS, PERMANENT NEONATAL (allelic variant)"
+        ],
+        [
+          "Follow-up status"
+        ],
+        [
+          "Rare"
+        ],
+        [
+          "Designated"
+        ],
+        [
+          "Switch Device Component"
+        ],
+        [
+          "Inferior"
+        ],
+        [
+          "Blood Glucose"
+        ],
+        [
+          "Verification"
+        ],
+        [
+          "Raised"
+        ],
+        [
+          "Transitory"
+        ],
+        [
+          "Developmental delay, severe"
+        ],
+        [
+          "Gene Mutation"
+        ],
+        [
+          "Science of Etiology"
+        ],
+        [
+          "Widening"
+        ]
+      ],
+      "id": "56c1f030ef6e39474100004d",
+      "ideal_answer": "Wide phenotype variability is associated with single ABCC8 mutations, ranging from transient or permanent neonatal diabetes (ND) with or without developmental delay (DEND syndrome) to very mild phenotypes. The patient with the V59M mutation successfully switched from insulin injections to oral glibenclamide; 2 years of follow-up revealed that the patient had intermediate developmental delay, epilepsy and neonatal diabetes (DEND) syndrome. Specific uncommon mutations KCNJ11give rise to a syndrome defined as developmental delay, epilepsy, and neonatal diabetes (DEND), or - more frequently - to a milder sub-type lacking epilepsy, denoted as intermediate-DEND (iDEND). Approximately 20% have associated neurologic features: the most severe form, which includes epilepsy and developmental delay, is called developmental delay, epilepsy, and neonatal diabetes (DEND) syndrome and the milder form, with less severe developmental delay and without epilepsy, is designated intermediate DEND syndrome. Some mutations in this gene, including p.Q52R, are associated with the developmental delay, epilepsy, neonatal diabetes (DEND) syndrome. Developmental delay was noted on follow-up which raised the possibility of intermediate DEND syndrome. "
+    },
+    {
+      "id": "56d1ddd267f0cb3d66000008",
+      "ideal_answer": "The new package provides functions that can be used to search Bioconductor genomes and other DNA sequence data for occurrence of nucleotide patterns capable of forming intramolecular triplexes (H-DNA). Triplex: an R/Bioconductor package for identification and visualization of potential intramolecular triplex patterns in DNA sequences. Functions producing 2D and 3D diagrams of the identified triplexes allow instant visualization of the search results. Leveraging the power of Biostrings and GRanges classes, the results get fully integrated into the existing Bioconductor framework, allowing their passage to other Genome visualization and annotation packages, such as GenomeGraphs, rtracklayer or Gviz. "
+    },
+    {
+      "exact_answer": [
+        [
+          "PALMOPLANTAR KERATODERMA, MUTILATING, WITH PERIORIFICIAL KERATOTIC PLAQUES"
+        ],
+        [
+          "Syndrome"
+        ],
+        [
+          "X-linked inheritance"
+        ],
+        [
+          "Photophobia"
+        ],
+        [
+          "Atrichia"
+        ],
+        [
+          "Ichthyoses"
+        ],
+        [
+          "KFSD gene"
+        ],
+        [
+          "Rare"
+        ],
+        [
+          "Hypoplasia"
+        ],
+        [
+          "Online Mendelian Inheritance In Man"
+        ],
+        [
+          "Ectodermal Dysplasia"
+        ],
+        [
+          "Endopeptidases"
+        ],
+        [
+          "Hirschsprung Disease"
+        ],
+        [
+          "Follicular ichthyosis"
+        ],
+        [
+          "Congenital anomaly of brain"
+        ],
+        [
+          "Triad Acrylic Resin"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Congenital hypoplasia of kidney"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Follicle"
+        ],
+        [
+          "Internal-External Locus of Control Scale"
+        ],
+        [
+          "MBTPS2 gene"
+        ],
+        [
+          "Prune Belly Syndrome"
+        ],
+        [
+          "Reporting"
+        ],
+        [
+          "Usual"
+        ],
+        [
+          "hearing impairment"
+        ],
+        [
+          "Severe phenotype"
+        ],
+        [
+          "Intronic Mutation"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Eye"
+        ],
+        [
+          "Etiology aspects"
+        ],
+        [
+          "reminiscence"
+        ],
+        [
+          "EAR DEFORMITY"
+        ],
+        [
+          "HNF1B gene"
+        ],
+        [
+          "Gram per Deciliter"
+        ],
+        [
+          "SKELETAL DEFORMITY"
+        ],
+        [
+          "Missense Mutation"
+        ],
+        [
+          "Recurrent"
+        ],
+        [
+          "Hirschsprung disease 1"
+        ],
+        [
+          "Keratoderma"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Global developmental delay"
+        ],
+        [
+          "Growth"
+        ],
+        [
+          "Spectrum"
+        ],
+        [
+          "Brain Anomalies, Retardation, Ectodermal Dysplasia, Skeletal Malformations, Hirschsprung Disease, Ear/Eye Anomalies, Cleft Palate/Cryptorchidism, And Kidney Dysplasia/Hypoplasia"
+        ],
+        [
+          "Manufactured form"
+        ],
+        [
+          "TRICHOHEPATOENTERIC SYNDROME"
+        ],
+        [
+          "Cleft Palate"
+        ],
+        [
+          "Membrane"
+        ],
+        [
+          "Genetic Diseases, X-Linked"
+        ],
+        [
+          "Congenital malformation syndrome"
+        ],
+        [
+          "Rare abnormalities"
+        ],
+        [
+          "Dysplasia"
+        ],
+        [
+          "Multiple congenital anomalies"
+        ],
+        [
+          "Cryptorchidism"
+        ],
+        [
+          "Renal dysplasia"
+        ],
+        [
+          "Ichthyosis follicularis atrichia photophobia syndrome"
+        ],
+        [
+          "Skin Diseases, Genetic"
+        ],
+        [
+          "Presentation"
+        ],
+        [
+          "% bound (qualifier value)"
+        ],
+        [
+          "Chinese Language"
+        ],
+        [
+          "Pachyonychia"
+        ],
+        [
+          "Widening"
+        ]
+      ],
+      "id": "56c1f038ef6e394741000051",
+      "ideal_answer": "Mutations in MBTPS2 have been reported to cause a broad phenotypic spectrum of X-linked genodermatoses, including IFAP (ichthyosis follicularis; atrichia and photophobia) syndrome (OMIM 308205) with or without BRESHECK (brain anomalies, retardation of mentality and growth, ectodermal dysplasia, skeletal malformations, Hirschsprung disease, ear deformity and deafness, eye hypoplasia, cleft palate, cryptorchidism, and kidney dysplasia/hypoplasia) syndrome, keratosis follicularis spinulosa decalvans (KFSD; OMIM 308800) and an X-linked form of Olmsted syndrome. This patient presented with a severe IFAP/BRESHECK phenotype including ichthyosis follicular, atrichia, photophobia, brain anomalies, global developmental delay, Hirschsprung disease and kidney hypoplasia. We report a recurrent intronic mutation in MBTPS2 (c.671-9T\u003eG) in a Chinese patient with the typical triad of IFAP syndrome (i.e. The ichthyosis follicular with atrichia and photophobia syndrome (IFAP) is a rare X-linked multiple congenital malformation syndrome. Missense mutations affecting membrane-bound transcription factor protease site 2 (MBTPS2) have been associated with Ichthyosis Follicularis with Atrichia and Photophobia (IFAP) syndrome with or without BRESHECK syndrome, with keratosis follicularis spinulosa decalvans, and Olmsted syndrome. The IFAP syndrome is a rare X-linked genetic disorder characterized by the triad of follicular ichthyosis, atrichia, and photophobia. "
+    }
+  ]
+}

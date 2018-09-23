@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "What symptoms characterize the Muenke syndrome?", 
+      "type": "summary", 
+      "id": "52bf1d3c03868f1b0600000d"
+    }, 
+    {
+      "body": "What is the inheritance pattern of Li\u2013Fraumeni syndrome?", 
+      "type": "factoid", 
+      "id": "52bf208003868f1b06000019"
+    }, 
+    {
+      "body": "What are the indications for alteplase?", 
+      "type": "list", 
+      "id": "52bf209303868f1b0600001a"
+    }, 
+    {
+      "body": "Does Apolipoprotein E (ApoE) have anti-inflammatory activity?", 
+      "type": "yesno", 
+      "id": "530cf4fe960c95ad0c000002"
+    }, 
+    {
+      "body": "Is the ACE inhibitor indicated for lung cancer treatment?", 
+      "type": "yesno", 
+      "id": "530cf4fe960c95ad0c000005"
+    }, 
+    {
+      "body": "What are the indications for hydrochlorothiazide?", 
+      "type": "list", 
+      "id": "530cf4fe960c95ad0c000007"
+    }, 
+    {
+      "body": "Can tetracyline affect tooth formation?", 
+      "type": "yesno", 
+      "id": "530cf4fe960c95ad0c000009"
+    }, 
+    {
+      "body": "Is zolpidem an antibiotic?", 
+      "type": "yesno", 
+      "id": "530cf4fe960c95ad0c00000a"
+    }, 
+    {
+      "body": "Which type of lung cancer is afatinib used for?", 
+      "type": "factoid", 
+      "id": "530cf4fe960c95ad0c00000b"
+    }, 
+    {
+      "body": "Can desvenlafaxine be used at a dose of 50mg/day?", 
+      "type": "yesno", 
+      "id": "530cf4fe960c95ad0c00000c"
+    }, 
+    {
+      "body": "Can ferric carboxymaltose be used to treat anemia in inflammatory bowel disease patients?", 
+      "type": "yesno", 
+      "id": "530cf4fe960c95ad0c00000d"
+    }, 
+    {
+      "body": "What is the clinical indication of cardiac T1 mapping magnetic resonance?", 
+      "type": "factoid", 
+      "id": "530cf51d5610acba0c000001"
+    }, 
+    {
+      "body": "Which are the Yamanaka factors?", 
+      "type": "list", 
+      "id": "53137541e3eabad021000010"
+    }, 
+    {
+      "body": "Which hormone abnormalities are characteristic to Pendred syndrome?", 
+      "type": "factoid", 
+      "id": "53148a07dae131f847000002"
+    }, 
+    {
+      "body": "What is the role of brain natriuretic peptide in traumatic brain injury patients ?", 
+      "type": "summary", 
+      "id": "5314d05adae131f84700000d"
+    }, 
+    {
+      "body": "What are the applications of a Dermaroller ?", 
+      "type": "summary", 
+      "id": "5325a1a69b2d7acc7e000025"
+    }, 
+    {
+      "body": "What imaging modalities have been listed as method of choice  to diagnose CSF leak?", 
+      "type": "list", 
+      "id": "5326300fd6d3ac6a34000005"
+    }, 
+    {
+      "body": "What is being measured with an accelerometer in back pain patients", 
+      "type": "list", 
+      "id": "533f9df0c45e133714000016"
+    }, 
+    {
+      "body": "How could U1 small nuclear RNA be used in therapeutics?", 
+      "type": "summary", 
+      "id": "5357a514f1005d6b58000003"
+    }, 
+    {
+      "body": "Which is the branch site consensus sequence in U12-dependent introns?", 
+      "type": "factoid", 
+      "id": "5357a6d0f1005d6b58000004"
+    }, 
+    {
+      "body": "Which is the main CHEK2 genetic variant, thought to be involved in familial breast cancer?", 
+      "type": "factoid", 
+      "id": "5357b36cf1005d6b58000006"
+    }, 
+    {
+      "body": "Is PER3 required for CHK2 activation in human cells?", 
+      "type": "yesno", 
+      "id": "5357b5ecf1005d6b58000007"
+    }, 
+    {
+      "body": "Which are the major intramolecular phosphorylation sites of human Chk2 involved in cell cycle control?", 
+      "type": "list", 
+      "id": "5357b9bcf1005d6b58000008"
+    }, 
+    {
+      "body": "What is the effect of Chk2 splice variants on wild-type Chk2 kinase activity?", 
+      "type": "summary", 
+      "id": "5357bd56f1005d6b58000009"
+    }, 
+    {
+      "body": "Are long non coding RNAs spliced?", 
+      "type": "yesno", 
+      "id": "535d292a9a4572de6f000003"
+    }, 
+    {
+      "body": "What is SCENAR therapy used for?", 
+      "type": "list", 
+      "id": "535d69177d100faa09000003"
+    }, 
+    {
+      "body": "What is known about the role of mHealth in the prevention of disease?", 
+      "type": "summary", 
+      "id": "535d7c247d100faa09000006"
+    }, 
+    {
+      "body": "Which is the relation between sweating and anaerobic threshold?", 
+      "type": "factoid", 
+      "id": "536787467d100faa09000010"
+    }, 
+    {
+      "body": "Which is the gene most commonly mutated in Tay-Sachs disease?", 
+      "type": "factoid", 
+      "id": "536e46f27d100faa09000012"
+    }, 
+    {
+      "body": "Can siRNA affect response to afatinib treatment?", 
+      "type": "yesno", 
+      "id": "54297ed2289fd6cb07000001"
+    }, 
+    {
+      "body": "Mutations of which genes have been associated with Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)?", 
+      "type": "list", 
+      "id": "54c225bcf693c3b16b000002"
+    }, 
+    {
+      "body": "Is Calcium homeostasis important in cardiac physiology and pathophysiology?", 
+      "type": "yesno", 
+      "id": "54c26e29f693c3b16b000003"
+    }, 
+    {
+      "body": "Which genes have been proposed as potential candidates for gene therapy of heart failure?", 
+      "type": "list", 
+      "id": "54c90dabf693c3b16b000004"
+    }, 
+    {
+      "body": "Which is the main regulatory molecule of SERCA2A function in the cardiac muscle?", 
+      "type": "factoid", 
+      "id": "54cb9c94f693c3b16b000005"
+    }, 
+    {
+      "body": "Describe armoured brain syndrome.", 
+      "type": "summary", 
+      "id": "54cf42bdf693c3b16b000007"
+    }, 
+    {
+      "body": "Synostosis of which cranial structures are characteristic to the Mercedes Benz syndrome?", 
+      "type": "list", 
+      "id": "54cf43abf693c3b16b000008"
+    }, 
+    {
+      "body": "Is it possible to visualize subtahalamic nucleus by using transcranial ultrasound?", 
+      "type": "yesno", 
+      "id": "54cf449cf693c3b16b000009"
+    }, 
+    {
+      "body": "Which is the main calcium binding protein of the sarcoplasmic reticulum?", 
+      "type": "factoid", 
+      "id": "54cf45e7f693c3b16b00000a"
+    }, 
+    {
+      "body": "Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?", 
+      "type": "yesno", 
+      "id": "54cf48acf693c3b16b00000b"
+    }, 
+    {
+      "body": "Is pregabalin effective for treatment of patients with restless leg syndrome?", 
+      "type": "yesno", 
+      "id": "54cf4a0ef693c3b16b00000c"
+    }, 
+    {
+      "body": "Is there an association between serum interleukin-6 concentrations and outcomes of stroke patients?", 
+      "type": "yesno", 
+      "id": "54cf4bc3f693c3b16b00000d"
+    }, 
+    {
+      "body": "Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema?", 
+      "type": "list", 
+      "id": "54cf6d40f693c3b16b00000e"
+    }, 
+    {
+      "body": "Treatment of which disease was investigated in the MR CLEAN study?", 
+      "type": "factoid", 
+      "id": "54cf7051f693c3b16b000013"
+    }, 
+    {
+      "body": "List receptors of the drug Cilengitide", 
+      "type": "list", 
+      "id": "54cf705ff693c3b16b000014"
+    }, 
+    {
+      "body": "Does magnesium sulfate improve outcomes of subarachnoid hemorrhage patients?", 
+      "type": "yesno", 
+      "id": "54d62ede3706e89528000002"
+    }, 
+    {
+      "body": "Can NXY-059 be used for treatment of acute ischemic stroke patients?", 
+      "type": "yesno", 
+      "id": "54d62faf3706e89528000003"
+    }, 
+    {
+      "body": "Do carmustine wafers improve survival of glioblastoma patients?", 
+      "type": "yesno", 
+      "id": "54d630283706e89528000004"
+    }, 
+    {
+      "body": "Is there any association of the chromosomal region harboring the gene ITIH3 with schizophrenia?", 
+      "type": "yesno", 
+      "id": "54d63d873706e89528000006"
+    }, 
+    {
+      "body": "Which is the enzymatic activity of the myotubularin family of proteins?", 
+      "type": "factoid", 
+      "id": "54d6562c3706e8952800000b"
+    }, 
+    {
+      "body": "When are itaconic acid levels elevated?", 
+      "type": "factoid", 
+      "id": "54d669003706e8952800000e"
+    }, 
+    {
+      "body": "List Genes associated with adolescent idiopathic scoliosis", 
+      "type": "list", 
+      "id": "54d670163706e8952800000f"
+    }, 
+    {
+      "body": "What is the generic name of Gliolan?", 
+      "type": "factoid", 
+      "id": "54d73e223706e89528000010"
+    }, 
+    {
+      "body": "Can cognitive behavioral therapy improve fatigue in cancer patients?", 
+      "type": "yesno", 
+      "id": "54d762653706e89528000014"
+    }, 
+    {
+      "body": "Is there any data to suggest that TRH (thyrotropin releasing hormone) administration can improve symptom severity of amyotrophic lateral sclerosis patients?", 
+      "type": "yesno", 
+      "id": "54d76ac63706e89528000016"
+    }, 
+    {
+      "body": "What was the aim of the HAMLET clinical trial?", 
+      "type": "summary", 
+      "id": "54d776453706e89528000018"
+    }, 
+    {
+      "body": "List chromosomes that have been linked to Arnold Chiari syndrome in the literature.", 
+      "type": "list", 
+      "id": "54d77bdf3706e89528000019"
+    }, 
+    {
+      "body": "Is cytisine superior to nicotine replacement therapy for smoking cessation?", 
+      "type": "yesno", 
+      "id": "54d77f0e3706e8952800001b"
+    }, 
+    {
+      "body": "Has protein citrullination been implicated in rheumatoid arthritis?", 
+      "type": "yesno", 
+      "id": "54d796f93706e8952800001e"
+    }, 
+    {
+      "body": "Which is the subcellular localization of the protein angiogenin?", 
+      "type": "factoid", 
+      "id": "54d7a1047035c08008000002"
+    }, 
+    {
+      "body": "Which is the molecular weight of the protein angiogenin?", 
+      "type": "factoid", 
+      "id": "54d7ae1fe19bba8909000001"
+    }, 
+    {
+      "body": "What is the \"Proteomic ruler\"?", 
+      "type": "summary", 
+      "id": "54d7b457e19bba8909000004"
+    }, 
+    {
+      "body": "What are the hallmarks of congestive heart failure?", 
+      "type": "summary", 
+      "id": "54d892ee014675820d000005"
+    }, 
+    {
+      "body": "Do Parkinson's disease patients experience stridor?", 
+      "type": "yesno", 
+      "id": "54d8d4d1014675820d000006"
+    }, 
+    {
+      "body": "List BRAF inhibitors that have been tested in clinical trials for treatment of melanoma patients", 
+      "type": "list", 
+      "id": "54d8d60d014675820d000007"
+    }, 
+    {
+      "body": "What are the main characteristics of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)?", 
+      "type": "summary", 
+      "id": "54d8e319014675820d000009"
+    }, 
+    {
+      "body": "Which is the most prevalent form of arrhythmia worldwide?", 
+      "type": "factoid", 
+      "id": "54d8ea2c4b1fd0d33c000002"
+    }, 
+    {
+      "body": "What are the main characteristics/symptoms of the \"Brugada\" syndrome", 
+      "type": "summary", 
+      "id": "54d8efb84b1fd0d33c000003"
+    }, 
+    {
+      "body": "Is the HRC Ser96Ala variant associated with sudden cardiac death in patients with dilated cardiomyopathy?", 
+      "type": "yesno", 
+      "id": "54d8f37b4b1fd0d33c000004"
+    }, 
+    {
+      "body": "Rindopepimut is an analog of which growth factor?", 
+      "type": "factoid", 
+      "id": "54d8fd334b1fd0d33c000005"
+    }, 
+    {
+      "body": "Does nimotuzumab improve survival of glioblastoma patients?", 
+      "type": "yesno", 
+      "id": "54d901ec4b1fd0d33c000006"
+    }, 
+    {
+      "body": "Is DNA methylation an epigenetic modification of chromatin related to gene expression?", 
+      "type": "yesno", 
+      "id": "54d9f7894b1fd0d33c00000a"
+    }, 
+    {
+      "body": "Is phospholamban phosphorylated by Protein kinase A?", 
+      "type": "yesno", 
+      "id": "54da0c524b1fd0d33c00000b"
+    }, 
+    {
+      "body": "Describe what is the advantage of using a stain free protein gel in a Western Blot experiment?", 
+      "type": "summary", 
+      "id": "54da21bf4b1fd0d33c00000d"
+    }, 
+    {
+      "body": "Which is the main target of the anti-arrhythmic activity of flecainide?", 
+      "type": "factoid", 
+      "id": "54da32bc0f63c58e6e000001"
+    }, 
+    {
+      "body": "Is Alu hypomethylation associated with breast cancer?", 
+      "type": "yesno", 
+      "id": "54db1d580f63c58e6e000005"
+    }, 
+    {
+      "body": "What is the disorder in which mutations in U4atac snRNA are detected?", 
+      "type": "factoid", 
+      "id": "54db5e24bcba1b1817000002"
+    }, 
+    {
+      "body": "Which is the main calcium pump of the sarcoplasmic reticulum?", 
+      "type": "factoid", 
+      "id": "54db62a3034aea571d000001"
+    }, 
+    {
+      "body": "How many and which are the different isoforms for the ryanodine receptor?", 
+      "type": "list", 
+      "id": "54db7217c4c6ce8e1d000003"
+    }, 
+    {
+      "body": "Which protein kinases have been found to phosphorylate Phospholamban and affect its biological activity?", 
+      "type": "list", 
+      "id": "54db7c4ac0bb8dce23000001"
+    }, 
+    {
+      "body": "What is known as Calcium Induced Calcium Release (CICR) and its role in cardiomyocyte contractility?", 
+      "type": "summary", 
+      "id": "54dc8ed6c0bb8dce23000002"
+    }, 
+    {
+      "body": "Which pathological condition of the heart is known as hypertrophic cardiomyopathy (HCM)?", 
+      "type": "summary", 
+      "id": "54dcb29dc0bb8dce23000004"
+    }, 
+    {
+      "body": "Are Alu elements transcribed?", 
+      "type": "yesno", 
+      "id": "54dcd8f61388e8454a000001"
+    }, 
+    {
+      "body": "Which are the APOBEC3 protein family members able to inhibit Vif-deficient HIV-1 replication?", 
+      "type": "list", 
+      "id": "54de15f91388e8454a000002"
+    }, 
+    {
+      "body": "Which drugs are included in the FEC-75 regimen?", 
+      "type": "list", 
+      "id": "54df69af1388e8454a000005"
+    }, 
+    {
+      "body": "List non-surgical treatment modalities that are included in the Stupp protocol.", 
+      "type": "list", 
+      "id": "54df6ed91388e8454a000007"
+    }, 
+    {
+      "body": "Which micro-RNAs have been associated in the pathogenesis of Rheumatoid Arthritis?", 
+      "type": "list", 
+      "id": "533c3533c45e133714000004"
+    }, 
+    {
+      "body": "How are lincRNA affecting the regulation of gene expression?", 
+      "type": "summary", 
+      "id": "533c3571c45e133714000005"
+    }, 
+    {
+      "body": "What is the principle of the PAR-CLIP methodology?", 
+      "type": "summary", 
+      "id": "533c388dc45e133714000008"
+    }, 
+    {
+      "body": "What is an approximate number of CTCF binding sites in the human genome?", 
+      "type": "factoid", 
+      "id": "533c38b3c45e133714000009"
+    }, 
+    {
+      "body": "What is an acceptable sequence coverage(depth) required for human whole-exome sequencing?", 
+      "type": "factoid", 
+      "id": "533c390bc45e13371400000b"
+    }, 
+    {
+      "body": "Which are the main functions of the human HuR (ELAVL1) protein in fibroblasts?", 
+      "type": "summary", 
+      "id": "533c394ec45e13371400000c"
+    }, 
+    {
+      "body": "Are most driver gene mutations synonymous or non-synonymous?", 
+      "type": "factoid", 
+      "id": "534427f8aeec6fbd07000009"
+    }, 
+    {
+      "body": "What are cancer driver genes?", 
+      "type": "summary", 
+      "id": "534428feaeec6fbd0700000a"
+    }, 
+    {
+      "body": "Does the CTCF protein co-localize with cohesin?", 
+      "type": "yesno", 
+      "id": "5344310baeec6fbd0700000c"
+    }, 
+    {
+      "body": "What is the major adverse effect of adriamycin(doxorubicin)?", 
+      "type": "factoid", 
+      "id": "53551206a0726bee57000001"
+    }, 
+    {
+      "body": "Is there increased incidence of incontinence in athletes?", 
+      "type": "yesno", 
+      "id": "5361677c7d100faa09000008"
+    }, 
+    {
+      "body": "Has silicon been used in treatment of  incontinence ?", 
+      "type": "yesno", 
+      "id": "536172d17d100faa09000009"
+    }, 
+    {
+      "body": "What is the name for anorexia in gymnasts?", 
+      "type": "factoid", 
+      "id": "53617eeb7d100faa0900000a"
+    }, 
+    {
+      "body": "Are microRNA (miR) regulated through DNA methylation of their promoters?", 
+      "type": "yesno", 
+      "id": "53636e727d100faa0900000d"
+    }, 
+    {
+      "body": "Which are the most abundant human lincRNA?", 
+      "type": "list", 
+      "id": "5363bad27d100faa0900000e"
+    }
+  ]
+}

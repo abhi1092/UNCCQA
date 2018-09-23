@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "body": "Are there any urine biomarkers for chronic kidney disease?", 
+            "type": "yesno", 
+            "id": "52ec961098d023950500002a"
+        }, 
+        {
+            "body": "Is the transcriptional regulator BACH1 an activator or a repressor?", 
+            "type": "factoid", 
+            "id": "52ed795098d0239505000032"
+        }, 
+        {
+            "body": "List five applications of machine learning algorithms in medical diagnosis.", 
+            "type": "list", 
+            "id": "52ee065d98d0239505000033"
+        }, 
+        {
+            "body": "Is Tuberous Sclerosis a genetic disease?", 
+            "type": "yesno", 
+            "id": "52f77edb2059c6d71c000028"
+        }, 
+        {
+            "body": "Are defects in recombination repair involved in carcinogenesis?", 
+            "type": "yesno", 
+            "id": "52f77f752059c6d71c00002b"
+        }, 
+        {
+            "body": "Which are the mutational hotspots of the human KRAS oncogene?", 
+            "type": "summary", 
+            "id": "52f7d3472059c6d71c00002f"
+        }, 
+        {
+            "body": "Which are the known inhibitors of the TPL2/MAP3K8 protein?", 
+            "type": "list", 
+            "id": "52fc8b772059c6d71c00006e"
+        }, 
+        {
+            "body": "Is apixaban effective for treatment of acute venous thromboembolism?", 
+            "type": "yesno", 
+            "id": "52fc94572059c6d71c000070"
+        }, 
+        {
+            "body": "What is the association between moon cycle and rupture risk of intracranial aneurysms?", 
+            "type": "summary", 
+            "id": "52fc94932059c6d71c000072"
+        }, 
+        {
+            "body": "Where is the histone variant CENPA preferentially localized?", 
+            "type": "factoid", 
+            "id": "52fe52702059c6d71c000078"
+        }, 
+        {
+            "body": "What is the name of Bruton's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia?", 
+            "type": "factoid", 
+            "id": "530cf4c54a5037880c000008"
+        }, 
+        {
+            "body": "Can adult humans be induced to produce fetal hemoglobin?", 
+            "type": "yesno", 
+            "id": "531481ade3eabad021000016"
+        }, 
+        {
+            "body": "Which hormone receptor function is altered in patients with Donohue syndrome?", 
+            "type": "factoid", 
+            "id": "5314bd7ddae131f847000006"
+        }, 
+        {
+            "body": "What was the aim of the COSS (Carotid Occlusion Surgery Study) clinical trial?", 
+            "type": "summary", 
+            "id": "5314c045dae131f847000007"
+        }, 
+        {
+            "body": "List common features of Shapiro syndrome", 
+            "type": "list", 
+            "id": "5314c7afdae131f84700000a"
+        }, 
+        {
+            "body": "Can administration of the thyrotropin releasing hormone reduce fatigue in cancer patients?", 
+            "type": "yesno", 
+            "id": "5314d0e4dae131f84700000e"
+        }, 
+        {
+            "body": "Against which protein is the antibody used for immonostaining of Lewy bodies raised?", 
+            "type": "factoid", 
+            "id": "53189656b166e2b80600001c"
+        }, 
+        {
+            "body": "What is the Arnold-Chiari syndrome?", 
+            "type": "summary", 
+            "id": "5318985eb166e2b80600001d"
+        }, 
+        {
+            "body": "What clinical use aptamers may have?", 
+            "type": "summary", 
+            "id": "5318a6b2b166e2b80600001f"
+        }, 
+        {
+            "body": "Is c-met involved in the activation of the Akt pathway?", 
+            "type": "yesno", 
+            "id": "5318a955b166e2b806000020"
+        }, 
+        {
+            "body": "Is exome sequencing efficient for the detection of germline mutations?", 
+            "type": "yesno", 
+            "id": "5318b452b166e2b806000021"
+        }, 
+        {
+            "body": "Which multiple kinase inhibitors are used in cancer therapy?", 
+            "type": "list", 
+            "id": "5319a6c9b166e2b806000022"
+        }, 
+        {
+            "body": "Which is the genetic lesion associated with Huntington\u2019s disease?", 
+            "type": "factoid", 
+            "id": "5319a6e9b166e2b806000023"
+        }, 
+        {
+            "body": "Which is the target of bortezomib used in cancer therapy?", 
+            "type": "factoid", 
+            "id": "5319a708b166e2b806000024"
+        }, 
+        {
+            "body": "Which trinucleotide repeat disorders are affecting the nervous system?", 
+            "type": "list", 
+            "id": "5319a724b166e2b806000025"
+        }, 
+        {
+            "body": "What is the mechanism of action of geldanamycin?", 
+            "type": "summary", 
+            "id": "5319a73cb166e2b806000026"
+        }, 
+        {
+            "body": "Are DNA helicases involved in progeroid syndromes?", 
+            "type": "yesno", 
+            "id": "5319a752b166e2b806000027"
+        }, 
+        {
+            "body": "Is there any cross-talk between the Wnt and the Akt pathways?", 
+            "type": "yesno", 
+            "id": "5319a7b2b166e2b806000028"
+        }, 
+        {
+            "body": "Which is the E3 ubiquitin ligase of Hsp90?", 
+            "type": "factoid", 
+            "id": "5319a7d2b166e2b806000029"
+        }, 
+        {
+            "body": "What is the result of the interaction between TSC1 and PLK1?", 
+            "type": "summary", 
+            "id": "5319a7f2b166e2b80600002a"
+        }, 
+        {
+            "body": "What is the role played by mTOR in hypertrophic response and heart failure?", 
+            "type": "summary", 
+            "id": "5319a80fb166e2b80600002b"
+        }, 
+        {
+            "body": "What is the use of emulsion PCR in Next Generation Sequencing?", 
+            "type": "summary", 
+            "id": "5319a83bb166e2b80600002c"
+        }, 
+        {
+            "body": "What is the function of the protein encoded by the gene PABPC4?", 
+            "type": "factoid", 
+            "id": "531d744c267d7dd053000009"
+        }, 
+        {
+            "body": "Name a method for enrichment of arginine-methylated peptides.", 
+            "type": "factoid", 
+            "id": "532206819b2d7acc7e00000f"
+        }, 
+        {
+            "body": "Is cadasil syndrome a hereditary disease?", 
+            "type": "yesno", 
+            "id": "532361fd9b2d7acc7e000013"
+        }, 
+        {
+            "body": "Which gene is involved in CADASIL?", 
+            "type": "factoid", 
+            "id": "5323640b9b2d7acc7e000014"
+        }, 
+        {
+            "body": "Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?", 
+            "type": "factoid", 
+            "id": "532366f09b2d7acc7e000015"
+        }, 
+        {
+            "body": "Which enzyme is targeted by the drug Imetelstat?", 
+            "type": "factoid", 
+            "id": "532498959b2d7acc7e000017"
+        }, 
+        {
+            "body": "What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?", 
+            "type": "factoid", 
+            "id": "5324a8ac9b2d7acc7e000018"
+        }, 
+        {
+            "body": "Is the Prostate- Specific Antigen (PSA) test relevant only for prostate cancer?", 
+            "type": "yesno", 
+            "id": "5327139ad6d3ac6a3400000d"
+        }, 
+        {
+            "body": "Is metabolic syndrome related with cardiovascular disease?", 
+            "type": "yesno", 
+            "id": "5328185dd6d3ac6a3400000e"
+        }, 
+        {
+            "body": "What systems have been developed for the numbering of antibody residues?", 
+            "type": "summary", 
+            "id": "532ad23ad6d3ac6a34000011"
+        }, 
+        {
+            "body": "How is the sequence variability defined in antibodies?", 
+            "type": "summary", 
+            "id": "532ad4b4d6d3ac6a34000012"
+        }, 
+        {
+            "body": "Is RIP1 (RIP-1) part of the necrosome?", 
+            "type": "yesno", 
+            "id": "532bfd15d6d3ac6a34000017"
+        }, 
+        {
+            "body": "What are the main benefits of pharmacophore models?", 
+            "type": "list", 
+            "id": "532c0ac4d6d3ac6a3400001a"
+        }, 
+        {
+            "body": "Which are the main methods for pharmacophore modelling?", 
+            "type": "list", 
+            "id": "532c0c21d6d3ac6a3400001b"
+        }, 
+        {
+            "body": "List programs suitable for pharmacophore modelling", 
+            "type": "list", 
+            "id": "532c0d7fd6d3ac6a3400001c"
+        }, 
+        {
+            "body": "What is the characteristic domain of histone methyltransferases?", 
+            "type": "factoid", 
+            "id": "532dcfc9d6d3ac6a34000021"
+        }, 
+        {
+            "body": "What is the effect of ranolazine in diastolic heart failure?", 
+            "type": "summary", 
+            "id": "532f05a5d6d3ac6a34000025"
+        }, 
+        {
+            "body": "Has proteomics been used in the study of Pick's disease?", 
+            "type": "yesno", 
+            "id": "532f05bdd6d3ac6a34000026"
+        }, 
+        {
+            "body": "What is the effect of ivabradine in heart failure after myocardial infarction?", 
+            "type": "summary", 
+            "id": "532f062ad6d3ac6a34000027"
+        }, 
+        {
+            "body": "Are there any specific antidotes for rivaroxaban?", 
+            "type": "yesno", 
+            "id": "532f08b8d6d3ac6a34000029"
+        }, 
+        {
+            "body": "Are there any specific antidotes for dabigatran?", 
+            "type": "yesno", 
+            "id": "532f08dcd6d3ac6a3400002a"
+        }, 
+        {
+            "body": "Which are the musculoskeletal manifestations of Marfan syndrome?", 
+            "type": "list", 
+            "id": "532f0b2cd6d3ac6a3400002c"
+        }, 
+        {
+            "body": "What is the mode of inheritance of Marchesani syndrome?", 
+            "type": "factoid", 
+            "id": "532f0bd6d6d3ac6a3400002d"
+        }, 
+        {
+            "body": "Are patients with marfan syndrome at increased risk of arrhythmias?", 
+            "type": "yesno", 
+            "id": "532f0c4ed6d3ac6a3400002e"
+        }, 
+        {
+            "body": "Are there any animal models for Niemann-Pick C1 disease?", 
+            "type": "yesno", 
+            "id": "532f0ca1d6d3ac6a3400002f"
+        }, 
+        {
+            "body": "What is the ubiquitin proteome?", 
+            "type": "factoid", 
+            "id": "532f1452d6d3ac6a34000030"
+        }, 
+        {
+            "body": "What is the gene mutated in the Gaucher disease?", 
+            "type": "factoid", 
+            "id": "532f55fed6d3ac6a34000036"
+        }, 
+        {
+            "body": "Is nucleosome eviction ATP-dependent?", 
+            "type": "yesno", 
+            "id": "532ff558d6d3ac6a34000037"
+        }, 
+        {
+            "body": "What histone trimethylation has been associated to RNA splicing?", 
+            "type": "factoid", 
+            "id": "532ff917d6d3ac6a34000038"
+        }, 
+        {
+            "body": "What is the extracellular core \"matrisome\"?", 
+            "type": "summary", 
+            "id": "53312464d6d3ac6a3400003a"
+        }, 
+        {
+            "body": "Does SCRIB deregulation promote cancer?", 
+            "type": "yesno", 
+            "id": "53314c98d6d3ac6a3400003b"
+        }, 
+        {
+            "body": "What is Prudent Diet?", 
+            "type": "summary", 
+            "id": "533175add6d3ac6a3400003c"
+        }, 
+        {
+            "body": "What is the mode of inheritance of Acromicric dysplasia?", 
+            "type": "factoid", 
+            "id": "53318685d6d3ac6a3400003d"
+        }, 
+        {
+            "body": "Does prudent diet reduce cardiovascular risk?", 
+            "type": "yesno", 
+            "id": "53319653d6d3ac6a3400003e"
+        }, 
+        {
+            "body": "Where is the protein CLIC1 localized?", 
+            "type": "summary", 
+            "id": "53319916d6d3ac6a3400003f"
+        }, 
+        {
+            "body": "Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease?", 
+            "type": "yesno", 
+            "id": "53329c84d6d3ac6a34000040"
+        }, 
+        {
+            "body": "How Flaviviridae family of viruses infects vertebrates?", 
+            "type": "summary", 
+            "id": "53340ca4d6d3ac6a34000042"
+        }, 
+        {
+            "body": "Are there any HCV replication inhibitors available?", 
+            "type": "yesno", 
+            "id": "53353927d6d3ac6a34000043"
+        }, 
+        {
+            "body": "Is there a phylogenetic analysis for HIV?", 
+            "type": "yesno", 
+            "id": "53354eafd6d3ac6a34000044"
+        }, 
+        {
+            "body": "Why graphics processing units (GPU) are more suitable for biological tasks than central processing units (CPU)?", 
+            "type": "summary", 
+            "id": "53355714d6d3ac6a34000045"
+        }, 
+        {
+            "body": "List programs suitable for protein docking", 
+            "type": "list", 
+            "id": "53355befd6d3ac6a34000046"
+        }, 
+        {
+            "body": "Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?", 
+            "type": "factoid", 
+            "id": "53357193d6d3ac6a34000047"
+        }, 
+        {
+            "body": "What genes are related to breast cancer?", 
+            "type": "list", 
+            "id": "53357c98d6d3ac6a3400004a"
+        }, 
+        {
+            "body": "Which enzyme is inhibited by a drug fostamatinib?", 
+            "type": "factoid", 
+            "id": "53357ca0d6d3ac6a3400004b"
+        }, 
+        {
+            "body": "What is known about the economic cost of urinary incontinence?", 
+            "type": "summary", 
+            "id": "5335c938d6d3ac6a34000052"
+        }, 
+        {
+            "body": "Why do we use \"N-terminal proteomics\"?", 
+            "type": "summary", 
+            "id": "5335ebb6d6d3ac6a34000054"
+        }, 
+        {
+            "body": "How can the expression of SerH3 immobilization antigen be regulated?", 
+            "type": "factoid", 
+            "id": "5335f053d6d3ac6a34000055"
+        }, 
+        {
+            "body": "What histone variants play a role in the DNA damage reponse?", 
+            "type": "list", 
+            "id": "533675ced6d3ac6a34000056"
+        }, 
+        {
+            "body": "Which histone modification is primarily linked to elongating transcription?", 
+            "type": "factoid", 
+            "id": "53372ba3d6d3ac6a34000058"
+        }, 
+        {
+            "body": "Is poly (ADP- ribosylation) involved in transcriptional control?", 
+            "type": "yesno", 
+            "id": "53380000d6d3ac6a34000059"
+        }, 
+        {
+            "body": "Has the protein TIEG1 been associated with apoptosis?", 
+            "type": "yesno", 
+            "id": "53386282d6d3ac6a3400005a"
+        }, 
+        {
+            "body": "What histone modification is recognized by the bromodomain?", 
+            "type": "factoid", 
+            "id": "53398855d6d3ac6a3400005b"
+        }, 
+        {
+            "body": "Which is the prognostic meaning of delayed enhancement documented in patients hypertrophic cardiomyopathy?", 
+            "type": "factoid", 
+            "id": "5339ecf4d6d3ac6a3400005f"
+        }, 
+        {
+            "body": "Is delayed enhancement documented in patients with non-ischemic dilated cardiomyopathy?", 
+            "type": "yesno", 
+            "id": "5339ed7bd6d3ac6a34000060"
+        }, 
+        {
+            "body": "Which is the clinical meaning of the presence of delayed enhancement in patients with hypertrophic cardiomyopathy?", 
+            "type": "factoid", 
+            "id": "5339edd6d6d3ac6a34000061"
+        }, 
+        {
+            "body": "How is yellow fever virus transmitted?", 
+            "type": "summary", 
+            "id": "533aaab6d6d3ac6a34000062"
+        }, 
+        {
+            "body": "Which cyclin- dependent kinase inhibitor is regulated by Bmi-1?", 
+            "type": "factoid", 
+            "id": "533abc76d6d3ac6a34000064"
+        }, 
+        {
+            "body": "What is the clinical indication of cardiac T1 mapping magnetic resonance?", 
+            "type": "factoid", 
+            "id": "533ba218fd9a95ea0d000007"
+        }, 
+        {
+            "body": "What is the frequency of mutations induced spontaneously through Ethylnitrosourea (ENU) mutagenesis?", 
+            "type": "factoid", 
+            "id": "533ba85ffd9a95ea0d000008"
+        }, 
+        {
+            "body": "Which is the histone residue methylated by MLL1?", 
+            "type": "factoid", 
+            "id": "533be71dfd9a95ea0d000009"
+        }, 
+        {
+            "body": "Are CD44 variants (CD44v) associated with poor prognosis of metastasis?", 
+            "type": "yesno", 
+            "id": "533bf29cc45e133714000001"
+        }, 
+        {
+            "body": "What are the biological roles proposed for proteins containing the SPRY domain?", 
+            "type": "list", 
+            "id": "533c2230c45e133714000002"
+        }, 
+        {
+            "body": "In which genomic positions is the histone variant macroH2A enriched?", 
+            "type": "list", 
+            "id": "533c384dc45e133714000006"
+        }, 
+        {
+            "body": "Does splicing occur co-transcriptionally?", 
+            "type": "yesno", 
+            "id": "533c3871c45e133714000007"
+        }, 
+        {
+            "body": "Is signal transducer and activator of transcription-3 (STAT3) critical for tumor angiogenesis progression?", 
+            "type": "yesno", 
+            "id": "533d0f44c45e13371400000e"
+        }, 
+        {
+            "body": "Do thyroid hormone receptors change after brain injury?", 
+            "type": "yesno", 
+            "id": "533e50fdc45e13371400000f"
+        }, 
+        {
+            "body": "What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins?", 
+            "type": "factoid", 
+            "id": "533ea8fcc45e133714000010"
+        }, 
+        {
+            "body": "Which factors play a role in promoter proximal pausing of RNA polymerase II?", 
+            "type": "list", 
+            "id": "533ec7abc45e133714000015"
+        }
+    ]
+}

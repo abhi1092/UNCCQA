@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "body": "Which cell types are known to be driving Rheumatoid Arthritis?", 
+            "type": "list", 
+            "id": "52b2d405f828ad283c000009"
+        }, 
+        {
+            "body": "What is Snord116?", 
+            "type": "summary", 
+            "id": "52b2f1014003448f5500000a"
+        }, 
+        {
+            "body": "What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?", 
+            "type": "factoid", 
+            "id": "52bf19c503868f1b06000001"
+        }, 
+        {
+            "body": "Which gene is associated with Muenke syndrome?", 
+            "type": "factoid", 
+            "id": "52bf1d2e03868f1b0600000c"
+        }, 
+        {
+            "body": "What type of enzyme is peroxiredoxin 2 (PRDX2)?", 
+            "type": "factoid", 
+            "id": "52bf1f1303868f1b06000014"
+        }, 
+        {
+            "body": "Can DMSO as an additive improve proteomic analysis results?", 
+            "type": "summary", 
+            "id": "52d8466298d0239505000006"
+        }, 
+        {
+            "body": "Which histone modifications are associated with constitutive heterochromatin?", 
+            "type": "list", 
+            "id": "52e0c9a298d0239505000010"
+        }, 
+        {
+            "body": "What is the life expectancy of professional athletes in respect to the general population?", 
+            "type": "factoid", 
+            "id": "52e62bae98d0239505000015"
+        }, 
+        {
+            "body": "Which are the mutational hotspots of the human KRAS oncogene?", 
+            "type": "list", 
+            "id": "52e6c92598d0239505000019"
+        }, 
+        {
+            "body": "Is the PTPN22 gene a biomarker for Rheumatoid Arthritis?", 
+            "type": "yesno", 
+            "id": "52e7870a98d023950500001a"
+        }, 
+        {
+            "body": "Does thyroid hormone affect cardiac remodeling ?", 
+            "type": "yesno", 
+            "id": "52e7b4a198d023950500001b"
+        }, 
+        {
+            "body": "Which diseases are caused by mutations in Calsequestrin 2 (CASQ2) gene?", 
+            "type": "list", 
+            "id": "52e8e98298d0239505000020"
+        }, 
+        {
+            "body": "Is it safe to use Abatacept during pregnancy?", 
+            "type": "yesno", 
+            "id": "52e8e99e98d0239505000021"
+        }, 
+        {
+            "body": "Which are the clinical characteristics of Tuberous Sclerosis?", 
+            "type": "list", 
+            "id": "52ebb2c698d0239505000029"
+        }, 
+        {
+            "body": "Are thyroid hormone receptor alpha1 mutations  implicated in thyroid hormone resistance syndrome?", 
+            "type": "yesno", 
+            "id": "52ecd56198d023950500002b"
+        }, 
+        {
+            "body": "Do archaeal genomes contain one or multiple origins of replication?", 
+            "type": "factoid", 
+            "id": "52ef7786c8da898910000015"
+        }, 
+        {
+            "body": "At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?", 
+            "type": "factoid", 
+            "id": "52efbfccc8da898910000018"
+        }, 
+        {
+            "body": "Is oxalate renal excretion increased after bariatric surgery?", 
+            "type": "yesno", 
+            "id": "52efc001c8da898910000019"
+        }, 
+        {
+            "body": "Does resveratrol reduce cardiac remodeling?", 
+            "type": "yesno", 
+            "id": "52efc05cc8da89891000001c"
+        }, 
+        {
+            "body": "what is the role of FGF-2 in cardiac regeneration after myocardial infarction?", 
+            "type": "summary", 
+            "id": "52f3a9ef2059c6d71c000012"
+        }, 
+        {
+            "body": "Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?", 
+            "type": "list", 
+            "id": "52f637972059c6d71c000025"
+        }, 
+        {
+            "body": "Which deiodinase polymorphisms are implicated in arterial hypertension?", 
+            "type": "list", 
+            "id": "52f65bf02059c6d71c000026"
+        }, 
+        {
+            "body": "List tele monitoring applications of miniaturised sensors", 
+            "type": "list", 
+            "id": "52f895602059c6d71c000040"
+        }, 
+        {
+            "body": "Is pesticide exposure associated with polyneuropathy?", 
+            "type": "yesno", 
+            "id": "52f896ae2059c6d71c000045"
+        }, 
+        {
+            "body": "Which mutation is associated with PLMS (periodic limb movements in sleep)?", 
+            "type": "factoid", 
+            "id": "52f899952059c6d71c00004b"
+        }, 
+        {
+            "body": "Can valproic acid act as an activator of AMPK?", 
+            "type": "yesno", 
+            "id": "52f89ee42059c6d71c00004d"
+        }, 
+        {
+            "body": "From which tissue was the NCI-H520 cell-line derived?", 
+            "type": "factoid", 
+            "id": "52f89fc62059c6d71c000050"
+        }, 
+        {
+            "body": "List interaction partners for the protein GATA1.", 
+            "type": "list", 
+            "id": "52f89fd32059c6d71c000051"
+        }, 
+        {
+            "body": "Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?", 
+            "type": "factoid", 
+            "id": "52f8b2902059c6d71c000053"
+        }, 
+        {
+            "body": "Is the transcriptional regulator BACH1 an activator or a repressor?", 
+            "type": "factoid", 
+            "id": "52fa6ac72059c6d71c000055"
+        }, 
+        {
+            "body": "How much should be the duration of the QT interval in patients with short QT syndrome?", 
+            "type": "factoid", 
+            "id": "52fb7c512059c6d71c000069"
+        }, 
+        {
+            "body": "Is lambrolizumab effective for treatment of patients with melanoma ?", 
+            "type": "yesno", 
+            "id": "52fc946d2059c6d71c000071"
+        }, 
+        {
+            "body": "What is the mechanism of action of solanezumab?", 
+            "type": "summary", 
+            "id": "52fc94ae2059c6d71c000073"
+        }, 
+        {
+            "body": "List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease.", 
+            "type": "list", 
+            "id": "52fc94db2059c6d71c000074"
+        }, 
+        {
+            "body": "Is bapineuzumab effective for treatment of patients with Alzheimer's disease?", 
+            "type": "yesno", 
+            "id": "530cefaaad0bf1360c000004"
+        }, 
+        {
+            "body": "Is apixaban effective for treatment of acute venous thromboembolism?", 
+            "type": "yesno", 
+            "id": "530cefaaad0bf1360c000005"
+        }, 
+        {
+            "body": "Is lambrolizumab effective for treatment of patients with melanoma ?", 
+            "type": "yesno", 
+            "id": "530cefaaad0bf1360c000008"
+        }, 
+        {
+            "body": "Has depression been shown to be a predictor of frailty?", 
+            "type": "yesno", 
+            "id": "530cf57efe2466f70c000001"
+        }, 
+        {
+            "body": "Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?", 
+            "type": "yesno", 
+            "id": "530cf57efe2466f70c000006"
+        }, 
+        {
+            "body": "List common symptoms of patients with the DOORS syndrome.", 
+            "type": "list", 
+            "id": "530e1c985937551c09000004"
+        }, 
+        {
+            "body": "Which hormone concentrations are altered in patients with the Allan\u2013Herndon\u2013Dudley syndrome?", 
+            "type": "factoid", 
+            "id": "530f900ee3eabad021000003"
+        }, 
+        {
+            "body": "Which medical diagnostic tests are used to test kidney function?", 
+            "type": "list", 
+            "id": "5311b99ae3eabad021000004"
+        }, 
+        {
+            "body": "Is there any software for automated analysis of immuno-histochemistry images?", 
+            "type": "yesno", 
+            "id": "5311ceeae3eabad021000008"
+        }, 
+        {
+            "body": "Is corpus callosum involved in the Mowat\u2013Wilson syndrome?", 
+            "type": "yesno", 
+            "id": "5314896adae131f847000001"
+        }, 
+        {
+            "body": "Why does cranberry juice help combat urinary tract infections?", 
+            "type": "summary", 
+            "id": "5314ad66dae131f847000004"
+        }, 
+        {
+            "body": "Is oxidative stress affected by FOXO expression?", 
+            "type": "yesno", 
+            "id": "5316111fb166e2b806000001"
+        }, 
+        {
+            "body": "Which DNA repair system is involved in HNPCC?", 
+            "type": "factoid", 
+            "id": "53161545b166e2b806000002"
+        }, 
+        {
+            "body": "Is c-myc subject to regulation by the circadian clock?", 
+            "type": "yesno", 
+            "id": "531616bdb166e2b806000003"
+        }, 
+        {
+            "body": "Is invasion and metastasis one of the hallmarks of cancer?", 
+            "type": "yesno", 
+            "id": "5316d4fcb166e2b806000005"
+        }, 
+        {
+            "body": "What is the Timothy syndrome?", 
+            "type": "summary", 
+            "id": "53173fc5b166e2b806000006"
+        }, 
+        {
+            "body": "Is CHEK2 involved in cell cycle control?", 
+            "type": "yesno", 
+            "id": "53175e25b166e2b806000007"
+        }, 
+        {
+            "body": "What is the role of per genes in circadian rhythm control?", 
+            "type": "summary", 
+            "id": "53175e4fb166e2b806000008"
+        }, 
+        {
+            "body": "What is the effect of ROS on cyclin B1?", 
+            "type": "summary", 
+            "id": "53175e68b166e2b806000009"
+        }, 
+        {
+            "body": "What is the physiological role of LKB1 involved in Peutz-Jeghers syndrome?", 
+            "type": "factoid", 
+            "id": "53175e9fb166e2b80600000a"
+        }, 
+        {
+            "body": "What is the role of necroptosis in cancer therapy?", 
+            "type": "summary", 
+            "id": "53175f0bb166e2b80600000c"
+        }, 
+        {
+            "body": "Is tubulin acetylation involved in cell motility?", 
+            "type": "yesno", 
+            "id": "5317606eb166e2b80600000d"
+        }, 
+        {
+            "body": "Is there evidence for somatic mosaicism in Tuberous Sclerosis?", 
+            "type": "yesno", 
+            "id": "53177803b166e2b80600000e"
+        }, 
+        {
+            "body": "Which are the Chompret criteria for Li-Fraumeni syndrome?", 
+            "type": "list", 
+            "id": "531778ddb166e2b80600000f"
+        }, 
+        {
+            "body": "List causative genes for autosomal recessive forms of monogenic Parkinson's disease", 
+            "type": "list", 
+            "id": "5318367cb166e2b806000012"
+        }, 
+        {
+            "body": "List Parkin binding partners", 
+            "type": "list", 
+            "id": "5318380bb166e2b806000013"
+        }, 
+        {
+            "body": "What is the mechanism of action of  trichostatin A (TSA) as an antitumoral agent?", 
+            "type": "summary", 
+            "id": "5318798bb166e2b806000014"
+        }, 
+        {
+            "body": "What is the role of Hsp90 inhibition in cancer therapy?", 
+            "type": "summary", 
+            "id": "531881acb166e2b806000017"
+        }, 
+        {
+            "body": "Which is the cellular target of gefitinib?", 
+            "type": "factoid", 
+            "id": "53188480b166e2b806000018"
+        }, 
+        {
+            "body": "Which are the cellular targets of imatinib mesylate?", 
+            "type": "list", 
+            "id": "53188992b166e2b806000019"
+        }, 
+        {
+            "body": "What is the role of RhoA in bladder cancer?", 
+            "type": "summary", 
+            "id": "53188c12b166e2b80600001a"
+        }, 
+        {
+            "body": "What is the Her2 status in Li-Fraumeni syndrome?", 
+            "type": "factoid", 
+            "id": "5318929fb166e2b80600001b"
+        }, 
+        {
+            "body": "How is active neurotoxin of Clostridium botulinum detected?", 
+            "type": "list", 
+            "id": "531d6bfc267d7dd053000007"
+        }, 
+        {
+            "body": "Inhibition of which enzyme is mechanism of action of alisertib?", 
+            "type": "factoid", 
+            "id": "531dd4af267d7dd05300000d"
+        }, 
+        {
+            "body": "What is the CRAPome database?", 
+            "type": "summary", 
+            "id": "531e01ff267d7dd05300000e"
+        }, 
+        {
+            "body": "Which protein complexes contain mitofilin?", 
+            "type": "list", 
+            "id": "53215fca9b2d7acc7e000005"
+        }, 
+        {
+            "body": "Is gastro esophageal reflux related to burning mouth syndrome?", 
+            "type": "yesno", 
+            "id": "5321ae889b2d7acc7e000006"
+        }, 
+        {
+            "body": "Is transcapillary  albumin escape altered in diabetic patients?", 
+            "type": "yesno", 
+            "id": "5321b4959b2d7acc7e000007"
+        }, 
+        {
+            "body": "Is there a relation between ANP and transcapillary albumin escape?", 
+            "type": "yesno", 
+            "id": "5321b8a39b2d7acc7e000009"
+        }, 
+        {
+            "body": "Is low T3 syndrome related with high BNP in cardiac patients?", 
+            "type": "yesno", 
+            "id": "5321bb019b2d7acc7e00000b"
+        }, 
+        {
+            "body": "What is the target protein of the drug Idelalisib?", 
+            "type": "factoid", 
+            "id": "5321bc309b2d7acc7e00000d"
+        }, 
+        {
+            "body": "What are the main results of PRKAR1A Knockdown?", 
+            "type": "summary", 
+            "id": "5322d9339b2d7acc7e000011"
+        }, 
+        {
+            "body": "Has proteomics been used in the study of the dry eye syndrome?", 
+            "type": "yesno", 
+            "id": "5322de919b2d7acc7e000012"
+        }, 
+        {
+            "body": "How is bladder wall thickness measured?", 
+            "type": "factoid", 
+            "id": "5324bdba9b2d7acc7e00001a"
+        }, 
+        {
+            "body": "What are the mobile applications fields of use for patients ?", 
+            "type": "list", 
+            "id": "5324cca79b2d7acc7e00001d"
+        }, 
+        {
+            "body": "Which drug is considered as the first line treatment of fibromyalgia?", 
+            "type": "factoid", 
+            "id": "5324ce779b2d7acc7e00001e"
+        }, 
+        {
+            "body": "List the off-label use of SSRIs", 
+            "type": "list", 
+            "id": "5324cf139b2d7acc7e00001f"
+        }, 
+        {
+            "body": "Are there any clinical trials of the effect of evening primrose oil on postmenopausal symptoms ?", 
+            "type": "yesno", 
+            "id": "5324cf869b2d7acc7e000020"
+        }, 
+        {
+            "body": "List FDA approved treatments for androgenetic allopecia", 
+            "type": "list", 
+            "id": "5324d0169b2d7acc7e000022"
+        }, 
+        {
+            "body": "What are the reported adverse effects of topical minoxidil?", 
+            "type": "summary", 
+            "id": "5324d0429b2d7acc7e000023"
+        }, 
+        {
+            "body": "What is the association between GERD and gluten ?", 
+            "type": "summary", 
+            "id": "5324d12b9b2d7acc7e000024"
+        }, 
+        {
+            "body": "What is the systemic nickel allergy syndrome?", 
+            "type": "summary", 
+            "id": "5325b0419b2d7acc7e000026"
+        }, 
+        {
+            "body": "Is low T3 syndrome a prognostic marker in patients with renal insufficiency?", 
+            "type": "yesno", 
+            "id": "5325de7d9b2d7acc7e000029"
+        }, 
+        {
+            "body": "What is the gold standard treatment for Iatrogenic male incontinence?", 
+            "type": "factoid", 
+            "id": "5325fdf0600967d132000001"
+        }, 
+        {
+            "body": "What is the relationship between thyroid hormone and inflammatory markers in heart failure patients?", 
+            "type": "factoid", 
+            "id": "53261e79600967d132000003"
+        }, 
+        {
+            "body": "What are the outcomes of Renal sympathetic denervation?", 
+            "type": "summary", 
+            "id": "532624ae600967d132000005"
+        }, 
+        {
+            "body": "Does ventriculoperitoneal shunt improve normal pressure hydrocephalus?", 
+            "type": "yesno", 
+            "id": "532627d0d6d3ac6a34000001"
+        }, 
+        {
+            "body": "What is the prognostic role of alterred thyroid profile after cardiosurgery?", 
+            "type": "factoid", 
+            "id": "53265dd4d6d3ac6a34000007"
+        }, 
+        {
+            "body": "What is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery?", 
+            "type": "factoid", 
+            "id": "532670e7d6d3ac6a34000008"
+        }, 
+        {
+            "body": "Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?", 
+            "type": "yesno", 
+            "id": "532673c4d6d3ac6a34000009"
+        }, 
+        {
+            "body": "Is recommended the use of perioperative treatment with thyroid hormone therapy in patients undergoing coronary artery bypass grafting?", 
+            "type": "yesno", 
+            "id": "53267871d6d3ac6a3400000a"
+        }, 
+        {
+            "body": "Which are the cardiac effects of thyronamines?", 
+            "type": "list", 
+            "id": "532c12f2d6d3ac6a3400001d"
+        }, 
+        {
+            "body": "Have thyronamines  effects on fat tissue?", 
+            "type": "yesno", 
+            "id": "532c147bd6d3ac6a3400001e"
+        }, 
+        {
+            "body": "Are there plasma membrane receptors for thyroid hormones?", 
+            "type": "yesno", 
+            "id": "532c169ed6d3ac6a3400001f"
+        }, 
+        {
+            "body": "Is rivaroxaban metabolized in kidneys?", 
+            "type": "yesno", 
+            "id": "532f09d2d6d3ac6a3400002b"
+        }, 
+        {
+            "body": "Does low T3 negatively affect prognosis of patients after cardiac surgery?", 
+            "type": "yesno", 
+            "id": "53302bced6d3ac6a34000039"
+        }
+    ]
+}

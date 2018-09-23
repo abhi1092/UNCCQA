@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "id": "5a75eb6483b0d9ea66000004",
+      "ideal_answer": "Guided growth for tibia vara (Blount\u0027s disease). "
+    },
+    {
+      "id": "5a6a2dcab750ff4455000023",
+      "ideal_answer": "We found the largest mammal-teleost conserved chromosomal segments to be spanned by highly conserved noncoding elements (HCNEs), their developmental regulatory target genes, and phylogenetically and functionally unrelated \"bystander\" genes. "
+    },
+    {
+      "id": "5a735cdc3b9d13c708000004",
+      "ideal_answer": "This review addresses nine small-interfering RNAs (siRNAs) and one unique microRNA (miRNA) inhibitor, which entered the phase 2-3 clinical trials. "
+    },
+    {
+      "id": "5a777ab9faa1ab7d2e00000a",
+      "ideal_answer": "Suvorexant (Belsomra®) is a novel sedative hypnotic drug that is prescribed to promote sleep in patients with insomnia. "
+    },
+    {
+      "id": "5a8861eb8cb19eca6b000001",
+      "ideal_answer": "hese improvements in neuron viability and function were correlated with significant increases in the levels of post-synaptic marker PSD95 and the pre-synaptic marker synaptophysin. "
+    },
+    {
+      "id": "5a75ee7e83b0d9ea66000005",
+      "ideal_answer": "The patient was diagnosed with Zieve\u0027s syndrome and managed with supportive measures. "
+    },
+    {
+      "id": "5a7636d39e632bc066000004",
+      "ideal_answer": "It facilitates large-scale, cross-dataset estimation of mutational signatures, implements existing methods for pattern decomposition, supports extension through user-defined approaches and integrates with existing Bioconductor workflows.AVAILABILITY AND IMPLEMENTATION: The R package SomaticSignatures is available as part of the Bioconductor project. "
+    },
+    {
+      "id": "5a8dc57ffcd1d6a10c000025",
+      "ideal_answer": "All 3 bombesin receptor subtypes (GRPR, NMBR, and BRS-3) were present on pulmonary and intestinal carcinoids by immunohistochemistry. "
+    },
+    {
+      "id": "5a7602be83b0d9ea6600000f",
+      "ideal_answer": "These cases are clinically categorized as King-Kopetzky syndrome (KKS), obscure auditory dysfunction (OAD), or auditory processing disorder (APD). "
+    },
+    {
+      "id": "5a67c284b750ff4455000011",
+      "ideal_answer": "Here, we introduce the Genome Variant Investigation Platform (GenomeVIP), an open-source framework for performing genomics variant discovery and annotation using cloud- or local high-performance computing infrastructure. "
+    },
+    {
+      "id": "5a981e66fcd1d6a10c00002f",
+      "ideal_answer": "Metabolic syndrome (MetS) is generally defined as a cluster of metabolically related cardiovascular risk factors which are often associated with the condition of insulin resistance, elevated blood pressure, and abdominal obesity. "
+    },
+    {
+      "id": "5a76080683b0d9ea66000015",
+      "ideal_answer": "The randomized phase III CENTRIC and phase II CORE trials explored the integrin inhibitor cilengitide in patients with newly diagnosed glioblastoma with versus without O6-methylguanine DNA methyltransferase (MGMT) promoter methylation. "
+    },
+    {
+      "id": "5a6a3464b750ff4455000026",
+      "ideal_answer": "We present MARS, a new heuristic method for improving Multiple circular sequence Alignment using Refined Sequences. "
+    },
+    {
+      "id": "5a74e9ad0384be955100000a",
+      "ideal_answer": "elective estrogen receptor modulator (SERM),. "
+    },
+    {
+      "id": "5a7610ca83b0d9ea6600001b",
+      "ideal_answer": ". We found that nimotuzumab with or without radiotherapy, chemotherapy in newly diagnosed or recurrent HGG, such as glioblastoma multiforme (GBM), anaplastic astrocytomas (AA), and diffuse intrinsic pontine glioma (DIPG), might improve the response rate or the survival time. "
+    },
+    {
+      "id": "5a6a35b7b750ff4455000027",
+      "ideal_answer": "libgapmis, a library for extending pairwise short-read alignments. "
+    },
+    {
+      "id": "5a76016683b0d9ea6600000d",
+      "ideal_answer": "Down syndrome (DS), trisomy 21, is caused by increased dose of genes present on human chromosome 21 (HSA21). "
+    },
+    {
+      "id": "5a7615af83b0d9ea6600001f",
+      "ideal_answer": "Conclusions: Vorinostat combined with standard chemoradiation had acceptable tolerability in newly diagnosed glioblastoma. "
+    },
+    {
+      "id": "5a6a7869b750ff4455000028",
+      "ideal_answer": "SNP2TFBS - a database of regulatory SNPs affecting predicted transcription factor binding site affinity. "
+    },
+    {
+      "id": "5a7706b79e632bc066000009",
+      "ideal_answer": "rismus, which is defined as the restricted mouth opening or jaw movement due to the disorder of temporo-mandibular joint (TMJ), is one of the possible late complications for radiotherapy of NPC and is found in 5-17% of the post-radiotherapy (post-RT) patients. "
+    },
+    {
+      "id": "5a67ab79b750ff445500000b",
+      "ideal_answer": "CONCLUSIONS: The present study confirms that assessment of MR-pro-ADM levels in CAP patients in addition to CURB scores increases the prognostic accuracy of CURB alone and may help rule out discrepancies arising from flawed clinical severity classification. "
+    },
+    {
+      "id": "5a6cfe27b750ff4455000029",
+      "ideal_answer": "SMiLE-seq is neither limited by DNA bait length nor biased toward strong affinity binders; it probes the DNA-binding properties of TFs over a wide affinity range in a fast and cost-effective fashion. "
+    },
+    {
+      "id": "5a77072c9e632bc06600000a",
+      "ideal_answer": "Craniosynostosis has its origin in the failure of suture development between 2 bone centres or in early closure of the suture by bone centre tissue fusion. "
+    },
+    {
+      "id": "5a67b152b750ff445500000e",
+      "ideal_answer": "BACKGROUND/AIM: Nursemaid\u0027s elbow usually occurs in young children when longitudinal traction is placed on the arm. "
+    },
+    {
+      "id": "5a6d08d5b750ff445500002c",
+      "ideal_answer": "Herein, we report the design, optimization, and validation of double-click stapled peptides encoding the Ctf4-interacting peptide (CIP) of the replicative helicase subunit Sld5. "
+    },
+    {
+      "id": "5a773c50faa1ab7d2e000002",
+      "ideal_answer": "Many cancers overexpress ATF4, a stress-induced transcription factor that promotes cell survival under hypoxic conditions and other stresses of the tumor microenvironment, but the potential contributions of ATF4 to oncogenesis itself have been little explored. "
+    },
+    {
+      "id": "5a68eabab750ff4455000015",
+      "ideal_answer": "Male breast cancer risk factors show strong association with BRCA2 mutations, as well as Klinefelter syndrome. "
+    },
+    {
+      "id": "5a6d1733b750ff4455000030",
+      "ideal_answer": "Here we present the Limb-Enhancer Genie (LEG), a collection of highly accurate, genome-wide predictions of enhancers in the developing limb, available through a user-friendly online interface. "
+    },
+    {
+      "id": "5a7877c0faa1ab7d2e00000c",
+      "ideal_answer": "Corticosteroids remain first-line treatment of this disorder,. "
+    },
+    {
+      "id": "5a68f005b750ff4455000016",
+      "ideal_answer": "Neural correlates of distraction in borderline personality disorder before and after dialectical behavior therapy. "
+    },
+    {
+      "id": "5a6d186db750ff4455000031",
+      "ideal_answer": "The postnatal functions of the Dlx1\u00262 transcription factors in cortical interneurons (CINs) are unknown. "
+    },
+    {
+      "id": "5a79d0b8faa1ab7d2e00000d",
+      "ideal_answer": "At DNA replication forks, the overall growth of the antiparallel two daughter DNA chains appears to occur 5\u0027-to-3\u0027 direction in the leading-strand and 3\u0027-to-5\u0027 direction in the lagging-strand using enzyme system only able to elongate 5\u0027-to-3\u0027 direction, and I describe in this review how we have analyzed and proved the lagging strand multistep synthesis reactions, called Discontinuous Replication Mechanism, which involve short RNA primer synthesis, primer-dependent short DNA chains (Okazaki fragments) synthesis, primer removal from the Okazaki fragments and gap filling between Okazaki fragments by RNase H and DNA polymerase I, and long lagging strand formation by joining between Okazaki fragments with DNA ligase. "
+    },
+    {
+      "id": "5a68f633b750ff4455000019",
+      "ideal_answer": "Patient risk factors evaluated include age, INR (international normalized ratio), creatinine, bilirubin, and MELD score (Model for End-of-stage Liver Disease). "
+    },
+    {
+      "id": "5a6d196db750ff4455000032",
+      "ideal_answer": "Subpallial Enhancer Transgenic Lines: a Data and Tool Resource to Study Transcriptional Regulation of GABAergic Cell Fate. "
+    },
+    {
+      "id": "5a79d195faa1ab7d2e00000e",
+      "ideal_answer": "Type 2 transglutaminase (TG2) has an important pathogenic role in celiac disease (CD), an inflammatory intestinal disease that is caused by the ingestion of gluten-containing cereals. "
+    },
+    {
+      "id": "5a68f965b750ff445500001a",
+      "ideal_answer": "Most of these 290 smears contained clue cells (indicating Gardnerella infection) and a lack of lactobacilli. "
+    },
+    {
+      "id": "5a6d1db1b750ff4455000033",
+      "ideal_answer": "The FaceBase Consortium, funded by the National Institute of Dental and Craniofacial Research, National Institutes of Health, is designed to accelerate understanding of craniofacial developmental biology by generating comprehensive data resources to empower the research community, exploring high-throughput technology, fostering new scientific collaborations among researchers and human/computer interactions, facilitating hypothesis-driven research and translating science into improved health care to benefit patients. "
+    },
+    {
+      "id": "5a79d25dfaa1ab7d2e00000f",
+      "ideal_answer": "oat seedlings (Avena sativa). "
+    },
+    {
+      "id": "5a68fd01b750ff445500001b",
+      "ideal_answer": "While fourth generation antigen-antibody combination assays have been successful in high-resource settings, rapid point of care (POC) versions of these assays have yet to demonstrate high sensitivity to detect AHI. "
+    },
+    {
+      "id": "5a6d2558b750ff4455000036",
+      "ideal_answer": "We previously discovered the downregulation of T-UCR expression in gastric cancer (GC), indicating that T-UCRs could play an important role in GC biology. "
+    },
+    {
+      "id": "5a8712af61bb38fb24000002",
+      "ideal_answer": "Depression Is Associated with an Increased Risk of Psoriatic Arthritis among Patients with Psoriasis. "
+    },
+    {
+      "id": "5a6900ebb750ff445500001d",
+      "ideal_answer": "Therefore, ultrasound should not only be considered to improve the treatment outcome, but can also be useful as a diagnostic tool in the management of de Quervain\u0027s disease. "
+    },
+    {
+      "id": "5a6e1280b750ff4455000037",
+      "ideal_answer": "The expression of uc.189 was significantly higher in human ESCC compared with the adjacent noncancerous tissues (122/152, 80.3%, p\u003c0.01), and the high level of uc.189 expression was significantly correlated with invasion of the tumor (p\u003d0.009),. "
+    },
+    {
+      "id": "5a87140a61bb38fb24000003",
+      "ideal_answer": "In nature, cervids are infected with chronic wasting disease (CWD) prions by oral and nasal mucosal exposure, and studies of early CWD pathogenesis have implicated pharyngeal lymphoid tissue as the earliest sites of prion accumulation. "
+    },
+    {
+      "id": "5a69031bb750ff445500001e",
+      "ideal_answer": "BACKGROUND: One of the most important dermatologic side effects of doxycycline is photosensitivity. "
+    },
+    {
+      "id": "5a6e21b4b750ff445500003a",
+      "ideal_answer": "In eukaryotes, genes are regulated in part by distal enhancer elements through looping interactions with gene promoters. "
+    },
+    {
+      "id": "5a87145861bb38fb24000004",
+      "ideal_answer": "A prospective case-control study was undertaken to assess respiratory disability in 133 former coal miners who were claimants for \"black lung\" benefits. "
+    },
+    {
+      "id": "5a6f7e6ab750ff4455000052",
+      "ideal_answer": "Each of the four principles (beneficence, nonmaleficence,justice and autonomy) is investigated in turn, looking in particular at the extent to which each is rooted in the Islamic paradigm. "
+    },
+    {
+      "id": "5a6e22b9b750ff445500003b",
+      "ideal_answer": "CellMaps is an HTML5 open-source web tool that allows displaying, editing, exploring and analyzing biological networks as well as integrating metadata into them. "
+    },
+    {
+      "id": "5a8714e261bb38fb24000005",
+      "ideal_answer": "The addition of poly(A) tails to eukaryotic nuclear mRNAs promotes their stability, export to the cytoplasm and translation. "
+    },
+    {
+      "id": "5a6f829eb750ff4455000054",
+      "ideal_answer": "This skin condition may be observed in patients with the following condtions, such as primary polycythemic hyperviscosity (polycythemia, thrombocytemia) treated with hydroxyurea, primary plasma hyperviscosity (multiple myeloma, cryoglobulinemia, cryofibrinogenemia, dysfibrinogenemia, and connective tissue diseases), primary sclerocythemic hyperviscosity (hereditary spherocytosis, thalassemia, and sickle cell disease). "
+    },
+    {
+      "id": "5a6e2578b750ff445500003d",
+      "ideal_answer": "diffloop: a computational framework for identifying and analyzing differential DNA loops from sequencing data. "
+    },
+    {
+      "id": "5a8715a961bb38fb24000006",
+      "ideal_answer": "silent allosteric modulation of mGluR5 has promise as a disease-modifying AD intervention with a broad therapeutic window. "
+    },
+    {
+      "id": "5a6f853ab750ff4455000055",
+      "ideal_answer": "Diagnostic Accuracy of Probe to Bone to Detect Osteomyelitis in the Diabetic Foot: A Systematic Review. "
+    },
+    {
+      "id": "5a6e33e4b750ff4455000041",
+      "ideal_answer": "Analysis of next-generation sequencing data often results in a list of genomic regions. "
+    },
+    {
+      "id": "5a8718c861bb38fb24000008",
+      "ideal_answer": "These agents include monoclonal antibodies, deacetylase inhibitors, kinase inhibitors, agents affecting various signaling pathways, immune check point inhibitors, and other targeted therapies. "
+    },
+    {
+      "id": "5a6f87c5b750ff4455000056",
+      "ideal_answer": "Primary Diffuse Large B-Cell Lymphoma of the Liver in a Patient with Sjogren Syndrome. "
+    },
+    {
+      "id": "5a6e3d21b750ff4455000043",
+      "ideal_answer": "BBCAnalyzer: a visual approach to facilitate variant calling. "
+    },
+    {
+      "id": "5a871a6861bb38fb24000009",
+      "ideal_answer": "Significant prognostic factors included the original 4 factors used in the DS-GPA index plus 2 new factors: EGFR and ALK alterations in patients with adenocarcinoma. "
+    },
+    {
+      "id": "5a6f8dc6b750ff4455000058",
+      "ideal_answer": "We report the rare case of a metastatic breast cancer in a woman without cardiac risk factors who experienced long-term irreversible cardiotoxicity after discontinuation of trastuzumab therapy. "
+    },
+    {
+      "id": "5a6e3fe3b750ff4455000044",
+      "ideal_answer": "The human lncRNA LINC-PINT inhibits tumor cell invasion through a highly conserved sequence element. "
+    },
+    {
+      "id": "5a871b8d61bb38fb2400000a",
+      "ideal_answer": "Although a great deal of information is available about the circuitry of the mossy cells (MCs) of the dentate gyrus (DG) hilus, their activity in vivo is not clear. "
+    },
+    {
+      "id": "5a6f922fb750ff4455000059",
+      "ideal_answer": "CASE REPORT: We present a case of a 57-year-old woman with type 2 diabetes mellitus taking a combination of canagliflozin and metformin who presented with progressive altered mental status over the previous 2 days. "
+    },
+    {
+      "id": "5a6e4136b750ff4455000045",
+      "ideal_answer": "We described here MBV (Match BAM to VCF); a method to quickly solve sample mislabeling and detect cross-sample contamination and PCR amplification bias. "
+    },
+    {
+      "id": "5a897601fcd1d6a10c000008",
+      "ideal_answer": "A complete Systemic Lupus Erythematosus Disease Activity Index (SLEDAI) score was obtained for each patient. "
+    },
+    {
+      "id": "5a6f941eb750ff445500005b",
+      "ideal_answer": "Kidney donation seems to elevate the risks of gestational hypertension and pre-eclampsia. "
+    },
+    {
+      "id": "5a6e4592b750ff4455000047",
+      "ideal_answer": "To inspire, promote and coordinate genomic sequencing across the diversity of the phylum, we have launched a community wiki and the 959 Nematode Genomes initiative (www.nematodegenomes.org/). "
+    },
+    {
+      "id": "5a897927fcd1d6a10c00000a",
+      "ideal_answer": "Glycated proteins, such as glycated hemoglobin (HbA1c) or glycated albumin (GA) in the blood, are essential indicators of glycemic control for diabetes mellitus. "
+    },
+    {
+      "id": "5a6f98e6b750ff445500005d",
+      "ideal_answer": "Posterior cruciate ligament (PCL) injuries have a reported incidence of between 3 and 37%, depending on the clinical setting. "
+    },
+    {
+      "id": "5a6e49a4b750ff445500004b",
+      "ideal_answer": "LDB1-mediated enhancer looping can be established independent of mediator and cohesin. "
+    },
+    {
+      "id": "5a897a06fcd1d6a10c00000b",
+      "ideal_answer": "Clinical examination revealed normal rectal temperature (38.3°C). "
+    },
+    {
+      "id": "5a70d12899e2c3af26000001",
+      "ideal_answer": "Physical examination revealed right facial paralysis, parotid gland swelling, high fever and poor general condition. "
+    },
+    {
+      "id": "5a6e4b72b750ff445500004c",
+      "ideal_answer": "We propose that ERCC1-XPF cooperates with CTCF and cohesin to facilitate the developmental silencing of imprinted genes and that persistent DNA damage triggers chromatin changes that affect gene expression programs associated with NER disorders. "
+    },
+    {
+      "id": "5a8afbf2fcd1d6a10c00001c",
+      "ideal_answer": "MR images showed the bone, articular cartilage, menisci and ligaments of the normal tiger stifle. "
+    },
+    {
+      "id": "5a70d42899e2c3af26000002",
+      "ideal_answer": "RECENT FINDINGS: Although arterial tortuosity has been primarily described in Loeys-Dietz syndrome due to TGFBR1 and TGFBR2 mutations and in arterial tortuosity syndrome due to SLC210A mutations, recent studies that use quantitative measures of tortuosity suggest that tortuosity is present in many other genetic conditions associated with aortic dilation and dissection. "
+    },
+    {
+      "id": "5a6f940bb750ff445500005a",
+      "ideal_answer": "The 4D Nucleome Network aims to develop and apply approaches to map the structure and dynamics of the human and mouse genomes in space and time with the goal of gaining deeper mechanistic insights into how the nucleus is organized and functions. "
+    },
+    {
+      "id": "5a8b1264fcd1d6a10c00001d",
+      "ideal_answer": "Fusarium wilt caused by Fusarium oxysporum f. sp lycopersici (Fol) is one of the main diseases affecting tomatoes. "
+    },
+    {
+      "id": "5a70d43b99e2c3af26000003",
+      "ideal_answer": "Hyperprolactinaemia related to prolactinoma significantly (more than functional hyperprolactiaemia) increases the risk of osteopenia, osteoporosis and bone fractures. "
+    },
+    {
+      "id": "5a6fa31ab750ff445500005e",
+      "ideal_answer": "McEnhancer: predicting gene expression via semi-supervised assignment of enhancers to target genes. "
+    },
+    {
+      "id": "5a8dc6b4fcd1d6a10c000026",
+      "ideal_answer": "In September 2013, the European Medicines Agency approved two infliximab biosimilars for treatment of adult and paediatric inflammatory bowel disease patients,. "
+    },
+    {
+      "id": "5a70e4b399e2c3af26000008",
+      "ideal_answer": "CONCLUSION: The combination of GLE and PIB was highly efficacious and well tolerated in patients with HCV genotype 1 infection and prior failure of DAA-containing therapy; RBV coadministration did not improve efficacy. "
+    },
+    {
+      "id": "5a6fa417b750ff445500005f",
+      "ideal_answer": "Here, we present the RNA Centric Annotation System (RCAS), an R package, which is designed to ease the process of creating gene-centric annotations and analysis for the genomic regions of interest obtained from various RNA-based omics technologies. "
+    },
+    {
+      "id": "5a76018c83b0d9ea6600000e",
+      "ideal_answer": "Eight different types of conjoined twins have been described in the literature. "
+    },
+    {
+      "id": "5a70e6e899e2c3af26000009",
+      "ideal_answer": "PURPOSE OF REVIEW: The results of phase 2 randomized controlled trials for the prevention of episodic and chronic migraine demonstrating the efficacy and safety of four mAbs targeting the calcitonin gene-related peptide (CGRP) pathway [ALD403 (eptinezumab), AMG334 (erenumab), LY2951742 (galcanezumab) and TEV48125 (fremanezumab)] have been published recently, and phase 3 trials are in process. "
+    },
+    {
+      "id": "5a6fa61ab750ff4455000060",
+      "ideal_answer": "FullSSR is a new bioinformatic tool for microsatellite (SSR) loci detection and primer design using genomic data from NGS assay. "
+    },
+    {
+      "id": "5a70e88699e2c3af2600000a",
+      "ideal_answer": "In 2016, the US Food and Drug Administration (FDA)-approved Exondys 51 (eteplirsen) and Spinraza (nusinersen), the first exon skipping and exon inclusion drugs, to treat patients with Duchenne muscular dystrophy (DMD) and spinal muscular atrophy (SMA), respectively. "
+    },
+    {
+      "id": "5a6fa9f7b750ff4455000061",
+      "ideal_answer": "Click-PEGylation - A mobility shift approach to assess the redox state of cysteines in candidate proteins. "
+    },
+    {
+      "id": "5a70ea8299e2c3af2600000b",
+      "ideal_answer": "Conclusions In a randomized trial involving patients who received either evolocumab or placebo in addition to statin therapy, no significant between-group difference in cognitive function was observed over a median of 19 months. "
+    },
+    {
+      "id": "5a75dff883b0d9ea66000003",
+      "ideal_answer": "Although rapidly accumulating publicly available ChIP-seq, DNase-seq and ATAC-seq data are a valuable resource for the systematic investigation of gene regulation processes, a lack of standardized curation, quality control and analysis procedures have hindered extensive reuse of these data. "
+    },
+    {
+      "id": "5a72284b2dc08e987e000001",
+      "ideal_answer": "BACKGROUND: Although median nerve neuropathy and carpal tunnel syndrome (CTS) are known complications of both untreated and acutely treated distal radius fracture, median neuropathy after correction of distal radius malunion is not commonly reported in hand surgery literature. "
+    },
+    {
+      "id": "5a75f1f383b0d9ea66000006",
+      "ideal_answer": "LAF: Logic Alignment Free and its application to bacterial genomes classification. "
+    },
+    {
+      "id": "5a722a052dc08e987e000002",
+      "ideal_answer": "Repair of the mitral valve in children who have Marfan syndrome is especially difficult due to the presence of generalized connective tissue disorder, which may lead to future elongation and rupture of chordae tendineae that were unaffected at the time of mitral valve repair. "
+    },
+    {
+      "id": "5a75f2fc83b0d9ea66000007",
+      "ideal_answer": "TCGA2BED: extracting, extending, integrating, and querying The Cancer Genome Atlas. "
+    },
+    {
+      "id": "5a722ccd2dc08e987e000003",
+      "ideal_answer": "These include monoclonal antibodies against IL-5 or IL-5 receptor alpha (mepolizumab, reslizumab, and benralizumab), IL-13 (lebrikizumab and tralokinumab), IL-4 receptor alpha (dupilumab), IgE (omalizumab), and anti-thymic stromal lymphopoietin (tezepelumab) and small molecule therapies such as prostaglandin D2blockers (fevipiprant and timapiprant). "
+    },
+    {
+      "id": "5a75f5aa83b0d9ea66000008",
+      "ideal_answer": "JACUSA: site-specific identification of RNA editing events from replicate sequencing data. "
+    },
+    {
+      "id": "5a722d9f2dc08e987e000004",
+      "ideal_answer": "Since IL-5 plays an important role in the maturation, survival and migration of eosinophils, hence the pathogenesis of eosinophilic asthma, biotherapeutics targeting IL-5/IL-5Rα have been developed and/or marketed, including Mepolizumab, Reslizumab, and Benralizumab. "
+    },
+    {
+      "id": "5a75f6e083b0d9ea66000009",
+      "ideal_answer": "CSEQ-SIMULATOR: A DATA SIMULATOR FOR CLIP-SEQ EXPERIMENTS. "
+    },
+    {
+      "id": "5a72302b2dc08e987e000005",
+      "ideal_answer": "Patent foramen ovale closure with GORE HELEX or CARDIOFORM Septal Occluder vs. antiplatelet therapy for reduction of recurrent stroke or new brain infarct in patients with prior cryptogenic stroke: Design of the randomized Gore REDUCE Clinical Study. "
+    },
+    {
+      "id": "5a760e5583b0d9ea66000018",
+      "ideal_answer": "These analyses provide examples for the broad applicability of StereoGene for regulatory genomics. "
+    },
+    {
+      "id": "5a72329e2dc08e987e000006",
+      "ideal_answer": "PURPOSE: The purpose of this retrospective study was to determine what gives rise to the periportal free air, and ligamentum teres and falciform ligament signs on CT in patients with gastrointestinal (GI) tract perforation, and whether these specific air distributions can play a clinically meaningful role in the diagnosis of gastroduodenal perforation. "
+    }
+  ]
+}

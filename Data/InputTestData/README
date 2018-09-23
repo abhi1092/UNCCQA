@@ -1,0 +1,22 @@
+**************************************************************
+***** BioASQ- Task-B: biomedical question answering    *******
+*****                    Test Data                     *******
+**************************************************************
+
+The files correspond to the test files released during the first four years of the BioASQ challenges.
+The filename provides the following information:
+phase<phaseId>_<ChallengeEditionId>b_<testId>.json
+where:
+- phaseId corresponds either to A or B, for phase A or phase B of task B respectively.
+- ChallengeEditionId corresponds to 1, 2 or 3, for the first, the second or the third edition of the challenge respectively.
+- testId corresponds to 1,..,5 denoting the test set. 
+For example, phaseA_2b_05.json is the 5th test set of the second year of phase A test dataset.
+
+More information on the BioASQ challenge can be found at:
+- bioasq.org
+- participants-area.bioasq.org
+
+
+If you used data obtained from the BioASQ challenges please support us by reporting BioASQ in you acknowledgements and citing our paper: 
+Results of the BioASQ Track of the Question Answering Lab at CLEF 2014 Georgios Balikas, Ioannis Partalas, Axel-Cyrille Ngonga Ngomo, Anastasia Krithara, Georgios Paliouras, In Working Notes for CLEF 2014 Conference, Sheffield, UK, September 15-18, 2014., 2014.
+

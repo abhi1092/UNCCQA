@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "Is there evidence that tomato juice lowers cholesterol levels?", 
+      "type": "yesno", 
+      "id": "56c1d85cef6e394741000034"
+    }, 
+    {
+      "body": "Which histone modification discriminates between active and poised enhancers?", 
+      "type": "list", 
+      "id": "56c703445795f9a73e00000a"
+    }, 
+    {
+      "body": "What is the association of spermidine with \u03b1-synuclein neurotoxicity?", 
+      "type": "factoid", 
+      "id": "56c073fcef6e394741000020"
+    }, 
+    {
+      "body": "Is macitentan an ET agonist?", 
+      "type": "yesno", 
+      "id": "56c863385795f9a73e000015"
+    }, 
+    {
+      "body": "Is exonuclease Xrn1 a component of the P-bodies?", 
+      "type": "yesno", 
+      "id": "56c9e9d15795f9a73e00001d"
+    }, 
+    {
+      "body": "To which family does the Zika virus belong?", 
+      "type": "factoid", 
+      "id": "56b76d916e3f8eaf4c000001"
+    }, 
+    {
+      "body": "Is lenvatinib effective for thyroid cancer?", 
+      "type": "yesno", 
+      "id": "56c1f002ef6e394741000038"
+    }, 
+    {
+      "body": "Which histone modifications are correlated with transcription elongation?", 
+      "type": "list", 
+      "id": "56c3326750c68dd41600000b"
+    }, 
+    {
+      "body": "Which tool is used for promoterome mining using CAGE data?", 
+      "type": "factoid", 
+      "id": "56afe6d40a360a5e45000017"
+    }, 
+    {
+      "body": "What is the indication for isradipine?", 
+      "type": "factoid", 
+      "id": "56c3184050c68dd416000003"
+    }, 
+    {
+      "body": "Is STAT3 transcription factor regulated by mTORC1?", 
+      "type": "yesno", 
+      "id": "56caf71b5795f9a73e00002d"
+    }, 
+    {
+      "body": "What is the lipid droplet used for in the cell?", 
+      "type": "factoid", 
+      "id": "56b397a98525abca1e000003"
+    }, 
+    {
+      "body": "Aleglitazar is agonist of which receptor?", 
+      "type": "factoid", 
+      "id": "56c1f00cef6e39474100003e"
+    }, 
+    {
+      "body": "Which post-translational histone modifications are characteristic of facultative heterochromatin?", 
+      "type": "list", 
+      "id": "56c6dc6f5795f9a73e000007"
+    }, 
+    {
+      "body": "Which R/bioconductor package is used for integrative genomics visualizations?", 
+      "type": "factoid", 
+      "id": "56b330bb39c782df06000001"
+    }, 
+    {
+      "body": "Can sorafenib activate AMPK?", 
+      "type": "yesno", 
+      "id": "56c8318f5795f9a73e00000f"
+    }, 
+    {
+      "body": "Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation?", 
+      "type": "factoid", 
+      "id": "56cafa845795f9a73e00002e"
+    }, 
+    {
+      "body": "What does the SAGA complex acronym stands for?", 
+      "type": "factoid", 
+      "id": "56b76f496e3f8eaf4c000002"
+    }, 
+    {
+      "body": "Which enzyme is inhibited by Varespladib?", 
+      "type": "factoid", 
+      "id": "56c1f00def6e39474100003f"
+    }, 
+    {
+      "body": "Is Crohn's disease (CD) linked to the consumption of refrigerated food?", 
+      "type": "yesno", 
+      "id": "56cae40b5795f9a73e000022"
+    }, 
+    {
+      "body": "Are there currently applications of deep learning in genomics?", 
+      "type": "yesno", 
+      "id": "56b481348525abca1e000008"
+    }, 
+    {
+      "body": "Does dasatinib promote or inhibit T-cell proliferation?", 
+      "type": "factoid", 
+      "id": "56c85ed65795f9a73e000012"
+    }, 
+    {
+      "body": "What is the main characteristic of Amyotrophic Lateral Sclerosis?", 
+      "type": "summary", 
+      "id": "56b469448525abca1e000007"
+    }, 
+    {
+      "body": "What is the scope of the OMIA database?", 
+      "type": "summary", 
+      "id": "56b77a866e3f8eaf4c000004"
+    }, 
+    {
+      "body": "Simpson grading is used to describe resection of which brain tumor?", 
+      "type": "factoid", 
+      "id": "56c1f010ef6e394741000041"
+    }, 
+    {
+      "body": "Is there a genome-wide technique for the detection of R-loop formation?", 
+      "type": "yesno", 
+      "id": "56c332a350c68dd41600000d"
+    }, 
+    {
+      "body": "Are circRNAs associated with diseases and traits?", 
+      "type": "yesno", 
+      "id": "56b73c7a345adcac48000002"
+    }, 
+    {
+      "body": "Which kinases does baricitinib inhibit?", 
+      "type": "list", 
+      "id": "56c8605b5795f9a73e000014"
+    }, 
+    {
+      "body": "Do U6-associated proteins Lsm4 and Lsm6 interact with SMN?", 
+      "type": "yesno", 
+      "id": "56cab4c75795f9a73e00001f"
+    }, 
+    {
+      "body": "Which disease has been associated to a disruptive ALX1 protein?", 
+      "type": "factoid", 
+      "id": "56cf36263975bb303a000007"
+    }, 
+    {
+      "body": "What is targeted by monoclonal antibody Pembrolizumab?", 
+      "type": "factoid", 
+      "id": "56c1f01aef6e394741000043"
+    }, 
+    {
+      "body": "In which nuclear compartments is heterochromatin located?", 
+      "type": "list", 
+      "id": "56c33e5695c1e7cc5b000001"
+    }, 
+    {
+      "body": "Is the Drosophila Translational Control Element (TCE) involved in spermatogenesis?", 
+      "type": "yesno", 
+      "id": "56b8841189239fd259000001"
+    }, 
+    {
+      "body": "Can venlafaxine block NET and SERT?", 
+      "type": "yesno", 
+      "id": "56cf32e23975bb303a000006"
+    }, 
+    {
+      "body": "Which polyQ tract protein is linked to Spinocerebellar Ataxia type 2?", 
+      "type": "factoid", 
+      "id": "56cae60f5795f9a73e00002b"
+    }, 
+    {
+      "body": "Which is the chromosomal location of the gene MAOA?", 
+      "type": "factoid", 
+      "id": "56cf3f4f3975bb303a000008"
+    }, 
+    {
+      "body": "Is valproic acid effective for glioblastoma treatment?", 
+      "type": "yesno", 
+      "id": "56c1f029ef6e39474100004a"
+    }, 
+    {
+      "body": "What is the function of circular RNA?", 
+      "type": "factoid", 
+      "id": "56c58ceeb04e159d0e000004"
+    }, 
+    {
+      "body": "Are conserved noncoding elements associated with the evolution of animal body plans?", 
+      "type": "yesno", 
+      "id": "56b8a222156496395c000001"
+    }, 
+    {
+      "body": "What is Tn-seq?", 
+      "type": "summary", 
+      "id": "56d2ae19f22319765a000006"
+    }, 
+    {
+      "body": "Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity?", 
+      "type": "factoid", 
+      "id": "56caea805795f9a73e00002c"
+    }, 
+    {
+      "body": "Is there a genetic component for happiness?", 
+      "type": "summary", 
+      "id": "56cf413f3975bb303a000009"
+    }, 
+    {
+      "body": "Describe Hot water reflex epilepsy.", 
+      "type": "summary", 
+      "id": "56c1f031ef6e39474100004e"
+    }, 
+    {
+      "body": "What is the role of 5hmC (5 hydroxy-methyl-Cytocine) in differentiation?", 
+      "type": "summary", 
+      "id": "56c5ade15795f9a73e000003"
+    }, 
+    {
+      "body": "Describe what is the usage of the Theatre software tool for genomic analysis.", 
+      "type": "summary", 
+      "id": "56b8a525156496395c000002"
+    }, 
+    {
+      "body": "Is the protein KCNQ2 associated with idiopathic epilepsy?", 
+      "type": "yesno", 
+      "id": "56c30ce99d3e5f1412000002"
+    }, 
+    {
+      "body": "How do Hsp70 and Hsp110 affect mRNA stability?", 
+      "type": "summary", 
+      "id": "56cafb1b5795f9a73e00002f"
+    }, 
+    {
+      "body": "What is a disordered protein?", 
+      "type": "summary", 
+      "id": "56d12d643975bb303a000014"
+    }, 
+    {
+      "body": "List features of the Perry syndrome.", 
+      "type": "list", 
+      "id": "56c1f034ef6e394741000050"
+    }, 
+    {
+      "body": "Which is the genetic basis of Spinal Muscular Atrophy (SMA)?", 
+      "type": "factoid", 
+      "id": "56c5fd325795f9a73e000005"
+    }, 
+    {
+      "body": "Does Rad9 interact with Aft1 in S.cerevisiae?", 
+      "type": "yesno", 
+      "id": "56b9c937ac7ad10019000001"
+    }, 
+    {
+      "body": "What is GDF10?", 
+      "type": "summary", 
+      "id": "56c3104c50c68dd416000001"
+    }, 
+    {
+      "body": "Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis?", 
+      "type": "yesno", 
+      "id": "56c81fd15795f9a73e00000c"
+    }, 
+    {
+      "body": "Which are the coactivators of the Yes-associated protein (yap)?", 
+      "type": "factoid", 
+      "id": "56d1e23c67f0cb3d66000009"
+    }, 
+    {
+      "body": "What is the cause of Phthiriasis Palpebrarum?", 
+      "type": "factoid", 
+      "id": "56bb68f9ac7ad1001900000b"
+    }, 
+    {
+      "body": "Are piRNAs involved in gene silencing?", 
+      "type": "yesno", 
+      "id": "56c6f6005795f9a73e000009"
+    }, 
+    {
+      "body": "Is the circadian clock involved in ribosome biogenesis?", 
+      "type": "yesno", 
+      "id": "56bf7d90ef6e394741000015"
+    }, 
+    {
+      "body": "Does nifedipine inhibit L-type calcium channels?", 
+      "type": "yesno", 
+      "id": "56c313d150c68dd416000002"
+    }, 
+    {
+      "body": "Which type of cells is affected in Amyotrophic Lateral Sclerosis?", 
+      "type": "factoid", 
+      "id": "56c8274f5795f9a73e00000d"
+    }, 
+    {
+      "body": "Are messenger RNA molecules epigenetically methylated?", 
+      "type": "yesno", 
+      "id": "56d2ee61f22319765a000007"
+    }, 
+    {
+      "body": "Is flibanserin effetive for Hypoactive Sexual Desire Disorder? ", 
+      "type": "yesno", 
+      "id": "56bb6b0eac7ad1001900000e"
+    }, 
+    {
+      "body": "What is the most likely age of diagnosis of Crohn's disease (CD)?", 
+      "type": "factoid", 
+      "id": "56cae3eb5795f9a73e000021"
+    }, 
+    {
+      "body": "What is HOCOMOCO?", 
+      "type": "summary", 
+      "id": "56c8efef5795f9a73e000019"
+    }, 
+    {
+      "body": "What are piggyBAC transposons?", 
+      "type": "summary", 
+      "id": "56c4bbfdb04e159d0e000002"
+    }, 
+    {
+      "body": "Which components of the stress granules are known to be related to motor neuron degeneration in Amyotrophic Lateral Sclerosis?", 
+      "type": "list", 
+      "id": "56c830635795f9a73e00000e"
+    }, 
+    {
+      "body": "What is situs inversus?", 
+      "type": "factoid", 
+      "id": "56d3346cf22319765a000008"
+    }, 
+    {
+      "body": "Name synonym of Acrokeratosis paraneoplastica.", 
+      "type": "factoid", 
+      "id": "56bc751eac7ad10019000013"
+    }, 
+    {
+      "body": "What is the role of ELMO1 gene in cell migration?", 
+      "type": "summary", 
+      "id": "56c2fbd91e69116444000001"
+    }, 
+    {
+      "body": "Which kinase is inhibited by Tripolin A?", 
+      "type": "factoid", 
+      "id": "56cb9b065795f9a73e000032"
+    }, 
+    {
+      "body": "Which compound is a specific inhibitor for Nox1 and Nox4?", 
+      "type": "factoid", 
+      "id": "56c865d25795f9a73e000016"
+    }, 
+    {
+      "body": "Which domain allowing self-association do exist in TDP-43 and FUS proteins?", 
+      "type": "factoid", 
+      "id": "56c83f365795f9a73e000011"
+    }, 
+    {
+      "body": "Where is the protein Pannexin1 located?", 
+      "type": "factoid", 
+      "id": "56af9f130a360a5e45000015"
+    }, 
+    {
+      "body": "Which disease can be treated with Delamanid?", 
+      "type": "factoid", 
+      "id": "56bc7d71ac7ad10019000018"
+    }, 
+    {
+      "body": "What is the general function of H3K79 methylation?", 
+      "type": "summary", 
+      "id": "56c331aa50c68dd416000005"
+    }, 
+    {
+      "body": "Which factor interacts with Treslin/TICRR throughout the cell cycle of human cells?", 
+      "type": "factoid", 
+      "id": "56d19a363975bb303a000017"
+    }, 
+    {
+      "body": "Treprostinil is an analogue for which prostaglandin?", 
+      "type": "factoid", 
+      "id": "56c86aa95795f9a73e000018"
+    }, 
+    {
+      "body": "Which are the main features of CREST and other ALS-linked proteins?", 
+      "type": "summary", 
+      "id": "56c9f9d95795f9a73e00001e"
+    }, 
+    {
+      "body": "What is the pyroptotic pathway?", 
+      "type": "summary", 
+      "id": "56afa7fd0a360a5e45000016"
+    }, 
+    {
+      "body": "What molecule is targeted by brodalumab?", 
+      "type": "factoid", 
+      "id": "56bc9268ac7ad1001900001b"
+    }, 
+    {
+      "body": "What is the incidence of cystic fibrosis in the caucasian population?", 
+      "type": "factoid", 
+      "id": "56c3320a50c68dd416000008"
+    }, 
+    {
+      "body": "Are Drosophila ultraconserved elements candidate ncRNAs?", 
+      "type": "yesno", 
+      "id": "56d1accb67f0cb3d66000001"
+    }, 
+    {
+      "body": "Can SUMO affect calcium homeostasis?", 
+      "type": "yesno", 
+      "id": "56cc947b5795f9a73e000033"
+    }, 
+    {
+      "body": "Where does TDP43 localize in ALS neurons?", 
+      "type": "summary", 
+      "id": "56cad5df5795f9a73e000020"
+    }, 
+    {
+      "body": "Is curcumin a phytochemical?", 
+      "type": "yesno", 
+      "id": "56b0eb3b0a360a5e45000019"
+    }, 
+    {
+      "body": "Which molecule is targeted by Daratumumab?", 
+      "type": "factoid", 
+      "id": "56bc932aac7ad1001900001c"
+    }, 
+    {
+      "body": "How is spastic diplegia diagnosed?", 
+      "type": "summary", 
+      "id": "56c3323a50c68dd416000009"
+    }, 
+    {
+      "body": "What are the Topological Domains (TADs)?", 
+      "type": "summary", 
+      "id": "569e6c68ca240fa209000001"
+    }, 
+    {
+      "body": "Is sumoylation implicated in myogenesis?", 
+      "type": "yesno", 
+      "id": "56cca4da5795f9a73e000034"
+    }, 
+    {
+      "body": "How is mTORC1 involved in the regulation of heat stress?", 
+      "type": "summary", 
+      "id": "56cafca85795f9a73e000030"
+    }, 
+    {
+      "body": "Is the Dictyostelium discoideum proteome known?", 
+      "type": "yesno", 
+      "id": "56b39f148525abca1e000004"
+    }, 
+    {
+      "body": "List symptoms of Meigs' Syndrome.", 
+      "type": "list", 
+      "id": "56be0a18ef6e394741000006"
+    }, 
+    {
+      "body": "Which DNA sequences are more prone for the formation of R-loops?", 
+      "type": "list", 
+      "id": "56c3327c50c68dd41600000c"
+    }, 
+    {
+      "body": "What was the purpose of the FANTOM4 project?", 
+      "type": "factoid", 
+      "id": "569e7721ceceede94d000001"
+    }, 
+    {
+      "body": "What is the relationship between TailorX and Oncotype?", 
+      "type": "summary", 
+      "id": "56ccae765795f9a73e000035"
+    }, 
+    {
+      "body": "List proteins of lipids droplets", 
+      "type": "list", 
+      "id": "56b3a3ce8525abca1e000005"
+    }, 
+    {
+      "body": "List symptoms of Gradenigo's syndrome.", 
+      "type": "list", 
+      "id": "56be1723ef6e39474100000c"
+    }, 
+    {
+      "body": "What is the molecular function of psoralen photobinding on DNA?", 
+      "type": "factoid", 
+      "id": "56c341acfedd0b786b000001"
+    }, 
+    {
+      "body": "Which package is available for analysing genomic interactions in R/Bioconductor?", 
+      "type": "factoid", 
+      "id": "56a39d60496b62f23f000006"
+    }, 
+    {
+      "body": "What is the role of NETs in systemic lupus erythematosus?", 
+      "type": "summary", 
+      "id": "56ccccf55795f9a73e000037"
+    }, 
+    {
+      "body": "What is the causative agent of the \"Panama disease\" affecting bananas?", 
+      "type": "factoid", 
+      "id": "56b7083376d8bf8d13000001"
+    }
+  ]
+}

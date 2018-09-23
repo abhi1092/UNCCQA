@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "body": "How could we infer functional associations from gene fusion events?", 
+            "id": "511979b04eab811676000003", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Where is X-ray free electron laser used?", 
+            "id": "51475d5cd24251bc0500001b", 
+            "type": "list"
+        }, 
+        {
+            "body": "Give examples of next-generation sequencing applications in mutation screening?", 
+            "id": "5148f6f0d24251bc0500003c", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What are the computational methods for the prediction of beta-barrel transmembrane proteins?", 
+            "id": "5149a61ed24251bc05000044", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the available biomedical text mining tools for the detection of protein-protein interactions?", 
+            "id": "5149aafcd24251bc05000045", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the state-of-the-art computational tools for the prediction of gene fusion events?", 
+            "id": "5149af96d24251bc05000046", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is there a difference in the rate between gene fusion and gene fission?", 
+            "id": "5149b575d24251bc05000047", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "How functional connectivity of the default mode network changes in patients with disorders of consciousness?", 
+            "id": "514a2649d24251bc0500005a", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Are psammoma bodies characteristic to meningiomas?", 
+            "id": "514a4679d24251bc0500005b", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which pituitary adenoma is common cause of infertility is women?", 
+            "id": "514a51c2d24251bc0500005c", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Is paroxetine effective for treatment of premenstrual dysphoric disorder?", 
+            "id": "514a59c2d24251bc0500005d", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Does cortical spreading depression appear in ischemic penumbra following ischemic stroke?", 
+            "id": "514b335dd24251bc05000061", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Intact macromolecular assemblies are analysed by advanced mass spectrometry. How large complexes (in molecular weight) have been studied?", 
+            "id": "514c3fd7d24251bc05000062", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Is there an association between c-reactive protein concentrations and outcomes of subarachnoid hemorrhage patients? ", 
+            "id": "514cbbf9d24251bc05000065", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is depression associated with poor prognosis of brain tumor patients?", 
+            "id": "514cc8dcd24251bc05000066", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the role of anhedonia in coronary disease patients?", 
+            "id": "514cd15ad24251bc05000067", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What are the generic versions of Viagra?", 
+            "id": "5150f401d24251bc05000075", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is physical performance influenced by thyroid hormone metabolism?", 
+            "id": "5151b8efd24251bc0500007a", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the role of the histidine rich calcium binding protein (HRC) in cardiomyopathy?", 
+            "id": "51542de6d24251bc0500007f", 
+            "type": "summary"
+        }, 
+        {
+            "body": "The secreted frizzled-related protein 3 (sFPR3) is altered in human cancers.\nAre its level found to increase or to decrease?", 
+            "id": "5159502dd24251bc0500009b", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Where in the cell do we find the protein Cep135?", 
+            "id": "51596a8ad24251bc0500009e", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the aim of the Human Chromosome-centric Proteome Project (C-HPP)?", 
+            "id": "515aa0abd24251bc050000a8", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the advantage of using long nano columns in proteomics?", 
+            "id": "515b1eccd24251bc050000af", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which is the binding site motif of Sp1?", 
+            "id": "515d692c298dcd4e5100000a", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "How many genes does the human hoxD cluster contain?", 
+            "id": "515db083298dcd4e51000012", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the function of TALENs?", 
+            "id": "515dc691298dcd4e5100001b", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the percentage of responders to tetrabenazine treatment for dystonia in children?", 
+            "id": "515ddda6298dcd4e5100001f", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the effect of methotrexate in treating uveitis due to juvenile idiopathic arthritis ?", 
+            "id": "515de127298dcd4e51000020", 
+            "type": "summary"
+        }, 
+        {
+            "body": "List all clinical trials of the polypill.", 
+            "id": "515de572298dcd4e51000021", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the role of probiotics in gastrointestinal disease?", 
+            "id": "515de643298dcd4e51000022", 
+            "type": "summary"
+        }, 
+        {
+            "body": "List all reported treatment options for anxiety in autism spectrum disorder.", 
+            "id": "515de993298dcd4e51000024", 
+            "type": "list"
+        }, 
+        {
+            "body": "List the endoscopic diagnoses that have been reported in children with autism", 
+            "id": "515deafd298dcd4e51000025", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is abdominal pain a common symptom in autism?", 
+            "id": "515debe7298dcd4e51000026", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is Vitamin D deficiency in pregnant women associated with gestational diabetes?", 
+            "id": "515def40298dcd4e51000028", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the indication for prophylactic use of antibiotics in COPD?", 
+            "id": "515df063298dcd4e51000029", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the effect of Allopurinol on asphyxia in neonates?", 
+            "id": "515df1d4298dcd4e5100002b", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Are there clinical trials on stem cells in multiple sclerosis", 
+            "id": "515df5b2298dcd4e5100002c", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Does melanoma  occur in people of African origin ?", 
+            "id": "515df6f2298dcd4e5100002d", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "List co-morbidities that may occur together with \"Stiff man Syndrome\"", 
+            "id": "515df86a298dcd4e5100002e", 
+            "type": "list"
+        }, 
+        {
+            "body": "Can clonidine be used to reduce agitation in children.", 
+            "id": "515df89e298dcd4e5100002f", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is Bladder training an effective method to treat  urge incontinence ?", 
+            "id": "515df98f298dcd4e51000030", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which species may be used for the biotechnological production of itaconic acid?", 
+            "id": "515ffc2b298dcd4e51000035", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the most commonly reported pathological states associated with the formation of DNA G-quadruplexes?", 
+            "id": "51600ab3298dcd4e51000036", 
+            "type": "list"
+        }, 
+        {
+            "body": "Against which organisms has reverse vaccinology been used?", 
+            "id": "51601071298dcd4e51000038", 
+            "type": "list"
+        }, 
+        {
+            "body": "How are human accelerated regions (HAR) defined?", 
+            "id": "51603912298dcd4e5100003b", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which histone marks are deposited by Set7?", 
+            "id": "5160412d298dcd4e5100003c", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which is the protein (antigen) targeted by anti-Vel antibodies in the Vel blood group?", 
+            "id": "516545a8298dcd4e51000056", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "is intense physical activity associated with longevity ?", 
+            "id": "5167be1a298dcd4e5100005c", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the role of thyroid hormone receptor alpha1 in insulin secretion?", 
+            "id": "516beae9298dcd4e5100006b", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the role of AMPK kinase in myocardial remodeling after myocardial infarction", 
+            "id": "516c0dc6298dcd4e5100006c", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which genes does thyroid hormone receptor beta1 regulate in the liver?", 
+            "id": "516c0ebc298dcd4e5100006e", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which genes does thyroid hormone receptor alpha1 regulate in the liver?", 
+            "id": "516c0ed3298dcd4e5100006f", 
+            "type": "list"
+        }, 
+        {
+            "body": "Does dronedarone  affect  T3 and T4 levels?", 
+            "id": "516d4b27298dcd4e51000077", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Does amiodarone affect thyroid hormone receptors in the myocardium?", 
+            "id": "516d5baa298dcd4e51000078", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "How does TNF affect thyroid hormone receptors?", 
+            "id": "516d5bc5298dcd4e51000079", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Is cancer related to global DNA hypo or hypermethylation?", 
+            "id": "516e5f10298dcd4e5100007c", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which anticancer drugs target human topoisomerase II?", 
+            "id": "516e5f25298dcd4e5100007d", 
+            "type": "list"
+        }, 
+        {
+            "body": "Do lincRNAs play a role in human cancer?", 
+            "id": "516e5f33298dcd4e5100007e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the genetic basis of Rubinstein-Taybi syndrome?", 
+            "id": "516e5f41298dcd4e5100007f", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the effect of SAHA treatment in Huntington's disease?", 
+            "id": "516e5f4e298dcd4e51000080", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which is the methyl donor of histone methyltransferases?", 
+            "id": "516e7fda298dcd4e51000081", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "By which methods can we evaluate the reliability of a phylogenetic tree?", 
+            "id": "516ec97f298dcd4e51000087", 
+            "type": "list"
+        }, 
+        {
+            "body": "In which proteins is the chromodomain present?", 
+            "id": "517137c18ed59a060a000001", 
+            "type": "list"
+        }, 
+        {
+            "body": "How does ranolazine affect kinase signaling activation in the heart?", 
+            "id": "517138b68ed59a060a000002", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Is calcium overload involved in the development of diabetic cardiomyopathy?", 
+            "id": "517139098ed59a060a000004", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which are the synonyms of prostate-specific antigen?", 
+            "id": "5171651e8ed59a060a000009", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which is the vector of Louping ill virus?", 
+            "id": "51716e808ed59a060a00000b", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the role of  chromomethylases in plants?", 
+            "id": "51716fd38ed59a060a00000c", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Are chromomethylases present in animal genomes?", 
+            "id": "5171833c8ed59a060a00000f", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which is the causative agent of malaria?", 
+            "id": "517194ef8ed59a060a000011", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "How many TAp73 isoforms have been identified in humans?", 
+            "id": "5173bdb38ed59a060a000020", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What type of cancers and inherited diseases have been associated to mutations in the Notch pathway?", 
+            "id": "5173eb428ed59a060a000021", 
+            "type": "list"
+        }, 
+        {
+            "body": "Are histone deacetylase (HDAC) inhibitors good candidates to control metastasis of solid tumors?", 
+            "id": "517404878ed59a060a000023", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which are the bioinformatics tools for gene structure prediction?\n", 
+            "id": "51740da48ed59a060a000024", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the role of AMPK in diabetic cardiomyopathy?", 
+            "id": "51753a948ed59a060a000029", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the treatment of Riedel disease (thyroiditis)?", 
+            "id": "517541e08ed59a060a00002a", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the treatment of interferon-induced thyroiditis?", 
+            "id": "517545168ed59a060a00002b", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What are the most frequent non-canonical sequence motifs at the donor and acceptor splice sites in vertebrates?", 
+            "id": "517575558ed59a060a00002d", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Are long non coding RNAs as conserved in sequence as protein coding genes?", 
+            "id": "51757bbb8ed59a060a00002e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is alternative splicing of apoptotic genes playing a role in the response to DNA or mitochondrial damage?", 
+            "id": "5175b97a8ed59a060a00002f", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Have mutations in the Polycomb group been found in human diseases?", 
+            "id": "5176c6d08ed59a060a000032", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which is the molecular mechanism underlying K-ras alterations in carcinomas?", 
+            "id": "5177def18ed59a060a000034", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2?", 
+            "id": "517818508ed59a060a000035", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the main mechanism by which human papillomavirus proteins E6 and E7 contribute to cell transformation?", 
+            "id": "5178444e8ed59a060a000037", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is a popular mesaure of gene expression in RNA-seq experiments?", 
+            "id": "5178d6be8ed59a060a000038", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies. Which protein are they targeting?", 
+            "id": "517901bc8ed59a060a00003b", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Does triiodothyronine stimulate red blood cell sodium potassium pump?", 
+            "id": "517a8a718ed59a060a00003e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which deiodinases are best known to be present in brain?", 
+            "id": "517a8bab8ed59a060a000040", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which deiodinases are present in skeletal  muscle?", 
+            "id": "517a8bef8ed59a060a000041", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which viruses are best known to cause myocarditis?", 
+            "id": "517a8c918ed59a060a000043", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the treatment of acute myocarditis?", 
+            "id": "517a8cc68ed59a060a000044", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the treatment of acute pericarditis?", 
+            "id": "517a8ce98ed59a060a000045", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which drugs are utilized to treat eosinophilic esophagitis?", 
+            "id": "518ba4b5310faafe08000005", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which drugs are utilized to treat amiodarone-induced thyroitoxicosis?", 
+            "id": "518cb4b5310faafe08000006", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the best treatment options to treat Helicobacter pylori?", 
+            "id": "518cb5ab310faafe08000008", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the treatment of triiodothyronine toxicosis?", 
+            "id": "518cb6ab310faafe08000009", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the known human transmembrane nucleoporins?", 
+            "id": "51bdb644047fa84d1d000001", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which are the Atg8 homologs in human?", 
+            "id": "51bdf045047fa84d1d000003", 
+            "type": "list"
+        }, 
+        {
+            "body": "Are there any known functions for the prothymosin alpha c-terminal peptide?", 
+            "id": "51be03c4047fa84d1d000004", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Has field-programmable gate array (FPGA) technology been used to solve sequence alignment problems?", 
+            "id": "51be1750047fa84d1d000005", 
+            "type": "yesno"
+        }
+    ]
+}

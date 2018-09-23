@@ -1,0 +1,414 @@
+{
+    "questions": [
+        {
+            "body": "Is it possible to determine the proteome of a formalin fixed and paraffin embedded  (FFPE) tissue?", 
+            "id": "511a1e12df1ebcce7d000009", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "How many tissue kallikrein genes are present in the human genome?", 
+            "id": "511a3573df1ebcce7d000018", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which are the plant DNA (cytosine-5) methyltransferase families?", 
+            "id": "511a4d391159fa8212000003", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the function of the viral KP4 protein?", 
+            "id": "511a51331159fa8212000009", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Are viruses involved in the etiology of human subacute thyroiditis?", 
+            "id": "513711055274a5fb0700000e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which is the process that Conserved noncoding elements mostly regulate?", 
+            "id": "51387022bee46bd34c000002", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Do Conserved noncoding elements act as enhancers?", 
+            "id": "5139ec51bee46bd34c000006", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is paramyxovirus involved in human subacute thyroiditis?", 
+            "id": "513efe01bee46bd34c00000e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Do proton pump inhibitors affect thyroxine absorption?", 
+            "id": "513f3ab6bee46bd34c00000f", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which drugs may interfere thyroxine absorption?", 
+            "id": "513f3d1fbee46bd34c000010", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is microRNA(miRNA) 29 involved in post-ischemic cardiac remodeling?", 
+            "id": "513f4025bee46bd34c000011", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is microRNA(miRNA) 30 involved in post-ischemic cardiac remodeling?", 
+            "id": "513f4249bee46bd34c000012", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Does triiodothyronine (T3) has cardiac angiogenic effects?", 
+            "id": "513f4892bee46bd34c000014", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What kind of affinity purification would you use in order to isolate soluble lysosomal proteins?", 
+            "id": "5140569623fec90375000003", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which is the defective protein causing the lysosomal storage disease Fabry?", 
+            "id": "51405cd123fec90375000005", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is known as the cause of subacute thyroiditis?", 
+            "id": "51406d6923fec90375000007", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the treatment of subacute thyroiditis?", 
+            "id": "51406dd123fec90375000008", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Does metformin interfere thyroxine absorption?", 
+            "id": "51406e6223fec90375000009", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "The CXCR2 receptor is targeted in cancer. Name five antagonists.", 
+            "id": "5141bcd423fec9037500000d", 
+            "type": "list"
+        }, 
+        {
+            "body": "The protein NONO forms heterodimers. With which proteins?", 
+            "id": "514241fcd24251bc05000006", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is single-cell analysis (SCA) possible in proteomics?", 
+            "id": "5144bc8fd24251bc0500000e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is miR-126 involved in heart failure?", 
+            "id": "51485008d24251bc05000028", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the clinical value of MammaPrint?", 
+            "id": "51485b9ad24251bc0500002b", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which protein is affected by dusp8 activation?", 
+            "id": "5148691bd24251bc0500002d", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which pharmacogenetic test is available for abacavir?", 
+            "id": "51487dead24251bc05000030", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which genes are involved in patient response to warfarin?", 
+            "id": "5148885ad24251bc05000032", 
+            "type": "list"
+        }, 
+        {
+            "body": "Can PLN mutations lead to dilated cardiomyopathy?", 
+            "id": "5148e42cd24251bc0500003b", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "How many genes are in the gene signature screened by MammaPrint?", 
+            "id": "514a0f4ad24251bc05000053", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which diseases can Oncotype DX be used for?", 
+            "id": "514a11add24251bc05000054", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is there a pharmacogenetic test for trastuzumab?", 
+            "id": "514a1469d24251bc05000056", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What are the generic versions of Viagra", 
+            "id": "5150b1f4d24251bc0500006a", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the influence of patent expiry on  ACE inhibitor prescribing.", 
+            "id": "5150b5c4d24251bc05000070", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which gene test can be used for the X-linked myotubular myopathy?", 
+            "id": "51542dabd24251bc0500007d", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What are the symptoms of abacavir hypersensitivity?", 
+            "id": "51542dc3d24251bc0500007e", 
+            "type": "list"
+        }, 
+        {
+            "body": "Mutations in which gene determine response to both erlotinib and gefitinib?", 
+            "id": "51542e44d24251bc05000081", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Is the microRNA 132 (miR-132) involved in brain pathologies?", 
+            "id": "5156be5ed24251bc05000087", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Gene silencing can be achieved by RNA interference (RNAi) in eukaryotic organisms. What is the name of the analogous process in prokaryotic organisms?", 
+            "id": "5157539ed24251bc0500008a", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Is it feasible to determine the complete proteome of yeast?", 
+            "id": "5157fce5d24251bc0500008c", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which enzyme is involved in the maintenance of DNA (cytosine-5-)-methylation?", 
+            "id": "51585b28d24251bc0500008d", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Does physical activity influence gut hormones?", 
+            "id": "5158644cd24251bc0500008e", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Carbapenemase-producing gram-negative bacteria is a major health concern because their resistance to antibiotics.\nList the most frequent carbapenemases found in Enterobacteriaceae.", 
+            "id": "515870cdd24251bc0500008f", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is factor XI deficient in Hemophilia C?", 
+            "id": "51588c1ad24251bc05000094", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Have Quantitative Trait Loci affecting splicing (splicing QTLs) been linked to disease?", 
+            "id": "5158a5b8d24251bc05000097", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Proteomic analyses need prior knowledge of the organism complete genome. Is the complete genome of the bacteria of the genus Arthrobacter available?", 
+            "id": "51593dc8d24251bc05000099", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Proteomic analyses have revealed proteins associated with the triple-negative breast cancers. List some proposed proteins.", 
+            "id": "51595fb0d24251bc0500009c", 
+            "type": "list"
+        }, 
+        {
+            "body": "Does strenuous physical activity affect thyroid hormone metabolism?", 
+            "id": "51598b08d24251bc0500009f", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which compounds exist that are thyroid hormone analogs?", 
+            "id": "515993f3d24251bc050000a0", 
+            "type": "list"
+        }, 
+        {
+            "body": "How does thyroid  hormone  regulate  SR-Ca2+ ATPase  (SERCA) protein in the heart?", 
+            "id": "5159a306d24251bc050000a1", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What are the effects of depleting protein  km23-1 (DYNLRB1)  in a cell?", 
+            "id": "515a7ffdd24251bc050000a5", 
+            "type": "list"
+        }, 
+        {
+            "body": "Albumin depletion is a common first step for proteomic analysis of CSF fluid. What is the advantage and disadvantage of this procedure?", 
+            "id": "515a9d86d24251bc050000a7", 
+            "type": "summary"
+        }, 
+        {
+            "body": "How does thyroid hormone regulate mitochondrial biogenesis in the myocardium?", 
+            "id": "515ac941d24251bc050000ab", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Where can we find the protein lacritin?", 
+            "id": "515b30d8d24251bc050000b0", 
+            "type": "list"
+        }, 
+        {
+            "body": "A common problem in proteomics is the contamination of samples with exogenous proteins (often from other species). These proteins can be found in specific databases. List some contaminants.", 
+            "id": "515d7693298dcd4e5100000c", 
+            "type": "list"
+        }, 
+        {
+            "body": "In what proportion of children with heart failure has Enalapril been shown to be safe and effective?", 
+            "id": "515dd3d5298dcd4e5100001c", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the lay name of the treatment for CCSVI (chronic cerebro-spinal venous insufficiency)  in multiple sclerosis.", 
+            "id": "515df199298dcd4e5100002a", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Do selenoproteins and selenium play a role in prostate cancer prevention?", 
+            "id": "515ed87c298dcd4e51000032", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the effect of TRH on myocardial contractility?", 
+            "id": "5160193d298dcd4e51000039", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Have germline variants been associated to colorectal cancer?", 
+            "id": "5161cfa3298dcd4e5100003d", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Global quantitative phosphoproteomic analyses are emerging. List the preferred technologies for the enrichment for phosphorylated peptides?", 
+            "id": "516281e6298dcd4e51000040", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the role of deadenylases in the cell?", 
+            "id": "5162af0f298dcd4e51000045", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What are the functions of sorting nexin 27?", 
+            "id": "5162da97298dcd4e51000048", 
+            "type": "summary"
+        }, 
+        {
+            "body": "The protein neprilysin  has an positive effect on Alzheimer disease, how can it be delivered to the brain?", 
+            "id": "5162e44f298dcd4e5100004a", 
+            "type": "list"
+        }, 
+        {
+            "body": "What are the advantages of the top down mass spectrometric analysis of histones?", 
+            "id": "51630226298dcd4e5100004d", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the use of MammaPrint and Oncotype DX?", 
+            "id": "5167d47e298dcd4e5100005e", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Does Serca2a bind PLN in the heart?", 
+            "id": "51680b05298dcd4e51000064", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Is the UGT1A1*28 polymorphism associated with irinotecan response in Caucasians?", 
+            "id": "51680b0e298dcd4e51000065", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "What is the mode of inheritance of nemaline myopathy?", 
+            "id": "516be1d6298dcd4e5100006a", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the gene frequently mutated in Multiple endocrine neoplasia 2 (MEN2) and Hisrchsprung disease?", 
+            "id": "5171438a8ed59a060a000007", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "What is the correlation between SPARC expression and growth inhibition in human cancer?", 
+            "id": "517151f28ed59a060a000008", 
+            "type": "summary"
+        }, 
+        {
+            "body": "What is the mechanism of microRNA deregulation in carcinogenesis?", 
+            "id": "51718fbc8ed59a060a000010", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Name the major classes of small  non coding RNAs in mammalians?", 
+            "id": "517295c18ed59a060a000016", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which genes are regulated by MEF-2 in the heart?", 
+            "id": "517539af8ed59a060a000026", 
+            "type": "list"
+        }, 
+        {
+            "body": "List some ways to reverse Tau hyperphosphorylation in Tauopathies?", 
+            "id": "517775c78ed59a060a000033", 
+            "type": "list"
+        }, 
+        {
+            "body": "What are the effects of ILK ablation?", 
+            "id": "5179602c8ed59a060a00003d", 
+            "type": "list"
+        }, 
+        {
+            "body": "Which deiodinase is known to be present in liver?", 
+            "id": "517a8b768ed59a060a00003f", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which dediodinases are present in kidney?", 
+            "id": "517a8c238ed59a060a000042", 
+            "type": "list"
+        }, 
+        {
+            "body": "What is the treatment of amiodarone-induced thyrotoxicosis?", 
+            "id": "518cb513310faafe08000007", 
+            "type": "summary"
+        }, 
+        {
+            "body": "Which microRNAs are involved in exercise adaptation?", 
+            "id": "518cca6f310faafe0800000a", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is intense physical activity associated with longevity?", 
+            "id": "518ccac0310faafe0800000b", 
+            "type": "yesno"
+        }, 
+        {
+            "body": "Which is the receptor for substrates of Chaperone Mediated Autophagy?", 
+            "id": "51bdd9c2047fa84d1d000002", 
+            "type": "factoid"
+        }, 
+        {
+            "body": "Which are currently available software tools for detecting rare codon clusters in coding sequences?", 
+            "id": "51be411b047fa84d1d000006", 
+            "type": "list"
+        }, 
+        {
+            "body": "Is macroautophagy a selective degradation process?", 
+            "id": "51bedaac3148fdcc22da7188", 
+            "type": "yesno"
+        }
+    ]
+}

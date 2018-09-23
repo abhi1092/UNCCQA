@@ -1,0 +1,4647 @@
+{
+  "questions": [
+    {
+      "exact_answer": [
+        [
+          "S100A4 gene"
+        ],
+        [
+          "Nuclear Protein"
+        ],
+        [
+          "Promotion (action)"
+        ],
+        [
+          "TP53 wt Allele"
+        ],
+        [
+          "Cell Nucleus"
+        ]
+      ],
+      "id": "54e8c7220fc566b149000002",
+      "ideal_answer": "Coexpression and nuclear colocalization of metastasis-promoting protein S100A4 and p53 without mutual regulation in colorectal carcinoma. S100A4 interacts with p53 in the nucleus. using proximity ligation assay, we show that the interaction takes place in the cell nucleus. we show that endogenous S100A4 and p53 interact in complex samples. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Diversity"
+        ],
+        [
+          "Fanconi Anemia"
+        ],
+        [
+          "Predisposition"
+        ],
+        [
+          "Progressive"
+        ],
+        [
+          "Pancytopenia"
+        ],
+        [
+          "clinical aspects"
+        ],
+        [
+          "Congenital Abnormality"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "solid tumor"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Autosomal recessive inheritance"
+        ],
+        [
+          "Skin Abnormalities"
+        ],
+        [
+          "Similarity"
+        ],
+        [
+          "Hematologic Neoplasms"
+        ],
+        [
+          "Exhibits as Topic"
+        ],
+        [
+          "Short stature"
+        ],
+        [
+          "Profound"
+        ],
+        [
+          "Skeletal"
+        ],
+        [
+          "shared attribute"
+        ],
+        [
+          "Spectrum"
+        ],
+        [
+          "Heterogeneity"
+        ],
+        [
+          "Certain (qualifier value)"
+        ],
+        [
+          "Hematopoiesis"
+        ],
+        [
+          "High risk of"
+        ],
+        [
+          "Biochemical Pathway"
+        ],
+        [
+          "Consistent with"
+        ],
+        [
+          "User Group"
+        ],
+        [
+          "Malignant Neoplasms"
+        ],
+        [
+          "Defective"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Loss"
+        ],
+        [
+          "Causing"
+        ],
+        [
+          "Predisposition to neoplasia"
+        ],
+        [
+          "Increased risk of malignancy"
+        ],
+        [
+          "Cytopenia"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Neoplasm"
+        ],
+        [
+          "Leukemia, Myelocytic, Acute"
+        ],
+        [
+          "Characteristics"
+        ],
+        [
+          "Infertility"
+        ],
+        [
+          "Stem cells"
+        ],
+        [
+          "Heterogeneous disorder"
+        ],
+        [
+          "Maturation defect"
+        ]
+      ],
+      "id": "54ecb640445c3b5a5f000001",
+      "ideal_answer": "Fanconi anemia (FA) is an autosomal recessive, cancer susceptibility disorder characterized by diverse clinical features, such as short stature, skeletal or skin abnormalities, progressive bone marrow (BM) failure, and increased risk of malignancies. Fanconi anemia (FA) is a genetically and phenotypically heterogeneous recessive disorder characterized by diverse congenital malformations, progressive pancytopenia and predisposition to both hematologic malignancies and solid tumors. Fanconi anaemia (FA) is an autosomal recessive disease characterised by congenital abnormalities, defective haemopoiesis, and a high risk of developing acute myeloid leukaemia and certain solid tumours. The clinical features of cytopenia, developmental defects, and tumor predisposition are similar in each group, suggesting that the gene products participate in a common pathway. The most significant and consistent phenotypic characteristics are stem cell loss, causing progressive bone marrow failure and sterility, diverse developmental abnormalities and a profound predisposition to neoplasia. Patients with FA exhibit a heterogeneous spectrum of clinical features. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54ecb66d445c3b5a5f000002",
+      "ideal_answer": "FAAP100-deficient cells display hallmark features of FA cells, including defective FANCD2 monoubiquitination, hypersensitivity to DNA crosslinking agents, and genomic instability. The Fanconi anemia (FA) core complex plays a central role in the DNA damage response network. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Per Billion"
+        ],
+        [
+          "Europe"
+        ],
+        [
+          "Serotype"
+        ],
+        [
+          "Borrelia burgdorferi"
+        ],
+        [
+          "Prevalence aspects"
+        ],
+        [
+          "Lyme Disease"
+        ],
+        [
+          "B-Complex"
+        ],
+        [
+          "Pathogenic organism"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Species"
+        ],
+        [
+          "Ticks"
+        ],
+        [
+          "N not otherwise specified Antibody"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "Borrelia miyamotoi"
+        ],
+        [
+          "Transmitted by"
+        ],
+        [
+          "Ixodes"
+        ],
+        [
+          "Surface delta"
+        ],
+        [
+          "2,5-dichloro-4-bromophenol"
+        ],
+        [
+          "Borrelia afzelii"
+        ],
+        [
+          "Frequent"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "\u003c3 (qualifier value)"
+        ],
+        [
+          "Causing"
+        ],
+        [
+          "Blood group antibody I"
+        ],
+        [
+          "liter/second"
+        ],
+        [
+          "Borrelia species"
+        ],
+        [
+          "DNA"
+        ],
+        [
+          "Pharmacologic Substance"
+        ],
+        [
+          "Blood group antigen B"
+        ],
+        [
+          "Reaction"
+        ],
+        [
+          "Detected (finding)"
+        ],
+        [
+          "Overall Publication Type"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "European race"
+        ],
+        [
+          "Entomology"
+        ],
+        [
+          "newly"
+        ],
+        [
+          "Integer +5"
+        ],
+        [
+          "Etiology aspects"
+        ],
+        [
+          "Patterns"
+        ],
+        [
+          "Borrelia spielmanii"
+        ],
+        [
+          "NORTH AMERICAN, WESTERN"
+        ],
+        [
+          "Tamiasciurus hudsonicus"
+        ],
+        [
+          "Iodides"
+        ],
+        [
+          "Case unit dose"
+        ],
+        [
+          "Comprehension"
+        ],
+        [
+          "Ricinus \u003clouse\u003e"
+        ],
+        [
+          "Borrelia"
+        ],
+        [
+          "Medical"
+        ],
+        [
+          "Detection"
+        ],
+        [
+          "Limited (extensiveness)"
+        ],
+        [
+          "veterinary aspects"
+        ],
+        [
+          "Minimum"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "United States"
+        ],
+        [
+          "Large"
+        ],
+        [
+          "Nucleic acid hybridization procedure"
+        ],
+        [
+          "Babesia divergens"
+        ],
+        [
+          "Contain (action)"
+        ],
+        [
+          "Geographic Locations"
+        ],
+        [
+          "Persons"
+        ],
+        [
+          "Adult"
+        ],
+        [
+          "3/5"
+        ],
+        [
+          "Estimated"
+        ],
+        [
+          "Evaluation procedure"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "Borrelia valaisiana (bacteria)"
+        ],
+        [
+          "Host (organism)"
+        ],
+        [
+          "First (number)"
+        ],
+        [
+          "Laboratory Diagnosis"
+        ],
+        [
+          "immunologic"
+        ],
+        [
+          "Infected"
+        ],
+        [
+          "Relapsing Fever"
+        ],
+        [
+          "Tick-Borne Encephalitis Virus"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "Communicable Diseases"
+        ],
+        [
+          "North America"
+        ],
+        [
+          "Cloning Vectors"
+        ],
+        [
+          "Serologic"
+        ],
+        [
+          "Intellectual scale"
+        ],
+        [
+          "Sciurus vulgaris"
+        ],
+        [
+          "Borrelia garinii"
+        ],
+        [
+          "2/5"
+        ],
+        [
+          "6/3"
+        ],
+        [
+          "Babesia venatorum"
+        ],
+        [
+          "described"
+        ],
+        [
+          "Expected"
+        ],
+        [
+          "Antigens"
+        ],
+        [
+          "Positive Finding"
+        ],
+        [
+          "Immunoglobulin measurement"
+        ],
+        [
+          "Current (present time)"
+        ],
+        [
+          "Suspected diagnosis"
+        ],
+        [
+          "etiologic agent"
+        ],
+        [
+          "Ixodes ricinus"
+        ],
+        [
+          "Tebi"
+        ],
+        [
+          "Bacterial"
+        ],
+        [
+          "Subject - topic"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Reservoir Device Component"
+        ],
+        [
+          "Risk"
+        ]
+      ],
+      "id": "54edaee3445c3b5a5f000003",
+      "ideal_answer": "B. burgdorferi sl complex, currently comprising at least 19 genospecies, includes the main pathogenic species responsible for human disease in Europe: B. burgdorferi sensu stricto (ss), B. afzelii, and B. garinii. In France as elsewhere in Europe the most prevalent TBD in humans is Lyme borreliosis, caused by different bacterial species belonging to Borrelia burgdorferi sensu lato complex. There is limited understanding of large scale entomological risk patterns of B. miyamotoi and of Borreila burgdorferi sensu stricto (ss), the agent of Lyme disease, in western North America. The Borrelia species causing Lyme borreliosis in Europe express different OspA serotypes on their surface, B. burgdorferi (serotype 1), B. afzelii (serotype 2), B. garinii (serotypes, 3, 5 and 6) and B. bavariensis (serotype 4), while only B. burgdorferi is present in the US. B. miyamotoi belonging to the relapsing fever group and transmitted by the same Ixodes species has been involved in human disease in Russia, the USA and the Netherlands. In Europe, Ixodes ricinus is the vector of many pathogens of medical and veterinary relevance, among them Borrelia burgdorferi sensu lato and tick-borne encephalitis virus, which have been the subject of numerous investigations. "
+    },
+    {
+      "id": "54edd9c994afd61504000001",
+      "ideal_answer": "In line with the extensive underrepresentation of proteins of the immune system, dermcidin, a sweat-derived AMP, was reduced in its abundance in the skin secretome of ED patients. A stress-induced protein identified to be dermcidin isoform 2 of Mr. 11 kDa from blood plasma of hypertensive persons. Dermcidin encodes the anionic amphiphilic peptide DCD-1L, which displays a broad spectrum of antimicrobial activity under conditions resembling those in human sweat. Recently HSP70 has been shown to bind specifically to an N-terminal sequence of a human survival protein (DSEP, Dermcidin). The mechanism of membrane permeabilization by dermcidin (DCD-1L), an antimicrobial peptide present in human sweat,. However, the discovery of dermcidin-derived antimicrobial peptides in eccrine sweat. Our data suggest that a source of Y-P30 apart from eccrine glands might be the placenta. dermcidin (DCD) for sweat. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Disease"
+        ],
+        [
+          "Genomic Instability"
+        ],
+        [
+          "Mental Suffering"
+        ],
+        [
+          "DNA Crosslinking Agent"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ]
+      ],
+      "id": "54ede28094afd61504000003",
+      "ideal_answer": "The disease is manifested by defects in DNA repair, hypersensitivity to DNA crosslinking agents, and a high degree of chromosomal aberrations. Fanconi anemia (FA) is an autosomal disorder that causes genome instability. FA patients suffer developmental abnormalities, early-onset bone marrow failure, and a predisposition to cancer. "
+    },
+    {
+      "id": "54ede34694afd61504000004",
+      "ideal_answer": "Two other kindreds each contained a Fanconi anemia-afflicted child who developed medulloblastoma; one child was of Latin American ancestry and a compound heterozygote for BRCA2*I2490T/ 5301insA and the other was African American and a compound heterozygote for BRCA2*Q3066X/E1308X. In another kindred of Ashkenazi Jewish and Lithuanian Catholic ancestry, a child with Fanconi anemia and a medulloblastoma was a BRCA2*6174delT/886delGT compound heterozygote. One kindred, of Ashkenazi Jewish ancestry, had five members who were diagnosed with breast cancer and two cousins who were BRCA2*6174delT/C3069X compound heterozygotes and had Fanconi anemia and brain tumors. These included an IVS7 splice-site mutation, which is strongly associated with early AML in homozygous or compound heterozygous carrier status in FA-D1 patients. The discovery of biallelic BRCA2 mutations in the FA-D1 complementation group allows for the first time to study the characteristics of primary BRCA2-deficient human cells. Surprisingly, biallelic mutations in the BRCA2 breast-cancer-susceptibility gene were found in Fanconi anemia (FA), a rare hereditary disorder characterized by chromosomal instability, hypersensitivity to DNA cross-linking agents, and cancer susceptibility. The breast cancer susceptibility gene BRCA2 was recently found to be associated with Fanconi anemia complementation group D1 (FA-D1). "
+    },
+    {
+      "id": "54ede5a494afd61504000005",
+      "ideal_answer": "Major clinical problems in FA include congenital abnormalities, endocrinopathies, early onset bone marrow failure and increased risk of myelodysplastic syndrome, acute leukemia and solid tumors. Fanconi anemia (FA) is an autosomal recessive, cancer susceptibility disorder characterized by diverse clinical features, such as short stature, skeletal or skin abnormalities, progressive bone marrow (BM) failure, and increased risk of malignancies. Fanconi anemia (FA) is a rare genetic disorder characterized by bone marrow failure, congenital abnormalities, and an increased risk for cancer and leukemia. Fanconi anaemia (FA) is an inherited condition characterised by congenital and developmental abnormalities and a strong cancer predisposition. Fanconi anemia (FA) is a rare autosomal recessive disease characterized by a greatly increased risk of cancer among those diagnosed with the syndrome. Fanconi anemia (FA) is a heterogeneous disease characterized by spontaneous chromosomal breaks and abnormal DNA repair. Fanconi anemia is associated with an increased risk of malignancy. The FA patients have a high risk of developing malignancies. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54ede5c394afd61504000006",
+      "ideal_answer": "The most significant and consistent phenotypic characteristics are stem cell loss, causing progressive bone marrow failure and sterility, diverse developmental abnormalities and a profound predisposition to neoplasia. Fanconi anemia (FA), an autosomal recessive disorder characterized by a progressive pancytopenia associated with congenital anomalies and high predisposition to malignancies, is a genetically and clinically heterogeneous disease. Fanconi anemia is a rare autosomal recessive disorder characterized clinically by congenital abnormalities, progressive bone marrow failure, and a predisposition to malignancy. In FA-A, patients homozygous for null mutations had an earlier onset of anemia and a higher incidence of leukemia than those with mutations producing an altered protein. FA-G patients had more severe cytopenia and a higher incidence of leukemia. Complementation analysis of FA cells using somatic cell fusion has facilitated the identification of eight complementation groups, suggesting that FA is a genetically heterogeneous disorder. Fanconi anaemia (FA) is a rare, autosomal recessive, genetically complex, DNA repair deficiency syndrome in man. Patients with FA exhibit a heterogeneous spectrum of clinical features. To date, 15 genes have been identified, biallelic disruption of any one of which results in this clinically defined syndrome. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54ede5df94afd61504000007",
+      "ideal_answer": "Clinical progression of the disease can lead to aplastic anemia (86% of all patients) and to pulmonary or hepatic complications. Fanconi anaemia (FA), dyskeratosis congenita (DC), Diamond-Blackfan anaemia (DBA), and Shwachman-Diamond syndrome (SDS) comprise major inherited bone marrow failure syndromes (IBMFS). Adverse events include severe bone marrow failure (BMF), myelodysplastic syndrome (MDS), acute myeloid leukaemia (AML), and solid tumours (ST). Patients with FA had earlier onset of cancers, need for stem cell transplant, and death; followed by DC; DBA and SDS were mildest. People with DC are at increased risk for progressive bone marrow failure (BMF), myelodysplastic syndrome (MDS) or acute myelogenous leukemia (AML), solid tumors (usually squamous cell carcinoma of the head/neck or anogenital cancer), and pulmonary fibrosis. While FA and DC patients had markedly increased risks of cancer, AML and MDS, there were no cases of leukaemia in DBA or SDS patients. The findings demonstrate that both FA and DC are major cancer susceptibility syndromes. These patients also have an increased risk of cancer. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Leukemia, Myelocytic, Acute"
+        ],
+        [
+          "Fanconi Anemia"
+        ],
+        [
+          "Age-Years"
+        ],
+        [
+          "Case unit dose"
+        ],
+        [
+          "Risk"
+        ]
+      ],
+      "id": "54ede76294afd61504000008",
+      "ideal_answer": "Actuarial risk of MDS or AML was 52% (37% to 67%) by 40 years of age. A review of all of the cases of Fanconi anemia (FA) reported to the International Fanconi Anemia Registry (IFAR) indicates that at least 15% manifest acute myelogenous leukemia (AML) or preleukemia. Sixteen of the 59 FA-C patients (27%) have developed acute myelogenous leukemia. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Cells"
+        ],
+        [
+          "M NOS ANTIBODY"
+        ],
+        [
+          "Fanconi Anemia"
+        ],
+        [
+          "Response process"
+        ],
+        [
+          "Excessive"
+        ]
+      ],
+      "id": "54ede8c594afd61504000009",
+      "ideal_answer": "Cells from individuals with Fanconi anemia (FA) arrest excessively in the G2/M cell cycle compartment after exposure to low doses of DNA cross-linking agents. Based on these studies we conclude that the aberrant G2/M arrest that typifies the response of FA(C) cells to low doses of cross-linking agents does not represent an abnormal cell cycle response but instead represents a normal cellular response to the excessive DNA damage that results in FA(C) cells following exposure to low doses of cross-linking agents. We observed a marked dose-dependent accumulation of FA cells in the G2 compartment after treatment with 4,5\u0027,8-trimethylpsoralen (Me(3)Pso) in combination with 365 nm irradiation. Fanconi anemia (FA) is an inherited cancer-susceptibility disorder, characterized by genomic instability, hypersensitivity to DNA cross-linking agents, and a prolonged G2 phase of the cell cycle. Taken together, the above data suggest that, in response to damage induced by DNA cross-linking agents, the S-phase checkpoint is inefficient in FA cells. The transient slow-down of DNA synthesis was abolished in cells lacking ATR, whereas CHK1-siRNA-treated cells, NBS1 or FA cells showed partial S-phase arrest. MMC causes increased FA cell death, chromosome breakage, and accumulation in the G2 phase of the cell cycle. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Fanconi Anemia"
+        ],
+        [
+          "Inheritance Mode"
+        ],
+        [
+          "Autosomal recessive inheritance"
+        ],
+        [
+          "Publications"
+        ],
+        [
+          "Family"
+        ]
+      ],
+      "id": "54ede95c94afd6150400000a",
+      "ideal_answer": "Fanconi anemia (FA) is a rare inherited syndrome with diverse clinical symptoms including developmental defects, short stature, bone marrow failure, and a high risk of malignancies. Original Fanconi anemia data, for which no information about the ascertainment was available, were then analyzed, with results that confirmed a monogenic autosomal recessive mode of inheritance. The result of segregation analysis is compatible with the hypothesis of a simple autosomal recessive mode of inheritance. The mode of inheritance for all subtypes is autosomal recessive, except for FA-B, which is X-linked. The formal genetics of Fanconi\u0027s anemia were investigated on the basis of 21 families from different European countries, and of 69 families from the literature. Fifteen genetic subtypes have been distinguished so far. Fanconi anemia (FA) is a recessively inherited syndrome with predisposition to bone marrow failure and malignancies. CONCLUSIONS: 1. "
+    },
+    {
+      "id": "54edeb4394afd6150400000b",
+      "ideal_answer": "In telomerase-positive normal cells depleted of αIISp by siRNA or in Fanconi anemia, complementation group A (FA-A) cells, where αIISp levels are 35-40% of normal, ICL damage results in failure of XPF to localize to telomeres, markedly increased telomere dysfunction-induced foci, followed by catastrophic loss of telomeres. It localizes to telomeres in S phase after ICL damage where it has enhanced association with TRF1 and TRF2 and is required for recruitment of the ICL repair protein, XPF, to damage-induced foci at telomeres. Consistent with previous reports, quantitative FISH analysis showed an accelerated telomere shortening of 0.68 kb in FA, which occurred concurrently in both chromosome arms in a similar magnitude. Our data therefore suggest that the telomere erosion in FA is caused by a higher rate of breakage at TTAGGG sequences in vivo in differentiated cells, in addition to mere replicative shortening during lymphocyte proliferation. A higher frequency of extra-chromosomic TTAGGG signals and of chromosome ends with undetectable TTAGGG repeats was observed in FA cells by fluorescence in situ hybridization (FISH), suggesting intensive breakage at telomeric sequences. Consistent with impaired telomeres in FA patients, we observed a \u003e10-fold increase in chromosome end fusions in FA compared to normal controls. "
+    },
+    {
+      "id": "54eded8c94afd6150400000c",
+      "ideal_answer": "In the great majority of cases, DEB and MMC stressing are reliable techniques for the definitive cytogenetic diagnosis of FA homozygosity. The in vitro enhancement of chromosome breakage by diepoxybutane (DEB) and mitomycin C (MMC) was studied in 24 Fanconi\u0027s anemia (FA) homozygotes and 28 heterozygotes. Both drugs were shown to enhance chromosome breakage significantly in the homozygotes. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54edef0594afd6150400000d",
+      "ideal_answer": "Disease-corrected haematopoietic progenitors from Fanconi anaemia induced pluripotent stem cells. Most importantly, we show that corrected Fanconi-anaemia-specific iPS cells can give rise to haematopoietic progenitors of the myeloid and erythroid lineages that are phenotypically normal, that is, disease-free. Here we show that, on correction of the genetic defect, somatic cells from Fanconi anaemia patients can be reprogrammed to pluripotency to generate patient-specific iPS cells. We explain a protocol for the reproducible generation of genetically corrected iPSCs starting from the skin biopsies of Fanconi anemia patients using retroviral transduction with OCT4, SOX2 and KLF4. Before reprogramming, the fibroblasts and/or keratinocytes of the patients are genetically corrected with lentiviruses expressing FANCA. These cell lines appear indistinguishable from human embryonic stem cells and iPS cells from healthy individuals. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54edf05494afd6150400000e",
+      "ideal_answer": "FANCM deficiency caused hypogonadism in mice and hypersensitivity to cross-linking agents in mouse embryonic fibroblasts (MEFs), thus phenocopying other FA mouse models. Fancf-deficient mouse embryonic fibroblasts displayed a phenotype typical for FA cells: they showed an aberrant response to DNA cross-linking agents as manifested by G(2) arrest, chromosomal aberrations, reduced survival, and an inability to monoubiquitinate FANCD2. We compared Cy preconditioning with fludarabine (Flu) or cytarabine (AraC) or no conditioning as a control in fanca ( -/- ) mutant mice receiving gene-modified bone marrow cells. In this study we characterized the hematopoietic phenotype of a Fanca knockout mouse model and corrected the main phenotypic characteristics of the bone marrow (BM) progenitors using retroviral vectors. Aiming to correct the phenotype of Fanca(-/-) progenitors, purified Lin(-)Sca-1(+) cells were transduced with retroviral vectors encoding the enhanced green fluorescent protein (EGFP) gene and human FANCA genes. Using an FA mouse model with a marked hematopoietic phenotype, the FA-D1 (Brca2(Delta27/Delta27)) mice, we demonstrate that the lentivirus-mediated gene therapy of FA HSCs results in the progressive expansion of genetically corrected clones in mild-conditioned FA-D1 recipients. "
+    },
+    {
+      "id": "54edf1ee94afd6150400000f",
+      "ideal_answer": "Here we report the isolation of a cDNA representing the FAA gene, following an expression cloning method similar to the one used to clone the FAC gene. The 5.5-kb cDNA has an open reading frame of 4,368 nucleotides. In contrast to the 63-kD cytosolic protein encoded by the FAC gene, the predicted FAA protein (M(r) 162, 752) contains two overlapping bipartite nuclear localization signals and a partial leucine zipper consensus, which are suggestive of a nuclear localization. "
+    },
+    {
+      "id": "54edf27e94afd61504000010",
+      "ideal_answer": "In the present study we describe the genomic structure of the FAA gene. The gene contains 43 exons spanning approximately 80 kb as determined by the alignment of four cosmids and the fine localization of the first and the last exons in restriction fragments of these clones. Sequence analysis of the 5\u0027 region upstream of the putative transcription start site showed no obvious TATA and CAAT boxes, but did show a GC-rich region, typical of housekeeping genes. Exons range from 34 to 188 bp. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Event"
+        ],
+        [
+          "FANCD2 gene"
+        ],
+        [
+          "Monoubiquitination"
+        ],
+        [
+          "Fanconi Anemia Complementation Group D2 Protein"
+        ],
+        [
+          "Component of protein complex"
+        ]
+      ],
+      "id": "54edf72c94afd61504000013",
+      "ideal_answer": "Here we show that the protein defective in individuals with Fanconi anemia belonging to complementation group B is an essential component of the nuclear protein \u0027core complex\u0027 responsible for monoubiquitination of FANCD2, a key event in the DNA-damage response pathway associated with Fanconi anemia and BRCA. Monoubiquitination of the Fanconi anaemia protein FANCD2 is a key event leading to repair of interstrand cross-links. Eight FA-associated genes have been identified so far, the products of which function in the FA/BRCA pathway. A key event in the pathway is the monoubiquitination of the FANCD2 protein, which depends on a multiprotein FA core complex. A key event in FA pathway activation is the monoubiquitylation of the FA complementation group I (FANCI)-FANCD2 (ID) complex by FA complementation group L (FANCL), an E3 ubiquitin ligase. Fanconi anemia (FA) is characterized by congenital abnormalities, bone marrow failure, chromosome fragility, and cancer susceptibility. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Fanconi Anemia Complementation Group A Protein"
+        ],
+        [
+          "hSWI/SNF"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "SWI/SNF complex"
+        ]
+      ],
+      "id": "54edf81f94afd61504000014",
+      "ideal_answer": "Fanconi anemia protein, FANCA, associates with BRG1, a component of the human SWI/SNF complex. We identified an interaction between the FA protein, FANCA and brm-related gene 1 (BRG1) product. BRG1 is a subunit of the SWI/SNF complex, which remodels chromatin structure through a DNA-dependent ATPase activity. FANCA was demonstrated to associate with the endogenous SWI/SNF complex. FANCA may recruit the SWI/SNF complex to target genes, thereby enabling coupled nuclear functions such as transcription and DNA repair. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f088ee94afd61504000015",
+      "ideal_answer": "AUTHORS\u0027 CONCLUSIONS: There is some evidence that excisional surgery for endometriomata provides for a more favourable outcome than drainage and ablation, with regard to the recurrence of the endometrioma, recurrence of symptoms and subsequent spontaneous pregnancy in women who were previously subfertile. Surgery is considered to play a role within the framework of the therapeutic options to cure infertile women with the disease even though its effectiveness is generally modest. CONCLUSIONS: These findings suggest that in a context of more than one year infertility only related to endometriosis, it is reasonable to offer these patients a complete operative laparoscopic treatment of their lesions, which enables 65% of them to be pregnant within a 8.5 months post-surgical median time to pregnancy and spontaneously in 60%. CONCLUSION: Endometriomas per se appear to be the main cause of the reduced long-term reproductive performance of the affected patients, with little or no contribution from surgery. here is insufficient evidence to favour excisional surgery over ablative surgery with respect to the chance of pregnancy after controlled ovarian stimulation and intra-uterine insemination (OR 1.40 CI 0.47-4.15) . "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f08d4a94afd61504000016",
+      "ideal_answer": "There are many etiologies of pelvic pain that present with symptoms resembling those of endometriosis-associated pelvic pain that are not diagnosable with laparoscopy, such as interstitial cystitis and irritable bowel syndrome. RESULTS: Compared with controls, patients with minimal to mild and moderate to severe endometriosis had a higher prevalence of symptoms consistent with IBS (0% vs 65% and 50%, respectively, p\u003c0.001) with significantly lower mean pain thresholds (39.5 mm Hg (95% CI 36.0 to 43.0) vs 28.1 mm Hg (95% CI 24.5 to 31.6), p\u003d0.001 and 28.8 mm Hg (95% CI 24.9 to 32.6), p\u003d0.002) not explained by differences in rectal compliance. Compared with controls, women with endometriosis had increased risks of abdominopelvic pain (OR 5.2 [95% CI: 4.7-5.7]),. CONCLUSIONS: Diagnosis of endometriosis should be considered in women with recurrent monthly abdominal pain and bowel symptoms, especially if accompanied by gynaecologic complaints, even because the significant symptoms overlap with the irritable bowel syndrome (IBS) and makes the differentiation extremely difficult. RESULTS: Compared with the controls, women with endometriosis were 3.5 times more likely to have received a diagnosis of IBS (OR 3.5 [95% CI: 3.1-3.9]). "
+    },
+    {
+      "id": "54f08fa494afd61504000017",
+      "ideal_answer": "RESULTS: Right 2D:4D was not associated with TGCT [odds ratio (OR) for a one-standard deviation (SD) increase in right-hand 2D:4D: 1.12, 95% confidence interval (CI): 0.93-1.34]. The difference between right and left-hand 2D:4D was also not associated with TGCT risk [OR for a one-SD increase in ΔR-L: 1.03, 95% CI: 0.87-1.23]. RESULTS: African-American men with prostate cancer are 3.70 times more likely to have a low 2D:4D digit ratio than Caucasian men with prostate cancer (95% confidence interval: 1.98, 6.92; P \u003c 0.0001). CONCLUSION: 2D:4D ratio shows strong differences between African-Americans and Caucasians; however, it does not correlate with disease severity in men already diagnosed with prostate cancer. Compared with index finger shorter than ring finger (low 2D : 4D), men with index finger longer than ring finger (high 2D : 4D) showed a negative association, suggesting a protective effect with a 33% risk reduction (odds ratio (OR) 0.67, 95% confidence interval (CI) 0.57-0.80). RESULTS: We found a direct association between left 2D:4D and breast cancer risk, an inverse association between Δ(r-l) and risk of breast cancer, but no association between right 2D:4D and breast cancer risk. "
+    },
+    {
+      "exact_answer": [
+        [
+          "rituximab"
+        ],
+        [
+          "Cisplatin"
+        ],
+        [
+          "Dexamethasone"
+        ],
+        [
+          "Cytarabine"
+        ],
+        [
+          "Etoposide"
+        ],
+        [
+          "DHAP protocol"
+        ],
+        [
+          "Ifosfamide"
+        ],
+        [
+          "Carboplatin"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Relapsing course"
+        ],
+        [
+          "Ara-C"
+        ],
+        [
+          "First (number)"
+        ],
+        [
+          "Chemotherapy Regimen"
+        ],
+        [
+          "High dose"
+        ],
+        [
+          "Unresponsive to Treatment"
+        ],
+        [
+          "Methylprednisolone"
+        ],
+        [
+          "Clinical Trials"
+        ],
+        [
+          "Aracytine"
+        ],
+        [
+          "Aggressive Non-Hodgkin Lymphoma"
+        ],
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "Recurrent Diffuse Large B-Cell Lymphoma"
+        ],
+        [
+          "Collaboration"
+        ],
+        [
+          "ESHAP protocol"
+        ],
+        [
+          "Platinum-Based"
+        ],
+        [
+          "Diffuse Large B-Cell Lymphoma"
+        ],
+        [
+          "Chemosensitivity"
+        ],
+        [
+          "Evaluation"
+        ],
+        [
+          "Salvage Therapy"
+        ],
+        [
+          "Consolidation"
+        ],
+        [
+          "Primary central nervous system lymphoma"
+        ],
+        [
+          "Anthracycline Antibiotics"
+        ],
+        [
+          "Solu-Medrol"
+        ],
+        [
+          "Evaluable Disease"
+        ],
+        [
+          "N not otherwise specified Antibody"
+        ],
+        [
+          "Entire upper limb"
+        ],
+        [
+          "Ice"
+        ],
+        [
+          "gemcitabine"
+        ],
+        [
+          "Guanosine Diphosphate"
+        ],
+        [
+          "Frequency of Responses"
+        ],
+        [
+          "HL7CommitteeIDInRIM \u003cPatient Administration\u003e"
+        ],
+        [
+          "Efficacy Study"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "Methods aspects"
+        ],
+        [
+          "Difficult"
+        ],
+        [
+          "Salvage procedure"
+        ],
+        [
+          "Complication of transplant"
+        ],
+        [
+          "Refractory Diffuse Large B-Cell Lymphoma"
+        ],
+        [
+          "Background"
+        ],
+        [
+          "VIM wt Allele"
+        ],
+        [
+          "Dose Regimen"
+        ],
+        [
+          "Standard (qualifier)"
+        ],
+        [
+          "Limited (extensiveness)"
+        ],
+        [
+          "Autograft Material"
+        ],
+        [
+          "Standard (document)"
+        ],
+        [
+          "Toxic effect"
+        ],
+        [
+          "Transplanted tissue"
+        ],
+        [
+          "Comparison"
+        ],
+        [
+          "CD20 Expressing Cell Measurement"
+        ],
+        [
+          "National origin"
+        ],
+        [
+          "Treatment Protocols"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Normalize"
+        ],
+        [
+          "Effectiveness"
+        ],
+        [
+          "Relationship by association"
+        ],
+        [
+          "Numerical value"
+        ],
+        [
+          "Regimen - CHV concept"
+        ],
+        [
+          "Reporting"
+        ],
+        [
+          "DHAP Regimen"
+        ],
+        [
+          "Autologous"
+        ],
+        [
+          "Combined"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "Consistency"
+        ],
+        [
+          "Administer"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "Dosage"
+        ],
+        [
+          "Full"
+        ],
+        [
+          "event cycle"
+        ],
+        [
+          "Liver function"
+        ],
+        [
+          "Lymphoma, Non-Hodgkin"
+        ],
+        [
+          "Arabic numeral 23"
+        ],
+        [
+          "objective (goal)"
+        ],
+        [
+          "Set scale"
+        ],
+        [
+          "PersonNameUse - assigned"
+        ],
+        [
+          "pharmacotherapeutic"
+        ],
+        [
+          "prognostic"
+        ],
+        [
+          "autologous hematopoietic stem cell transplantation"
+        ],
+        [
+          "Refractory Non-Hodgkin Lymphoma"
+        ],
+        [
+          "Combine"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "Aim (idea)"
+        ],
+        [
+          "Randomization"
+        ],
+        [
+          "eligible"
+        ],
+        [
+          "China"
+        ],
+        [
+          "1/5"
+        ],
+        [
+          "IMVP-16 protocol"
+        ],
+        [
+          "Purpose"
+        ],
+        [
+          "Treated with"
+        ],
+        [
+          "Cells"
+        ],
+        [
+          "First-Line Therapy"
+        ]
+      ],
+      "id": "54f0920f94afd61504000018",
+      "ideal_answer": "The intergroup Collaborative Trial in Relapsed Aggressive Lymphoma (CORAL) set the limits for this standard of treatment after first comparing 2 salvage regimens: rituximab, ifosfamide, etoposide, and carboplatin (R-ICE) and rituximab, dexamethasone, aracytine, and cisplatin (R-DHAP). PURPOSE: To evaluate the prognostic value of the cell of origin (COO) in patients with relapsed/refractory diffuse large B-cell lymphoma (DLBLC), prospectively treated by rituximab, dexamethasone, high-dose cytarabine, and cisplatin (R-DHAP) versus rituximab, ifosfamide, carboplatin, and etoposide and followed by intensive therapy plus autologous stem-cell transplantation on the Collaborative Trial in Relapsed Aggressive Lymphoma (CORAL) trial. PATIENTS AND METHODS: Patients with CD20(+) DLBCL in first relapse or who were refractory after first-line therapy were randomly assigned to either rituximab, ifosfamide, etoposide, and carboplatin (R-ICE) or rituximab, dexamethasone, high-dose cytarabine, and cisplatin (R-DHAP). Because of the inability to safely administer unattenuated doses of anthracycline-based regimens, dexamethasone, high-dose cytarabine, and cisplatin (DHAP) was used at full doses (along with rituximab for the DLBCL patient) until hepatic function normalized (1-5 cycles). "
+    },
+    {
+      "id": "54f0985994afd6150400001a",
+      "ideal_answer": "In our study, we found that modulation of inflammation by IVC correlated with decreases in tumor marker levels.In summary, our data support the hypothesis that high dose intravenous ascorbate treatments may reduce inflammation in cancer patients. Although, a couple of controlled clinical studies conducted at The Mayo Clinic did not support a significant benefit for terminal cancer patients after 10 grams of once-a-day oral vitamin C, other clinical trials have demonstrated that ascorbate may indeed be effective against tumors when administered intravenously. Taken together with previous studies, high-dose ascorbate has the potential to be a novel treatment option to hormone-refractory prostate cancer. Double-blind placebo-controlled clinical trials showed no survival advantage when the same doses of ascorbate were given orally, leading the medical and scientific communities to dismiss the use of ascorbate as a potential cancer treatment. Recent studies have revealed the scientific basis for the use of intravenous (i.v.) vitamin C or ascorbic acid (ascorbate) in treating cancers, and raised the possibility of using i.v. RECENT ADVANCES: High dose ascorbate is selectively cytotoxic to cancer cell lines through the generation of extracellular hydrogen peroxide (H2O2). "
+    },
+    {
+      "id": "54f09a5894afd6150400001c",
+      "ideal_answer": "CONCLUSIONS: MBSR-C may be a beneficial intervention for reducing stress, anxiety, cortisol levels, and symptoms in advanced-stage cancer patients and may also benefit caregivers. CONCLUSIONS: MBSR program enrollment was associated with enhanced quality of life and decreased stress symptoms in breast and prostate cancer patients, and resulted in possibly beneficial changes in hypothalamic-pituitary-adrenal (HPA) axis functioning. CONCLUSIONS: MBSR participation was associated with enhanced quality of life and decreased stress symptoms in breast and prostate cancer patients. CONCLUSIONS: MBSR program participation was associated with enhanced quality of life and decreased stress symptoms, altered cortisol and immune patterns consistent with less stress and mood disturbance, and decreased blood pressure. Similar to cortisol levels at Week 6, salivary interleukin-6 levels were lower overall (before/after an MBSR-C session), compared with Week 1 for patients and caregivers. These pilot results provide encouraging evidence for the feasibility of a dietary program that includes mindfulness training in supporting dietary change for men with recurrent prostate cancer and invite further study to explore the possible role of mindfulness training as a means of supporting both initiation of dietary changes and maintenance of those changes over time. "
+    },
+    {
+      "exact_answer": [
+        [
+          "ecallantide"
+        ],
+        [
+          "Device Exposure Domain"
+        ],
+        [
+          "Plasma kallikrein inhibitor"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "SERPING1 gene"
+        ]
+      ],
+      "id": "54f1e031c409818c32000001",
+      "ideal_answer": "Several novel therapies have completed phase III trials in the US, including: (i) plasma-derived C1-INH replacement therapies (Berinert P and Cinryze); (ii) a recombinant C1-INH replacement therapy (conestat alfa; Rhucin); (iii) a kallikrein inhibitor (ecallantide [DX-88]); and (iv) a bradykinin-2-receptor antagonist (icatibant). DX-88 or ecallantide, a potent and specific inhibitor of plasma kallikrein, achieved all primary and secondary efficacy end points in a placebo-controlled, double-blind, phase 3 study, with a second phase 3 study ongoing. DX-88 (ecallantide), a 60-amino acid recombinant protein discovered through phage display technology, is a highly specific, potent inhibitor of human plasma kallikrein that has been used successfully in the treatment of patients experiencing acute HAE attacks. DX-88 (ecallantide, Dyax Corp.) is a highly specific recombinant plasma kallikrein inhibitor that halts the production of bradykinin and can be dosed subcutaneously. Ecallantide (DX-88) for acute hereditary angioedema attacks: integrated analysis of 2 double-blind, phase 3 studies. Ecallantide (DX-88), a plasma kallikrein inhibitor for the treatment of hereditary angioedema and the prevention of blood loss in on-pump cardiothoracic surgery. Ecallantide (known as DX-88 previously), a potent and specific inhibitor of plasma kallikrein is an innovative medicinal product. "
+    },
+    {
+      "id": "54f1e4d0c409818c32000002",
+      "ideal_answer": "In humans, eprotirome exerts favorable lipid-modulating effects while lacking thyroid hormone-related side-effects and maintaining normal hypothalamic-pituitary-thyroid feedback. We designed novel thyromimetics with high receptor (TRβ) and organ (liver) selectivity based on the structure of eprotirome (3) and molecular modeling. This review details recent advances in the development of TRβ subtype- and liver-selective STRM analogs, and presents the results of preliminary clinical trials with one of these compounds, eprotirome (KB-2115; Karo Bio AB). Recently, the development of the most promising agent in this class, eprotirome, was halted over toxicology concerns following long-term canine studies. Examples of synthetic analogues are GC-1 (or sobetirome) and KB2115 (or eprotirome) which show ipolipidaemic and antiaterogenic capacities. METHODS: The history of thyromimetics in atherosclerosis and dyslipidaemia is reviewed as the background to the recent publication of the first human data on a new selective thyromimetic, KB-2115 (eprotirome). Eprotirome and Sobetirome are 2 thyromimetics that have selective TRβ1 activity. Consequently, the future of contemporary TRβ agonists is unclear. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f1e781c409818c32000003",
+      "ideal_answer": "Other therapies, such as sedative hypnotics, target daytime insomnia, while pharmacologic agents such as modafinil, armodafinil, and caffeine and non-pharmacologic approaches such as napping promote nighttime alertness. In patients with excessive sleepiness associated with shift work disorder, treated obstructive sleep apnoea, or narcolepsy, armodafinil has been found to improve wakefulness throughout the shift or day. Armodafinil represents an option for long-term treatment of patients with ES associated with treated OSA, SWD, or narcolepsy. CONCLUSIONS: In this selected population of patients with OSA/HS and residual ES despite effective treatment with nCPAP, armodafinil QD used as an adjunct to nCPAP treatment was associated with improved wakefulness and overall clinical condition. CONCLUSIONS: Armodafinil significantly improved overall clinical condition related to excessive sleepiness as rated by the CGI-C and was well tolerated in patients with treated OSA and comorbid depression. CONCLUSION: In patients with excessive sleepiness associated with chronic SWD of moderate or greater severity, armodafinil significantly improved wakefulness during scheduled night work, raising mean nighttime sleep latency above the level considered to indicate severe sleepiness during the daytime. "
+    },
+    {
+      "id": "54f1e887c409818c32000004",
+      "ideal_answer": "In conclusion, thalidomide given simultaneously with radiation therapy was safe, but did not improve survival in patients with newly diagnosed glioblastoma. The authors previously reported improved outcome in patients with recurrent glioblastoma treated with thalidomide and irinotecan compared with historical controls. CONCLUSIONS: The combination of thalidomide and temozolomide in the treatment of GBM appears to be more effective than that of thalidomide alone with respect to survival, TTP, and neuroradiological documentation of progression, stable disease or response. The combination of irinotecan, a cytotoxic agent, and thalidomide, an antiangiogenic agent, shows promising activity against recurrent GBM in patients not receiving EIACs and warrants further study. In this small patient sample adding thalidomide to radiation did not improve TTP or TTD from historical controls, however, toxicity appeared to be increased. CONCLUSIONS: The combination of thalidomide and irinotecan did not achieve sufficient efficacy to warrant further investigation against AG, although a subset of patients experienced prolonged PFS/OS. The addition of celecoxib and thalidomide to adjuvant temozolomide was well tolerated but did not meet the primary end point of improvement of 4-month PFS from study enrollment. "
+    },
+    {
+      "exact_answer": [
+        [
+          "hepcidin"
+        ],
+        [
+          "HAMP gene"
+        ],
+        [
+          "HFE gene"
+        ],
+        [
+          "Iron"
+        ],
+        [
+          "HFE2 gene"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "metal transporting protein 1"
+        ],
+        [
+          "TFR2 gene"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Iron Overload"
+        ],
+        [
+          "Relationships"
+        ],
+        [
+          "Hemochromatosis"
+        ],
+        [
+          "FAVOR"
+        ],
+        [
+          "Gene Mutation"
+        ],
+        [
+          "HEMOCHROMATOSIS, HEREDITARY (allelic variant)"
+        ],
+        [
+          "Juvenile hemochromatosis"
+        ],
+        [
+          "SLC40A1 gene"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Preposition For"
+        ],
+        [
+          "shared attribute"
+        ],
+        [
+          "Hereditary"
+        ],
+        [
+          "Cocaine"
+        ],
+        [
+          "Replacement therapy"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "cell type"
+        ],
+        [
+          "Northern European"
+        ],
+        [
+          "Full"
+        ],
+        [
+          "Procalcitonin measurement"
+        ],
+        [
+          "Informing patient"
+        ],
+        [
+          "Complication"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "North"
+        ],
+        [
+          "Chronic Kidney Insufficiency"
+        ],
+        [
+          "Conclusion"
+        ],
+        [
+          "European Caucasoid"
+        ],
+        [
+          "Iron Overload Adverse Event"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Current (present time)"
+        ],
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "Novel Mutation"
+        ],
+        [
+          "Severe (severity modifier)"
+        ],
+        [
+          "Country"
+        ],
+        [
+          "Caucasians"
+        ],
+        [
+          "Levels (qualifier value)"
+        ],
+        [
+          "Qualitative form"
+        ],
+        [
+          "regional"
+        ],
+        [
+          "IMPACT gene"
+        ],
+        [
+          "Infrequent"
+        ],
+        [
+          "Thailand"
+        ],
+        [
+          "Regulation of biological process"
+        ],
+        [
+          "Reduced"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "Pakistan"
+        ],
+        [
+          "Sequestration"
+        ],
+        [
+          "Encode (action)"
+        ],
+        [
+          "Specimen Type - Serum"
+        ],
+        [
+          "Mutation Abnormality"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "Genetic disorders screening"
+        ],
+        [
+          "Abnormally high"
+        ],
+        [
+          "Sri Lanka"
+        ],
+        [
+          "Deficiency"
+        ],
+        [
+          "Loss"
+        ],
+        [
+          "Liver Cirrhosis, Alcoholic"
+        ],
+        [
+          "Homozygote"
+        ],
+        [
+          "descent"
+        ],
+        [
+          "Bangladesh"
+        ],
+        [
+          "geographic population"
+        ],
+        [
+          "Asia"
+        ],
+        [
+          "deficiency aspects"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Science of Etiology"
+        ],
+        [
+          "Hepatitis C virus"
+        ],
+        [
+          "Good"
+        ],
+        [
+          "iron ion homeostasis"
+        ],
+        [
+          "Hispanics"
+        ],
+        [
+          "Organ"
+        ]
+      ],
+      "id": "54f21b69c409818c32000007",
+      "ideal_answer": "Juvenile hemochromatosis (JH) is the most severe form, usually caused by mutations in hemojuvelin (HJV) or hepcidin (HAMP). We have identified novel mutations in HJV, HAMP, and SLC40A1 in countries not normally associated with hereditary hemochromatosis (Pakistan, Bangladesh, Sri Lanka, and Thailand). Hereditary hemochromatosis (HH) due to homozygosity for the C282Y mutation in the HFE gene is a common inherited iron overload disorder in whites of northern European descent. Mutations in all of the currently known genes implicated in non-HFE HH (hemojuvelin, hepcidin, transferrin receptor 2, and ferroportin) have been reported in patients from the Asia-Pacific region. In conclusion, HAMP and hemojuvelin mutations are rare among Spanish HH patients, and their impact in this population is not significant. Targeting hepcidin with replacement therapy to decrease iron may be a treatment of not only HCV, HH, and alcoholic cirrhosis, but also PCT. In most patients with chronic kidney disease (CKD), serum hepcidin levels are relatively high, favoring iron sequestration in several cell types and organs and thereby leading to iron-related complications. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Disulfides"
+        ],
+        [
+          "Type of bridge device"
+        ],
+        [
+          "Cysteine"
+        ],
+        [
+          "Containing (qualifier)"
+        ],
+        [
+          "Amino Acids"
+        ]
+      ],
+      "id": "54f2210164850a5854000001",
+      "ideal_answer": "Cshepc has eight cysteines formed four conserved disulfide bridges, similarly to that of human\u0027s. The native peptide of 25 amino acids (Hepc25) contains four disulfide bridges that maintain a β-hairpin motif. Hepcidin, a 25 amino acid peptide hormone containing a complex network of four disulfide bonds is the hormone regulator of iron homeostasis. Hepcidin contains eight cysteine residues that form four disulfide bridges, which stabilize a hairpin-shaped structure with two beta sheets. Molecular mass measurements of the native peptide and the reduced and alkylated peptide confirmed the sequence with four intramolecular disulfide bridges. hepcidin, containing four disulfide bridges. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Lysine"
+        ],
+        [
+          "Glycylglycine"
+        ],
+        [
+          "Ubiquitin"
+        ],
+        [
+          "Ubiquitination"
+        ],
+        [
+          "Peptides"
+        ]
+      ],
+      "id": "54f2228e64850a5854000002",
+      "ideal_answer": "antibodies that recognize the Lys-ɛ-Gly-Gly (K-ɛ-GG) remnant produced by trypsin digestion of proteins having ubiquitinated lysine side chains have markedly improved the ability to enrich and detect endogenous ubiquitination sites by mass spectrometry (MS). Tandem mass spectrometry (LC-MS/MS) analysis of immunoprecipitated proteins resulted in the identification of five peptides containing ubiquitin (diglycine) modifications on eIF2Bε. Recent publications have also highlighted the use of peptide-level immunoaffinity enrichment of K-GG modified peptides from whole cell lysates for global characterization of ubiquitination sites. In this work, levels of lysine ubiquitination were quantitated using a structurally homologous label that is chemically similar to the diglycine (GlyGly) tag, which is left at the ubiquitination site upon trypsinolysis. "
+    },
+    {
+      "id": "54f2f81664850a5854000003",
+      "ideal_answer": "Bone marrow surveillance is an important part of the clinical management of FA and often reveals cytogenetic aberrations. Hematopoietic stem cell transplantation is the only proven cure for the hematopoietic manifestations of FA and aggressive lifelong surveillance for solid tumors is essential. In patients with FA, there is a high incidence of aggressive HNSCC at a young age. Surgery remains the mainstay of treatment because patients with FA tolerate radiation therapy and chemotherapy poorly, with significant morbidity. "
+    },
+    {
+      "exact_answer": [
+        [
+          "LY 450139"
+        ],
+        [
+          "Semagacestat"
+        ],
+        [
+          "secretase"
+        ],
+        [
+          "gamma-Secretase"
+        ],
+        [
+          "Inhibitor"
+        ]
+      ],
+      "id": "54f35ad864850a5854000004",
+      "ideal_answer": "The outcomes of the clinical trials of the γ-secretase inhibitor Semagacestat (LY-450139) and the γ-secretase modulator (GSM) Tarenflurbil were disappointing, but may not represent the end of the γ-secretase era. Semagacestat (LY450139) is a novel γ-secretase inhibitor currently in late-stage development by Eli Lilly and Company as a potential treatment for Alzheimer\u0027s disease (AD). TRODUCTION: LY450139 (semagacestat) inhibits gamma-secretase, a key enzyme for generation of amyloid beta (Abeta), the peptide deposited in plaques in Alzheimer disease (AD). A selective BACE inhibitor and the γ-secretase inhibitor LY450139 (semagacestat) were used to inhibit respective secretase. The γ-secretase inhibitor LY450139 (semagacestat) lowers plasma Aβ(1-40) and Aβ(1-42) in a dose-dependent manner but has no clear effect on the CSF level of these isoforms. Two potent gamma-secretase inhibitors (GSIs), DAPT (N-[N-(3,5-difluorophenacetyl-L-alanyl)]-S-phenylglycine t-butyl ester) and LY450139 (hydroxylvaleryl monobenzocaprolactam), were found to reduce the density of dendritic spines in wild-type mice. velopment of semagacestat (LY450139), a functional gamma-secretase inhibitor, for the treatment of Alzheimer\u0027s disease. OBJECTIVE: This paper reviews the pharmacology and chemical efficacy of an A beta-lowering agent, semagacestat (LY450139). ACS chemical neuroscience molecule spotlight on semagacestat (LY450139). "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f42f2764850a5854000005",
+      "ideal_answer": "Mutations in at least 14 different genes have been shown to cause FA. The FA genes code for proteins that act in complexes to coordinate the repair of damaged DNA. "
+    },
+    {
+      "exact_answer": [
+        [
+          "TERT protein, human"
+        ],
+        [
+          "Dyskeratosis Congenita"
+        ],
+        [
+          "DKC1 gene"
+        ],
+        [
+          "NOP10 gene"
+        ],
+        [
+          "TERC wt Allele"
+        ],
+        [
+          "Telomerase"
+        ],
+        [
+          "NHP2 gene"
+        ],
+        [
+          "TINF2 gene"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Telomere Maintenance"
+        ],
+        [
+          "WRAP53 gene"
+        ],
+        [
+          "Autosomal dominant inheritance"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Encode (action)"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "Syndrome"
+        ],
+        [
+          "Pancytopenia"
+        ],
+        [
+          "Telomere Shortening"
+        ],
+        [
+          "Identified"
+        ],
+        [
+          "Date in time"
+        ],
+        [
+          "Gene Mutation"
+        ],
+        [
+          "Science of Etiology"
+        ],
+        [
+          "Multienzyme Complexes"
+        ],
+        [
+          "CTC1 gene"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Component object"
+        ],
+        [
+          "Autosomal recessive inheritance"
+        ],
+        [
+          "Pathogenesis"
+        ],
+        [
+          "X- linked recessive"
+        ],
+        [
+          "Critical"
+        ],
+        [
+          "X-linked inheritance"
+        ],
+        [
+          "Constituents"
+        ],
+        [
+          "A Codes"
+        ],
+        [
+          "Coding"
+        ],
+        [
+          "Reticulate hyperpigmentation"
+        ],
+        [
+          "Links List"
+        ],
+        [
+          "Advance"
+        ],
+        [
+          "Causing"
+        ],
+        [
+          "Dystrophia unguium"
+        ],
+        [
+          "defects aspect"
+        ],
+        [
+          "Inheritance Mode"
+        ],
+        [
+          "USB1 gene"
+        ],
+        [
+          "Genes, vif"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Core Device Component"
+        ],
+        [
+          "Light Emitting Diode Device Component"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "Varies"
+        ],
+        [
+          "Genetic"
+        ],
+        [
+          "Study year"
+        ],
+        [
+          "Heterogeneous disorder"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Subtype (attribute)"
+        ],
+        [
+          "Leukoplakia, Oral"
+        ]
+      ],
+      "id": "54f431d664850a5854000006",
+      "ideal_answer": "Dyskeratosis congenita (DC) is a heterogeneous bone marrow failure syndrome with seven disease-causing genes identified to date, six of which are linked to telomere maintenance. Six genes have been identified, defects in which cause different genetic subtypes (X-linked recessive, autosomal dominant, autosomal recessive) of DC. To date, CTC1, DKC1, TERC, TERT, TINF2, NHP2, NOP10, and WRAP53 are the genes in which mutations are known to cause DC and result in very short telomeres. The mode of inheritance of DC varies by gene: DKC1 (X-linked), TERC and TINF2 (autosomal dominant), TERT (autosomal dominant or autosomal recessive), CTC1, WRAP53, NHP2, and NOP10 (autosomal recessive). Mutations in one of these genes (TINF2), which encodes a component of the shelterin complex, are associated with particularly short telomeres. The products of these genes encode components that are critical for telomere maintenance; either because they are core constituents of telomerase (dyskerin, TERC, TERT, NOP10 and NHP2) or are part of the shelterin complex that protects the telomeric end (TIN2). Studies over the last 15 years have led to significant advances, with 8 DC genes (DKC1, TERC, TERT, NOP10, NHP2, TIN2, C16orf57, and TCAB1) having been characterized. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f4627e64850a5854000007",
+      "ideal_answer": "Lately, some highlight articles revealed that the altered expression of miRNAs such as miR-1, miR-133, miR-21, miR-208 etc in hearts also contributed to cardiovascular diseases, such as heart ischemia, cardiac hypertrophy, and arrhythmias. miR-1 overexpression may contribute to the increased susceptibility of the heart to AVB, which provides us novel insights into the molecular mechanisms underlying ischemic cardiac arrhythmias. MicroRNA-1 (miR-1) reciprocally regulates inwardly rectifying potassium channel (Kir)2.1 expression in coronary disease, contributing to arrhythmogenesis. In the presence of isoproterenol, rhythmically paced, miR-1-overexpressing myocytes exhibited spontaneous arrhythmogenic oscillations of intracellular Ca(2+), events that occurred rarely in control myocytes under the same conditions. We conclude that the beta-adrenergic pathway can stimulate expression of arrhythmogenic miR-1, contributing to ischaemic arrhythmogenesis, and beta-blockers produce their beneficial effects partially by down-regulating miR-1, which might be a novel strategy for ischaemic cardioprotection. miR-1 levels are greatly reduced in human AF, possibly contributing to up-regulation of Kir2.1 subunits, leading to increased I(K1). "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f4703764850a5854000008",
+      "ideal_answer": "In the Ad-miR-21 group, LV dimensions, myocardial infarct size, LV/BW, collagen type Ⅰ, type Ⅲ and PCNA positive cells all significantly decreased compared with the Ad-GFP group. Using both gain-of-function and loss-of-function approaches in cultured cardiac myocytes, we identified that miR-21 had a protective effect on ischemia-induced cell apoptosis that was associated with its target gene programmed cell death 4 and activator protein 1 pathway. The protective effect of miR-21 against ischemia-induced cardiac myocyte damage was further confirmed in vivo by decreased cell apoptosis in the border and infarcted areas of the infarcted rat hearts after treatment with Ad-miR-21. Taken together, we found a novel reciprocal loop between miR-21 and TGFβRIII in cardiac fibrosis caused by myocardial infarction in mice, and targeting this pathway could be a new strategy for the prevention and treatment of myocardial remodeling. Our results support the role of miR-21 as a regulator of the fibrotic process that occurs in response to pressure overload in AS patients and underscore the value of circulating miR-21 as a biomarker for myocardial fibrosis. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f482d264850a5854000009",
+      "ideal_answer": "The histidine-rich calcium binding protein (HRC) Ser96Ala polymorphism was shown to correlate with ventricular arrhythmias and sudden death only in dilated cardiomyopathy patients but not in healthy human carriers. These findings indicate that the HRC Ser96Ala variant increases the propensity of arrhythmogenic Ca(2+) waves in the stressed failing heart, suggesting a link between this genetic variant and life-threatening ventricular arrhythmias in human carriers. A human genetic variant (Ser96Ala) in the sarcoplasmic reticulum (SR) histidine-rich Ca(2+)-binding (HRC) protein has been linked to ventricular arrhythmia and sudden death in dilated cardiomyopathy. The exaggerated response of HRC knockout mice to the induction of cardiac hypertrophy is consistent with a regulatory role for HRCBP in calcium handling in vivo and suggests that mutations in HRC, in combination with other genetic or environmental factors, might contribute to pathological hypertrophy and heart failure. HRC is a SR luminal Ca(2+) binding protein known to associate with both triadin and the sarcoplasmic reticulum Ca(2+)-ATPase, and may thus mediate the crosstalk between SR Ca(2+) uptake and release. These findings suggest that aberrant SR Ca2+ release and increased susceptibility to delayed afterdepolarizations underlie triggered arrhythmic activity in human Ala96 HRC carriers. "
+    },
+    {
+      "id": "54f48cb74e9bf3263f000001",
+      "ideal_answer": "Cancer patients with a Type D personality were less satisfied with the received information (49 vs. 58; p\u003c0.01) and found the received information less useful (55 vs. 61; p\u003c0.01) compared with non-Type Ds. CONCLUSIONS: This study showed that patients with a Type D personality perceived that they received less information and reported less satisfaction with the amount of received information as compared with non-Type D patients. RESULTS: Twenty-two percent of survivors (n\u003d125) were classified as Type D. They reported a clinically and statistically significant worse general health (57.8 versus 75.6), social functioning (73.1 versus 88.7), mental health (61.7 versus 80.6), more emotional role limitations (67.8 versus 89.4) and less vitality (54.5 versus 72.8) than non-Type D patients. Our study may be helpful in further developing theoretical models regarding giving meaning to illness and the illness perceptions that the illness elicits. CONCLUSION: Type D personality is a vulnerability factor that may help to identify subgroups of cancer survivors who are at an increased risk for comorbidity burden and increased health care utilization. CONCLUSIONS: Cancer survivors with a Type D personality are at increased risk of impaired QoL and mental health problems that cannot be explained by socio-demographic or clinical characteristics. "
+    },
+    {
+      "id": "54f4914bd0d681a040000001",
+      "ideal_answer": "The relationships between MDD and GAD and CVD mortality were no longer significant after adjustment for sociodemograhics, health status at entry, health behaviors, and other risk markers. In analyses comparing comorbidity and GAD and MDD alone, with neither diagnosis, comorbidity proved to be the strongest predictor of both all-cause and CVD mortality. CONCLUSION: GAD and MDD predict all-cause mortality in a veteran population after adjusting for a range of covariates. However, those with both GAD and MDD were at greatest risk of subsequent death, and it would seem that these disorders may interact synergistically to affect mortality. Some chronic anxiety disorders, including generalized anxiety disorder (GAD), may be characterized by an underlying high level of anxiety on which exacerbations of symptoms are superimposed. RESULTS: MDD and GAD were positively and significantly associated with all-cause and CVD mortality. Anxiety symptoms and disorders are associated with increased mortality and disability in older people. Anxiety disorders are prevalent and associated with an increase in morbidity and mortality, particularly when present with additional psychiatric disorders. ICD-10 GAD was related to an increased mortality rate. Anxiety disorders are prevalent and associated with increased morbidity and mortality. "
+    },
+    {
+      "id": "54f49995d0d681a040000002",
+      "ideal_answer": "METHODS: The EORTC information questionnaire, EORTC QLQ-INFO25, was administered during the treatment process. We highlight the need to assess patients\u0027 characteristics and desires through questionnaires and interviews and present the European Organisation for Research and Treatment of Cancer Quality of Life Group information questionnaire (EORTC QLQ-INFO 25). This instrument evaluates the level of information patients have received in different areas of their disease, treatment and care, and evaluates qualitative aspects. AIM: The EORTC Quality of Life (QOL) Group has developed an instrument to evaluate the information received by cancer patients. INTRODUCTION: The EORTC QLQ-INFO25 evaluates the information received by cancer patients. This study assessed the psychometric characteristics of the EORTC INFO module in a large international/multi-cultural sample of cancer patients. The EORTC QLQ-INFO25 was used to evaluate the perceived level of and satisfaction with information. Validation study for Spanish patients. Information disclosure to cancer patients: EORTC QLQ-INFO25 questionnaire. The EORTC information questionnaire, EORTC QLQ-INFO25. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f49e56d0d681a040000004",
+      "ideal_answer": "Presenteeism was positively associated with severity of depression (Health and Work Performance Questionnaire, P \u003c 0.0001; WPAI, P \u003c 0.0001). Survey adjusted multivariable logistic regression assessed classification of 12-month, depression-related presenteeism on the basis of socio-demographic, financial, work and health factors. In cross-sectional models, presenteeism was associated with more severe depression symptoms, poorer general physical health, psychologically demanding work, the interaction ofpsychologically demanding work with depression, and less job control (r2 range \u003d .33-.54). Statistically significant correlations (0.32-0.53) were found between presenteeism and increasing disability, fatigue, depression, anxiety, and reduced quality of life. Depression and anxiety were more consistently associated with \"presenteeism\" (that is, lost productivity while at work) than with absenteeism, whether this was measured by cutback days or by direct questionnaires. Significant predictors of presenteeism and activity impairment at follow-up (controlled for gender, age, spondyloarthritis subgroups and presenteeism at baseline) were presenteeism at baseline, poor quality of life, worse disease activity, decreased physical function, lower self-efficacy pain and symptom, higher scores of anxiety, depression, smoking and low education level, and for activity impairment also female sex. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f4b319d0d681a040000005",
+      "ideal_answer": ". Here we systematically examined the expression, localization, and function of zyxin, a focal adhesion protein. Focal adhesion proteins Zyxin and Vinculin are co-distributed at tubulobulbar complexes. Focal adhesions formed in the absence of α-actinins are delayed in their maturation, exhibit altered morphology, have decreased amounts of Zyxin and VASP, and reduced adhesiveness to extracellular matrix. the association of zyxin with focal adhesions is force-dependent, smaller zyxin-positive adhesion as well as its higher turnover rate suggests that the traction force in focal adhesion on 350 nm topography is decreased. Here we explore the prediction that zyxin, a focal adhesion protein known to be present at podosomes, also is present at apical TBCs. Zyxin is a focal adhesion protein that has been implicated in the modulation of cell adhesion and motility. . Zyxin is a focal adhesion protein that responds to external mechanical forces;. Vinculin and zyxin in focal adhesions but not integrins are seen to bridge ligand gaps. focal adhesion protein zyxin. one focal adhesion protein (zyxin). focal adhesion proteins (vinculin, talin, zyxin, FAK, and paxilin). Such paxillin-positive complexes mature into focal adhesions by tyrosine phosphorylation and recruitment of zyxin. zyxin, a focal adhesion protein,. The focal adhesion protein zyxin. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f4c382d0d681a040000006",
+      "ideal_answer": "functional characterization of many of today\u0027s best-known Src substrates (for example, p85-Cortactin, p110-AFAP1, p130Cas, p125FAK and p120-catenin). oss of αSNAP impaired Golgi-dependent glycosylation and trafficking of β1 integrin and decreased phosphorylation of focal adhesion kinase (FAK) and paxillin resulting in FA disassembly. Curcumin inhibits focal adhesion kinase (FAK) phosphorylation and enhances the expressions of several extracellular matrix components which play a critical role in invasion and metastasis. . P-FAKSer732 presence was crucial for the maintenance of the proliferation rate and its levels were inversely related to the levels of acetylated α-tubulin. Overexpression of NEDD9 led to tyrosine phosphorylation of FAK and SRC oncoproteins,. Periodic mechanical stress significantly induced sustained phosphorylation of FAK at Tyr(397) and Tyr(576/577). specially, phosphorylation of Tyr925-FAK that is required for full activation of FAK was nearly completely suppressed even with 1nM of methyl violet 2B in A375P cancer cells. The protein expression of PTPN13, focal adhesion kinase (FAK) and phosphorylated FAK (P-FAK) was evaluated using immunohistochemical staining and western blotting. A GEF-inactive Rgnef mutant rescues FAK-Y397 phosphorylation. e first time, that the EGF-dependent EGFR activation led to increased P-FAKSer732. "
+    },
+    {
+      "id": "54f57892d0d681a040000009",
+      "ideal_answer": "Caveolae are flask-shaped plasma membrane invaginations formed by constitutive caveolin proteins and regulatory cavin proteins. Caveolae are non-clathrin invaginations of the plasma membrane in most cell types. Caveolae are membrane subdomains that function as signaling platforms, endocytic carriers, sensors of membrane tension, and mechanical stress, as well as in lipid homeostasis. Caveolae are cholesterol-rich microdomains that form mechanically deformable invaginations of the sarcolemma. Caveolae are cholesterol and sphingolipids rich subcellular domains on plasma membrane. Caveolae, plasma membrane invaginations of 60-80nm in diameter, are a subset of lipid rafts enriched in cholesterol and sphingolipids. Caveolae are specialized membrane lipid rafts coated with caveolin scaffolding proteins,. The efficiency of youth is built upon cellular signaling scaffolds that provide tight and coordinated signaling. Caveolae are membrane microdomains where important signalling pathways are assembled and molecular effects transduced. Caveolae are submicroscopic, plasma membrane pits that are abundant in many mammalian cell types. Caveolae are an abundant feature of the plasma membrane of many mammalian cell types,. Lipid rafts are one such scaffold of which caveolae are a subset. "
+    },
+    {
+      "exact_answer": [
+        [
+          "caspase"
+        ],
+        [
+          "Apoptosis"
+        ],
+        [
+          "Cysteine Proteases"
+        ],
+        [
+          "Aspartate"
+        ],
+        [
+          "Peptide Hydrolases"
+        ]
+      ],
+      "id": "54f5bc7d5f206a0c06000001",
+      "ideal_answer": "Members of the caspase family of cysteine proteases coordinate the morphological and biochemical events that typify apoptosis. Caspases, initially identified as a family of proteases regulating cell death, have been found to have nonapoptotic functions as well. Caspases are critical mediators of apoptosis, the principle mechanism by which extra and harmful cells are eliminated to ensure proper development and maintain cellular homeostasis in all multicellular organisms. Caspases (cysteine-containing aspartate-specific proteases) are at the core of the cell\u0027s suicide machinery. Caspases are a family of evolutionarily conserved cysteine proteases that constitute the effector arm of the apoptotic machinery. These enzymes, once activated, dismantle the cell by selectively cleaving key proteins after aspartate residues. Programmed cell death plays an important role in maintaining homeostasis during animal development, and has been conserved in animals as different as nematodes and humans. Caspase function is known to be essential for cell death by apoptosis,. . As in other organisms, apoptosis is executed by caspases. Caspases are intracellular proteases that propagate programmed cell death, proliferation, and inflammation. Apoptosis is dependent upon caspase activation leading to substrate cleavage and, ultimately, cell death. Caspases are the ultimate executors of the apoptotic programmed cell death pathway. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f5f8925f206a0c06000003",
+      "ideal_answer": "The transposase domain protein Metnase/SETMAR suppresses chromosomal translocations. Metnase (also called SETMAR) is a SET and transposase domain protein that promotes both DNA double-strand break (DSB) repair and restart of stalled replication forks. Metnase (SETMAR) is a SET-transposase fusion protein that promotes nonhomologous end joining (NHEJ) repair in humans. Metnase (also known as SETMAR) is a SET and transposase fusion protein in humans and plays a positive role in double-strand break (DSB) repair. We recently isolated and characterized a SET and transposase domain protein termed Metnase that promotes DNA double-strand break (DSB) repair by non-homologous end-joining (NHEJ). Metnase (SETMAR) is a SET and transposase fusion protein that promotes in vivo end joining activity and mediates genomic integration of foreign DNA. Metnase, also known as SETMAR, is a SET and transposase fusion protein with an undefined role in mammalian DNA repair. Metnase (also termed SETMAR) is a fusion of a histone methylase and transposase protein that arose specifically in primates. Metnase is a fusion gene comprising a SET histone methyl transferase domain and a transposase domain derived from the Mariner transposase. We identified a protein, termed Metnase, that has a SET domain and a transposase/nuclease domain. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Co-Repressor Proteins"
+        ],
+        [
+          "Transcription Repressor/Corepressor"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "DNA"
+        ],
+        [
+          "Transducin"
+        ]
+      ],
+      "id": "54f608f85f206a0c06000007",
+      "ideal_answer": "Although a repressor could function by recruiting just a single co-repressor, many can recruit more than one, with Drosophila Brinker (Brk) recruiting the co-repressors CtBP and Groucho (Gro),. Transcriptional co-repressors of the Groucho/transducin-like Enhancer of split (Gro/TLE) family regulate the expression of a variety of genes and are involved in numerous developmental processes in both invertebrate and vertebrate species. The Drosophila Groucho (Gro) protein was the founding member of the family of transcriptional co-repressor proteins that now includes the transducin-like enhancer of split (TLE) and Grorelated gene (Grg) proteins in vertebrate. Groucho (Gro) is a Drosophila corepressor required by numerous DNA-binding repressors, many of which are distributed in gradients and provide positional information during development. Groucho/TLE proteins are global corepressors that are recruited to target promoters by different families of DNA-binding repressors. Groucho proteins are abundant and broadly expressed nuclear factors that lack intrinsic DNA-binding activity but can interact with a variety of DNA-binding proteins. Tcf3 requires corepressor molecules such as Groucho (Gro)/TLE and HDAC1 for activity. The proteins termed TLE in humans, Grg in mice and Groucho in Drosophila constitute a family of transcriptional corepressors. The Groucho (Gro)/transducin-like enhancer of split family of transcriptional corepressors. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Inulin"
+        ],
+        [
+          "inulinase"
+        ],
+        [
+          "Fructose"
+        ],
+        [
+          "Enzymes"
+        ],
+        [
+          "Sucrose"
+        ]
+      ],
+      "id": "54f60ae05f206a0c06000008",
+      "ideal_answer": "Inulinases mainly produced by the microorganism and it degrades inulin into fructose which is a digestible form. Inulin or inulin-rich materials can be actively hydrolyzed by microbial inulinases to produce glucose and fructose syrups that can be used in bioprocesses. This work is focused on the synthesis of the fructooligosaccharides (FOS) from sucrose and inulin, using free, immobilized and pre-treated immobilized inulinase. The catalysts treated at these conditions in both fluids were then used for the production of fructooligosaccharides (FOS) using sucrose and inulin as substrates in aqueous and organic systems. Fructans were extracted from Agave salmiana juice, characterized and subjected to hydrolysis process using a commercial inulinase preparation acting freely. A comparatively lower Michaelis-Menten constant (2.15 mg/ml) and higher maximum initial velocity (115 µmol/min/mg of protein) for inulinase I on inulin demonstrated the exoinulinase\u0027s greater affinity for inulin substrate. The K (m) and V (max) values of the purified enzyme for inulin were 2.3 mg/mL and 4.8 mg/min, respectively. The inulinase acts on the beta-(2,1)-D-fructoside links in inulin releasing D-fructose. Using inulinases from K. marxianus NRRL Y 7571, 11.89% of GF2 and 20.83% of GF3 were obtained, using inulin as substrate. "
+    },
+    {
+      "exact_answer": [
+        [
+          "MC1R gene"
+        ],
+        [
+          "Pigmentation"
+        ],
+        [
+          "MC1R Protein"
+        ],
+        [
+          "Arginine"
+        ],
+        [
+          "Homo sapiens"
+        ]
+      ],
+      "id": "54f60ea05f206a0c06000009",
+      "ideal_answer": "Here, the function and known mutations of MC1R and other human pigmentation genes including ASIP, MATP, SLC24A5, TYR, TYRP1 and OCA2 are outlined, and a forensic test based on MC1R SNPs presented. a recent paper has reported the genetic determination of eye and hair color in samples up to 800 years old. Several genome-wide association studies for pigmentation have now been conducted and identified single nucleotide polymorphism (SNP) markers in known, TYR, TYRP1, OCA2, SLC45A2, SLC24A5, MC1R, ASIP, KITLG and previously unknown SLC24A4, IRF4, TPCN2, candidate genes. We describe a minisequencing protocol for screening DNA samples for the presence of 12 mutations in the human melanocortin 1 receptor gene (MC1R), eight of which are associated with the red hair phenotype. Here, we identify an arginine-to-cysteine change at a highly conserved residue in tyrosinase-related protein 1 (TYRP1) as a major determinant of blond hair in Solomon Islanders. Here, we demonstrate that human hair color is predictable from DNA variants with similarly high accuracies. Interactions between HERC2, OCA2 and MC1R may influence human pigmentation phenotype. 12 genes previously associated with human hair color variation. several key pigmentation genes have been characterised, in particular the melanocortin 1 receptor gene (MC1R). "
+    },
+    {
+      "id": "54f616cd5f206a0c0600000c",
+      "ideal_answer": "Insects sense odours via several chemosensory receptor families, including the odorant receptors (ORs), membrane proteins that form heteromeric odour-gated ion channels comprising a variable ligand-selective subunit and an obligate co-receptor called Orco. Most odors are detected via a family of odorant receptors (ORs), which form heteromeric complexes consisting of a well-conserved OR co-receptor (Orco) ion channel and a non-conserved tuning OR that provides coding specificity to each complex. In insects, odor cues are discriminated through a divergent family of odorant receptors (ORs). Insect odorant receptors function as heteromeric odorant-gated cation channels comprising a conventional odorant-sensitive tuning receptor, and a conserved co-receptor (Orco). Insect odorant receptors (ORs) function as odorant-gated ion channels consisting of a conventional, odorant-binding OR and the Orco coreceptor. Surprisingly, mutation of the obligate olfactory coreceptor (Orco) does not abolish CO(2) aversion during walking yet eliminates CO(2) tracking in flight. A functional OR complex consists of both a conventional odorant-binding OR and a nonconventional coreceptor (Orco) that is highly conserved across insect taxa. Orco functions as a non-selective cation channel and is expressed in the majority of olfactory receptor neurons (ORNs). a novel OR co-receptor (Orco). "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f704b630767eb92e000001",
+      "ideal_answer": "Muscle LIM protein (MLP) has been proposed to be a central player in the pathogenesis of heart muscle disease. We used a newly designed monoclonal antibody to show that muscle LIM protein (MLP), the protein encoded by CSRP3, is mainly a cytosolic component of cardiomyocytes and not tightly anchored to sarcomeric structures. TTN-encoded titin, CSRP3-encoded muscle LIM protein, and TCAP-encoded telethonin are Z-disc proteins essential for the structural organization of the cardiac sarcomere and the cardiomyocyte\u0027s stretch sensor. Our data demonstrate that Mlp84B is essential for normal cardiac function and establish the Drosophila model for the investigation of the mechanisms connecting defective cardiac Z-disc components to the development of cardiomyopathy. MLP soon became an important model for experimental cardiology when it was first demonstrated that MLP deficiency leads to myocardial hypertrophy followed by a dilated cardiomyopathy and heart failure phenotype (Arber et al. Cell 88:393-403, 1997). MLP (muscle-LIM-protein) deficient mice develop DCM and changes in the mechanical coupling of cardiomyocytes result in alterations at the intercalated disks and enhanced accumulation of adherens junction proteins. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54f7291630767eb92e000002",
+      "ideal_answer": "Thus, understanding chromatin-level regulation will allow for a better appreciation of gene regulation as a whole and may set a fundamental basis for cardiovascular disease. The study of epigenetic markers is, therefore, a very promising frontier of science which may aid in a deeper understanding of molecular mechanisms underlying the modulation of gene expression in the biomolecule pathways linked to cardiovascular diseases. This review highlights our current knowledge of epigenetic gene regulation and the evidence that chromatin remodeling and histone modifications play key roles in the pathogenesis of cardiovascular disease through (re)programming of cardiovascular (stem) cells commitment, identity and function. Cardiovascular disease pathways are now being approached from the epigenetic perspective, including those associated with atherosclerosis, angiogenesis, ischemia-reperfusion damage, and the cardiovascular response to hypoxia and shear stress, among many others. From varied study approaches directed either toward the general understanding of the key pathway regulatory genes, or sampling population cohorts for global and gene-specific changes, it has been possible to identify several epigenetic signatures of environmental exposure relevant to CVD. Epigenetics may represent one of the possible scientific explanations of the impact of such intrauterine risk factors for the subsequent development of cardiovascular disease (CVD) during adulthood. "
+    },
+    {
+      "exact_answer": [
+        [
+          "calmodulin-dependent protein kinase II"
+        ],
+        [
+          "KN 93"
+        ],
+        [
+          "Calcium"
+        ],
+        [
+          "kinase inhibitor [EPC]"
+        ],
+        [
+          "Inhibitor"
+        ]
+      ],
+      "id": "54f89e1a06d9727f76000001",
+      "ideal_answer": "KN-93, a membrane-permeant calcium/calmodulin- dependent kinase-selective inhibitor, induces apoptosis in some lines of human tumor cells. To investigate the effects of KN-93, a CaMKII selective inhibitor on cell proliferation and the expression of p53 or p21 protein in human hepatic stellate cells. NE-induced MAP kinase and cPLA2 activation was also inhibited in cells treated with a CaM kinase II inhibitor, KN-93, or with CaM kinase II antisense oligonucleotide. Knockdown of βCaMKII by lentiviral-mediated expression of shRNA prevented the synaptic inactivity-induced increase in GluA1, as did treatment with the CaM kinase inhibitor KN-93, but not the inactive analog KN-92. In contrast, addition of the intracellular Ca2+ chelator BAPTA-AM or the Ca2+/calmodulin-dependent (CaM) kinase inhibitor KN93 blocked reporter gene activation in response to IH. Alternatively, treatment with KN-93, a selective inhibitor of CaMKII activation, or adenoviral overexpression of kinase-negative CaMKII-delta(2), inhibited ATP-dependent activation of ERK1/2 but had no effect on PDBu- or PDGF-stimulated ERK1/2. Injection of the CaM kinase inhibitor KN-93 into pupae resulted in a reduced number of antennal lobe glial cells migrating into the neuropil to form borders around glomeruli. Ca(2+)/CaM-dependent protein kinase inhibitor KN-93 also blocked zygote elongation, while its ineffective analog KN-92 did not have such effect. "
+    },
+    {
+      "exact_answer": [
+        [
+          "JUP gene"
+        ],
+        [
+          "Naxos disease"
+        ],
+        [
+          "Arrhythmogenic Right Ventricular Dysplasia"
+        ],
+        [
+          "Mutation Abnormality"
+        ],
+        [
+          "Associated with"
+        ]
+      ],
+      "id": "54f9ae2506d9727f76000002",
+      "ideal_answer": "Loss-of-function mutation of Jup has been associated with Naxos disease, which is characterized by arrhythmogenic cardiomyopathy and the cutaneous disorder palmoplantar keratoderma. Naxos disease is a recessively inherited ARVC caused by a mutation in the gene encoding plakoglobin (cell adhesion protein) in which the cardiac phenotype is associated with palmoplantar keratoderma and woolly hair. We tested the hypothesis that defective interactions between adhesion junctions and the cytoskeleton caused by the plakoglobin mutation in Naxos disease lead to remodeling of gap junctions and altered expression of the major gap junction protein, connexin43. A homozygous loss-of-function mutation of the Plakoglobin (Jup) gene, which encodes a major component of the desmosome and the adherens junction, had been identified in Naxos patients, although the underlying mechanism remained elusive. Naxos disease is caused by a mutation in plakoglobin, a protein that links cell-cell adhesion molecules to the cytoskeleton. However, in Naxos disease, a recessive form of ARVC with coexpression of palmoplantar keratoderma and woolly hair, a mutation in the plakoglobin gene has recently been discovered, thus underscoring the potential role of genetic alterations in cytoskeletal proteins in ARVC. "
+    },
+    {
+      "exact_answer": [
+        [
+          "JTV519"
+        ],
+        [
+          "Benzothiazepine"
+        ],
+        [
+          "Derivative"
+        ],
+        [
+          "Ryanodine Receptor 2"
+        ],
+        [
+          "Stabilized (qualifier value)"
+        ]
+      ],
+      "id": "54f9b74306d9727f76000004",
+      "ideal_answer": "In these conditions, JTV519 (K201), a 1,4-benzothiazepine derivative and multi-channel blocker, stabilizes RyR2s and decrease SR Ca²⁺ leak. A derivative of 1,4-benzothiazepine (JTV519) increased the affinity of calstabin2 for RyR2, which stabilized the closed state of RyR2 and prevented the Ca2+ leak that triggers arrhythmias. The 1,4-benzothiazepine derivative JTV519, and the more specific derivative S107 (2,3,4,5,-tetrahydro-7-methoxy-4-methyl-1,4-benzothiazepine), are thought to improve skeletal muscle function by stabilizing the RyR1-FKBP12 complex. In this article, we synthesize derivatives of the channel activator 4-chloro-3-methyl phenol (4-CmC) and the 1,4-benzothiazepine channel inhibitor 4-[-3{1-(4-benzyl) piperidinyl}propionyl]-7-methoxy-2,3,4,5-tetrahydro-1,4-benzothiazepine (K201, JTV519) with enhanced electron donor properties. K201 (JTV519) is a 1,4-benzothiazepine derivative that exhibits a strong cardioprotective action and acts as a multiple-channel blocker, including as a K+ channel blocker. A newly synthesized 1,4-benzothiazipine derivate, 4-[3-(4-benzylpiperidin-1-yl) propionyl]-7-methoxy-2,3,4,5-tetrahydro-1, 4-benzothiazepine monohydrochloride (JTV-519) was examined for its ability to reverse P-glycoprotein (P-gp) and multidrug resistance protein 1 (MRP1) mediated multidrug resistance (MDR) in K562/MDR and KB/MRP cells, respectively. In conclusion, JTV519, a new 1,4-benzothiazepine derivative, corrected the defective channel gating in RyR (increase in both the rapid conformational change and the subsequent Ca(2+) release rate) in HF. The 1,4-benzothiazepine derivative JTV-519 is a new type of calcium ion channel modulator. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Calcium"
+        ],
+        [
+          "NF-AT"
+        ],
+        [
+          "Calmodulin 1"
+        ],
+        [
+          "Calcineurin"
+        ],
+        [
+          "Dependent - ability"
+        ]
+      ],
+      "id": "54f9c40ddd3fc62544000001",
+      "ideal_answer": "Calcineurin is a calmodulin-dependent, calcium-activated protein phosphatase composed of catalytic and regulatory subunits. This process requires calcium-dependent dephosphorylation of NFAT caused by the phosphatase calcineurin. Of the five mammalian NFAT isoforms, transcriptional activities of NFATs 1-4 are stimulated by a calcium driven association between the ubiquitous phosphatase calcineurin and the calcium-sensing protein calmodulin. Transcription downstream of Ca(2+) influx is in large part funneled through the transcription factor nuclear factor of activated T cells (NFAT), a heavily phosphorylated protein that is cytoplasmic in resting cells, but that enters the nucleus when dephosphorylated by the calmodulin-dependent serine/threonine phosphatase calcineurin. NFAT (nuclear factor of activated T cell) proteins are expressed in most immune system cells and regulate the transcription of cytokine genes critical for the immune response. Calcineurin signaling was first defined in T lymphocytes as a regulator of nuclear factor of activated T cells (NFAT) transcription factor nuclear translocation and activation. NFAT normally resides in the cytoplasm, and a key aspect of the NFAT activation pathway is the regulation of its nuclear import by the Ca(2+)/calmodulin-dependent phosphatase calcineurin. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Proteins"
+        ],
+        [
+          "PLN gene"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "Partner in relationship"
+        ]
+      ],
+      "id": "54f9cb34dd3fc62544000002",
+      "ideal_answer": "Emphasis is placed on our newly identified PLN-binding partner HS-1-associated protein X-1 (HAX-1), which has an anti-apoptotic function and presents with numerous similarities to Bcl-2. Recently, the antiapoptotic HS-1-associated protein X-1 (HAX-1) was identified as a binding partner of PLN, and this interaction was postulated to regulate cell apoptosis. HAX-1 overexpression reduced sarcoplasmic reticulum Ca-ATPase (SERCA2) pump activity in isolated cardiomyocytes and in vivo, leading to depressed myocyte calcium kinetics and mechanics. HS-1 associated protein X-1 (HAX-1) was identified as a PLN-binding partner. To identify additional proteins that may interact with PLN, we used the yeast-two-hybrid system to screen an adult human cardiac cDNA library. These findings suggest a possible link between the Ca(2+) handling by the sarcoplasmic reticulum and cell survival mediated by the PLN/HAX-1 interaction. The sarco(endo)plasmic reticulum Ca(2+) transport adenosine triphosphatase (SERCA2a) and its regulator phospholamban (PLN) have a central role in modulating Ca(2+) homeostasis and, therefore, cardiac function. The sarco(endo)plasmic reticulum (SR) Ca(2+) transport ATPase (SERCA2a) and its inhibitor phospholamban (PLN) control the uptake of Ca(2+) by SR membranes during relaxation. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Calsequestrin"
+        ],
+        [
+          "Calcium"
+        ],
+        [
+          "Sarcoplasmic Reticulum"
+        ],
+        [
+          "ASPH gene"
+        ],
+        [
+          "TRDN gene"
+        ],
+        [
+          "Calcium ion"
+        ],
+        [
+          "Ryanodine Receptor Calcium Release Channel"
+        ],
+        [
+          "Formation"
+        ],
+        [
+          "Staphylococcal Protein A"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "Ryanodine"
+        ],
+        [
+          "Major"
+        ],
+        [
+          "Junctional"
+        ],
+        [
+          "ryanodine receptor activity"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "Release - action (qualifier value)"
+        ],
+        [
+          "Cardiac - anatomy qualifier"
+        ],
+        [
+          "Binding (Molecular Function)"
+        ],
+        [
+          "fully spanning the plasma membrane"
+        ],
+        [
+          "receptor complex"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "Integral Membrane Proteins"
+        ],
+        [
+          "cellular entity sequestering"
+        ],
+        [
+          "Muscle"
+        ],
+        [
+          "Channel"
+        ],
+        [
+          "Muscle Proteins"
+        ],
+        [
+          "Social Role"
+        ],
+        [
+          "Storage proteins"
+        ],
+        [
+          "macromolecular complex"
+        ],
+        [
+          "CASQ2 gene"
+        ],
+        [
+          "triadin"
+        ],
+        [
+          "Direct (qualifier)"
+        ],
+        [
+          "Binding Protein"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Dependent - ability"
+        ],
+        [
+          "Regulatory Protein"
+        ],
+        [
+          "Protein complex"
+        ],
+        [
+          "RYR1 gene"
+        ],
+        [
+          "Luminal region"
+        ],
+        [
+          "Buffers"
+        ],
+        [
+          "Overlay Device Component"
+        ],
+        [
+          "Passive"
+        ],
+        [
+          "combination of objects"
+        ],
+        [
+          "muscle homeostasis"
+        ],
+        [
+          "protein sequestering"
+        ],
+        [
+          "Clone Cells"
+        ],
+        [
+          "Processed"
+        ],
+        [
+          "Signal Transduction"
+        ],
+        [
+          "intermolecular interaction"
+        ],
+        [
+          "Associate - relationship"
+        ],
+        [
+          "Comprehension"
+        ],
+        [
+          "Mammals"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "Release (procedure)"
+        ],
+        [
+          "Finding"
+        ],
+        [
+          "Myocardium"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "control substance"
+        ],
+        [
+          "Levels (qualifier value)"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Immunoprecipitation"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Exhibits as Topic"
+        ],
+        [
+          "Purifying"
+        ],
+        [
+          "Homologous Gene"
+        ],
+        [
+          "Thinking, function"
+        ],
+        [
+          "During values"
+        ],
+        [
+          "Reduction - action"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Junctional complex"
+        ],
+        [
+          "ZMPSTE24 gene"
+        ],
+        [
+          "Mediate"
+        ],
+        [
+          "Detected (finding)"
+        ],
+        [
+          "Excitation Contraction Coupling"
+        ],
+        [
+          "Procedural approach"
+        ],
+        [
+          "Protein Analysis"
+        ],
+        [
+          "Tetrameres"
+        ],
+        [
+          "Vesicle (morphologic abnormality)"
+        ],
+        [
+          "Assay"
+        ],
+        [
+          "Filters"
+        ],
+        [
+          "Calcium/Protein"
+        ],
+        [
+          "junctional sarcoplasmic reticulum membrane"
+        ],
+        [
+          "Interaction"
+        ],
+        [
+          "Belarus"
+        ],
+        [
+          "Active"
+        ],
+        [
+          "Kilodalton"
+        ],
+        [
+          "Chromatography, Affinity"
+        ],
+        [
+          "Decrease"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Skeletal system"
+        ],
+        [
+          "sarcoplasmic reticulum lumen"
+        ],
+        [
+          "Normal Operation"
+        ],
+        [
+          "Homeostasis"
+        ],
+        [
+          "Regulator"
+        ],
+        [
+          "RYR2 gene"
+        ],
+        [
+          "Membrane"
+        ],
+        [
+          "Patient Condition Code - Stable"
+        ],
+        [
+          "Protein-Protein Interaction"
+        ],
+        [
+          "Muscle, Striated"
+        ]
+      ],
+      "id": "54f9d3eedd3fc62544000004",
+      "ideal_answer": "In cardiac muscle, junctin forms a quaternary protein complex with the ryanodine receptor (RyR), calsequestrin, and triadin 1 at the luminal face of the junctional sarcoplasmic reticulum (jSR). Calsequestrin, the major calcium sequestering protein in the sarcoplasmic reticulum of muscle, forms a quaternary complex with the ryanodine receptor calcium release channel and the intrinsic membrane proteins triadin and junctin. Junctin is a major transmembrane protein in cardiac junctional sarcoplasmic reticulum, which forms a quaternary complex with the ryanodine receptor (Ca(2+) release channel), triadin, and calsequestrin. Triadin 1 is a major transmembrane protein in cardiac junctional sarcoplasmic reticulum (SR), which forms a quaternary complex with the ryanodine receptor (Ca(2+) release channel), junctin, and calsequestrin. Calsequestrin (CSQ) is a Ca(2+) storage protein that interacts with triadin (TRN), the ryanodine receptor (RyR), and junctin (JUN) to form a macromolecular tetrameric Ca(2+) signaling complex in the cardiac junctional sarcoplasmic reticulum (SR). The decrease of CASQ2 is associated with a reduction in the levels of Triadin (TrD) and Junctin (JnC), two proteins that form, with CASQ2 and RyR2, a macromolecular complex devoted to control of calcium release from the sarcoplasmic reticulum. "
+    },
+    {
+      "exact_answer": [
+        [
+          "HMGA1a Protein"
+        ],
+        [
+          "Cyclic AMP Response Element-Binding Protein A"
+        ],
+        [
+          "Transcription Factor AP-1, human"
+        ],
+        [
+          "Interferon-beta"
+        ],
+        [
+          "enhanceosome"
+        ],
+        [
+          "NF-kappa B"
+        ],
+        [
+          "Recombinant Interferon Beta"
+        ],
+        [
+          "Transcription Coactivator"
+        ],
+        [
+          "Assembly (group of parts)"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "DNA"
+        ],
+        [
+          "IRF3 protein, human"
+        ],
+        [
+          "Serine/Threonine-Protein Kinase WNK1"
+        ],
+        [
+          "Transcription, Genetic"
+        ],
+        [
+          "Architecture as Topic"
+        ],
+        [
+          "Transcriptional Activation"
+        ],
+        [
+          "IRF1 protein, human"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "EIF4E wt Allele"
+        ],
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "TRANSCRIPTION FACTOR"
+        ],
+        [
+          "Protein-Protein Interaction"
+        ],
+        [
+          "Assembly (construction)"
+        ],
+        [
+          "Induce (action)"
+        ],
+        [
+          "Lysine"
+        ],
+        [
+          "Consistency"
+        ],
+        [
+          "Recruitment"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Enhancer of transcription"
+        ],
+        [
+          "Internal-External Locus of Control Scale"
+        ],
+        [
+          "IRF1 gene"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "Helix of ear"
+        ],
+        [
+          "In Vitro [Publication Type]"
+        ],
+        [
+          "Correct (qualifier)"
+        ],
+        [
+          "Site of"
+        ],
+        [
+          "NF-Kappa B p65"
+        ],
+        [
+          "NOS2A protein, human"
+        ],
+        [
+          "Domain (area of knowledge)"
+        ],
+        [
+          "Mediator brand of benfluorex hydrochloride"
+        ],
+        [
+          "TRIM63 gene"
+        ],
+        [
+          "p300-CBP Transcription Factors"
+        ],
+        [
+          "Communicable Diseases"
+        ],
+        [
+          "Essential"
+        ],
+        [
+          "Limulus clotting factor C"
+        ],
+        [
+          "Nucleoproteins"
+        ],
+        [
+          "Antiviral Response"
+        ],
+        [
+          "Enhancer Binding Protein"
+        ],
+        [
+          "Cyclic AMP-Responsive DNA-Binding Protein"
+        ],
+        [
+          "Binding action"
+        ],
+        [
+          "Interferon Regulatory Factor 1"
+        ],
+        [
+          "Interferon Regulatory Factor 3"
+        ],
+        [
+          "ATF2 protein, human"
+        ],
+        [
+          "Order (arrangement)"
+        ],
+        [
+          "JUN gene"
+        ],
+        [
+          "Component object"
+        ],
+        [
+          "Evidence of"
+        ],
+        [
+          "Protein C antigen measurement"
+        ],
+        [
+          "Orientation (spatial)"
+        ],
+        [
+          "Alignment"
+        ],
+        [
+          "KAT2B wt Allele"
+        ],
+        [
+          "literary novel"
+        ],
+        [
+          "Small Molecule"
+        ],
+        [
+          "*Activity (kind of quantity)"
+        ],
+        [
+          "Mammals"
+        ],
+        [
+          "Virus"
+        ],
+        [
+          "KAT2B gene"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "Dependent - ability"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Levels (qualifier value)"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Purifying"
+        ],
+        [
+          "Formed"
+        ],
+        [
+          "Surface"
+        ],
+        [
+          "Contain (action)"
+        ],
+        [
+          "EP300 gene"
+        ],
+        [
+          "Face"
+        ],
+        [
+          "Composite"
+        ],
+        [
+          "Stimulation (motivation)"
+        ],
+        [
+          "Recombinants"
+        ],
+        [
+          "Does play"
+        ],
+        [
+          "Providing (action)"
+        ],
+        [
+          "dimer"
+        ],
+        [
+          "Maximum"
+        ],
+        [
+          "Functional Relationship"
+        ],
+        [
+          "Factor"
+        ],
+        [
+          "Add - instruction imperative"
+        ],
+        [
+          "Gene Expression"
+        ],
+        [
+          "On (qualifier value)"
+        ],
+        [
+          "Interaction"
+        ],
+        [
+          "Causing"
+        ],
+        [
+          "activate biological process"
+        ],
+        [
+          "Operator gene"
+        ],
+        [
+          "Three"
+        ],
+        [
+          "Process Completed"
+        ],
+        [
+          "HMGA1 gene"
+        ],
+        [
+          "Changing"
+        ],
+        [
+          "Separate"
+        ]
+      ],
+      "id": "54fb4b34d176fff445000001",
+      "ideal_answer": "However, we show that completion of the enhanceosome assembly process requires protein-protein interactions between HMG I(Y) and the activators. The dimer formed by the ATF-2 and c-Jun transcription factors is one of the main components of the human interferon-beta enhanceosome. Here we report that within the IFN-beta enhanceosome the ATF-2-c-jun heterodimer binds in a specific orientation, which is required for assembly of a complex between ATF-2-c-jun and interferon regulatory factor 3 (IRF-3). A functional interferon-beta gene enhanceosome was assembled in vitro using the purified recombinant transcriptional activator proteins ATF2/c-JUN, IRF1, and p50/p65 of NF-kappa B. Maximal levels of transcriptional synergy between these activators required the specific interactions with the architectural protein HMG I(Y) and the correct helical phasing of the binding sites of these proteins on the DNA helix. Transcriptional activation of the virus inducible enhancer of the human interferon-beta (IFN-beta) gene in response to virus infection requires the assembly of an enhanceosome, consisting of the transcriptional activators NF-kappaB, ATF-2/c-Jun, IRFs and the architectural protein of the mammalian high mobility group I(Y) [HMG I(Y)]. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Octamer Transcription Factor-3"
+        ],
+        [
+          "Factor"
+        ],
+        [
+          "KLF4 gene"
+        ],
+        [
+          "POU5F1 gene"
+        ],
+        [
+          "SOX2 gene"
+        ],
+        [
+          "Internal-External Locus of Control Scale"
+        ],
+        [
+          "Somatic"
+        ],
+        [
+          "MYC gene"
+        ],
+        [
+          "SOX2 Transcription Factor"
+        ],
+        [
+          "Pluripotent"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Diploid Cell"
+        ],
+        [
+          "Induced Pluripotent Stem Cells"
+        ],
+        [
+          "Induce (action)"
+        ],
+        [
+          "Resources"
+        ],
+        [
+          "Human cells"
+        ],
+        [
+          "TRANSCRIPTION FACTOR"
+        ],
+        [
+          "Free (available (qualifier))"
+        ],
+        [
+          "Belarus"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "Application procedure"
+        ],
+        [
+          "Comprehension"
+        ],
+        [
+          "Mechanism (attribute)"
+        ],
+        [
+          "Providing (action)"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "Percent normal"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "Cloning Vectors"
+        ],
+        [
+          "Severities"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "Efficiency"
+        ],
+        [
+          "Fibroblasts"
+        ],
+        [
+          "Established"
+        ],
+        [
+          "Transcription, Genetic"
+        ],
+        [
+          "Peripheral blood mononuclear cell (cell)"
+        ],
+        [
+          "Preventing (action)"
+        ],
+        [
+          "Ectopic Expression"
+        ],
+        [
+          "Transgenes"
+        ],
+        [
+          "Representation (action)"
+        ],
+        [
+          "electronvolt"
+        ],
+        [
+          "Program"
+        ],
+        [
+          "Capability"
+        ],
+        [
+          "transduction"
+        ],
+        [
+          "Intrinsic drive"
+        ],
+        [
+          "Discover"
+        ],
+        [
+          "Body tissue"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "Accepted"
+        ],
+        [
+          "Employed"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "Cellular"
+        ],
+        [
+          "Very low"
+        ],
+        [
+          "State"
+        ],
+        [
+          "Stem cells"
+        ],
+        [
+          "Medical Research activity"
+        ],
+        [
+          "Medical"
+        ],
+        [
+          "Viral Vector"
+        ],
+        [
+          "Embryonic Stem Cells"
+        ],
+        [
+          "Obstetric Delivery"
+        ],
+        [
+          "Cultured Cell Line"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Exhibits as Topic"
+        ],
+        [
+          "Scientific Equipment"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "Somalia"
+        ],
+        [
+          "Enhance (action)"
+        ],
+        [
+          "Residual"
+        ],
+        [
+          "Profile (lab procedure)"
+        ],
+        [
+          "Kit device"
+        ],
+        [
+          "Device Component System"
+        ],
+        [
+          "Contain (action)"
+        ],
+        [
+          "Pluripotent Stem Cells"
+        ],
+        [
+          "Encode (action)"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "Acquired (qualifier value)"
+        ],
+        [
+          "Stem of plant"
+        ],
+        [
+          "Bad"
+        ],
+        [
+          "Lung diseases"
+        ],
+        [
+          "Therapeutic"
+        ],
+        [
+          "Each (qualifier value)"
+        ],
+        [
+          "Legal Adult"
+        ],
+        [
+          "Component object"
+        ],
+        [
+          "Cells"
+        ],
+        [
+          "Linear"
+        ],
+        [
+          "Cassette Device Component"
+        ],
+        [
+          "Additional"
+        ],
+        [
+          "Ips \u003cInvertebrate\u003e"
+        ],
+        [
+          "Direct (qualifier)"
+        ],
+        [
+          "1+ Score, WHO"
+        ],
+        [
+          "Future"
+        ],
+        [
+          "Generation (action)"
+        ],
+        [
+          "Drug Development"
+        ],
+        [
+          "Generations"
+        ]
+      ],
+      "id": "54fb5720d176fff445000002",
+      "ideal_answer": "Delivery of the transcription factors Oct4, Klf4, Sox2 and c-Myc via integrating viral vectors has been widely employed to generate induced pluripotent stem cell (iPSC) lines from both normal and disease-specific somatic tissues, providing an invaluable resource for medical research and drug development. The CytoTune™-iPS Reprogramming Kit contains four SeV-based reprogramming vectors, each capable of expressing one of the four Yamanaka factors (i.e., Oct4, Sox2, Klf4, and c-Myc) and are optimized for generating iPSCs from human somatic cells. Through the ectopic expression of four transcription factors, Oct4, Klf4, Sox2 and cMyc, human somatic cells can be converted to a pluripotent state, generating so-called induced pluripotent stem cells (iPSCs)(1-4). We demonstrate that residual expression of the Yamanaka factors prevents iPSCs from acquiring the transcriptional program exhibited by embryonic stem cells (ESCs) and that the expression profiles of iPSCs generated with and without c-Myc are indistinguishable. We have shown the generation of transgene-free human iPSCs from patients with different lung diseases using a single excisable polycistronic lentiviral Stem Cell Cassette (STEMCCA) encoding the Yamanaka factors(6). "
+    },
+    {
+      "exact_answer": [
+        [
+          "Myocytes, Cardiac"
+        ],
+        [
+          "Cardiac - anatomy qualifier"
+        ],
+        [
+          "TRANSCRIPTION FACTOR"
+        ],
+        [
+          "combination of objects"
+        ],
+        [
+          "GATA4 gene"
+        ],
+        [
+          "TBX5 gene"
+        ],
+        [
+          "MEF2C gene"
+        ],
+        [
+          "Fibroblasts"
+        ],
+        [
+          "Transcription, Genetic"
+        ],
+        [
+          "Direct (qualifier)"
+        ],
+        [
+          "Three"
+        ],
+        [
+          "Cells"
+        ],
+        [
+          "Induce (action)"
+        ],
+        [
+          "A-factor (Streptomyces)"
+        ],
+        [
+          "Connective Tissue - Fibroblasts (MMHCC)"
+        ],
+        [
+          "In Vitro [Publication Type]"
+        ],
+        [
+          "factor A"
+        ],
+        [
+          "Heart"
+        ],
+        [
+          "Reporting"
+        ],
+        [
+          "Combinations (Undergarment)"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Factor"
+        ],
+        [
+          "Polymerase Chain Reaction"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Direct type of relationship"
+        ],
+        [
+          "HAND2 gene"
+        ],
+        [
+          "In Vivo"
+        ],
+        [
+          "Protein Overexpression"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "myocardin"
+        ],
+        [
+          "MicroRNAs"
+        ],
+        [
+          "Cardiac markers"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "Comparison"
+        ],
+        [
+          "MYOCD gene"
+        ],
+        [
+          "Internal-External Locus of Control Scale"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "Add - instruction imperative"
+        ],
+        [
+          "Genes, vif"
+        ],
+        [
+          "Calcium"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "Serum Response Factor"
+        ],
+        [
+          "Similarity"
+        ],
+        [
+          "Biological Markers"
+        ],
+        [
+          "Screening - procedure intent"
+        ],
+        [
+          "Potential"
+        ],
+        [
+          "Protocols documentation"
+        ],
+        [
+          "assay qualifier"
+        ],
+        [
+          "Neonatal Clinical Nurse Specialist"
+        ],
+        [
+          "Living Alone"
+        ],
+        [
+          "literary novel"
+        ],
+        [
+          "*Activity (kind of quantity)"
+        ],
+        [
+          "Injured"
+        ],
+        [
+          "Mammals"
+        ],
+        [
+          "Folded structure"
+        ],
+        [
+          "Details"
+        ],
+        [
+          "Decreased"
+        ],
+        [
+          "T prime"
+        ],
+        [
+          "Triplicate"
+        ],
+        [
+          "Minimum"
+        ],
+        [
+          "Human Factors - Physical Therapist - NUCCProviderCodes"
+        ],
+        [
+          "Enhance (action)"
+        ],
+        [
+          "gene induction"
+        ],
+        [
+          "Profile (lab procedure)"
+        ],
+        [
+          "Hold - dosing instruction fragment"
+        ],
+        [
+          "Spectrum"
+        ],
+        [
+          "Conjunction"
+        ],
+        [
+          "between breakfast and lunch"
+        ],
+        [
+          "alone - group size"
+        ],
+        [
+          "Adult"
+        ],
+        [
+          "Effectiveness"
+        ],
+        [
+          "A Mouse"
+        ],
+        [
+          "Legal Adult"
+        ],
+        [
+          "Mouse Heart"
+        ],
+        [
+          "Infected"
+        ],
+        [
+          "Widening"
+        ],
+        [
+          "Combined"
+        ],
+        [
+          "Spontaneous"
+        ],
+        [
+          "Consistency"
+        ],
+        [
+          "Viral"
+        ],
+        [
+          "SMARCD3 gene"
+        ],
+        [
+          "Inactivation"
+        ],
+        [
+          "Screening Method"
+        ],
+        [
+          "Primary Outcome Measure"
+        ],
+        [
+          "Global"
+        ],
+        [
+          "Functional Relationship"
+        ],
+        [
+          "Efficiency"
+        ],
+        [
+          "Calcium Waves"
+        ],
+        [
+          "cardiac muscle cell differentiation"
+        ],
+        [
+          "heart induction"
+        ],
+        [
+          "Representation (action)"
+        ],
+        [
+          "Gene Expression"
+        ],
+        [
+          "transduction"
+        ],
+        [
+          "Activation action"
+        ],
+        [
+          "Retroviridae"
+        ],
+        [
+          "Belarus"
+        ],
+        [
+          "Scientific Publication"
+        ],
+        [
+          "Efficient"
+        ],
+        [
+          "Assessed"
+        ],
+        [
+          "Mouse Embryonic Fibroblast"
+        ]
+      ],
+      "id": "54fb5c69d176fff445000003",
+      "ideal_answer": "We reported previously that induced cardiomyocyte-like cells (iCMs) can be directly generated from mouse cardiac fibroblasts in vitro and vivo by transduction of three transcription factors: Gata4, Mef2c, and Tbx5, collectively termed GMT. Here, to identify a cardiac transcription factor combination facilitating mouse fibroblast reprogramming into cardiomyocytes, we directly screened all triplet combinations of 10 candidate factors combined with a Q-PCR assay reporting induction of multiple cardiac-specific genes. Here, we report that a combination of three developmental transcription factors (i.e., Gata4, Mef2c, and Tbx5) rapidly and efficiently reprogrammed postnatal cardiac or dermal fibroblasts directly into differentiated cardiomyocyte-like cells. Here we show that four human cardiac transcription factors, including GATA binding protein 4, Hand2, T-box5, and myocardin, and two microRNAs, miR-1 and miR-133, activated cardiac marker expression in neonatal and adult human fibroblasts. We found that functional cardiomyocytes can be directly induced from fibroblasts by a combination of three cardiac transcription factors, Gata4, Mef2c and Tbx5, in vitro and in vivo. This combination is \u003e50-fold more efficient than GMT alone and produces iCMs with cardiomyocyte marker expression, robust calcium oscillation, and spontaneous beating that persist for weeks following inactivation of reprogramming factors. "
+    },
+    {
+      "exact_answer": [
+        [
+          "complex (molecular entity)"
+        ],
+        [
+          "Transcriptional Activation"
+        ],
+        [
+          "CSHL1 gene"
+        ],
+        [
+          "Notch"
+        ],
+        [
+          "DNA"
+        ],
+        [
+          "SMPX gene"
+        ],
+        [
+          "Formation"
+        ],
+        [
+          "Intracellular"
+        ],
+        [
+          "DNA-Binding Proteins"
+        ],
+        [
+          "Transcription Coactivator"
+        ],
+        [
+          "DNA Binding"
+        ],
+        [
+          "Proteins"
+        ],
+        [
+          "TRANSCRIPTION FACTOR"
+        ],
+        [
+          "N not otherwise specified Antibody"
+        ],
+        [
+          "Promoter"
+        ],
+        [
+          "MAML1 gene"
+        ],
+        [
+          "DNA, A-Form"
+        ],
+        [
+          "Suppressor Device Component"
+        ],
+        [
+          "Domain (area of knowledge)"
+        ],
+        [
+          "Biological Markers"
+        ],
+        [
+          "Superkingdom (taxonomic category)"
+        ],
+        [
+          "Mediator brand of benfluorex hydrochloride"
+        ],
+        [
+          "Genes, vif"
+        ],
+        [
+          "Notch binding"
+        ],
+        [
+          "Glial Fibrillary Acidic Protein"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "A-factor (Streptomyces)"
+        ],
+        [
+          "CCL4L1 gene"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Contain (action)"
+        ],
+        [
+          "Nuclear"
+        ],
+        [
+          "Ankyrins"
+        ],
+        [
+          "Notch Signaling Pathway"
+        ],
+        [
+          "Plasma membrane"
+        ],
+        [
+          "Family"
+        ],
+        [
+          "Little\u0027s Disease"
+        ],
+        [
+          "Assembly (group of parts)"
+        ],
+        [
+          "Work"
+        ],
+        [
+          "Neurogenesis"
+        ],
+        [
+          "Target"
+        ],
+        [
+          "activate biological process"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Release - action (qualifier value)"
+        ],
+        [
+          "Proteolytic Enzyme"
+        ],
+        [
+          "Cell Nucleus"
+        ],
+        [
+          "combination of objects"
+        ],
+        [
+          "License"
+        ],
+        [
+          "transcription factor binding"
+        ],
+        [
+          "glial fibrillary acidic protein location"
+        ],
+        [
+          "Induce (action)"
+        ],
+        [
+          "Examined"
+        ],
+        [
+          "Transcription, Genetic"
+        ],
+        [
+          "Links List"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ],
+        [
+          "Polypeptides"
+        ],
+        [
+          "Astrocytes"
+        ],
+        [
+          "Selection, Genetic"
+        ],
+        [
+          "preference"
+        ],
+        [
+          "Definition"
+        ],
+        [
+          "Comprehension"
+        ],
+        [
+          "Consensus"
+        ],
+        [
+          "cooperative"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "Primary operation"
+        ],
+        [
+          "Component (part)"
+        ],
+        [
+          "Dependent - ability"
+        ],
+        [
+          "Site"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "Formed"
+        ],
+        [
+          "Initiate (source type)"
+        ],
+        [
+          "Morphogenesis"
+        ],
+        [
+          "Direct type of relationship"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Ankyrin Repeat"
+        ],
+        [
+          "RBPJ gene"
+        ],
+        [
+          "astrocyte activation"
+        ],
+        [
+          "Model"
+        ],
+        [
+          "Precursor T-Cell Lymphoblastic Leukemia-Lymphoma"
+        ],
+        [
+          "travel"
+        ],
+        [
+          "Protein Domain"
+        ],
+        [
+          "Application Program Interface"
+        ],
+        [
+          "Models, Structural"
+        ],
+        [
+          "Competence"
+        ],
+        [
+          "Series - set of composite instances"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "Cytokinesis of the fertilized ovum"
+        ],
+        [
+          "Ligand Binding"
+        ],
+        [
+          "Triggered by"
+        ],
+        [
+          "classical example"
+        ],
+        [
+          "Gene Expression"
+        ],
+        [
+          "Intrinsic drive"
+        ],
+        [
+          "Nuclear accumulation"
+        ],
+        [
+          "Chemical Association"
+        ],
+        [
+          "Ligands"
+        ],
+        [
+          "Affect (mental function)"
+        ],
+        [
+          "Methods"
+        ],
+        [
+          "Deregulation"
+        ],
+        [
+          "Preposition For"
+        ],
+        [
+          "Phase"
+        ]
+      ],
+      "id": "54fb6fb5d176fff445000004",
+      "ideal_answer": "The Notch intracellular domain (NICD) forms a transcriptional activation complex with the DNA-binding factor CSL and a transcriptional co-activator of the Mastermind family (MAML). We report here that the astrogliogenic role of Notch is in part mediated by direct binding of the Notch intracellular domain to the CSL DNA binding protein, forming a transcriptional activation complex onto the astrocyte marker gene, glial fibrillary acidic protein (GFAP). A consensus DNA binding site motif for the CSL protein was previously defined using selection-based methods, but whether subsequent association of Notch and Mastermind-like proteins affects the DNA binding preferences of CSL has not previously been examined. ICN then travels into the nucleus where it drives the assembly of a transcriptional activation complex containing the DNA-binding transcription factor CSL, ICN, and a specialized co-activator of the Mastermind family. Inappropriate release of the intracellular domain of Notch (N(ICD)) from the plasma membrane results in the accumulation of deregulated nuclear N(ICD) that has been linked to human cancers, notably T-cell acute lymphoblastic leukemia (T-ALL). "
+    },
+    {
+      "id": "54fc27a896abe38008000002",
+      "ideal_answer": "From the many cellular processes, Cdc48 is involved in, its function in endoplasmic reticulum associated protein degradation (ERAD) is understood best. Recognition and elimination of misfolded proteins are essential cellular processes. Endoplasmic reticulum-associated protein degradation (ERAD) removes improperly-folded proteins from the ER membrane into the cytosol where they undergo proteasomal degradation. Proteins that fail to fold properly as well as constitutive or regulated short-lived proteins of the endoplasmatic reticulum (ER) are subjected to proteolysis by cytosolic 26 S proteasomes. Proteins that fail to fold properly as well as constitutive or regulated short-lived proteins of the endoplasmic reticulum are subjected to proteolysis by cytosolic 26S proteasomes. The quality control system in the endoplasmic reticulum of eukaryotic cells ensures that newly synthesized proteins that fail to fold into the correct conformation or unassembled orphan subunits of oligomeric proteins are rapidly eliminated by proteolytic degradation. The endoplasmic reticulum contains a protein quality control system that discovers malfolded or unassembled secretory proteins and subjects them to degradation in the cytosol. In case proteins are unable to acquire their native conformation, chaperones with different substrate specificity and activity guide them to elimination. "
+    },
+    {
+      "id": "54fc3cf410565e080c000001",
+      "ideal_answer": "Intracellular Ca2+-overload in the myocardium can be induced not only after readmission of Ca2+-containing fluid to rat hearts previously perfused with a Ca2+-free buffer, a phenomenon called \"the calcium paradox\", but also during administration of a Ca2+-ionophore to cardiac tissue. \"Calcium paradox\" as a term describes the deleterious effects conferred to a heart perfused with a calcium-free solution followed by repletion, including loss of mechanical activity and sarcomere disruption. Ca2+ -paradox was induced by perfusing the isolated rat heart with Ca2+ -free medium for 5 min followed by reperfusion with Ca2+ -containing medium for 30 min. Normothermic 3 min lasting perfusion of the isolated rat heart by Krebs--Henseleit solution in which Ca2+ was replaced by EDTA and subsequent perfusion with a Ca2+ containing medium induced structural and metabolic changes demonstrated electron microscopically and histochemically. Although intracellular Ca2+ -overload acts as a trigger and modulator of cell death due to apoptosis under various pathophysiological conditions, the presence of apoptosis in hearts subjected to Ca2+ -paradox has not been demonstrated. "
+    },
+    {
+      "id": "54fc48bb6ea36a810c000002",
+      "ideal_answer": "Human induced pluripotent stem cells (iPSC) provide a unique opportunity to study \"disease in a dish\" within a defined genetic and environmental background. The use of iPSC-derived cardiomyocytes to study genetic cardiovascular disorders will enable a deeper and more applicable understanding of the molecular mechanisms of human disease, as well as improving our ability to achieve successful cell-based therapies. Since the first description of human induced pluripotent stem cell-derived cardiomyocytes, these cells have garnered tremendous interest for their potential use in patient-specific analysis and therapy. At present, de novo cardiomyocytes can be generated either in vitro, for cell transplantation or disease modelling using directed differentiation of embryonic stem cells or induced pluripotent stem cells, or in vivo via direct reprogramming of resident adult cardiac fibroblast or ectopic stimulation of resident cardiac stem or progenitor cells. The scope of therapeutic potential from pluripotent stem cell-derived cardiomyocytes has been further expanded with the invention of induced pluripotent stem cells, which can be induced to generate functional cardiomyocytes for regenerative cardiac therapy in a patient specific manner. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Piebaldism"
+        ],
+        [
+          "Autosomal dominant inheritance"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Congenital qualifier"
+        ],
+        [
+          "Depigmented"
+        ]
+      ],
+      "id": "54fc4e2e6ea36a810c000003",
+      "ideal_answer": "Human piebaldism is a rare autosomal dominant condition characterized by congenital white forelock and depigmented patches of s. Piebaldism is an autosomal dominant genetic disorder of pigmentation characterized by congenital patches of white skin and hair that lack melanocytes. Piebaldism is an autosomal dominant genetic disorder of pigmentation characterized by white patches of skin and hair. Piebaldism is a rare autosomal dominant disorder of melanocyte development characterized by a congenital white forelock and multiple symmetrical stable hypopigmented or depigmented macules. Piebaldism is an autosomal dominant disorder characterized by congenital hypopigmented patches of skin and hair and has been found to be associated with mutations in the KIT or SLUG genes. Piebaldism is a rare autosomal dominant skin disorder characterized by a white forelock and depigmented patches of skin, generally located on the forehead, central chest and abdomen, upper arms, and lower extremities. Piebaldism results from mutations of the KIT proto-oncogene, which encodes the cell-surface receptor transmembrane tyrosine kinase for an embryonic growth factor, Steel factor. It results from a mutation in the c-kit proto-oncogene and is associated with a defect in the migration and differentiation of melanoblasts from the neural crest. "
+    },
+    {
+      "id": "54fc58df6ea36a810c000004",
+      "ideal_answer": "Sequence-specific nucleases like TALENs and the CRISPR/Cas9 system have greatly expanded the genome editing possibilities in model organisms such as zebrafish. We and others have recently shown that the RNA-guided Cas9 nuclease can be employed to engineer the Drosophila genome, and that these modifications are efficiently transmitted through the germline. This technology enables controlled genetic manipulation in Drosophila cell lines, and its simplicity offers the opportunity to study cellular phenotypes genome-wide. The ease and efficiency of the CRISPR/Cas9 system with limited off-target effects make it a powerful genome engineering tool for in vivo studies. By targeting a constitutive exon of the AGO1 gene, we demonstrate homozygous mutation in up to 82% of cells, thereby allowing the study of genetic knockouts in a Drosophila cell line for the first time. Both systems have recently been used to create knock-out alleles with great efficiency, and TALENs have also been successfully employed in knock-in of DNA cassettes at defined loci via homologous recombination (HR). Here we report CRISPR/Cas9-mediated knock-in of DNA cassettes into the zebrafish genome at a very high rate by homology-independent double-strand break (DSB) repair pathways. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54fc845e6ea36a810c000005",
+      "ideal_answer": "Modafinil improves antipsychotic-induced parkinsonism but not excessive daytime sleepiness, psychiatric symptoms or cognition in schizophrenia and schizoaffective disorder: a randomized, double-blind, placebo-controlled study. OBJECTIVE: Given recent reports about the off-label use of modafinil as an adjuvant for the treatment of antipsychotic-associated sedation in schizophrenia patients and the recent interest in its putative cognitive-enhancing effects in this population, we present a systematic review of available data on trials of modafinil as an adjuvant in the treatment of cognitive deficits, negative symptoms, and antipsychotic-induced fatigue, and its tolerability. One patient was on treatment with both modafinil and trazodone and reported no change after tapering each in separate discontinuation trials, while another 3 patients were taking sleeping medications and also noted no change after discontinuation. It has been suggested that modafinil and its isomer armodafinil as an add-on strategy to antipsychotic treatment in patients with schizophrenia may improve cognitive functioning, attenuate fatigue, inactiveness and other negative functions as well as weight gain. The addition of modafinil or armodafinil to an antipsychotic regime, despite theoretical and preclinical considerations, has not been proved to enhance cognitive function, attenuate fatigue, enhance activity, improve negative symptoms and reduce weight in patients with schizophrenia. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Metals"
+        ],
+        [
+          "Alzheimer\u0027s Disease Pathway KEGG"
+        ],
+        [
+          "Clinical Trial [Publication Type]"
+        ],
+        [
+          "Interaction"
+        ],
+        [
+          "Target"
+        ]
+      ],
+      "id": "54fc91e96ad7dcbc12000001",
+      "ideal_answer": "The purpose of this mini-review is to highlight the emerging notion that metal chaperones, such as PBT2 (Prana Biotechnology), modulate a variety of critical pathways affecting key aspects of the AD cascade to provide a more \"holistic\" approach to the treatment of this disease. The most advanced of these strategies is the so-called \u0027metal protein attenuating compound\u0027 approach, with the lead molecule PBT2 having successfully completed early phase clinical trials. A recent Phase IIa double-blind, randomized, placebo-controlled trial found that the 250 mg dose of PBT2 was well-tolerated, significantly lowered cerebrospinal fluid (CSF) levels of amyloid-beta42, and significantly improved executive function on a Neuro-psychological Test Battery (NTB) within 12 weeks of treatment in patients with AD. The recent report of positive results from a Phase IIa clinical trial of PBT2, a novel drug that targets amyloid-beta-metal interactions, underscores the value of abnormal transition metal metabolism as a potential therapeutic target in Alzheimer\u0027s disease. Experimental treatments potentially useful for Alzheimer\u0027s disease include dimebon, PBT2 and etanercept; the safety and efficacy of the Alzheimer\u0027s vaccine remains to be proven, and growth hormone secretagogue and tarenflurbil are likely ineffective. "
+    },
+    {
+      "id": "54fc97b86ad7dcbc12000002",
+      "ideal_answer": "Importantly, ceftriaxone is currently in clinical trials for the treatment of amyotrophic lateral sclerosis. Motor neuron disease recovery associated with IV ceftriaxone and anti-Babesia therapy. Recently, Rothstein et al. reported that beta-lactam antibiotics, including penicillin and ceftriaxone, are potential therapeutic drugs to treat some neurological disorders, e.g., amyotrophic lateral sclerosis (ALS), by modulating the expression of glutamate transporter GLT1 via gene activation. Thirty-four compounds (including riluzole, ceftriaxone, minocyclin, PBA, lithium, acetylcysteine) in human and mouse ALS trials and an additional set of 1040 FDA-approved compounds also showed no effect on SOD1 promoter activity. OBJECTIVE: Ceftriaxone has been reported to reduce neuronal damage in amyotrophic lateral sclerosis and in an in-vitro model of neuronal ischaemia through increased expression and activity of the glutamate transporter, GLT1. Ceftriaxone was neuroprotective in vitro when used in models of ischaemic injury and motor neuron degeneration, both based in part on glutamate toxicity. Ceftriaxone delays loss of neurons in genetic animal models of amyotrophic lateral sclerosis through upregulation of astrocytic glutamate transporter expression (GLT-1). In amyotrophic lateral sclerosis, down-regulation of the astrocyte-specific glutamate excitatory amino acid transporter 2 is hypothesized to increase extracellular glutamate, thereby leading to excitotoxic motor neuron death. "
+    },
+    {
+      "id": "54fc98f16ad7dcbc12000003",
+      "ideal_answer": "Drisapersen is a 2\u0027-O-methyl-phosphorothioate oligonucleotide designed to skip exon 51 in dystrophin pre-mRNA to restore the reading frame of the mRNA. Currently, the most promising potential drugs are the exon-skipping agents eteplirsen and drisapersen. UNLABELLED: Chronic administration of drisapersen, a 2\u0027-OMe phosphorothioate antisense oligonucleotide (AON) to mice and monkeys resulted in renal tubular accumulation, with secondary tubular degeneration. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Patients"
+        ],
+        [
+          "Neurostimulation procedure"
+        ],
+        [
+          "Globus Pallidus"
+        ],
+        [
+          "Bilateral"
+        ],
+        [
+          "Structure of medial globus pallidus"
+        ]
+      ],
+      "id": "54fc99f36ad7dcbc12000004",
+      "ideal_answer": "INTERPRETATION: 3 years and 5 years after surgery, pallidal neurostimulation continues to be an effective and relatively safe treatment option for patients with severe idiopathic dystonia. OBJECTIVE: To assess the effects of bilateral pallidal deep brain stimulation (DBS) on mood and cognitive performance in patients with dystonia before surgery (at baseline, while patients received their usual treatment) and 12 months postoperatively (while patients received neurostimulation and their medications) in a multicenter prospective study. In eight patients with primary dystonia who were treated with bilateral chronic pallidal stimulation, we correlated symptom-related electromyogram (EMG) activity of the most affected muscles with the local field potentials (LFPs) recorded from the globus pallidus electrodes. 38 patients agreed to be followed up annually after the activation of neurostimulation, including assessments of dystonia severity, pain, disability, and quality of life. INTERPRETATION: Bilateral pallidal neurostimulation could be an effective treatment option for patients with dystonia-choreoathetosis CP. CONCLUSIONS: These findings support the efficacy and safety of the use of bilateral stimulation of the internal globus pallidus in selected patients with primary generalized dystonia. "
+    },
+    {
+      "exact_answer": [
+        [
+          "istradefylline"
+        ],
+        [
+          "Egypt"
+        ],
+        [
+          "Dopamine"
+        ],
+        [
+          "Time"
+        ],
+        [
+          "Caffeine"
+        ],
+        [
+          "Adenosine A2A Receptor Antagonists"
+        ],
+        [
+          "Levodopa"
+        ],
+        [
+          "antagonists"
+        ],
+        [
+          "Adenosine"
+        ],
+        [
+          "1-(4\u0027-aminophenyl)-3-acetyl-4-methyl-3,4-dihydro-7,8-methylenedioxy-5H-2,3-benzodiazepine"
+        ],
+        [
+          "quetiapine"
+        ],
+        [
+          "Motor fluctuation"
+        ],
+        [
+          "fipamezole"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "KW 6002"
+        ],
+        [
+          "sarizotan"
+        ],
+        [
+          "Receptors, Adrenergic, alpha-2"
+        ],
+        [
+          "preladenant"
+        ],
+        [
+          "Levetiracetam"
+        ],
+        [
+          "AMPA Receptor Antagonists [MoA]"
+        ],
+        [
+          "Efficacy Study"
+        ],
+        [
+          "Synchronous"
+        ],
+        [
+          "Phase 3 Clinical Trials"
+        ],
+        [
+          "Initial (abbreviation)"
+        ],
+        [
+          "With - dosing instruction fragment"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "Add - instruction imperative"
+        ],
+        [
+          "Availability of"
+        ],
+        [
+          "Advance"
+        ],
+        [
+          "Modulator Device Component"
+        ],
+        [
+          "Serotonin 5-HT2A Receptor Antagonists"
+        ],
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "Pharmacologic Substance"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Standard (document)"
+        ],
+        [
+          "Serotonin Agonists"
+        ],
+        [
+          "alphanumeric label - 1A"
+        ],
+        [
+          "Reduced"
+        ],
+        [
+          "Device Component System"
+        ],
+        [
+          "alpha2-adrenergic receptor activity"
+        ],
+        [
+          "Impaired cognition"
+        ],
+        [
+          "Apical ramus of posterior segmental artery"
+        ],
+        [
+          "suggestion"
+        ],
+        [
+          "Moderate (severity modifier)"
+        ],
+        [
+          "Dyskinetic syndrome"
+        ],
+        [
+          "First (number)"
+        ],
+        [
+          "Data"
+        ],
+        [
+          "Replacement"
+        ],
+        [
+          "Neuronal"
+        ],
+        [
+          "Motor function"
+        ],
+        [
+          "Scientific Study"
+        ],
+        [
+          "Neurologic Deficits"
+        ]
+      ],
+      "id": "54fc9b236ad7dcbc12000005",
+      "ideal_answer": "The available data also suggest that caffeine can improve the motor deficits of PD and that adenosine A2A receptor antagonists such as istradefylline reduces OFF time and dyskinesia associated with standard \u0027dopamine replacement\u0027 treatments. Initial studies indicate that in patients with motor fluctuations on levodopa, addition of istradefylline reduces \u0027off\u0027 time. Both istradefylline and preladenant have demonstrated moderate efficacy in reducing off time in PD patients with motor fluctuations. These include alpha2 adrenergic receptor antagonists (eg, fipamezole), adenosine A2A receptor antagonists (eg, istradefylline), AMPA receptor antagonists (eg, talampanel), neuronal synchronization modulators (eg, levetiracetam) and agents that interact with serotonergic systems such as 5-hydroxytryptamine (5-HT)1A agonists (eg, sarizotan) and 5-HT2A antagonists (eg, quetiapine). Adenosine A2A antagonists, such as istradefylline, improve motor function in PD, but their effect on cognitive impairment has not been determined. Istradefylline (KW-6002) is the first of several adenosine A2A receptor antagonists in development for PD to advance to phase III clinical trials. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Suvorexant"
+        ],
+        [
+          "MK 4305"
+        ],
+        [
+          "Dual - RoleCode"
+        ],
+        [
+          "Antagonist muscle action"
+        ],
+        [
+          "Preposition For"
+        ],
+        [
+          "orexin A"
+        ],
+        [
+          "HCRTR2 gene"
+        ],
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "Sleeplessness"
+        ],
+        [
+          "Almorexant"
+        ],
+        [
+          "Primary Insomnia"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "Potential"
+        ],
+        [
+          "promise"
+        ],
+        [
+          "orexin receptors"
+        ],
+        [
+          "Phase 3 Clinical Trials"
+        ],
+        [
+          "Synthesis"
+        ],
+        [
+          "concise"
+        ],
+        [
+          "Sleep Disorders"
+        ],
+        [
+          "Patients"
+        ],
+        [
+          "antagonists"
+        ],
+        [
+          "Period (temporal qualifier)"
+        ],
+        [
+          "Amination"
+        ],
+        [
+          "Asymmetry"
+        ],
+        [
+          "Inhibitor"
+        ],
+        [
+          "Current (present time)"
+        ],
+        [
+          "SB 649868"
+        ],
+        [
+          "Ox (organism)"
+        ],
+        [
+          "Firstly"
+        ],
+        [
+          "Entered"
+        ],
+        [
+          "Disease"
+        ],
+        [
+          "Placebo Control"
+        ],
+        [
+          "Integer +2"
+        ],
+        [
+          "Example"
+        ],
+        [
+          "CDISC SDTM Route of Administration Terminology"
+        ],
+        [
+          "Evaluation"
+        ],
+        [
+          "Expected"
+        ],
+        [
+          "Ruthenium"
+        ],
+        [
+          "FDA Approval"
+        ],
+        [
+          "4 Weeks"
+        ],
+        [
+          "New Drug Application"
+        ],
+        [
+          "Cross-Over Studies"
+        ],
+        [
+          "sleep treatment"
+        ],
+        [
+          "per year"
+        ],
+        [
+          "Methods"
+        ],
+        [
+          "Numerous"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Complete"
+        ],
+        [
+          "Class of Trial Agent"
+        ],
+        [
+          "Call (Instruction)"
+        ],
+        [
+          "Clinical"
+        ],
+        [
+          "Clinical Trial [Publication Type]"
+        ],
+        [
+          "Oral"
+        ],
+        [
+          "1+ Score"
+        ],
+        [
+          "Report (document)"
+        ],
+        [
+          "Randomization"
+        ],
+        [
+          "Aliphatic amine"
+        ],
+        [
+          "Bioavailable"
+        ],
+        [
+          "Evaluation procedure"
+        ],
+        [
+          "Mechanism (attribute)"
+        ],
+        [
+          "Submitted"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Double-Blind Method"
+        ],
+        [
+          "Ketones"
+        ],
+        [
+          "Modulated"
+        ],
+        [
+          "NT5E gene"
+        ],
+        [
+          "First (number)"
+        ],
+        [
+          "Doras"
+        ],
+        [
+          "Treated with"
+        ],
+        [
+          "Polysomnography"
+        ],
+        [
+          "Reaction"
+        ],
+        [
+          "HCRT gene"
+        ],
+        [
+          "Voluntary Workers"
+        ],
+        [
+          "Compound (substance)"
+        ],
+        [
+          "novel AODU treatment method"
+        ],
+        [
+          "Sleep"
+        ],
+        [
+          "1+ Score, WHO"
+        ],
+        [
+          "First-Line Therapy"
+        ],
+        [
+          "Experimental Result"
+        ]
+      ],
+      "id": "54fc9ca16ad7dcbc12000006",
+      "ideal_answer": "Indeed, phase III clinical trials were completed last year of suvorexant, a non-selective (dual) antagonist for orexin receptors, for the treatment of primary insomnia, and demonstrate promising results. METHODS: We evaluated suvorexant, an orexin receptor antagonist, for treating patients with primary insomnia in a randomized, double-blind, placebo-controlled, 2-period (4 weeks per period) crossover polysomnography study. Dual orexin receptor (OXR) antagonists (DORAs) such as almorexant, 1 (SB-649868), or suvorexant have shown promise for the treatment of insomnias and sleep disorders in several recent clinical trials in volunteers and primary insomnia patients. Merck\u0027s suvorexant (MK-4305) is the first compound of the so-called dual orexin receptor antagonist (DORA) class expected to be submitted for FDA approval, with a new drug application anticipated in 2012. Suvorexant is a dual orexin antagonist currently in Phase III clinical trials for the modulation of sleep and is being developed by Merck. The first example of an intramolecular asymmetric reductive amination of a dialkyl ketone with an aliphatic amine has been developed for the synthesis of Suvorexant (MK-4305), a potent dual Orexin antagonist under development for the treatment of sleep disorders. "
+    },
+    {
+      "id": "54fd5dd86ad7dcbc12000008",
+      "ideal_answer": "Dephosphorylated PLN is an inhibitor of SERCA and phosphorylation of PLN relieves this inhibition. In spite of numerous mutagenesis and kinetic studies, we still do not have a clear mechanistic picture of how PLB influences the calcium transport cycle of SERCA. β-Adrenergic-stimulated phosphorylation of PLN at Ser-16 enhances SERCA activity via an unknown mechanism. We found that the allosteric regulation of SERCA depends on the conformational equilibrium of PLN, whose cytoplasmic regulatory domain interconverts between three different states: a ground T state (helical and membrane associated), an excited R state (unfolded and membrane detached), and a B state (extended and enzyme-bound), which is noninhibitory. Phospholamban (PLN) is a small integral membrane protein, which binds and inhibits in a yet unknown fashion the Ca(2+)-ATPase (SERCA) in the sarcoplasmic reticulum. SR calcium uptake is mediated by a Ca(2+)-ATPase (SERCA2), whose activity is reversibly regulated by phospholamban (PLN). The membrane protein complex between the sarcoplasmic reticulum Ca(2+)-ATPase (SERCA) and phospholamban (PLN) controls Ca(2+) transport in cardiomyocytes, thereby modulating cardiac contractility. Phospholamban (PLN) regulates cardiac contractility via its modulation of sarco(endo)plasmic reticulum calcium ATPase (SERCA) activity. Phosphorylation at Ser-16 of PLN shifts the populations toward the B state, increasing SERCA activity. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Proteins"
+        ],
+        [
+          "Freezing"
+        ],
+        [
+          "Type 3"
+        ],
+        [
+          "Water"
+        ],
+        [
+          "Antifreeze Proteins"
+        ],
+        [
+          "Glycoproteins"
+        ],
+        [
+          "Ice"
+        ],
+        [
+          "protein iii"
+        ],
+        [
+          "Fungal"
+        ],
+        [
+          "Negation"
+        ],
+        [
+          "Freezing Point Temperature"
+        ],
+        [
+          "Surface"
+        ],
+        [
+          "Bacteria"
+        ],
+        [
+          "Presence of crystals - finding"
+        ],
+        [
+          "Wild Type"
+        ],
+        [
+          "Ability"
+        ],
+        [
+          "Roman Numeral III"
+        ],
+        [
+          "Antarctic (geographic area)"
+        ],
+        [
+          "Iodides"
+        ],
+        [
+          "Crystal - body material"
+        ],
+        [
+          "Plants"
+        ],
+        [
+          "Artic Indian"
+        ],
+        [
+          "Vertebrates"
+        ],
+        [
+          "Skin"
+        ],
+        [
+          "Invertebrates"
+        ],
+        [
+          "Binding action"
+        ]
+      ],
+      "id": "54fe09036ad7dcbc12000009",
+      "ideal_answer": "type III anti-freeze proteins. skin-type anti-freeze protein-3. the anti-freeze glycoprotein of Antarctic and Arctic notothenoids,. pe III anti-freeze protein (AFP). Thermal hysteresis proteins (THPs) have been found in vertebrates, invertebrates, plants, bacteria and fungi and are able to depress the freezing point of water (in the presence of ice crystals) in a non-colligative manner by binding to the surface of nascent ice crystals. wild type III thermal hysteresis protein. AFP I or AFP III. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54fefbbc6ad7dcbc1200000a",
+      "ideal_answer": "Clinical decision support systems are promising tools for improving behavioral medicine care for chronic pain. a project to operationalize the 2003 VA/DOD Clinical Practice Guideline for Opioid Therapy for Chronic Non-Cancer Pain into a computerized decision support system (DSS). The use of a computer-based decision support system facilitates primary care physicians\u0027 management of chronic pain. The use of a CBDS system may improve the ability of PCPs to manage chronic pain and may also facilitate screening of consults to optimize specialist utilization. ATHENA-DSS is an automated decision support system developed in a collaboration between Stanford University and the U.S. Department of Veterans Affairs (VA) to increase guideline-adherent prescribing and to change physician behavior. Improving Patient Safety Using ATHENA-Decision Support System Technology:. We created a computerized, interactive clinical decision dashboard. Interactive decision dashboards can be adapted for clinical use and have the potential to foster informed decision making. interactive decision dashboard format. We based the DSS on the existing ATHENA-DSS. Use of this iterative process led to development of a multifunctional DSS. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54fefff26ad7dcbc1200000b",
+      "ideal_answer": "This study aimed to evaluate effects of a web-based, self-monitoring and symptom management system (SMARTLog) that analyzes personal self-monitoring data and delivers data-based feedback over time. Results suggest that the tailored online chronic pain management program showed promising effects on pain at 1 and 6 months posttreatment and quality of life at 6 months posttreatment in this naturalistic study. Results suggest the potential value of self-management for chronic pain patients and the potential acceptability of web-based delivery of intervention content. These so-called Interactive Health Communication Applications (IHCAs) can reach great numbers of patients at low financial cost and provide information and support at the time, place and learning speed patients prefer. Web-based interventions may also be effective in enhancing self-management for individuals with chronic pain, but little is known about long-term effects. Moderate use (3 times weekly x 3 months) increased likelihood of clinically significant improvements in pain, memory, gastrointestinal problems, depression, fatigue, and concentration; heavy use (4.5 times weekly x five months) produced the above plus improvement in stiffness and sleep difficulties. Research on Web-based interventions to support self-management following participation in pain management programs is limited. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "54ff106b6ad7dcbc1200000c",
+      "ideal_answer": "The results suggest that a smartphone-delivered intervention with diaries and personalized feedback can reduce catastrophizing and prevent increases in functional impairment and symptom levels in women with chronic widespread pain following inpatient rehabilitation. therapy adaptation and the resultant specification for the SMART2 project-a technology-based self-management system for assisting long-term health conditions, including chronic pain. An integrated cognitive-behavioral and physical therapy group protocol has been developed and then implemented at remote sites using videoconferencing technology to provide pain management for veterans. Tele-pain management: use of videoconferencing technology in the delivery of an integrated cognitive-behavioral and physical therapy group intervention. It is feasible to provide treatment to women veterans living in rural areas by utilizing video-teleconferencing technology between larger VA medical centers and facilities at CBOCs in more rural settings. Results showed the use of videoconferencing for this group of patients is useable and satisfactory for both patients and staff, that the patients save time and money, and that for a system where videoconferencing equipment is already in use, it is also cost effective. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Disease"
+        ],
+        [
+          "Imprinting (Psychology)"
+        ],
+        [
+          "Homo sapiens"
+        ],
+        [
+          "Prader-Willi Syndrome"
+        ],
+        [
+          "Russell-Silver syndrome"
+        ],
+        [
+          "Beckwith-Wiedemann Syndrome"
+        ],
+        [
+          "Numbers"
+        ],
+        [
+          "Genets"
+        ],
+        [
+          "BECKWITH-WIEDEMANN SYNDROME (allelic variant)"
+        ],
+        [
+          "Including (qualifier)"
+        ],
+        [
+          "Angelman Syndrome"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ],
+        [
+          "Germ Line"
+        ],
+        [
+          "Genes"
+        ],
+        [
+          "Observed"
+        ],
+        [
+          "parent"
+        ],
+        [
+          "Clinical"
+        ],
+        [
+          "Interested"
+        ],
+        [
+          "Genomic Imprinting"
+        ],
+        [
+          "RNA, Messenger"
+        ],
+        [
+          "Mice, Inbred ICR"
+        ],
+        [
+          "Clinical Study Case"
+        ],
+        [
+          "Does play"
+        ],
+        [
+          "Nesidioblastosis"
+        ],
+        [
+          "Hydatidiform Mole"
+        ],
+        [
+          "neurodevelopment"
+        ],
+        [
+          "Specific qualifier value"
+        ],
+        [
+          "Example"
+        ],
+        [
+          "Gene Expression"
+        ],
+        [
+          "Maintenance"
+        ],
+        [
+          "Copy (object)"
+        ],
+        [
+          "Diabetes Mellitus, Insulin-Dependent"
+        ],
+        [
+          "Associated with"
+        ],
+        [
+          "Coitus"
+        ],
+        [
+          "Pseudohypoparathyroidism"
+        ],
+        [
+          "Phenomenon"
+        ],
+        [
+          "Disruption"
+        ],
+        [
+          "Developmental Disabilities"
+        ],
+        [
+          "Somatic"
+        ],
+        [
+          "Generic Role"
+        ],
+        [
+          "Aberrant"
+        ],
+        [
+          "Expression procedure"
+        ],
+        [
+          "Derivation"
+        ],
+        [
+          "Endocrine"
+        ],
+        [
+          "Natures"
+        ],
+        [
+          "Fetal Growth"
+        ],
+        [
+          "Focal"
+        ],
+        [
+          "Carcinogenesis"
+        ],
+        [
+          "Life Cycle Stages"
+        ],
+        [
+          "DNA Methylation"
+        ],
+        [
+          "Oncogene Deregulation"
+        ],
+        [
+          "1990s"
+        ],
+        [
+          "Locus"
+        ],
+        [
+          "Gestational Trophoblastic Neoplasms"
+        ],
+        [
+          "Involvement with"
+        ],
+        [
+          "point - UnitsOfMeasure"
+        ],
+        [
+          "Transcript"
+        ],
+        [
+          "Patient is female"
+        ],
+        [
+          "RETT SYNDROME (allelic variant)"
+        ],
+        [
+          "Pseudohypoparathyroidism, Type Ia"
+        ],
+        [
+          "Appearance"
+        ],
+        [
+          "View"
+        ],
+        [
+          "Alleles"
+        ],
+        [
+          "Disrupted"
+        ],
+        [
+          "Transient neonatal diabetes mellitus"
+        ],
+        [
+          "Family"
+        ],
+        [
+          "Formation"
+        ],
+        [
+          "study of epigenetics"
+        ],
+        [
+          "Mediate"
+        ],
+        [
+          "Contribution"
+        ]
+      ],
+      "id": "54ff30dc6ad7dcbc1200000f",
+      "ideal_answer": "eregulation of imprinted genes has been observed in a number of human diseases as gestation trophoblastic disease, Prader-Willi, Angelmann and Beckwith-Wiedemann syndromes and plays significant role in the carcinogenesis. Deregulation of imprinted genes has been observed in a number of human diseases such as Beckwith-Wiedemann syndrome, Prader-Willi/Angelman syndromes and cancer. This epigenetic \"life cycle\" of imprinting (germline erasure, germline establishment, and somatic maintenance) can be disrupted in several human diseases, including Beckwith-Wiedemann syndrome (BWS), Prader-Willi syndrome (PWS), Angelman syndrome and Hydatidiform mole. It is particularly interesting from the clinical point of view that a number of human diseases, such as the Beckwith-Wiedemann and Prader-Willi/Angelman syndromes, appear to involve unbalanced parental contributions of imprinted loci. It has been implicated in a number of human diseases (most of them of endocrine interest), such as Prader-Willi/Angelman syndromes, Silver-Russell syndrome, Beckwith-Wiedemann syndrome, transient neonatal diabetes, the focal form of nesidioblastosis, and pseudohypoparathyroidism. Perturbation of the allelic DNA methylation at ICRs is causally involved in several human diseases, including the Beckwith-Wiedemann and Silver-Russell syndromes, associated with aberrant foetal growth. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Serine Proteinase Inhibitors"
+        ],
+        [
+          "Ichthyosis linearis circumflexa"
+        ],
+        [
+          "SPINK5 gene"
+        ],
+        [
+          "Mutation"
+        ],
+        [
+          "Type 5"
+        ]
+      ],
+      "id": "54ff45966ad7dcbc12000010",
+      "ideal_answer": "Lympho-epithelial Kazal-type-related inhibitor (LEKTI) is the defective protein of the ichthyosiform condition Netherton syndrome (NS). Netherton syndrome (NTS) is a rare genetic skin disease caused by mutations in the serine protease inhibitor Kazal-type 5 gene, which encodes the lympho-epithelial Kazal-type-related inhibitor. Netherton syndrome (NS) is a serious inherited skin disorder caused by mutations in the gene SPINK5 (serine protease inhibitor Kazal type 5) which encodes for a serine protease inhibitor LEKTI (lymphoepithelial Kazal type-related inhibitor). NS is caused by loss-of-function mutations in SPINK5 (serine protease inhibitor of kazal type 5) encoding LEKTI-1 (lympho-epithelial kazal type related inhibitor type 5) expressed in stratified epithelia. Netherton syndrome is caused by loss-of-function mutations in SPINK5 encoding the Kazal-type inhibitor LEKTI-1. Deficiency in the serine protease inhibitor LEKTI is the etiological origin of Netherton syndrome, which causes detachment of the stratum corneum and chronic inflammation. Mutations in the serine protease inhibitor Kazal type 5 (SPINK5) gene leading to lymphoepithelial Kazal-type-related inhibitor (LEKTI) deficiency cause NS. NS is due to loss-of-function mutations in the SPINK5 gene and to the consequent lack of expression of its encoded protein LEKTI in the skin and all stratified epithelial tissues. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Long Interspersed Elements"
+        ],
+        [
+          "Nuclear"
+        ],
+        [
+          "Retrotransposons"
+        ],
+        [
+          "Line Unit of Length"
+        ],
+        [
+          "Eukaryotic Cells"
+        ]
+      ],
+      "id": "54ff5197e9bde69634000001",
+      "ideal_answer": "A combination of molecular hybridization studies and long-range polymerase chain reaction was used to isolate a 6-kb full-length long interspersed nuclear element (LINE or L1). LINE (7kb long interspersed nuclear element),. The retrotransposon known as long interspersed nuclear element-1 (L1) is 6 kb long, although most L1s in mammalian and other eukaryotic cells are truncated. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Hirschsprung disease 1"
+        ],
+        [
+          "Congenital Disorders"
+        ],
+        [
+          "Intrinsic origin"
+        ],
+        [
+          "Absence (morphologic abnormality)"
+        ],
+        [
+          "Colon structure (body structure)"
+        ]
+      ],
+      "id": "55000cc4e9bde69634000004",
+      "ideal_answer": "Hirschsprung disease (HSCR) is a congenital disorder characterized by an absence of intrinsic ganglion cells in the nerve plexuses of the lower colon. It is characterized by the absence of intrinsic ganglion cells in the myenteric and submucosal plexuses along variable lengths of the gastrointestinal tract. This severe congenital condition is caused by the absence of colonic neural ganglia and thus lack of intrinsic innervation of the colon due in turn to improper colonization of the developing intestines by ENS progenitor cells. Hirschsprung disease (HSCR) is a congenital disorder associated with the absence of intrinsic ganglion cells in the distal gastrointestinal tract. Hirschsprung\u0027s disease (HSCR), also known as aganglionic megacolon, derives from a congenital malformation of the enteric nervous system (ENS). Hirschsprung disease (HSCR, aganglionic megacolon) is a common congenital malformation leading to bowel obstruction, with an incidence of 1/5,000 live births. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "55001420e9bde69634000005",
+      "ideal_answer": "The syndrome is characterized by typical facial features, moderate-to-severe mental retardation, epilepsy and variable congenital malformations, including Hirschsprung disease, genital anomalies, congenital heart disease, agenesis of the corpus callosum, and eye defects. Mowat-Wilson syndrome (MWS) is a rare genetic condition where variable and multiple congenital anomalies including Hirschsprung\u0027s disease, intellectual disability, and prominent facial features are present. Individuals with Mowat-Wilson syndrome (MWS; OMIM#235730) have characteristic facial features, a variety of congenital anomalies such as Hirschsprung disease, and intellectual disabilities caused by mutation or deletion of ZEB2 gene. Mowat-Wilson syndrome is a genetic disease caused by heterozygous mutations or deletions of the zinc finger E-box-binding homeobox 2 (ZEB2) gene. Mowat-Wilson syndrome is a genetic disease characterized by typical facial features, Hirschsprung disease and multiple congenital abnormalities. Mowat-Wilson syndrome (MWS) is a severe intellectual disability (ID)-distinctive facial gestalt-multiple congenital anomaly syndrome, commonly associating microcephaly, epilepsy, corpus callosum agenesis, conotruncal heart defects, urogenital malformations and Hirschsprung disease (HSCR). "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "55016397e9bde69634000006",
+      "ideal_answer": "Here we show that sarcolipin (Sln), a newly identified regulator of the sarco/endoplasmic reticulum Ca(2+)-ATPase (Serca) pump, is necessary for muscle-based thermogenesis. Sarco(endo)plasmic reticulum Ca(2+)ATPase (SERCA) pump activity is modulated by phospholamban (PLB) and sarcolipin (SLN) in cardiac and skeletal muscle. Sarcolipin (SLN) is an integral membrane protein that is expressed in both skeletal and cardiac muscle, where it inhibits SERCA (calcium ATPase) by lowering its apparent Ca2+ affinity in a manner similar to that of its homologue phospholamban (PLN). Sarcolipin (SLN), a regulator of the sarco(endo)plasmic reticulum Ca(2+)-ATPase of fast-twitch skeletal muscle (SERCA1a), is also expressed in cardiac and slow-twitch skeletal muscles where phospholamban (PLN) and SERCA2a are expressed. Sarcolipin (SLN) is an inhibitor of sarco(endo)plasmic reticulum Ca(2+)-ATPases (SERCAs) in vitro, but its function in vivo has not been defined. The role of sarcolipin (SLN) in cardiac physiology was critically evaluated by generating a transgenic (TG) mouse model in which the SLN to sarco(endoplasmic)reticulum (SR) Ca(2+) ATPase (SERCA) ratio was increased in the ventricle. Sarcolipin, a homologue of phospholamban, regulates Ca2+ uptake through the interaction with sarcoplasmic reticulum Ca2+ ATPase (SERCA) and is predominantly expressed in the atrial muscle. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "5501b3b3e9bde69634000007",
+      "ideal_answer": "Expression of PLB is reportedly limited to cardiac, slow-twitch skeletal and smooth muscle in which PLB is an important regulator of [Ca2+]i and contractility in these muscles. In membranes, PLN forms pentamers that have been proposed to function either as a storage for active monomers or as ion channels. The sarco(endo)plasmic reticulum Ca(2+) ATPase (SERCA) 2a is responsible for Ca(2+) up-take by this organelle and is inhibited in a reversible manner by phospholamban, another SR membrane protein. Phospholamban has been suggested to be a key regulator of cardiac sarcoplasmic reticulum (SR) Ca cycling and contractility and a potential therapeutic target in restoring the depressed Ca cycling in failing hearts. Phospholamban (PLN) is a type II membrane protein that inhibits the sarcoplasmic reticulum Ca(2+)-ATPase (SERCA), thereby regulating calcium homeostasis in cardiac muscle. The membrane protein complex between the sarcoplasmic reticulum Ca(2+)-ATPase (SERCA) and phospholamban (PLN) controls Ca(2+) transport in cardiomyocytes, thereby modulating cardiac contractility. Calcium transport across the membrane of the sarcoplasmic reticulum (SR) plays an important role in the regulation of heart muscle contraction and relaxation. These results show that alteration of the PLB:SERCA ratio can significantly modulate smooth muscle [Ca2+]i. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "5502abd1e9bde69634000008",
+      "ideal_answer": "Sustained and excessive activation of CaMKII during cardiac disease has, however, been linked to arrhythmias, and maladaptive cardiac remodeling, eventually leading to heart failure (HF) and sudden cardiac death. Because CaMKII expression and activity are increased in cardiac hypertrophy, heart failure, and during arrhythmias both in animal models as well as in the human heart a clinical significance of CaMKII is implied. In the recent years, Ca(2+)/calmodulin-dependent protein kinase II (CaMKII) was suggested to be associated with cardiac hypertrophy and heart failure but also with arrhythmias both in animal models as well as in the human heart. Recent findings that CaMKII expression in the heart changes during hypertrophy, heart failure, myocardial ischemia, and infarction suggest that CaMKII may be a viable therapeutic target for patients suffering from common forms of heart disease. Multiple groups have now confirmed the following: (1) that CaMKII activity is increased in hypertrophied and failing myocardium from animal models and patients; (2) CaMKII overexpression causes myocardial hypertrophy and HF and (3) CaMKII inhibition (by drugs, inhibitory peptides and gene deletion) improves myocardial hypertrophy and HF. "
+    },
+    {
+      "id": "5502fe13e9bde69634000009",
+      "ideal_answer": "Electronic dietary records were better than food diaries in terms of fat percentage reduction in our trials, indicating that teledietetics increases healthy-eating awareness. Nutrition monitoring is a relevant method to gain an overview of factors influencing health. The analyzed apps reflected a variety of approaches to recording food intake and nutrition using different terminals--mostly mobile phones (35%), followed by PCs (29%) and PDAs (23%) for older studies, designed mainly for users with obesity (45%), diabetes mellitus (42%) and overweight (32%), or people who want to stay healthy (10%). electronic food diary on a mobile phone that includes an energy balance visualization and computes and displays the difference between energy intake from food entries and energy expenditure from a multiple-sensor device that provides objective estimates of energy expenditure in real time. However, keeping a food diary often constitutes a challenge for a patient, and developing a user-friendly and useful electronic food diary is not straightforward. The tested web applications offered similar functionalities for recording food intake. Users of mobile phone applications were not limited to data recording, but could view their data on the screen and send it via email. "
+    },
+    {
+      "id": "550300fce9bde6963400000a",
+      "ideal_answer": "Gluten intolerance is a unique model of autoimmune disease in which we can recognize the main environmental factor (gluten) and the more complex genetic background. Emerging research into a syndrome known as nonceliac gluten sensitivity suggests a heterogeneous condition with some features of celiac disease but often categorized as FGIDs, including IBS. Coeliac disease is a multifactorial disease characterized by a dysregulated immune response to ingested wheat gluten and related cereal proteins. Triggered by the ingestion of gluten in genetically predisposed individuals,. Coeliac disease is a lifelong intolerance to the gluten found in wheat, barley and rye, and some patients are also sensitive to oats. With an incidence of about 1% of the general population, it is considered the most common food intolerance disorder. Celiac disease, with a prevalence around 1% of the general population, is the most common genetically-induced food intolerance in the world. At present, there is no specific bio-marker of gluten sensitivity. The disease is genetically determined, with 10% of the first-degree relatives affected and 75% of monozygotic twins being concordant. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Patients"
+        ],
+        [
+          "Diaries"
+        ],
+        [
+          "Authorization Mode - Electronic"
+        ],
+        [
+          "Metric"
+        ],
+        [
+          "Base - General Qualifier"
+        ],
+        [
+          "Project"
+        ],
+        [
+          "Electronic monitor"
+        ],
+        [
+          "Home environment"
+        ],
+        [
+          "Ketoprofen"
+        ],
+        [
+          "Ibuprofen"
+        ],
+        [
+          "Pharmaceutical Preparations"
+        ],
+        [
+          "Study"
+        ],
+        [
+          "Complement System Proteins"
+        ],
+        [
+          "objective (goal)"
+        ],
+        [
+          "Therapeutic procedure"
+        ],
+        [
+          "Paper Authorization"
+        ],
+        [
+          "Gastrointestinal Diseases"
+        ],
+        [
+          "Diagnosis Study"
+        ],
+        [
+          "Assessed"
+        ],
+        [
+          "Flushing Adverse Event"
+        ],
+        [
+          "Heartburn acidity"
+        ],
+        [
+          "Requirement"
+        ],
+        [
+          "Weekly"
+        ],
+        [
+          "Parallel Study"
+        ],
+        [
+          "Heartburn"
+        ],
+        [
+          "Practice Experience"
+        ],
+        [
+          "Interferes with"
+        ],
+        [
+          "History of allergies"
+        ],
+        [
+          "Placebo Control"
+        ],
+        [
+          "Study Subject"
+        ],
+        [
+          "Self-Management"
+        ],
+        [
+          "Frequent"
+        ],
+        [
+          "Daily"
+        ],
+        [
+          "food product"
+        ],
+        [
+          "Methods aspects"
+        ],
+        [
+          "respiratory"
+        ],
+        [
+          "Supportive assistance"
+        ],
+        [
+          "placebo"
+        ],
+        [
+          "Instrument - device"
+        ],
+        [
+          "Questionnaire Domain"
+        ],
+        [
+          "Instructions"
+        ],
+        [
+          "Singular"
+        ],
+        [
+          "Diet"
+        ],
+        [
+          "Community Health Nurse Specialist"
+        ],
+        [
+          "Pathway (interactions)"
+        ],
+        [
+          "Vitamin B3 Assay"
+        ],
+        [
+          "Perception"
+        ],
+        [
+          "Over (spatial)"
+        ],
+        [
+          "Levels (qualifier value)"
+        ],
+        [
+          "Measured"
+        ],
+        [
+          "Clinical"
+        ],
+        [
+          "DIABETIC"
+        ],
+        [
+          "Challenge"
+        ],
+        [
+          "Having administered"
+        ],
+        [
+          "Mini"
+        ],
+        [
+          "Comparison"
+        ],
+        [
+          "Illness (finding)"
+        ],
+        [
+          "Food"
+        ],
+        [
+          "Give - dosing instruction imperative"
+        ],
+        [
+          "Panel Study"
+        ],
+        [
+          "Self Medication"
+        ],
+        [
+          "Double-Blind Method"
+        ],
+        [
+          "Bar Codes"
+        ],
+        [
+          "Wealthy"
+        ],
+        [
+          "Mentors"
+        ],
+        [
+          "Characteristics"
+        ],
+        [
+          "Radionuclide Imaging"
+        ],
+        [
+          "Receive"
+        ],
+        [
+          "Assisted (qualifier value)"
+        ],
+        [
+          "Combined"
+        ],
+        [
+          "Home environment assessment"
+        ],
+        [
+          "Longitudinal Studies"
+        ],
+        [
+          "Analyzer, device"
+        ],
+        [
+          "Suite - ActCode"
+        ],
+        [
+          "Physiological"
+        ],
+        [
+          "Providing (action)"
+        ],
+        [
+          "Self Efficacy"
+        ],
+        [
+          "Allergy management"
+        ],
+        [
+          "PARKINSON DISEASE (allelic variant)"
+        ],
+        [
+          "Time periods"
+        ],
+        [
+          "Biologic Development"
+        ],
+        [
+          "Behavior"
+        ],
+        [
+          "Adoption"
+        ],
+        [
+          "Evaluation"
+        ],
+        [
+          "Episode of"
+        ],
+        [
+          "Documentation"
+        ],
+        [
+          "Patient Monitoring"
+        ],
+        [
+          "Psychometrics"
+        ],
+        [
+          "Chronic Obstructive Airway Disease"
+        ],
+        [
+          "Hand"
+        ],
+        [
+          "sensor (device)"
+        ],
+        [
+          "F8 gene"
+        ],
+        [
+          "Approach"
+        ],
+        [
+          "Symptoms"
+        ],
+        [
+          "Performed"
+        ],
+        [
+          "Headache"
+        ],
+        [
+          "game"
+        ],
+        [
+          "Choose (action)"
+        ],
+        [
+          "Scientific Equipment"
+        ],
+        [
+          "IMPACT gene"
+        ]
+      ],
+      "id": "550303a5e9bde6963400000c",
+      "ideal_answer": "This project supported community-based patients suffering from chronic obstructive pulmonary disease (COPD) to achieve increased levels of self-management and self-efficacy using electronic-monitoring techniques and mentoring by community health nurses. Combined with an electronic patient diary, a suite of mini-games, a metric analyzer, and a visualization engine, we propose that this system can complement existing clinical practice by providing objective metrics gathered frequently over extended periods of time. Self-medication of a single headache episode with ketoprofen, ibuprofen or placebo, home-monitored with an electronic patient diary. Instead of measuring physiological parameters, a Smartphone based Personal Allergy Assistant (PAA) allows patients to keep an electronic patient diary by scanning the barcode of the consumed food products. This research paper examines the challenges in the development and adoption of an electronic patient diary within the Pathways Home for Respiratory Illness Project. WiiPD is an approach for the objective home based assessment of Parkinson\u0027s disease which utilizes the intuitive and sensor rich Nintendo Wii Remote. The Flushing ASsessment Tool (FAST) was developed to assess flushing symptoms and their impact on patients receiving niacin therapy. Subjects with self-perceived heartburn without known gastrointestinal disease or interfering treatments were selected with questionnaires. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "55030a6ce9bde6963400000f",
+      "ideal_answer": "Titin is the largest protein in mammals; it forms an elastic filament along the myofibril of cardiac and skeletal muscles. Titin is recently known as the largest protein which exists in the striated muscle sarcomere and is dynamic both in biomechanics properties and biochemical functions. Titin is the largest protein known, and is essential for organising muscle sarcomeres. Titin, the largest protein identified to date (over 1 micron long, almost 3 million daltons in mass) is the third most abundant component of the sarcomere. Titin, the largest protein known to date, has been linked to sarcomere assembly and function through its elastic adaptor and signaling domains. Titin is the largest protein known to date and acts as a mechanosensor that regulates muscle protein expression in a sarcomere strain-dependent fashion. The giant sarcomere protein titin/connectin is the largest protein known to date. Titin, the largest protein in the human body, is well known as a molecular spring in muscle cells and scaffold protein aiding myofibrillar assembly. It has many domains with a variety of functions, and stretches from the Z-line to the M-line in the muscle sarcomere. "
+    },
+    {
+      "id": "55031181e9bde69634000014",
+      "ideal_answer": "Hirschsprung disease (HSCR) is a multifactorial, non-mendelian disorder in which rare high-penetrance coding sequence mutations in the receptor tyrosine kinase RET contribute to risk in combination with mutations at other genes. The non-Mendelian inheritance of sporadic non-syndromic Hirschsprung\u0027s disease proved to be complex; involvement of multiple loci was demonstrated in a multiplicative model. Therefore, HSCR has become a model for a complex oligo-/polygenic disorder in which the relationship between different genes creating a non-mendelian inheritance pattern still remains to be elucidated. RET, GDNF, EDNRB, EDN3, and SOX10 lead to long-segment (L-HSCR) as well as syndromic HSCR but fail to explain the transmission of the much more common short-segment form (S-HSCR). Furthermore, mutations in the RET gene are responsible for approximately half of the familial and some sporadic cases, strongly suggesting, on the one hand, the importance of non-coding variations and, on the other hand, that additional genes involved in the development of the enteric nervous system still await their discovery. In this study, we review the identification of genes and loci involved in the non-syndromic common form and syndromic Mendelian forms of Hirschsprung\u0027s disease. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "550311dae9bde69634000018",
+      "ideal_answer": "Down syndrome (DS) is recognized by characteristic facial features, intellectual disability, and an increased risk for cardiac malformations and duodenal atresia. An increased sex ratio (3.9 male:female) and an elevated risk to sibs (4%), as compared with the population incidence (0.02%), are observed, with the sex ratio decreasing and the recurrence risk to sibs increasing as the aganglionosis becomes more extensive. Down syndrome was found at an increased frequency among affected individuals but not among their unaffected sibs, and the increase was not associated with maternal age. The patient condition improved after a colostomy performed in the setting of the treatment of Hirschprung disease. Three of the cases in this latter group were due to chromosome pathology (trisomy 21, Down syndrome). The authors report the case of a female infant with Down syndrome, aganglionic megacolon, severe diarrhea, and jejunal biopsy with ultrastructural changes consistent with microvillous atrophy. Hirschsprung disease, or congenital aganglionic megacolon, is commonly assumed to be a sex-modified multifactorial trait. To test this hypothesis, complex segregation analysis was performed on data on 487 probands and their families. Recently, Hirschsprung disease (HSCR), or congenital aganglionic megacolon, has been seen more often among patients with DS. "
+    },
+    {
+      "exact_answer": "yes",
+      "id": "5503121de9bde69634000019",
+      "ideal_answer": "The RET proto-oncogene is the major gene associated to HSCR with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology. The RET proto-oncogene is the major gene for HSCR with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology. RET is the major gene associated to Hirschsprung disease (HSCR) with differential contributions of its rare and common, coding and noncoding mutations to the multifactorial nature of this pathology. The tyrosine kinase receptor RET is the major gene with both rare coding sequence mutations and/or a frequent variant located in an enhancer element predisposing to the disease. While all Mendelian modes of inheritance have been described in syndromic HSCR, isolated HSCR stands as a model for genetic disorders with complex patterns of inheritance. The rearranged during transfection gene (RET) is considered the major gene in HSCR. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Dyskeratosis Congenita"
+        ],
+        [
+          "Fanconi Anemia"
+        ],
+        [
+          "Inherited Bone Marrow Failure Syndrome"
+        ],
+        [
+          "Manifestation of"
+        ],
+        [
+          "Genetic disorders screening"
+        ],
+        [
+          "Orbital region"
+        ],
+        [
+          "Adequate"
+        ],
+        [
+          "Sharing (Social Behavior)"
+        ],
+        [
+          "RPS19 gene"
+        ],
+        [
+          "Blood Cell Count"
+        ],
+        [
+          "Frequent"
+        ],
+        [
+          "Adverse Event Associated with Syndromes"
+        ],
+        [
+          "Heterogeneity"
+        ],
+        [
+          "Group A"
+        ],
+        [
+          "Shwachman syndrome"
+        ],
+        [
+          "Bone Marrow"
+        ],
+        [
+          "Orbital"
+        ]
+      ],
+      "id": "55031270e9bde6963400001a",
+      "ideal_answer": "The 4 most frequent syndromes are Fanconi anemia (FA), dyskeratosis congenita (DC), Diamond-Blackfan anemia (DBA), and Shwachman-Diamond syndrome (SDS). Ocular and orbital manifestations of the inherited bone marrow failure syndromes: Fanconi anemia and dyskeratosis congenita. The inherited bone marrow failure syndromes (IBMFS) are a heterogeneous group of genetic disorders that share the inability of the bone marrow to produce an adequate number of blood cells. "
+    },
+    {
+      "exact_answer": [
+        [
+          "Patients"
+        ],
+        [
+          "Congenital Abnormality"
+        ],
+        [
+          "Out (direction)"
+        ],
+        [
+          "Infancy"
+        ],
+        [
+          "Erythrocyte Mean Corpuscular Volume Measurement"
+        ],
+        [
+          "Aase Smith syndrome 2"
+        ],
+        [
+          "Reticulocytopenia"
+        ],
+        [
+          "Short stature"
+        ],
+        [
+          "Red cell aplasia"
+        ],
+        [
+          "Characterization"
+        ],
+        [
+          "Erythroid hypoplasia"
+        ],
+        [
+          "Predisposition"
+        ],
+        [
+          "Diagnosis"
+        ],
+        [
+          "Child"
+        ],
+        [
+          "Anemia, Macrocytic"
+        ],
+        [
+          "Primary malignant neoplasm"
+        ],
+        [
+          "Rare"
+        ],
+        [
+          "Anemia"
+        ],
+        [
+          "Physical assessment findings"
+        ],
+        [
+          "Case unit dose"
+        ],
+        [
+          "Indicated"
+        ],
+        [
+          "RPS19 gene"
+        ],
+        [
+          "Hereditary"
+        ],
+        [
+          "Bone Marrow Examination"
+        ],
+        [
+          "Arabic numeral 31"
+        ],
+        [
+          "Experimental Result"
+        ],
+        [
+          "Early"
+        ],
+        [
+          "Serotype eleven"
+        ],
+        [
+          "Case (situation)"
+        ],
+        [
+          "Marked"
+        ]
+      ],
+      "id": "55031286e9bde6963400001b",
+      "ideal_answer": "Diamond-Blackfan anemia (DBA) is a rare congenital erythroid hypoplastic anemia that usually presents early in infancy and is inherited in up to 45% of cases. Bone marrow examination showed a marked erythroid hypoplasia in all patients. All patients had anemia with reticulocytopenia. The results indicated that out of 45 children diagnosed as DBA, 14 cases (31.1%) had short stature and physical malformation. Thirty-four patients (75.6%) had mean corpuscular volume. Eleven patients (24.4%) had macrocytic anemia. It is characterized by red cell aplasia, congenital anomalies, and a predisposition to cancer. "
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "Where in the cell does the proteins S100A4 and p53 interact ?", 
+      "type": "factoid", 
+      "id": "54e8c7220fc566b149000002"
+    }, 
+    {
+      "body": "Which are the main clinical features of Fanconi anemia?", 
+      "type": "list", 
+      "id": "54ecb640445c3b5a5f000001"
+    }, 
+    {
+      "body": "Is hypersensitivity to DNA crosslinking agents a hallmark of Fanconi anemia?", 
+      "type": "yesno", 
+      "id": "54ecb66d445c3b5a5f000002"
+    }, 
+    {
+      "body": "List the three most prevalent pathogenic species of Borrelia in Europe.", 
+      "type": "list", 
+      "id": "54edaee3445c3b5a5f000003"
+    }, 
+    {
+      "body": "Where can we find the protein dermcidin?", 
+      "type": "summary", 
+      "id": "54edd9c994afd61504000001"
+    }, 
+    {
+      "body": "What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?", 
+      "type": "factoid", 
+      "id": "54ede28094afd61504000003"
+    }, 
+    {
+      "body": "Which is the genetic cause for the development of Fanconi anemia complementation group D1?", 
+      "type": "summary", 
+      "id": "54ede34694afd61504000004"
+    }, 
+    {
+      "body": "What constitutes an increased risk for individuals with Fanconi anemia?", 
+      "type": "summary", 
+      "id": "54ede5a494afd61504000005"
+    }, 
+    {
+      "body": "Is Fanconi anemia presented as a genetically and clinically heterogeneous disease entity?", 
+      "type": "yesno", 
+      "id": "54ede5c394afd61504000006"
+    }, 
+    {
+      "body": "Is there an increased risk for cancer in Dyskeratosis Congenita?", 
+      "type": "yesno", 
+      "id": "54ede5df94afd61504000007"
+    }, 
+    {
+      "body": "What is the risk of developing acute myelogenous leukemia in Fanconi anemia?", 
+      "type": "factoid", 
+      "id": "54ede76294afd61504000008"
+    }, 
+    {
+      "body": "In which phase of the cell cycle arrest is impaired in Fanconi anemia?", 
+      "type": "factoid", 
+      "id": "54ede8c594afd61504000009"
+    }, 
+    {
+      "body": "What is the mode of inheritance in Fanconi anemia?", 
+      "type": "factoid", 
+      "id": "54ede95c94afd6150400000a"
+    }, 
+    {
+      "body": "What are the observations regarding telomere integrity and function in Fanconi anemia?", 
+      "type": "summary", 
+      "id": "54edeb4394afd6150400000b"
+    }, 
+    {
+      "body": "What is considered a reliable technique for the definitive cytogenetic diagnosis of Fanconi anemia homozygosity?", 
+      "type": "summary", 
+      "id": "54eded8c94afd6150400000c"
+    }, 
+    {
+      "body": "Can the iPS cell technology be used in Fanconi anemia therapy?", 
+      "type": "yesno", 
+      "id": "54edef0594afd6150400000d"
+    }, 
+    {
+      "body": "Is there a mouse model for Fanconi anemia?", 
+      "type": "yesno", 
+      "id": "54edf05494afd6150400000e"
+    }, 
+    {
+      "body": "What are the molecular characteristics of the FAA (FANCA) cDNA?", 
+      "type": "summary", 
+      "id": "54edf1ee94afd6150400000f"
+    }, 
+    {
+      "body": "What is the genomic structure of the FAA (FANCA) gene?", 
+      "type": "summary", 
+      "id": "54edf27e94afd61504000010"
+    }, 
+    {
+      "body": "What is the presumed key event in Fanconi anemia pathogenesis?", 
+      "type": "factoid", 
+      "id": "54edf72c94afd61504000013"
+    }, 
+    {
+      "body": "Which SWI/SNF protein complex subunit has been demonstrated to interact with the FANCA gene product?", 
+      "type": "factoid", 
+      "id": "54edf81f94afd61504000014"
+    }, 
+    {
+      "body": "Does surgery for ovarian endometriomas improve fertility?", 
+      "type": "yesno", 
+      "id": "54f088ee94afd61504000015"
+    }, 
+    {
+      "body": "Is irritable bowel syndrome more common in women with endometriosis?", 
+      "type": "yesno", 
+      "id": "54f08d4a94afd61504000016"
+    }, 
+    {
+      "body": "What is known about the Digit Ratio (2D:4D) cancer?", 
+      "type": "summary", 
+      "id": "54f08fa494afd61504000017"
+    }, 
+    {
+      "body": "List drugs included in the DHAP-R chemotherapy regiment.", 
+      "type": "list", 
+      "id": "54f0920f94afd61504000018"
+    }, 
+    {
+      "body": "What is known about efficacy of the high dose intravenous ascorbate in the treatment of cancer patients?", 
+      "type": "summary", 
+      "id": "54f0985994afd6150400001a"
+    }, 
+    {
+      "body": "What is known about the value of mindfulness interventions in prostate cancer patients?", 
+      "type": "summary", 
+      "id": "54f09a5894afd6150400001c"
+    }, 
+    {
+      "body": "DX-88 is investigational name of which drug?", 
+      "type": "factoid", 
+      "id": "54f1e031c409818c32000001"
+    }, 
+    {
+      "body": "What is the mechanism of action of eprotirome?", 
+      "type": "summary", 
+      "id": "54f1e4d0c409818c32000002"
+    }, 
+    {
+      "body": "Is armodafinil used for treatment of insomnia?", 
+      "type": "yesno", 
+      "id": "54f1e781c409818c32000003"
+    }, 
+    {
+      "body": "What is known about thalidomide therapy and survival of glioblastoma patients?", 
+      "type": "summary", 
+      "id": "54f1e887c409818c32000004"
+    }, 
+    {
+      "body": "Which disorders are associated to mutated Hepcidin (HAMP)?", 
+      "type": "list", 
+      "id": "54f21b69c409818c32000007"
+    }, 
+    {
+      "body": "How many disulfide bridges has the protein hepcidin got?", 
+      "type": "factoid", 
+      "id": "54f2210164850a5854000001"
+    }, 
+    {
+      "body": "Which is the mass-tag that reveal the ubiquitination of a lysine residue?", 
+      "type": "factoid", 
+      "id": "54f2228e64850a5854000002"
+    }, 
+    {
+      "body": "What is the suggested clinical management of Fanconi anemia?", 
+      "type": "summary", 
+      "id": "54f2f81664850a5854000003"
+    }, 
+    {
+      "body": "LY450139 is investigational name of which drug?", 
+      "type": "factoid", 
+      "id": "54f35ad864850a5854000004"
+    }, 
+    {
+      "body": "Are the Fanconi anemia genes a part of the same signalling pathway?", 
+      "type": "yesno", 
+      "id": "54f42f2764850a5854000005"
+    }, 
+    {
+      "body": "Which are the genes responsible for Dyskeratosis Congenita?", 
+      "type": "list", 
+      "id": "54f431d664850a5854000006"
+    }, 
+    {
+      "body": "Is micro RNA 1 (miR-1) implicated in cardiac arrhythmias?", 
+      "type": "yesno", 
+      "id": "54f4627e64850a5854000007"
+    }, 
+    {
+      "body": "Does MicroRNA-21 (miR-21) contribute to cardiovascular disease?", 
+      "type": "yesno", 
+      "id": "54f4703764850a5854000008"
+    }, 
+    {
+      "body": "Is the Histidine-Rich Calcium Binding protein (HRC) related to arrhythmias and cardiac disease?", 
+      "type": "yesno", 
+      "id": "54f482d264850a5854000009"
+    }, 
+    {
+      "body": "What is known about type D personality trait in cancer patients?", 
+      "type": "summary", 
+      "id": "54f48cb74e9bf3263f000001"
+    }, 
+    {
+      "body": "What is the association between Generalized anxiety disorder and mortality risk?", 
+      "type": "summary", 
+      "id": "54f4914bd0d681a040000001"
+    }, 
+    {
+      "body": "What is evaluated using the EORTC QLQ \u2013 INFO25 questionnaire?", 
+      "type": "summary", 
+      "id": "54f49995d0d681a040000002"
+    }, 
+    {
+      "body": "Is there an association between presenteeism and depression?", 
+      "type": "yesno", 
+      "id": "54f49e56d0d681a040000004"
+    }, 
+    {
+      "body": "Is zyxin a focal adhesion protein?", 
+      "type": "yesno", 
+      "id": "54f4b319d0d681a040000005"
+    }, 
+    {
+      "body": "Is the protein FAK (Focal Adhesion Kinase) phosphorylated?", 
+      "type": "yesno", 
+      "id": "54f4c382d0d681a040000006"
+    }, 
+    {
+      "body": "What is a Caveolae?", 
+      "type": "summary", 
+      "id": "54f57892d0d681a040000009"
+    }, 
+    {
+      "body": "What is the function of caspases?", 
+      "type": "factoid", 
+      "id": "54f5bc7d5f206a0c06000001"
+    }, 
+    {
+      "body": "Has the protein SETMAR (Metnase) a transposase domain?", 
+      "type": "yesno", 
+      "id": "54f5f8925f206a0c06000003"
+    }, 
+    {
+      "body": "What is the Drosophila melanogaster Groucho protein?", 
+      "type": "factoid", 
+      "id": "54f608f85f206a0c06000007"
+    }, 
+    {
+      "body": "What is the substrate of the microbial enzyme inulinase?", 
+      "type": "factoid", 
+      "id": "54f60ae05f206a0c06000008"
+    }, 
+    {
+      "body": "Is there any genetic determinant of hair pigmentation that could be useful in forensic analyses?", 
+      "type": "factoid", 
+      "id": "54f60ea05f206a0c06000009"
+    }, 
+    {
+      "body": "What is the Orco protein in mosquitos?", 
+      "type": "summary", 
+      "id": "54f616cd5f206a0c0600000c"
+    }, 
+    {
+      "body": "Is muscle lim protein (MLP) involved in cardiomyopathies?", 
+      "type": "yesno", 
+      "id": "54f704b630767eb92e000001"
+    }, 
+    {
+      "body": "Are epigenetic modifications implicated in cardiovascular development and disease?", 
+      "type": "yesno", 
+      "id": "54f7291630767eb92e000002"
+    }, 
+    {
+      "body": "Which kinase is inhibited by the small molecule KN-93?", 
+      "type": "factoid", 
+      "id": "54f89e1a06d9727f76000001"
+    }, 
+    {
+      "body": "Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease?", 
+      "type": "factoid", 
+      "id": "54f9ae2506d9727f76000002"
+    }, 
+    {
+      "body": "The drug JTV519 is derivative of which group of chemical compounds?", 
+      "type": "factoid", 
+      "id": "54f9b74306d9727f76000004"
+    }, 
+    {
+      "body": "Which calcium/calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors (Nuclear Factors of Activated T cells)?", 
+      "type": "factoid", 
+      "id": "54f9c40ddd3fc62544000001"
+    }, 
+    {
+      "body": "Which protein has been found to interact with phospholamban (PLN) and is also an anti-apoptotic protein?", 
+      "type": "factoid", 
+      "id": "54f9cb34dd3fc62544000002"
+    }, 
+    {
+      "body": "Which proteins participate in the formation of the ryanodine receptor quaternary macromolecular complex?", 
+      "type": "list", 
+      "id": "54f9d3eedd3fc62544000004"
+    }, 
+    {
+      "body": "Which transcription factors (TFs) participate in the formation of the interferon-beta (IFN-b) enhanceosome?", 
+      "type": "list", 
+      "id": "54fb4b34d176fff445000001"
+    }, 
+    {
+      "body": "Which transcription factors are known as the four (4) \"Yamanaka factors\" that have been used to create induced pluripotent stem cells  (iPSCs)?", 
+      "type": "list", 
+      "id": "54fb5720d176fff445000002"
+    }, 
+    {
+      "body": "Which are the 3 basic transcription factors that have been used for the direct reprogramming of fibroblasts into cardiomyocytes or cardiomyocyte like-cells?", 
+      "type": "list", 
+      "id": "54fb5c69d176fff445000003"
+    }, 
+    {
+      "body": "Which proteins participate in the formation of the Notch transcriptional activation complex?", 
+      "type": "list", 
+      "id": "54fb6fb5d176fff445000004"
+    }, 
+    {
+      "body": "Which biological process in known as Endoplasmic Reticulum-Associated Protein Degradation (ERAD)?", 
+      "type": "summary", 
+      "id": "54fc27a896abe38008000002"
+    }, 
+    {
+      "body": "Which phenomenon is known as the \"calcium paradox\" in the isolated perfused heart?", 
+      "type": "summary", 
+      "id": "54fc3cf410565e080c000001"
+    }, 
+    {
+      "body": "How are induced pluripotent stem cells used in the study and treatment of cardiovascular diseases?", 
+      "type": "summary", 
+      "id": "54fc48bb6ea36a810c000002"
+    }, 
+    {
+      "body": "What is Piebaldism?", 
+      "type": "factoid", 
+      "id": "54fc4e2e6ea36a810c000003"
+    }, 
+    {
+      "body": "What is the main biological function of the CRISPR-CAS9 genome editing system?", 
+      "type": "summary", 
+      "id": "54fc58df6ea36a810c000004"
+    }, 
+    {
+      "body": "Was modafinil tested for schizophrenia treatment?", 
+      "type": "yesno", 
+      "id": "54fc845e6ea36a810c000005"
+    }, 
+    {
+      "body": "PBT2 has been tested for which disorder?", 
+      "type": "factoid", 
+      "id": "54fc91e96ad7dcbc12000001"
+    }, 
+    {
+      "body": "What is known about clinical efficacy of ceftriaxone for treatment of amyotrophic lateral sclerosis?", 
+      "type": "summary", 
+      "id": "54fc97b86ad7dcbc12000002"
+    }, 
+    {
+      "body": "Describe the mechanism of action of drisapersen", 
+      "type": "summary", 
+      "id": "54fc98f16ad7dcbc12000003"
+    }, 
+    {
+      "body": "Neurostimulation of which nucleus is used for treatment of dystonia?", 
+      "type": "factoid", 
+      "id": "54fc99f36ad7dcbc12000004"
+    }, 
+    {
+      "body": "List adenosine A2A receptor antagonists that are used for Parkinson's disease treatment.", 
+      "type": "list", 
+      "id": "54fc9b236ad7dcbc12000005"
+    }, 
+    {
+      "body": "Which receptors are targeted by suvorexant?", 
+      "type": "list", 
+      "id": "54fc9ca16ad7dcbc12000006"
+    }, 
+    {
+      "body": "How does phospholamban affect the biological activity of the calcium ATPase SERCA?", 
+      "type": "summary", 
+      "id": "54fd5dd86ad7dcbc12000008"
+    }, 
+    {
+      "body": "List fish anti-freeze proteins.", 
+      "type": "list", 
+      "id": "54fe09036ad7dcbc12000009"
+    }, 
+    {
+      "body": "Are there any Decision support systems for chronic pain management ?", 
+      "type": "yesno", 
+      "id": "54fefbbc6ad7dcbc1200000a"
+    }, 
+    {
+      "body": "Are there web based self management strategies for chronic pain ?", 
+      "type": "yesno", 
+      "id": "54fefff26ad7dcbc1200000b"
+    }, 
+    {
+      "body": "Are there telemedicine applications for chronic pain management?", 
+      "type": "yesno", 
+      "id": "54ff106b6ad7dcbc1200000c"
+    }, 
+    {
+      "body": "List human diseases involving genomic imprinting.", 
+      "type": "list", 
+      "id": "54ff30dc6ad7dcbc1200000f"
+    }, 
+    {
+      "body": "Which protein is causing Netherton syndrome?", 
+      "type": "factoid", 
+      "id": "54ff45966ad7dcbc12000010"
+    }, 
+    {
+      "body": "How long, in kb (kilobases),  is a \"Long interspersed nuclear element\"?", 
+      "type": "factoid", 
+      "id": "54ff5197e9bde69634000001"
+    }, 
+    {
+      "body": "Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract?", 
+      "type": "factoid", 
+      "id": "55000cc4e9bde69634000004"
+    }, 
+    {
+      "body": "Is Hirschsprung disease one of the characteristics of the Mowat-Wilson syndrome?", 
+      "type": "yesno", 
+      "id": "55001420e9bde69634000005"
+    }, 
+    {
+      "body": "Is Sarcolipin a regulatory/inhibitory protein of the Calcium ATPase SERCA?", 
+      "type": "yesno", 
+      "id": "55016397e9bde69634000006"
+    }, 
+    {
+      "body": "Is phospholamban a regulatory/inhibitory protein of the Ca ATPase SERCA?", 
+      "type": "yesno", 
+      "id": "5501b3b3e9bde69634000007"
+    }, 
+    {
+      "body": "Is Calcium/Calmodulin dependent protein kinase II (CaMKII) involved in cardiac arrhythmias and heart failure?", 
+      "type": "yesno", 
+      "id": "5502abd1e9bde69634000008"
+    }, 
+    {
+      "body": "What is known about the effectiveness of electronic food diaries ?", 
+      "type": "summary", 
+      "id": "5502fe13e9bde69634000009"
+    }, 
+    {
+      "body": "What is known about food intolerance and gluten ?", 
+      "type": "summary", 
+      "id": "550300fce9bde6963400000a"
+    }, 
+    {
+      "body": "In which diseases have electronic patient diaries been applied ?", 
+      "type": "list", 
+      "id": "550303a5e9bde6963400000c"
+    }, 
+    {
+      "body": "Is Titin the largest single protein molecule found in Nature?", 
+      "type": "yesno", 
+      "id": "55030a6ce9bde6963400000f"
+    }, 
+    {
+      "body": "Is Hirschsprung disease a mendelian or a multifactorial disorder?", 
+      "type": "summary", 
+      "id": "55031181e9bde69634000014"
+    }, 
+    {
+      "body": "Is aganglionic megacolon a feature of Down syndrome?", 
+      "type": "yesno", 
+      "id": "550311dae9bde69634000018"
+    }, 
+    {
+      "body": "Is RET the major gene involved in Hirschsprung disease?", 
+      "type": "yesno", 
+      "id": "5503121de9bde69634000019"
+    }, 
+    {
+      "body": "Which are the most frequent syndromes associated with inherited bone marrow failure?", 
+      "type": "list", 
+      "id": "55031270e9bde6963400001a"
+    }, 
+    {
+      "body": "Which are the clinical characteristics of Diamond-Blackfan anemia?", 
+      "type": "list", 
+      "id": "55031286e9bde6963400001b"
+    }
+  ]
+}

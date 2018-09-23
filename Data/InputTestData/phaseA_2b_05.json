@@ -1,0 +1,504 @@
+{
+    "questions": [
+        {
+            "body": "Are there any urine biomarkers for bladder cancer diagnosis?", 
+            "type": "yesno", 
+            "id": "52cb9b9b03868f1b0600002d"
+        }, 
+        {
+            "body": "Are retroviruses used for gene therapy?", 
+            "type": "yesno", 
+            "id": "52ce531f03868f1b06000031"
+        }, 
+        {
+            "body": "List the existing methods for genetic manipulation of cells.", 
+            "type": "list", 
+            "id": "52d1389303868f1b06000032"
+        }, 
+        {
+            "body": "Which are the newly identified DNA nucleases that can be used to treat thalassemia?", 
+            "type": "list", 
+            "id": "52d2818403868f1b06000033"
+        }, 
+        {
+            "body": "Which genes have been found mutated in Gray platelet syndrome patients?", 
+            "type": "list", 
+            "id": "52d8494698d0239505000007"
+        }, 
+        {
+            "body": "Which is the definition of pyknons in DNA?", 
+            "type": "summary", 
+            "id": "52e204a998d0239505000012"
+        }, 
+        {
+            "body": "Which are the clinical characteristics of TSC?", 
+            "type": "list", 
+            "id": "52f77f042059c6d71c000029"
+        }, 
+        {
+            "body": "Which are the enzymes involved in the addition of 7-methylguanosine in mRNA?", 
+            "type": "list", 
+            "id": "52f77f4d2059c6d71c00002a"
+        }, 
+        {
+            "body": "Is stop codon bypass possible?", 
+            "type": "yesno", 
+            "id": "52f77f892059c6d71c00002c"
+        }, 
+        {
+            "body": "Which histone modifications are associated with constitutive heterochromatin?", 
+            "type": "list", 
+            "id": "52fe4ad52059c6d71c000077"
+        }, 
+        {
+            "body": "Which proteins act as histone-like molecules in prokaryotes?", 
+            "type": "list", 
+            "id": "52fe54252059c6d71c000079"
+        }, 
+        {
+            "body": "Do archaeal genomes contain one or multiple origins of replication?", 
+            "type": "factoid", 
+            "id": "52fe58f82059c6d71c00007a"
+        }, 
+        {
+            "body": "Which are the most under-represented oligonucleotides in higher eukaryote genomes?", 
+            "type": "factoid", 
+            "id": "52ffbddf2059c6d71c00007d"
+        }, 
+        {
+            "body": "Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) cause sudden cardiac death?", 
+            "type": "yesno", 
+            "id": "530cf4fe960c95ad0c000003"
+        }, 
+        {
+            "body": "Describe a diet that reduces the chance of kidney stones.", 
+            "type": "factoid", 
+            "id": "5311bcc2e3eabad021000005"
+        }, 
+        {
+            "body": "Which are the biotracers used for detection of Alzheimer's disease using PET?", 
+            "type": "list", 
+            "id": "5311bf53e3eabad021000006"
+        }, 
+        {
+            "body": "Is there any software for automated analysis of FISH images?", 
+            "type": "yesno", 
+            "id": "5311cdcce3eabad021000007"
+        }, 
+        {
+            "body": "Which proteins in the cerebro-spinal fluid can be used for early diagnosis of Alzheimer's disease?", 
+            "type": "list", 
+            "id": "5311d130e3eabad021000009"
+        }, 
+        {
+            "body": "Which hormone deficiency is implicated in the Costello syndrome ?", 
+            "type": "factoid", 
+            "id": "53130a77e3eabad02100000f"
+        }, 
+        {
+            "body": "Mutation of which gene is associated with McLeod syndrome?", 
+            "type": "factoid", 
+            "id": "531464a6e3eabad021000014"
+        }, 
+        {
+            "body": "Which substances are dangerous to g6PD deficient individuals?", 
+            "type": "list", 
+            "id": "5314b20bdae131f847000005"
+        }, 
+        {
+            "body": "Is mitofusin 2 a receptor for parkin?", 
+            "type": "yesno", 
+            "id": "5318352fb166e2b806000011"
+        }, 
+        {
+            "body": "Which glands are subject to attack by lymphocytes in Sjogren's syndrome?", 
+            "type": "factoid", 
+            "id": "53189b05b166e2b80600001e"
+        }, 
+        {
+            "body": "Is Rac1 involved in cancer cell invasion?", 
+            "type": "yesno", 
+            "id": "5319abc9b166e2b80600002d"
+        }, 
+        {
+            "body": "Which transcription factors are involved in E-cadherin repression during EMT?", 
+            "type": "list", 
+            "id": "5319abe4b166e2b80600002e"
+        }, 
+        {
+            "body": "Which growth factors are known to be involved in the induction of EMT?", 
+            "type": "list", 
+            "id": "5319abffb166e2b80600002f"
+        }, 
+        {
+            "body": "Is clathrin involved in E-cadherin endocytosis?", 
+            "type": "yesno", 
+            "id": "5319ac18b166e2b806000030"
+        }, 
+        {
+            "body": "Which G protein is essential in the formation and function of lamellipodia?", 
+            "type": "factoid", 
+            "id": "5319ac36b166e2b806000031"
+        }, 
+        {
+            "body": "What is the role of invadopodia in EMT?", 
+            "type": "summary", 
+            "id": "5319ac7fb166e2b806000033"
+        }, 
+        {
+            "body": "Which is the third subunit of the TSC1-TSC2 complex upstream of mTORC1?", 
+            "type": "factoid", 
+            "id": "5319ac99b166e2b806000034"
+        }, 
+        {
+            "body": "What is the localization of the protein encoded by the gene DNAJC11?", 
+            "type": "factoid", 
+            "id": "531e2695267d7dd05300000f"
+        }, 
+        {
+            "body": "Are there drugs for Tick-borne Encephalitis?", 
+            "type": "list", 
+            "id": "532083389b2d7acc7e000003"
+        }, 
+        {
+            "body": "Is there any functional association during viral replication between flaviviridae viral RNA depended RNA polymerase and viral helicase?", 
+            "type": "yesno", 
+            "id": "5321b8579b2d7acc7e000008"
+        }, 
+        {
+            "body": "Which types of cancer can be recognized and treated by the use of immunotherapy?", 
+            "type": "list", 
+            "id": "5321badd9b2d7acc7e00000a"
+        }, 
+        {
+            "body": "How effective is the dentritic cells treatment on cancer?", 
+            "type": "summary", 
+            "id": "5321bc029b2d7acc7e00000c"
+        }, 
+        {
+            "body": "Which are the enzymes involved in the control of tubulin acetylation?", 
+            "type": "list", 
+            "id": "5322d3cb9b2d7acc7e000010"
+        }, 
+        {
+            "body": "What is the definitive treatment for low pressure headache?", 
+            "type": "factoid", 
+            "id": "53262cdcd6d3ac6a34000003"
+        }, 
+        {
+            "body": "What does polyadenylate-binding protein 4 (PABP4) bind to?", 
+            "type": "factoid", 
+            "id": "5326a85ad6d3ac6a3400000b"
+        }, 
+        {
+            "body": "Which are the mains risk factors of metabolic syndrome?", 
+            "type": "list", 
+            "id": "5326c6fed6d3ac6a3400000c"
+        }, 
+        {
+            "body": "Is there a crystal structure of Greek Goat Encephalitis?", 
+            "type": "factoid", 
+            "id": "532819afd6d3ac6a3400000f"
+        }, 
+        {
+            "body": "Is there a crystal structure of the full-length of the flaviviridae NS5(Methyltransferase - RNA depended RNA Polymerase) ?", 
+            "type": "factoid", 
+            "id": "532aad53d6d3ac6a34000010"
+        }, 
+        {
+            "body": "What is the basic secondary structure of the variable domains of a typical antibody?", 
+            "type": "summary", 
+            "id": "532ad531d6d3ac6a34000013"
+        }, 
+        {
+            "body": "Which drugs have been found effective for the treatment of chordoma?", 
+            "type": "list", 
+            "id": "532b15ecd6d3ac6a34000014"
+        }, 
+        {
+            "body": "Is there any research that relates the function of Notch Signaling with Alzheimer Disease?", 
+            "type": "yesno", 
+            "id": "532bf6f2d6d3ac6a34000015"
+        }, 
+        {
+            "body": "Are there studies representing the involvement of Notch mutations in neurodegenerative diseases such as Down syndrome, Pick's and Prion's disease, and cadasil syndrome?", 
+            "type": "yesno", 
+            "id": "532bf822d6d3ac6a34000016"
+        }, 
+        {
+            "body": "Are there focused databases from which you can retrieve gene expression data on renal disease?", 
+            "type": "yesno", 
+            "id": "532c0946d6d3ac6a34000019"
+        }, 
+        {
+            "body": "what is the role of GATA-4 in regeneration of the heart after myocardial infarction?", 
+            "type": "summary", 
+            "id": "532f03e6d6d3ac6a34000022"
+        }, 
+        {
+            "body": "what is the role of MEF-2 in cardiomyocyte differentiation?", 
+            "type": "summary", 
+            "id": "532f043ed6d3ac6a34000023"
+        }, 
+        {
+            "body": "What is the effect of ivabradine in heart failure with preserved ejection fraction?", 
+            "type": "summary", 
+            "id": "532f0511d6d3ac6a34000024"
+        }, 
+        {
+            "body": "How does dabigatran therapy affect aPTT in patients with atrial fibrillation?", 
+            "type": "summary", 
+            "id": "532f06e6d6d3ac6a34000028"
+        }, 
+        {
+            "body": "Is shotgun lipidomics the direct infusion of a lipid sample into a mass spectrometer?", 
+            "type": "yesno", 
+            "id": "532f3e08d6d3ac6a34000034"
+        }, 
+        {
+            "body": "What is the triple screening test performed during pregnancy measuring?", 
+            "type": "list", 
+            "id": "532f49f8d6d3ac6a34000035"
+        }, 
+        {
+            "body": "List algorithms suitable for predicting protein complexes", 
+            "type": "list", 
+            "id": "5333f728d6d3ac6a34000041"
+        }, 
+        {
+            "body": "Is Turcot syndrome associated with glioblastoma?", 
+            "type": "yesno", 
+            "id": "533581f5d6d3ac6a3400004d"
+        }, 
+        {
+            "body": "List two common features of Tay syndrome.", 
+            "type": "list", 
+            "id": "53358cd2d6d3ac6a3400004e"
+        }, 
+        {
+            "body": "Is Vortioxetine effective for treatment of depression?", 
+            "type": "yesno", 
+            "id": "53359338d6d3ac6a3400004f"
+        }, 
+        {
+            "body": "Is ospemifene effective for treatment of dyspareunia?", 
+            "type": "yesno", 
+            "id": "5335b373d6d3ac6a34000050"
+        }, 
+        {
+            "body": "Inhibition of which transporter is the mechanism of action of drug Canagliflozin?", 
+            "type": "factoid", 
+            "id": "5335c7f2d6d3ac6a34000051"
+        }, 
+        {
+            "body": "Which receptors are targeted by a drug Macitentan?", 
+            "type": "list", 
+            "id": "5335d4e8d6d3ac6a34000053"
+        }, 
+        {
+            "body": "Can RNASeq be used for the analysis of nascent transcripts?", 
+            "type": "yesno", 
+            "id": "53372b66d6d3ac6a34000057"
+        }, 
+        {
+            "body": "Is there any evidence of dysregulated long non coding RNAs and Alzheimer's disease?", 
+            "type": "summary", 
+            "id": "533ada5efd9a95ea0d000001"
+        }, 
+        {
+            "body": "Which are the mammalian orthologs of Drosophila Yki?", 
+            "type": "list", 
+            "id": "533c2a55c45e133714000003"
+        }, 
+        {
+            "body": "Which pathological conditions are caused by mutations in the CYLD gene?", 
+            "type": "list", 
+            "id": "533c3af6c45e13371400000d"
+        }, 
+        {
+            "body": "Does the concentration of protein HIF-1\u03b1 increase after the administration of the cytoprotective prodrug\"amifostine\" (ethyol) ?", 
+            "type": "yesno", 
+            "id": "533eb89fc45e133714000012"
+        }, 
+        {
+            "body": "Why does the prodrug amifostine (ethyol) create hypoxia?", 
+            "type": "summary", 
+            "id": "533eba45c45e133714000014"
+        }, 
+        {
+            "body": "What is the definition of autophagy?", 
+            "type": "summary", 
+            "id": "5341d15dc45e133714000018"
+        }, 
+        {
+            "body": "Can we use prodrug amifostine to protect healthy cell during chemotherapy?", 
+            "type": "summary", 
+            "id": "534289851eccfd0633000001"
+        }, 
+        {
+            "body": "Which is the phosphorylated residue in the promoter paused form of RNA polymerase II?", 
+            "type": "factoid", 
+            "id": "5343bdd6aeec6fbd07000001"
+        }, 
+        {
+            "body": "Which is the human selenoprotein that contains several Se-Cys residues?", 
+            "type": "factoid", 
+            "id": "5343caffaeec6fbd07000002"
+        }, 
+        {
+            "body": "Which is the gene mutated in type 1 neurofibromatosis?", 
+            "type": "factoid", 
+            "id": "5343fc1aaeec6fbd07000003"
+        }, 
+        {
+            "body": "Is the long non- coding RNA malat-1 up or downregulated in cancer?", 
+            "type": "factoid", 
+            "id": "53440d2caeec6fbd07000004"
+        }, 
+        {
+            "body": "What is the inheritance pattern of Hunter disease or mucopolysaccharidosis II?", 
+            "type": "factoid", 
+            "id": "5344155faeec6fbd07000005"
+        }, 
+        {
+            "body": "Is there any relationship between histone ubiquitylation and splicing?", 
+            "type": "yesno", 
+            "id": "5344194daeec6fbd07000006"
+        }, 
+        {
+            "body": "Which is the substrate of the haspin kinase during mitosis?", 
+            "type": "factoid", 
+            "id": "53442023aeec6fbd07000007"
+        }, 
+        {
+            "body": "Do ephrins play a role in brain cancer?", 
+            "type": "summary", 
+            "id": "53442472aeec6fbd07000008"
+        }, 
+        {
+            "body": "Which is the  subcellular localization of ERAP2?", 
+            "type": "factoid", 
+            "id": "53442ca9aeec6fbd0700000b"
+        }, 
+        {
+            "body": "Can a peptide aptamer be used as protein inhibitor?", 
+            "type": "yesno", 
+            "id": "53443b13aeec6fbd0700000e"
+        }, 
+        {
+            "body": "Is the JNK pathway activated during liver regeneration?", 
+            "type": "yesno", 
+            "id": "53455e0caeec6fbd0700000f"
+        }, 
+        {
+            "body": "What are the characteristics of the \"Universal Proteomics Standard 2\" (UPS2)?", 
+            "type": "summary", 
+            "id": "53482bfcaeec6fbd07000010"
+        }, 
+        {
+            "body": "What does iBAQ stand for in proteomic analysis?", 
+            "type": "factoid", 
+            "id": "5348307daeec6fbd07000011"
+        }, 
+        {
+            "body": "Which genes were found to be methylated in bladder cancer cells?", 
+            "type": "list", 
+            "id": "534ab91eaeec6fbd07000012"
+        }, 
+        {
+            "body": "Which heat shock protein is found to be upregulated during Hsp90 inhibition?", 
+            "type": "factoid", 
+            "id": "534abe8aaeec6fbd07000013"
+        }, 
+        {
+            "body": "Which are the cardiac effects of thyronamines?", 
+            "type": "list", 
+            "id": "534bb147aeec6fbd07000014"
+        }, 
+        {
+            "body": "Have thyronamines effects on fat tissue?", 
+            "type": "yesno", 
+            "id": "534bf050aeec6fbd07000015"
+        }, 
+        {
+            "body": "List diseases where protein citrullination plays an important role.", 
+            "type": "list", 
+            "id": "534df8c9aeec6fbd07000016"
+        }, 
+        {
+            "body": "Approximately how many recombination hotspots have been found in the yeast genome?", 
+            "type": "factoid", 
+            "id": "534e364e288f4dae47000001"
+        }, 
+        {
+            "body": "In which process Src, Cortactin and MT1-MMP are playing an essential role?", 
+            "type": "factoid", 
+            "id": "534eb34b288f4dae47000002"
+        }, 
+        {
+            "body": "Which methyl-CpG-binding protein when mutant becomes the hallmark for Rett syndrome?", 
+            "type": "factoid", 
+            "id": "534ebb59288f4dae47000004"
+        }, 
+        {
+            "body": "Which is the transcript responsible for X-chromosome inactivation?", 
+            "type": "factoid", 
+            "id": "5353aedb288f4dae47000006"
+        }, 
+        {
+            "body": "Name five programs for transcript quantification from RNASeq experiments", 
+            "type": "list", 
+            "id": "5354f289288f4dae47000008"
+        }, 
+        {
+            "body": "Have mutations in the ZEB2 gene been found in any human syndrome?", 
+            "type": "yesno", 
+            "id": "53552ed7f1005d6b58000001"
+        }, 
+        {
+            "body": "Which proteins are involved in actin bundling and filopodia formation and function?", 
+            "type": "list", 
+            "id": "5358e067f1005d6b5800000b"
+        }, 
+        {
+            "body": "Which is the mechanism used by bacteria to induce tumors in Arabidopsis?", 
+            "type": "summary", 
+            "id": "535917f3c95abccd6f000001"
+        }, 
+        {
+            "body": "Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?", 
+            "type": "factoid", 
+            "id": "53592c1e9a4572de6f000002"
+        }, 
+        {
+            "body": "What is the number of protein coding genes in the human genome?", 
+            "type": "factoid", 
+            "id": "535d3c069a4572de6f000006"
+        }, 
+        {
+            "body": "What are the indications for treatment with anti-hepcidin?", 
+            "type": "list", 
+            "id": "535d59349a4572de6f000009"
+        }, 
+        {
+            "body": "List all articles on network meta-analysis for smoking cessation", 
+            "type": "list", 
+            "id": "535d5bac7d100faa09000001"
+        }, 
+        {
+            "body": "Show results of randomised controlled trials for certolizumab pegol.", 
+            "type": "summary", 
+            "id": "535d613f7d100faa09000002"
+        }, 
+        {
+            "body": "Is TENS machine effective in pain?", 
+            "type": "yesno", 
+            "id": "535d75ab7d100faa09000004"
+        }, 
+        {
+            "body": "What is known about the effect of acupuncture in smoking cessation ?", 
+            "type": "summary", 
+            "id": "535d78137d100faa09000005"
+        }
+    ]
+}

@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "What is the role of Inn1 in cytokinesis?", 
+      "type": "summary", 
+      "id": "530cf22aa177c6630c000001"
+    }, 
+    {
+      "body": "What is the main role of Ctf4 in dna replication?", 
+      "type": "factoid", 
+      "id": "530cf22aa177c6630c000004"
+    }, 
+    {
+      "body": "List the components of a Replisome Progression Complex (RPC).", 
+      "type": "list", 
+      "id": "530cf22aa177c6630c000005"
+    }, 
+    {
+      "body": "What is the effect of CRD-BP on the stability of c-myc mRNA?", 
+      "type": "factoid", 
+      "id": "55390901bc4f83e828000014"
+    }, 
+    {
+      "body": "Are there Conserved Noncoding Elements (CNEs) in plant genomes?", 
+      "type": "yesno", 
+      "id": "553a54babc4f83e828000019"
+    }, 
+    {
+      "body": "Is Ctf4 involved in sister chromatid cohesion establishment?", 
+      "type": "yesno", 
+      "id": "553a5a34bc4f83e82800001a"
+    }, 
+    {
+      "body": "Are there Conserved Noncoding Elements (CNEs) in invertebrate genomes?", 
+      "type": "yesno", 
+      "id": "553a6a9fbc4f83e82800001c"
+    }, 
+    {
+      "body": "Describe the isolation of transcription factor complexes by in vivo biotinylation tagging and direct binding to streptavidin beads, as applied for the case of the essential hematopoietic transcription factor GATA-1.", 
+      "type": "summary", 
+      "id": "553a761cf321868558000001"
+    }, 
+    {
+      "body": "List GATA-1 interacting partners as discovered with the help of the biotinylation tagging approach.", 
+      "type": "list", 
+      "id": "553a7a59f321868558000002"
+    }, 
+    {
+      "body": "Are ultraconserved elements often transcribed?", 
+      "type": "yesno", 
+      "id": "553a8d78f321868558000003"
+    }, 
+    {
+      "body": "What are the pyknons?", 
+      "type": "summary", 
+      "id": "553a9aa3f321868558000004"
+    }, 
+    {
+      "body": "What is the mechanism of cementogenesis in pulp regeneration?", 
+      "type": "summary", 
+      "id": "553ba7b7f321868558000006"
+    }, 
+    {
+      "body": "Which types of bacterial microflora are associated with the progression of peri-implantitis?", 
+      "type": "list", 
+      "id": "553babc0f321868558000007"
+    }, 
+    {
+      "body": "Is Growth factor independence 1b (GFI1B) important for hematopoiesis?", 
+      "type": "yesno", 
+      "id": "553bd2f0f321868558000008"
+    }, 
+    {
+      "body": "Is Lysine-specific demethylase 1 (LSD1) a critical regulator of hematopoiesis?", 
+      "type": "yesno", 
+      "id": "553c011af321868558000009"
+    }, 
+    {
+      "body": "Elaborate on the potential efficacy of gemcitabine for the treatment of recurrent, platinum-resistant epithelial ovarian cancer.", 
+      "type": "summary", 
+      "id": "553c8fd1f32186855800000a"
+    }, 
+    {
+      "body": "List invertebrates where ultraconserved elements have been identified.", 
+      "type": "list", 
+      "id": "553c994af32186855800000b"
+    }, 
+    {
+      "body": "How are ultraconserved elements called when they form clusters?", 
+      "type": "factoid", 
+      "id": "553c9f96f32186855800000c"
+    }, 
+    {
+      "body": "What is the effect of the absence of Saccharomyces cerevisiae Rrm3p?", 
+      "type": "factoid", 
+      "id": "553ca8d8f32186855800000d"
+    }, 
+    {
+      "body": "Is there any link between CTF4 and CTF18 during sister chromatid cohesion?", 
+      "type": "yesno", 
+      "id": "553cae13f32186855800000e"
+    }, 
+    {
+      "body": "Describe the involvement of conserved noncoding sequences in the regulation of Hox genes.", 
+      "type": "summary", 
+      "id": "553ccbaef32186855800000f"
+    }, 
+    {
+      "body": "What is the usefulness of ultraconserved elements in phylogeny?", 
+      "type": "summary", 
+      "id": "553cf397f321868558000010"
+    }, 
+    {
+      "body": "Do plant genomes contain CpG islands?", 
+      "type": "yesno", 
+      "id": "553d0005f321868558000011"
+    }, 
+    {
+      "body": "Are conserved noncoding elements associated with developmental genes?", 
+      "type": "yesno", 
+      "id": "553d02c1f321868558000012"
+    }, 
+    {
+      "body": "List available databases containing information about conserved noncoding elements.", 
+      "type": "list", 
+      "id": "553d061cf321868558000013"
+    }, 
+    {
+      "body": "What is transvection?", 
+      "type": "summary", 
+      "id": "553d0c1df321868558000014"
+    }, 
+    {
+      "body": "What is the role of mismatched uracil glycosylase (Mug) in DNA repair?", 
+      "type": "summary", 
+      "id": "553e07caf321868558000016"
+    }, 
+    {
+      "body": "What types of DNA mutations are induced by 2-hydroxy-dATP (2-OH-dATP)?", 
+      "type": "list", 
+      "id": "553e1aa5a3cf796f71000003"
+    }, 
+    {
+      "body": "Which mechanisms underlie adaptive mutagenesis (stationary-phase mutagenesis) in Bacillus subtilis?", 
+      "type": "summary", 
+      "id": "553f5a20ab98a37113000006"
+    }, 
+    {
+      "body": "What is the typical outer diameter of microtubules (tubulin heterodimers)?", 
+      "type": "factoid", 
+      "id": "553f72edab98a37113000007"
+    }, 
+    {
+      "body": "Are transcribed ultraconserved regions involved in cancer?", 
+      "type": "yesno", 
+      "id": "553f78c7ab98a37113000008"
+    }, 
+    {
+      "body": "In which types of DNA repair is the UvrAB complex involved?", 
+      "type": "list", 
+      "id": "553f7a71ab98a37113000009"
+    }, 
+    {
+      "body": "Are there any functional differences between Mfd and its human Cocaine syndrome protein B (CSB) homolog?", 
+      "type": "yesno", 
+      "id": "553f8bc11d53b76422000002"
+    }, 
+    {
+      "body": "Which assays can be used for detecting DNA fragmentation resulting from programmed cell death (apoptosis)?", 
+      "type": "list", 
+      "id": "553f96191d53b76422000004"
+    }, 
+    {
+      "body": "What is the role of extracellular signal-related kinases 1 and 2 (ERK1/2) proteins in craniosynostosis?", 
+      "type": "summary", 
+      "id": "553fa2201d53b76422000005"
+    }, 
+    {
+      "body": "Which miRNAs could be used as potential biomarkers for epithelial ovarian cancer?", 
+      "type": "list", 
+      "id": "553fa78b1d53b76422000007"
+    }, 
+    {
+      "body": "Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes?", 
+      "type": "list", 
+      "id": "553fac39c6a5098552000001"
+    }, 
+    {
+      "body": "Could Hyperthermic intraperitoneal chemotherapy (HIPEC) be effective for the treatment of recurrent ovarian cancer?", 
+      "type": "yesno", 
+      "id": "553fb11fc6a5098552000003"
+    }, 
+    {
+      "body": "Is the regulation of Vsr endonuclease independent of the growth phase of bacteria?", 
+      "type": "yesno", 
+      "id": "553fbe9fe00431e071000001"
+    }, 
+    {
+      "body": "Which proteins compose the error prevention GO (8-oxo-G) system in Pseudomonas putida?", 
+      "type": "list", 
+      "id": "553fca6054168f6c79000002"
+    }, 
+    {
+      "body": "Does a selective sweep increase genetic variation?", 
+      "type": "yesno", 
+      "id": "5540a8d20083d1bf0e000001"
+    }, 
+    {
+      "body": "Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers?", 
+      "type": "factoid", 
+      "id": "5540b9800083d1bf0e000002"
+    }, 
+    {
+      "body": "Which intermediate filament (IF) protein can be used as a non-specific marker of the neuronal precursor cells of the subventricular zone?", 
+      "type": "factoid", 
+      "id": "5540ca8a0083d1bf0e000003"
+    }, 
+    {
+      "body": "Which proteins constitute the methyl-directed mismatch repair system (MMR) in bacteria?", 
+      "type": "list", 
+      "id": "5540eda30083d1bf0e000006"
+    }, 
+    {
+      "body": "Which autophagy pathway is trigered by the KFERQ motif of cytosolic proteins?", 
+      "type": "factoid", 
+      "id": "5540fbce234c5a7c75000001"
+    }, 
+    {
+      "body": "Which receptor(s) recognize lysosomal hydrolases in trans-Golgi network (TGN)?", 
+      "type": "list", 
+      "id": "554101d0234c5a7c75000002"
+    }, 
+    {
+      "body": "Which is the most typical peptide sequence responsible for retrieval of endoplasmic reticulum (ER) lumenal proteins from the Golgi apparatus?", 
+      "type": "factoid", 
+      "id": "55411d9f379ddf3f47000001"
+    }, 
+    {
+      "body": "What is the efficacy of oxaliplatin monotherapy in the management of colorectal cancer?", 
+      "type": "summary", 
+      "id": "5541297f182542114d000001"
+    }, 
+    {
+      "body": "Are ultraconserved elements depleted among copy number variants (CNVs)?", 
+      "type": "yesno", 
+      "id": "55413142182542114d000002"
+    }, 
+    {
+      "body": "Which is the database of molecular recognition features in membrane proteins?", 
+      "type": "factoid", 
+      "id": "554140ad182542114d000003"
+    }, 
+    {
+      "body": "List available methods for transmembrane protein topology prediction.", 
+      "type": "list", 
+      "id": "554143ad182542114d000004"
+    }, 
+    {
+      "body": "Which database is available for the identification of chorion proteins in Lepidopteran proteomes?", 
+      "type": "factoid", 
+      "id": "554148c23f2354b713000001"
+    }, 
+    {
+      "body": "Which databases exist for experimentally determined topologies of \u03b1-helical transmembrane proteins ?", 
+      "type": "list", 
+      "id": "55414a763f2354b713000003"
+    }, 
+    {
+      "body": "List available biomedical question answering systems.", 
+      "type": "list", 
+      "id": "55414c65472cfd8617000001"
+    }, 
+    {
+      "body": "What is known about MER41 repeat sequences?", 
+      "type": "summary", 
+      "id": "55414e4f472cfd8617000002"
+    }, 
+    {
+      "body": "What is the role of the Ada O6-alkylguanine alkyltransferase in bacteria?", 
+      "type": "summary", 
+      "id": "5541ffc3472cfd8617000004"
+    }, 
+    {
+      "body": "What type of DNA repair pathways is initiated by AlkA glycosylase?", 
+      "type": "factoid", 
+      "id": "55421398ccca0ce74b000001"
+    }, 
+    {
+      "body": "Which tumor suppressor is referred to as \"the guardian of the genome\"?", 
+      "type": "factoid", 
+      "id": "55421ee7ccca0ce74b000002"
+    }, 
+    {
+      "body": "Does GC content vary markedly within a given isochore?", 
+      "type": "yesno", 
+      "id": "55422640ccca0ce74b000004"
+    }, 
+    {
+      "body": "What states the second parity rule (PR2)?", 
+      "type": "summary", 
+      "id": "55423875ec76f5e50c000002"
+    }, 
+    {
+      "body": "Does the majority of the mitochondrial genomes abide to the second parity rule (PR2)?", 
+      "type": "yesno", 
+      "id": "55423fc0ed966d112c000001"
+    }, 
+    {
+      "body": "Between which types of DNA bases are mutational biases introduced due to directional mutation pressure?", 
+      "type": "summary", 
+      "id": "55424745ed966d112c000002"
+    }, 
+    {
+      "body": "Are genes symmetrically distributed between leading and lagging DNA strand in bacteria?", 
+      "type": "yesno", 
+      "id": "55425615ed966d112c000003"
+    }, 
+    {
+      "body": "Which are the methods for in silico prediction of the origin of replication (ori) among bacteria?", 
+      "type": "list", 
+      "id": "5542644fed966d112c000004"
+    }, 
+    {
+      "body": "Which is the most common measure of differences between dinucleotide relative abundance \"genomic signatures\"", 
+      "type": "factoid", 
+      "id": "554356d0ed966d112c000005"
+    }, 
+    {
+      "body": "What is the role of lysine-specific demethylase 1 (LSD1) in hematopoiesis?", 
+      "type": "summary", 
+      "id": "55435a46ed966d112c000006"
+    }, 
+    {
+      "body": "Can we detect DNA strand asymmetries using dinucleotide relative abundance \"genomic signatures\"?", 
+      "type": "yesno", 
+      "id": "55435aeced966d112c000007"
+    }, 
+    {
+      "body": "Which is the major phytoalexin in alfalfa (Medicago sativa L.)?", 
+      "type": "factoid", 
+      "id": "5543829fed966d112c000009"
+    }, 
+    {
+      "body": "Which are the major phycobiliproteins present in cyanobacteria?", 
+      "type": "list", 
+      "id": "55439140ed966d112c00000a"
+    }, 
+    {
+      "body": "List representatives of the major fungal hypoxanthine-adenine-guanine transporter families.", 
+      "type": "list", 
+      "id": "554397f6ed966d112c00000c"
+    }, 
+    {
+      "body": "In what type(s) of plant organelles we can detect prolamellar bodies?", 
+      "type": "list", 
+      "id": "5543a1b2ee40ea110c000001"
+    }, 
+    {
+      "body": "Which is the primary distinction between the Reverse Warburg effect and the conventional Warburg effect?", 
+      "type": "summary", 
+      "id": "554403395beec11c10000001"
+    }, 
+    {
+      "body": "Are there conserved noncoding elements identified between genomes of human and teleosts?", 
+      "type": "yesno", 
+      "id": "5544bcde5beec11c10000003"
+    }, 
+    {
+      "body": "What are the signatures of aggressive periodontitis?", 
+      "type": "summary", 
+      "id": "5544da8f5beec11c10000004"
+    }, 
+    {
+      "body": "In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?", 
+      "type": "factoid", 
+      "id": "5544de7a5beec11c10000005"
+    }, 
+    {
+      "body": "Do conserved noncoding elements co-occur with matrix-attachment regions?", 
+      "type": "yesno", 
+      "id": "5544df2a5beec11c10000006"
+    }, 
+    {
+      "body": "What is the idea behind the fractal globule that has been proposed as a model of chromatin conformation in the nucleus of a cell?", 
+      "type": "summary", 
+      "id": "5544e4635beec11c10000007"
+    }, 
+    {
+      "body": "Is transcription-associated mutagenesis (TAM) related to gene expression levels?", 
+      "type": "yesno", 
+      "id": "5544f3005beec11c10000008"
+    }, 
+    {
+      "body": "What is the mechanism of drug-induced gingival overgrowth?", 
+      "type": "summary", 
+      "id": "554500065beec11c1000000b"
+    }, 
+    {
+      "body": "What is the effect of enamel matrix derivative on pulp regeneration?", 
+      "type": "factoid", 
+      "id": "55450521bf90a13052000001"
+    }, 
+    {
+      "body": "Which gene strand is targeted by transcription-coupled repair (TCR)?", 
+      "type": "factoid", 
+      "id": "5545186cbf90a13052000002"
+    }, 
+    {
+      "body": "Which proteins act as factors that promote transcription-coupled repair in bacteria?", 
+      "type": "list", 
+      "id": "55451e53bf90a13052000003"
+    }, 
+    {
+      "body": "What is the the Menzerath-Altmann law?", 
+      "type": "summary", 
+      "id": "5545d847bf90a13052000006"
+    }, 
+    {
+      "body": "Is there a role for transcription factories in genome organization?", 
+      "type": "yesno", 
+      "id": "5545dc7de233d84047000001"
+    }, 
+    {
+      "body": "Patients of which disease could be treated by utilizing knowledge obtained from experiments suppressing TDP-43 toxicity in yeast?", 
+      "type": "factoid", 
+      "id": "5545e65bd355485447000001"
+    }, 
+    {
+      "body": "Is there a role for the cylindromatosis tumor suppressor (CYLD) in lung cancer?", 
+      "type": "yesno", 
+      "id": "5545e926d355485447000002"
+    }, 
+    {
+      "body": "Does d-tubocurarine (d-TC) induces irreversible inhibition of nicotinic acetylcholine receptor (nAChR) at the neuromuscular junction?", 
+      "type": "yesno", 
+      "id": "554614bcd355485447000004"
+    }, 
+    {
+      "body": "Which is the most known bacterium responsible for botulism (sausage-poisoning)?", 
+      "type": "factoid", 
+      "id": "55475dc2f35db75526000001"
+    }, 
+    {
+      "body": "Can botulism poisoning of a pregnant woman harm her fetus?", 
+      "type": "yesno", 
+      "id": "554763f0f35db75526000002"
+    }, 
+    {
+      "body": "How homoplasy affects phylogenetic reconstruction?", 
+      "type": "summary", 
+      "id": "55476a3ff35db75526000003"
+    }, 
+    {
+      "body": "What heterotachy states about molecular evolutionary processes?", 
+      "type": "summary", 
+      "id": "55479102f35db75526000004"
+    }, 
+    {
+      "body": "In which kingdom do microsporidia belong, according to their current classification scheme?", 
+      "type": "factoid", 
+      "id": "5547a01cf35db75526000005"
+    }, 
+    {
+      "body": "Which enzymes are involved in global genome nucleotide excision repair (GG-NER) in bacteria?", 
+      "type": "list", 
+      "id": "5547a7e9f35db75526000006"
+    }, 
+    {
+      "body": "Which are the major types of the motor speech disorder dysarthria?", 
+      "type": "list", 
+      "id": "5547d700f35db75526000007"
+    }, 
+    {
+      "body": "Do all archaea possess multiple origins of DNA replication?", 
+      "type": "yesno", 
+      "id": "5547d72ef35db75526000008"
+    }, 
+    {
+      "body": "What is the effect induced by sympathetic nervous system on pupil size?", 
+      "type": "factoid", 
+      "id": "5547ec32f35db7552600000a"
+    }, 
+    {
+      "body": "Which myosin isozymes are located within the pericuticular necklace of the hair cell?", 
+      "type": "list", 
+      "id": "5548da00f35db7552600000b"
+    }, 
+    {
+      "body": "By which mechanism MutT proteins act against DNA lesions in bacteria?", 
+      "type": "summary", 
+      "id": "5549de44f35db7552600000c"
+    }, 
+    {
+      "body": "Can a given genotype exhibit opposite fitness effects (beneficial and detrimental) within the same environment?", 
+      "type": "yesno", 
+      "id": "5549f7a1f35db7552600000d"
+    }, 
+    {
+      "body": "What is the evolutionary process described by the \"Muller's ratchet\" model?", 
+      "type": "summary", 
+      "id": "554a0cadf35db7552600000f"
+    }
+  ]
+}

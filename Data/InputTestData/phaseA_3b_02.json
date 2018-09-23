@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "body": "Which genes are known to be involved in Diamond-Blackfan anemia?", 
+      "type": "list", 
+      "id": "550312b4e9bde6963400001c"
+    }, 
+    {
+      "body": "Which gene is most commonly associated with severe congenital and cyclic neutropenia?", 
+      "type": "factoid", 
+      "id": "5503133ae9bde6963400001d"
+    }, 
+    {
+      "body": "Which treatment leads to an increase in neutrophil counts in severe congenital neutropenia?", 
+      "type": "summary", 
+      "id": "550313aae9bde6963400001f"
+    }, 
+    {
+      "body": "What is the risk in G-CSF treatment for severe congenital neutropenia?", 
+      "type": "summary", 
+      "id": "55031406e9bde69634000021"
+    }, 
+    {
+      "body": "How many different subtypes of thyroid cancer exist?", 
+      "type": "list", 
+      "id": "5503145ee9bde69634000022"
+    }, 
+    {
+      "body": "Which neuroendocrine tumors are associated with specific tumor syndromes?", 
+      "type": "list", 
+      "id": "55031628e9bde69634000024"
+    }, 
+    {
+      "body": "Is PTEN involved in follicular thyroid carcinoma?", 
+      "type": "yesno", 
+      "id": "55031650e9bde69634000026"
+    }, 
+    {
+      "body": "How thyrocyte destruction is induced in autoimmune thyroiditis?", 
+      "type": "summary", 
+      "id": "5503167be9bde69634000028"
+    }, 
+    {
+      "body": "Which diseases have been associated with the PTPN22 620W allele?", 
+      "type": "list", 
+      "id": "550316a6e9bde69634000029"
+    }, 
+    {
+      "body": "Is desmin an intermediate filament protein involved in Dilated Cardiomyopathy (DCM)?", 
+      "type": "yesno", 
+      "id": "55031963e9bde6963400002a"
+    }, 
+    {
+      "body": "What is the association between adiponectin and migraine?", 
+      "type": "summary", 
+      "id": "55031d82e9bde6963400002c"
+    }, 
+    {
+      "body": "List symptoms of 4H leukodystrophy.", 
+      "type": "list", 
+      "id": "550320cbe9bde6963400002d"
+    }, 
+    {
+      "body": "Are BBS mutations involved in syndromic Hirschsprung disease?", 
+      "type": "yesno", 
+      "id": "55032179e9bde6963400002e"
+    }, 
+    {
+      "body": "What is the association between personality trait of neuroticism and risk for Alzheimer's disease?", 
+      "type": "summary", 
+      "id": "550324d7e9bde6963400002f"
+    }, 
+    {
+      "body": "List three major features of the CCFDN syndrome.", 
+      "type": "list", 
+      "id": "5503263fe9bde69634000030"
+    }, 
+    {
+      "body": "What is the association between NT-proBNP and cognitive function?", 
+      "type": "summary", 
+      "id": "55032785e9bde69634000031"
+    }, 
+    {
+      "body": "Is there an association between TERT promoter mutation and survival of glioblastoma patients?", 
+      "type": "yesno", 
+      "id": "55032bbfe9bde69634000032"
+    }, 
+    {
+      "body": "Is myasthenia gravis associated with osteoporosis?", 
+      "type": "yesno", 
+      "id": "55032d8be9bde69634000033"
+    }, 
+    {
+      "body": "What is the characteristic feature of the Dyke-Davidoff-Masson syndrome.", 
+      "type": "factoid", 
+      "id": "55032e65e9bde69634000034"
+    }, 
+    {
+      "body": "Which receptor is targeted by telcagepant?", 
+      "type": "factoid", 
+      "id": "55032efde9bde69634000035"
+    }, 
+    {
+      "body": "What is  the clinical value of naltrexone in Parkinson's disease patients?", 
+      "type": "summary", 
+      "id": "55033064e9bde69634000036"
+    }, 
+    {
+      "body": "What is the role of venous angioplasty in multiple sclerosis?", 
+      "type": "summary", 
+      "id": "550331abe9bde69634000037"
+    }, 
+    {
+      "body": "Which is the major symptom of the Doose syndrome?", 
+      "type": "factoid", 
+      "id": "550342a8f8aee20f27000002"
+    }, 
+    {
+      "body": "List signaling molecules (ligands) that interact with the receptor EGFR?", 
+      "type": "list", 
+      "id": "55046d5ff8aee20f27000007"
+    }, 
+    {
+      "body": "Explain the concept proteostasis.", 
+      "type": "summary", 
+      "id": "55048939f8aee20f27000009"
+    }, 
+    {
+      "body": "Which bone protein is used in archaelogy for dating and species identification?", 
+      "type": "factoid", 
+      "id": "55054f8af73303d458000002"
+    }, 
+    {
+      "body": "Which protein is the E3-ubiquitin ligase that targets the tumor suppressor p53 for proteasomal degradation?", 
+      "type": "factoid", 
+      "id": "55058af6f73303d458000004"
+    }, 
+    {
+      "body": "What does mTOR stands for?", 
+      "type": "factoid", 
+      "id": "5505a587f73303d458000005"
+    }, 
+    {
+      "body": "Does the protein mTOR regulate autophagy?", 
+      "type": "yesno", 
+      "id": "5505ad7ff73303d458000007"
+    }, 
+    {
+      "body": "List markers for autophagy.", 
+      "type": "list", 
+      "id": "5505b9ff8e1671127b000001"
+    }, 
+    {
+      "body": "List the components of mTOR Complex 2 (mTORC2).", 
+      "type": "list", 
+      "id": "5505c9008e1671127b000002"
+    }, 
+    {
+      "body": "What are the structures formed when keratin molecules come together?", 
+      "type": "factoid", 
+      "id": "5505db6a8e1671127b000003"
+    }, 
+    {
+      "body": "What kind of chromatography is HILIC?", 
+      "type": "factoid", 
+      "id": "5505edac8e1671127b000005"
+    }, 
+    {
+      "body": "List the main proteases used for sample digestion in proteomics.", 
+      "type": "list", 
+      "id": "5505eed08e1671127b000006"
+    }, 
+    {
+      "body": "Which protein is the main inhibitor of protein phosphatase 1 (PP1)?", 
+      "type": "factoid", 
+      "id": "550618f58e1671127b000007"
+    }, 
+    {
+      "body": "Which protein phosphatases have been found to dephosphorylate phospholamban?", 
+      "type": "list", 
+      "id": "5506a7a48e1671127b000008"
+    }, 
+    {
+      "body": "The small molecule SEA0400 is an inhibitor of which ion antiporter/exchanger?", 
+      "type": "factoid", 
+      "id": "5506c3e38e1671127b00000a"
+    }, 
+    {
+      "body": "Which protein phosphatase has been found to interact with the heat shock protein, HSP20?", 
+      "type": "factoid", 
+      "id": "5506ce078e1671127b00000b"
+    }, 
+    {
+      "body": "Which are the subunits of the IkB protein kinase (IKK)?", 
+      "type": "list", 
+      "id": "5506e2ff8e1671127b00000d"
+    }, 
+    {
+      "body": "Which are the subunits of the transcription factor NF-kappaB in the canonical pathway activation?", 
+      "type": "list", 
+      "id": "5506eca18e1671127b00000f"
+    }, 
+    {
+      "body": "Which mutations in the cardiac isoform of the ryanodine receptor (RyR2) have been found to be related to CPVT?", 
+      "type": "list", 
+      "id": "550712739d0faaa527000008"
+    }, 
+    {
+      "body": "Where in a protein can a signal sequence be found?", 
+      "type": "factoid", 
+      "id": "550718e9fd1abe1741000001"
+    }, 
+    {
+      "body": "Which are the different isoforms of the mammalian Notch receptor?", 
+      "type": "list", 
+      "id": "55072c803b8a5dc045000001"
+    }, 
+    {
+      "body": "Which is the RNA sequence of the canonical polyadenylation signal?", 
+      "type": "factoid", 
+      "id": "550739cf3b8a5dc045000002"
+    }, 
+    {
+      "body": "Are mutations in the STXBP1 gene associated with epilepsy?", 
+      "type": "yesno", 
+      "id": "550748a3bde8548216000001"
+    }, 
+    {
+      "body": "What is the definition and the biological role of epithelial-mesenchymal transition (EMT)", 
+      "type": "summary", 
+      "id": "55074fa8bde8548216000003"
+    }, 
+    {
+      "body": "What type of arrhythmia is known as bidirectional ventricular tachycardia (BDVT)?", 
+      "type": "summary", 
+      "id": "5507ea9a0195c16935000008"
+    }, 
+    {
+      "body": "What is the biological role of K-48 linked protein ubiquitination?", 
+      "type": "summary", 
+      "id": "5507fc114b2a315d41000003"
+    }, 
+    {
+      "body": "What is the biological role of SERCA2 SUMOylation in cardiac physiology and pathophysiology, such as in heart failure?", 
+      "type": "summary", 
+      "id": "5508453a4b2a315d41000008"
+    }, 
+    {
+      "body": "List the diseases that can be treated using Vedolizumab.", 
+      "type": "list", 
+      "id": "5508685b4b2a315d4100000a"
+    }, 
+    {
+      "body": "Matuzumab has been tested for treatment of which cancers?", 
+      "type": "list", 
+      "id": "55086ea1098a1b487b000001"
+    }, 
+    {
+      "body": "What is the advantage of neutral loss detection in phosphoproteomics?", 
+      "type": "summary", 
+      "id": "550889db098a1b487b000005"
+    }, 
+    {
+      "body": "Is p100 the precursor protein molecule of the NF-kappaB transcription factor subunit p50?", 
+      "type": "yesno", 
+      "id": "55088e412e93f0133a000001"
+    }, 
+    {
+      "body": "Can exosomes be detected in urine?", 
+      "type": "yesno", 
+      "id": "550895c12e93f0133a000002"
+    }, 
+    {
+      "body": "Is K-63 linked protein ubiquitination related to proteasomal degradation?", 
+      "type": "yesno", 
+      "id": "550899c92e93f0133a000003"
+    }, 
+    {
+      "body": "What are the treatments of choice for GIST (gastrointestinal stromal tumor)?", 
+      "type": "summary", 
+      "id": "5509b6d22e93f0133a000005"
+    }, 
+    {
+      "body": "What is the treatment of choice  for gastric lymphoma?", 
+      "type": "summary", 
+      "id": "5509ba931180f13250000001"
+    }, 
+    {
+      "body": "What disease is small bowel lymphoma commonly associated with", 
+      "type": "factoid", 
+      "id": "5509bd6a1180f13250000002"
+    }, 
+    {
+      "body": "What is hyperosmia", 
+      "type": "factoid", 
+      "id": "5509c52f1180f13250000004"
+    }, 
+    {
+      "body": "What colonoscopy findings have been reported in autism", 
+      "type": "summary", 
+      "id": "5509ce9ec2af5d5b70000001"
+    }, 
+    {
+      "body": "Is amiodarone a class I anti-arrhythmic drug?", 
+      "type": "yesno", 
+      "id": "5509df4ac2af5d5b70000003"
+    }, 
+    {
+      "body": "Is HER2 active only when it dimerizes?", 
+      "type": "yesno", 
+      "id": "5509ec41c2af5d5b70000006"
+    }, 
+    {
+      "body": "What is the method FASP used for?", 
+      "type": "factoid", 
+      "id": "5509f433c2af5d5b70000008"
+    }, 
+    {
+      "body": "What is the number of long non coding RNAs in the human genome", 
+      "type": "factoid", 
+      "id": "535d2cf09a4572de6f000004"
+    }, 
+    {
+      "body": "What is the proportion of non canonical splice sites in the human genome?", 
+      "type": "factoid", 
+      "id": "535d35779a4572de6f000005"
+    }, 
+    {
+      "body": "Does the histidine-rich Ca-binding protein (HRC) interact with triadin?", 
+      "type": "yesno", 
+      "id": "54c12fd1f693c3b16b000001"
+    }, 
+    {
+      "body": "Which are the classes of anti-arrhythmic drugs according to Vaughan-Williams classification?", 
+      "type": "list", 
+      "id": "54d4e03a3706e89528000001"
+    }, 
+    {
+      "body": "Which is the protein that is encoded by the gene GLT8D1?", 
+      "type": "factoid", 
+      "id": "54d643023706e89528000007"
+    }, 
+    {
+      "body": "List disorders that have been associated to the polymorphism rs2535629.", 
+      "type": "list", 
+      "id": "54d646403706e89528000008"
+    }, 
+    {
+      "body": "What is the target of the drug Olaparib?", 
+      "type": "factoid", 
+      "id": "54d649843706e89528000009"
+    }, 
+    {
+      "body": "List genes that have been found mutated in CMT1A (Charcot-Marie-Tooth disease type 1 A).", 
+      "type": "list", 
+      "id": "54d65b6b3706e8952800000c"
+    }, 
+    {
+      "body": "What is the content of the METLIN database?", 
+      "type": "factoid", 
+      "id": "54d662113706e8952800000d"
+    }, 
+    {
+      "body": "What is a P-body (processing body)?", 
+      "type": "summary", 
+      "id": "54d8e59f4b1fd0d33c000001"
+    }, 
+    {
+      "body": "What is the mode of action of bedaquiline?", 
+      "type": "summary", 
+      "id": "54d9071a4b1fd0d33c000007"
+    }, 
+    {
+      "body": "Which molecule is targeted by a monoclonal antibody Mepolizumab?", 
+      "type": "factoid", 
+      "id": "54d907c84b1fd0d33c000008"
+    }, 
+    {
+      "body": "What is the synonym of the lubag disease?", 
+      "type": "factoid", 
+      "id": "54df695b1388e8454a000004"
+    }, 
+    {
+      "body": "Which proteins induce inhibition of LINE-1 and Alu retrotransposition?", 
+      "type": "list", 
+      "id": "54dfbed11388e8454a000008"
+    }, 
+    {
+      "body": "Which are the main functions of the APOBEC3 family of proteins?", 
+      "type": "list", 
+      "id": "54dfc6501388e8454a000009"
+    }, 
+    {
+      "body": "What is the mechanism of action of APOBEC3G cytidine deaminase to inhibit HIV-1 replication?", 
+      "type": "summary", 
+      "id": "54dfcdf81388e8454a00000a"
+    }, 
+    {
+      "body": "What is the mechanism by which HIV-1-encoded Vif protein allows virus replication?", 
+      "type": "summary", 
+      "id": "54dfce9b1388e8454a00000b"
+    }, 
+    {
+      "body": "List two chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma", 
+      "type": "list", 
+      "id": "54e061ee1388e8454a00000c"
+    }, 
+    {
+      "body": "Which agents are included in the FLAMSA chemotherapy regimen?", 
+      "type": "list", 
+      "id": "54e071e11388e8454a00000d"
+    }, 
+    {
+      "body": "Which classes of endogenous retroelements are known to date?", 
+      "type": "list", 
+      "id": "54e0ac041388e8454a00000f"
+    }, 
+    {
+      "body": "Is APOBEC3B protein predominantly cytoplasmic or nuclear?", 
+      "type": "factoid", 
+      "id": "54e0ace81388e8454a000010"
+    }, 
+    {
+      "body": "Where is the metaxin complex localized?", 
+      "type": "factoid", 
+      "id": "54e0ba781388e8454a000011"
+    }, 
+    {
+      "body": "Which enzyme is inhibited by Orteronel?", 
+      "type": "factoid", 
+      "id": "54e0c3e71388e8454a000013"
+    }, 
+    {
+      "body": "Which enzyme is targeted by Evolocumab?", 
+      "type": "factoid", 
+      "id": "54e0d1491388e8454a000014"
+    }, 
+    {
+      "body": "Which molecule is targeted by a monoclonal antibody Secukinumab?", 
+      "type": "factoid", 
+      "id": "54e0d7471388e8454a000015"
+    }, 
+    {
+      "body": "List components of the CRSP/Med complex.", 
+      "type": "list", 
+      "id": "54e0dfa91388e8454a000018"
+    }, 
+    {
+      "body": "What family do mDia proteins belong in?", 
+      "type": "factoid", 
+      "id": "54e0e902ae9738404b000001"
+    }, 
+    {
+      "body": "What are the major clinical Villefranche criteria for classic Ehlers-Danlos syndrome?", 
+      "type": "list", 
+      "id": "54e1252fae9738404b000003"
+    }, 
+    {
+      "body": "Is insulin-like growth factor-I (IGF-I) able to affect tendon protein synthesis in classic Ehlers-Danlos syndrome patients?", 
+      "type": "yesno", 
+      "id": "54e12ae3ae9738404b000004"
+    }, 
+    {
+      "body": "Is COL5A2 gene associated to ischemic heart disease?", 
+      "type": "yesno", 
+      "id": "54e12c30ae9738404b000005"
+    }, 
+    {
+      "body": "What is generic name of drug Adempas?", 
+      "type": "factoid", 
+      "id": "54e1bdacae9738404b000009"
+    }, 
+    {
+      "body": "What is the association between proBNP serum concentrations and stroke outcomes?", 
+      "type": "summary", 
+      "id": "54e1c5d5ae9738404b00000b"
+    }, 
+    {
+      "body": "Describe the mechanism of action of aliskiren. ", 
+      "type": "summary", 
+      "id": "54e221f6ae9738404b000010"
+    }, 
+    {
+      "body": "Which genes are associated with Ehlers-Danlos syndrome type I/II?", 
+      "type": "list", 
+      "id": "54e22b62ae9738404b000011"
+    }, 
+    {
+      "body": "Describe the mechanism of action of the LINX system for treatment of gastroesophageal reflux disease.", 
+      "type": "summary", 
+      "id": "54e22ee4ae9738404b000013"
+    }, 
+    {
+      "body": "Is the protein Papilin secreted?", 
+      "type": "yesno", 
+      "id": "54e25eaaae9738404b000017"
+    }, 
+    {
+      "body": "Which cell type has the protein Chromogranin A as marker?", 
+      "type": "factoid", 
+      "id": "54e262daae9738404b000018"
+    }
+  ]
+}
